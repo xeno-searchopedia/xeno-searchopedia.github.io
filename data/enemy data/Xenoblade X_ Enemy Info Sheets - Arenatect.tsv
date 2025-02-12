@@ -1,0 +1,55 @@
+	Arenatect								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Arenatect	1156	1725	925	1650	925	1000	1500	L	
+Medium Arenatect	925	1265	925	1210	925	1000	1100	M	
+XL Arenatect	5549	2300	925	2200	925	1000	2000	XL	
+Ma-nan	2601	1811	971	1732	971	1050	1575	L	
+Antara	12485	2414	971	2309	971	1050	2100	XL	
+									
+Resistances	Arenatect	Arenatect Tyrant							Ma-nan, the Water Whisperer
+Physical	35	40							
+Beam	0	5							
+Ether	-25	-20							
+Thermal	-25	-20							
+Electric	0	5							
+Gravity	0	5							
+Debuff Immunity		Control							
+Debuff Resistant	Topple & Control	Topple & Control							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Arenatect	25% HP, or Break Underbelly	Mobility Debuff Immunity, 20% Damage Reduction, and Enables Counter Spike Damage	I	60 Seconds				
+	Arenatect Tyrant	25% HP, or Break Underbelly	Mobility Debuff Immunity, 25% Damage Reduction, and Enables Counter Spike Damage	II	60 Seconds				
+									
+Spike	All	Enrage	Ether Damage (10% of Total PTL) per Hit	Counter					
+									
+Species Arts List	Headbutt	Ether Shot	Body Press	Jam	Mega Breath	Ether Laser			
+Type	Melee	Ranged	Melee	Ranged	Ranged	Ranged			
+Target	Single Target	Single Target	Floor Around Caster	Nearby Enemies	Floor Around Caster	Single Target			
+No. of Hits	1	2	1	1	1	2			
+Attribute	Gravity	Ether	Gravity	Ether	Physical	Ether			
+Damage Scaling	87%	127%	140%	85%	200%	425%			
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds			
+Boost			Critical Chance +10						
+Debuff			Stagger II	Fatigue	Launch II	Slow Arts			
+Disabled by Destroying -		Either Antennae		Either Antennae					
+Homing		Yes		Yes					
+									
+Appendages	Main Body	Head	Left Antenna	Right Antenna	Back	Underbelly			Antara, the Water Diviner
+Hardness	N/A	0	1	1	1	-1			
+Skell Targetable	Yes	Yes	No	No	Yes	No			
+Exposed by -									
+									
+Species Drops									
+Materials	Viscous Humour	Blue Fungi	Luminescent Antenna	Arenatect Shell	Eternal Arenatect Moss	Emerald Whiskey	Red Brandy		
+Dropped From -	All	All	Antenna	Head	Back	Underbelly	Underbelly		
+									
+Use in Augments	Spore Screen*	Arts: Gain TP (Low Level)	Overdrive Surge	Soft Touch (High Level)*	Boosts Ranged Attack (High Level)	Overdrive Blue Bonus	Extend Overdrive (High Level)		
+	Weather.SPORE-RES*	Arts.GP (Low Level)			SpecUp.R-ATK (High Level)				
+									
+Use in Gear Crafting	N/A								
+									
+Armor	Meredith Medium Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	No								

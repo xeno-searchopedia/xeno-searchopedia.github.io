@@ -1,0 +1,80 @@
+	Suid								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Suid	1100	1100	975	990	950	975	1100	M	
+Armored Suid	1250	1210	975	990	950	975	1100	M	
+Femina Suid	1080	1072	950	1017	975	1025	1100	M	
+Small	935	1100	975	990	950	975	1100	S	
+Macho Armored Suid	1062	1210	975	990	950	975	1100	S	
+Olegario	2475	1155	1023	1039	997	1023	1023	M	
+Gugli	3093	1574	1023	1416	997	1155	1574	L	
+Megatonne	3300	1949	1365	1416	997	975	1574	L	
+Bogdan	3515	1731	1023	1416	997	1023	1574	L	
+Melania	2430	1125	997	1067	1023	1076	1155	M	
+Manuelita	3037	1533	997	1454	1023	1076	1574	L	
+									
+Resistances	Suid	Suid Tyrant							
+Physical	0	5							
+Beam	0	5							
+Ether	-25	-20							
+Thermal	-50	-45				Megatonne, the Hell Express			
+Electric	0	5				Gugli, the Relentless	Melanya, the Sound Sleeper		
+Gravity	0	5							
+Debuff Immunity		Control							Bogdan, the Dense
+Debuff Resistant	Topple & Control	Topple & Control							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Suids above Lv. 20	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	II	60 Seconds				
+	Femina Suids Above Lv. 20	20% Health	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds				
+	Armored Suids Above Lv. 20	Break Helm	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds				
+	Suid Tyrants	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds				
+	Femina Suid Tyrants	20% Health	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds				
+	Armored Suid Tyrants	Break Helm	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+	Odsent Lv. 30	Battle Beginning	Brimstone & Electromagnetic Storm Screen		Permanent				
+	Odsent Lv. 33	Battle Beginning	Brimstone & Electromagnetic Storm Screen + Boosts Melee Attack	III	Permanent / 60 Seconds	Olegario, the Iron-Helmed	Manuelita, the Affectionate		
+									
+Species Arts List	Headbutt	Charging Attack	Viscid Acid						
+Type	Melee	Melee	Ranged						
+Target	Single Target	Single Target	Single Target						
+No. of Hits	1	1	1						
+Attribute	Physical	Physical	Physical						
+Damage Scaling	120%	500%	120%						
+Recast	3 Seconds	60 Seconds	3 Seconds						
+Boost									
+Debuff		Knockback	Physical Res Down						
+Disabled by Destroying -									
+Homing									
+									
+Appendages	Main Body	Head	Posterior	Armored Head					
+Hardness	N/A	0	0	0					
+Skell Targetable	Yes	No	No	No					
+Exposed by -									
+									
+Species Drops									
+Materials	Fleecy Fur	Succulent Meat	Muscled Suid Bulge	Tough Humpsteak	Appetising Suid Tail	Suid Fillet	Marbled Suid Fillet		
+Dropped From -	All	All	Head	Armored Head	Posterior	All	All		
+									
+Use in Augments	Theroid Slayer*	Max HP Up*	Boosts Melee Accuracy*	Resist Physical Res Down*	Boosts Ranged Accuracy*	Physical Resistance Up (Low Level)	N/A		
+	Slayer.THEROID*	SpecUp.HP.MAX*	SpecUp.M-ACC*	Resist.PHYS-DOWN*	SpecUp.R-ACC*	SpecUp.PHYS-RES (Low Level)			
+	Theroid Criticals Up*	Max HP Boost (Low Level)	Melee Accuracy Boost (Low Level)		Ranged Accuracy Boost (Low Level)				
+	CritUp.THEROID*	Boost.HP.MAX (Low Level)	Boost.M-ACC (Low Level)		Boost.R-ACC (Low Level)				
+	Max TP Up*	Max HP Drive	Melee Accuracy Drive		Ranged Accuracy Drive				
+	Max TP Boost (Low Level)	Resist HP Recovery Down*	Boosts Melee Attack (Low Level)*		Boosts Ranged Attack (Low Level)*				
+	Max GP Drive		SpecUp.M-ATK (Low Level)*		SpecUp.R-ATK (Low Level)*				
+	Boosts Potential (Low Level)*		Melee Attack Boost (Low Level)		Ranged Attack Boost (Low Level)				
+	SpecUp.PTL (Low Level)*		Boost.M-ATK (Low Level)		Boost.R-ATK (Low Level)				
+	Potential Boost (Low Level)		Melee Attack Drive		Ranged Attack Drive				
+	Boost.PTL (Low Level)		Melee: Fatigue*						
+	Potential Drive		M-Auto.FATIGUE*						
+									
+Use in Gear Crafting	Six Stars Ritual Attire								
+	Bunny Attire								
+	White Bunnyhood								
+									
+Armor	Male Suids	Grenada Skell Wear							
+	Femina Suids	Grenada Heavy Wear							
+	Megatonne	Grenada Light Wear							
+									
+Weapons	Yes								
+Skell Armor	No								
+Skell Weapons	No								

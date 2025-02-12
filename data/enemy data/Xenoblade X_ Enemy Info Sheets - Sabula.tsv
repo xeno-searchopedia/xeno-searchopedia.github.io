@@ -1,0 +1,66 @@
+	Sabula									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Sabula	1200	1320	1100	1210	1250	250	1100	M		
+XL Sabula	7200	2400	1100	2200	1250	250	2000	XL		
+Sabula (The Old Adage)	4800	3120	800	3120	1000	200	2400	XL		
+Sabula (Rise of the Giant Worm)	6480	2457	630	2457	788	157	1890	XL		
+Sabula (Gone Berserk & Carried Away)	9999	1300	1000	1300	1250	250	1000			
+Squallo	27000	4095	1050	4095	1312	262	3150	XXL		
+Atreides & Gesserith	35000	3900	1000	3900	1250	250	3000	XXL		
+										
+Resistances	Sabula	Sabula (The Old Adage)	Sabula (Rise of the Giant Worm)	Sabula (Gone Berserk & Carried Away)	Squallo	Atreides and Gesserith				
+Physical	35	45	50	100	50	60				
+Beam	0	0	5	100	5	15				
+Ether	-25	-25	-20	100	-20	-10				
+Thermal	-25	-25	-20	100	-20	-10				
+Electric	0	0	5	100	5	15				
+Gravity	0	0	5	100	5	15				
+Debuff Immunity	Launch, Knockback & Blackout	Launch, Knockback, Control & Blackout	Launch, Knockback, Control & Blackout	Launch, Knockback, Control & Blackout	Topple, Launch, Knockback, Control, Blackout & Virus	Topple, Launch, Knockback, Control, Sleep, Blackout, Virus, Time Bomb, Flight Down & Max TP Down				
+Debuff Resistant	Topple, Control, Stun & Virus	Stagger, Topple, Stun, Control & Virus	Stagger, Topple, Stun, Control & Virus	Stagger, Topple, Stun, Control & Virus	Stagger, Topple, Stun & Control	Stagger, Flinch, Topple, Stun & Control				
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Sabula above Lv.20	60% Health, or Break Tail or Mouth	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 35% Damage Reduction	IV	60 Seconds					
+	Squallo	60% Health, or Break Tail, Mouth, or Mandibles	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 40% Damage Reduction	V	60 Seconds					
+	Atreides	30% Health, or Break Tail, Mouth or Mandibles	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Critical Chance +35, Mobility Debuff Immunity and 25% Damage Reduction	II	120 Seconds					
+	Gesserith	30% Health, or Break Tail, Mouth or Mandibles	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Critical Chance +40, Mobility Debuff Immunity and 30% Damage Reduction	III	120 Seconds					
+										
+Enemy Skill	XL and XXL Sabula	Passive	Mobility Debuff Immunity & Damage Reduction							
+	White Sabula	Passive	50% Topple Suppression							
+										
+Species Arts List	Roar	Needle Missile	Poison Gas	Ether Bomb	Massive Swing	Massive Stomp	Sandstorm	Bionic Bomb	Lightning Storm	Maximum Charge
+Type	Ranged	Ranged	Ranged	Ranged	Melee	Melee	Melee	Ranged	Ranged	Melee
+Target	Nearby Enemies	Multi Targeted Blasts	Floor Around Caster	Single Target	Floor Around Caster	Nearby Enemies	Nearby Enemies	Floor Around Caster	Nearby Enemies	Nearby Enemies
+No. of Hits	1	6	1	2	1	1	3	1	3	1
+Attribute	Physical	Physical	Ether	Ether	Physical	Physical	Physical	Thermal	Electric	Physical
+Damage Scaling	100%	160%	136%	136%	160%	160%	500%	350%	500%	2500%
+Recast	15 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds	60 Seconds	60 Seconds
+Boost						100% Damage Boost to Toppled targets (Atreides and Gesserith Only)				Critical Chance +10 & Negate Reflect (Atreides and Gesserith Only)
+Debuff	Debuff Res Down		HP Recovery Down & Flinch III on foot		Knockback III & 75% Chance of Topple V (Atreides and Gesserith Only)	Stagger II	Blackout & Knockback III	Blaze & Launch III, or Topple (Topple III for tyrants) on Airborne Targets	Fatigue & Shock V (Atreides and Gesserith Only)	Launch V
+Disabled by Destroying -		Tail		Either Jewel (Tyrants Only)				Mouth		Either Mandible (Sabula Tyrants Only)
+Homing		Yes		Yes				Yes		
+										
+										
+Appendages (XXL Sabula)	Main Body	Mouth	Tail	Chest	Inner Chest	Left Stone	Right Stone	Upper Mandible	Lower Mandible	
+Hardness	N/A	0	1	0	5	0	0	2	2	
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
+Exposed by -					Breaking Chest					
+										
+Appendages (Medium Sabula)	Main Body	Mouth	Tail	Chest	Inner Chest					
+Hardness	N/A	-1	0	-1	5					
+Skell Targetable	Yes	Yes	Yes	Yes	Yes					
+Exposed by -					Breaking Chest					
+						Atreides, the Distinguished				
+Species Drops				Squallo, the Sand Mirer		Gesserith, the Wileworm				
+Materials	Scratched Jewel	Nutritious Microbes	Sabula Backbone							
+Dropped From -	All	All	All							
+										
+Use in Augments	Ranged Accuracy Boost	Potential Boost	Reflect Damage Up (High Level)							
+	Boost.R-ACC	Boost.PTL	Reflect.DAMAGE-UP (High Level)							
+										
+Use in Gear Crafting	N/A									
+										
+Armor	No									
+Weapons	Yes									
+Skell Armor	No									
+Skell Weapons	No									

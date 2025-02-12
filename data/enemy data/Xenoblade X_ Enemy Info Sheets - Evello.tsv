@@ -1,0 +1,51 @@
+Evello								
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Evello	1100	1100	1000	1045	975	1000	1155	M
+Ludvik	2475	1155	1050	1097	1023	1050	1212	M
+Roderick	3094	1574	1050	1495	1023	1050	1652	L
+								
+Resistances	Silver Evello	Ebony Evello	Evello Tyrant					
+Physical	0	0	5					
+Beam	0	0	5					
+Ether	-25	-25	-20					
+Thermal	-50	-50	-45					
+Electric	0	0	5			Rodrik, the Fleet-Footed		Ludvik, the Picky Eater
+Gravity	0	0	5					
+Debuff Immunity	Control		Control					
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control					
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Evello	Break Head	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds			
+	Evello Tyrant	Break Head	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds			
+								
+Species Arts List	Peck	Rock Shot	Hyper Charge	Drop Kick				
+Type	Melee	Ranged	Melee	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Single Target				
+No. of Hits	1	1	1	1				
+Attribute	Physical	Physical	Physical	Physical				
+Damage Scaling	100%	100%	200%	500%				
+Recast	3 Seconds	3 Seconds	15 Seconds	60 Seconds				
+Boost								
+Debuff		Blackout	Stagger	Knockback II				
+Disabled by Destroying -			Horn					
+Homing		Yes						
+								
+Appendages	Main Body	Horn	Posterior					
+Hardness	N/A	0	0					
+Skell Targetable	Yes	No	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Worn Muscle Fiber	Chipped Talon	Bone-in-Thigh Meat	Robust Evello Horn	Meaty Evello Egg	Ebony Evello Egg		
+Dropped From -	All	All	Posterior	Head	All	All		
+								
+Use in Augments	Heat Wave Screen*	Art Draw Surge	Artful Execution Surge	Crush Surge	Extend Aura (Low Level)	Back Attack Plus (Low Level)		
+						Antispike (Low Level)		
+						PositionDMG.BACK (Low Level)		
+						SPIKE.EVA (Low Level)		
+Use in Gear Crafting								
+Armor	Sakuraba BLADE Wear							
+Weapons	No							
+Skell Armor	No							
+Skell Weapons	No							

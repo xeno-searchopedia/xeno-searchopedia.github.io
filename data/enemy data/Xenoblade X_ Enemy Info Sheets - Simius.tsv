@@ -1,0 +1,55 @@
+	Simius									
+										Hayreddin, the Territorial
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Medium Simius	1249	1264	975	1126	975	1000	1099	2		
+Simius	1562	1725	975	1537	975	1000	1500	3		
+XL Simius	7497	2299	975	2048	975	1000	1999	4		
+Tyrant Simius	3514	1811	1023	1613	1023	1050	1575	3		
+										
+Resistances	Simius	Simius Tyrant								
+Physical	0	5								
+Beam	0	5								
+Ether	-25	-20								
+Thermal	-50	-45								
+Electric	0	5								
+Gravity	0	5								
+Debuff Immunity		Control								
+Debuff Resistant	Topple & Control	Topple & Control								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Simius	75% Health or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds					
+	Simius Tyrant	75% Health or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	VI	60 Seconds					
+	Hayreddin, the Territorial	Engagement	Invincibility, Boosts All Stats, Critical Chance Up	I	30 Seconds					
+	Simius (Follow the Leader Squad Mission)	75% Health or Break Tail	Boosts Melee and Ranged Attack, Boosts Potential, Lowers Melee and Ranged Accuracy	IV	60 Seconds					
+										
+				All Except Demetrio	Demetrio Only					
+Species Arts List	Punch	Rock Toss	Tail Swing	Roar	Scream	Megaton Punch	Guard	Gatling Punch		
+Type	Melee	Ranged	Melee	Ranged	Ranged	Melee	Aura	Melee		Demetrio, the Tempestuous
+Target	Single Target	Single Target	Floor Around Caster	Nearby Enemies	Nearby Enemies	Single Target	Self	Single Target		
+No. of Hits	1	1	1	1	1	1	N/A	4		
+Attribute	Physical	Physical	Physical	Physical	Physical	Thermal	N/A	Electric		
+Damage Scaling	100%	160%	160%	75%	75%	375%	N/A	200%		
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds	15 Seconds		
+Boost						Below 25% HP: Boosts Damage	Defending			
+Debuff		Topple if Target was Airborne		Physical Res Down	Taunt					
+Disabled by Destroying -			Tail			Right Hand	Either Hand			
+Homing		Yes								
+										
+Appendages	Main Body	Head	Tail	Left Hand	Right Hand					
+Hardness	N/A	0	-1	0	0					
+Skell Targetable	Yes	Yes	No	No	No					
+Exposed by -										
+										
+Species Drops										
+Materials	Stiff Hair	Hard Backbone	Muscled Simius Bulge	Red Simius Mane	Green Simius Mane	Golden Simius Mane	Supple Tail	Simius Snack Stash		
+Dropped From -	All	All	Hands	Head	Head	Head	Tail	All		
+										
+Use in Augments	N/A	Brimstone Rain Screen*	Melee Attack Drive (Low Level)	Melee Draw Surge	Melee Draw Surge (Low Level)	Cooldown Reducer (Low Level)	Bind: Refuel	Aura Surge (l, V, X)		
+						Custom.WP.SPD (Low Level)				
+										
+Use in Gear Crafting	N/A									
+										
+Armor	Grenada Medium Wear (Low Level)	Meredith Heavy Wear								Diogenes, the Covetous
+Weapons	Yes									
+Skell Armor	No									
+Skell Weapons	No									

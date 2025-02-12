@@ -1,0 +1,57 @@
+Scirpo								
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Scirpo	1093	1462	1000	1462	1000	1000	1500	L
+Medium Scirpo	875	1072	1000	1071	1000	1000	1100	M
+Yelena	2732	1542	1055	1535	1050	1050	1575	L
+Desdemona	2459	1535	1050	1535	1050	1050	1575	L
+Elena	11804	2045	1050	2045	1050	1050	2100	XL
+								
+Resistances	Scirpo	Scirpo Tyrant						
+Physical	35	40				Yelena, the Sequestered		Desdemona, the Subterranean
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Scirpo above Lv. 20	25% Health or Destroying Acid Sac	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds			
+	Scirpo Tyrants	25% Health or Destroying Acid Sac	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds			
+								
+Species Arts List	Slash (Left Claw)	Slash (Right Claw)	Razor Thread 1	Razor Thread 2	Ether Acid			
+Type	Melee	Melee	Ranged	Ranged	Ranged			
+Target	Single Target	Single Target	Single Target	Single Target	Single Target			
+No. of Hits	1	1	1	1	6		Elena, the Infernal	
+Attribute	Physical	Physical	Electric	Electric	Ether			
+Damage Scaling	100%	100%	150%	200%	255%			
+Recast	3 Seconds	3 Seconds	3 Seconds	15 Seconds	20 Seconds			
+Boost								
+Debuff				Slow Arts 				
+Disabled by Destroying -	Left Claw	Right Claw			Acid Sac			
+Homing			Yes					
+								
+Appendages	Main Body	Head	Left Claw	Right Claw	Acid Sac			
+Hardness	N/A	0	1	1	-2			
+Skell Targetable	Yes	Yes	No	No	No			
+Exposed by -								
+								
+Species Drops								
+Materials	Cracked Claw	Pristine Insect Leg	Pristine Claw	Sticky Scirpo Silk	Scirpo Malic Acid Sac	Scirpo Cyanide Sac	Scirpo Sulfuric Acid Sac	Scirpo Silk
+Dropped From -	All	All	Claws	Head	Acid Sac	Acid Sac	Acid Sac	All
+								
+Use in Augments	Ranged Appendage Damage Up (Low Level)	Resist Slow Arts*	Side Attack Plus (Low Level)	Underdog Surge	Melee: Blaze	Melee: Shock	SpecUp.FUEL-OD*	Resist Stagger*
+	Resist Control*	Focused Evasion (Low Level)	PositionDMG.SIDE (Low Level)		M-Auto.BLAZE	M-Auto.SHOCK		Resist.STAGGER*
+	Crush.Append (Low Level)	Resist.SLOW-ARTS*						Overdrive: Recover HP (Low Level)
+	Resist.CONTROL*							Overdrive.Frame-HP (Low Level)
+								
+								
+								
+Use in Gear Crafting			Lv. 20 Archetype Weapons					
+								
+Armor	Grenada Light Wear							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

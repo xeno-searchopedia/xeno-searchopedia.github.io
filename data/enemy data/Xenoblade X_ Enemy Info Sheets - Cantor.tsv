@@ -1,0 +1,51 @@
+	Cantor								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Eustachio, the Eccentric
+Cantor	1562	1650	975	1650	975	975	1500	L	
+XL Cantor	7497	2199	975	2199	975	975	1999	XL	
+Cantor Tyrant	16867	2308	1023	2308	1023	1023	2099	Xl	
+									
+Resistances	Cantor	Cantor Tyrant							
+Physical	0	5							
+Beam	0	5							
+Ether	-25	-20							
+Thermal	-50	-45							
+Electric	0	5							
+Gravity	0	5							
+Debuff Immunity		Control							
+Debuff Resistant	Topple & Control	Topple & Control							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Cantor	15% Health or Break Either Fist	Mobility Debuff Immunity & 30% Damage Reduction	III	60 Seconds				
+	Cantor Tyrant	15% Health or Break Either Fist	Mobility Debuff Immunity & 35% Damage Reduction	IV	60 Seconds				
+									
+Species Arts List	Punch	Sludge Toss	Jamming Gas	Roar	Megaton Punch	Guard	Gatling Punch		
+Type	Melee	Ranged	Ranged	Ranged	Melee	Aura	Melee		
+Target	Single Target	Single Target	Nearby Enemies	Nearby Enemies	Single Target	Self	Single Target		
+No. of Hits	1	1	1	1	1	N/A	4		
+Attribute	Physical	Physical	Ether	Physical	Thermal	N/A	Electric		
+Damage Scaling	100%	160%	136%	75%	375%	N/A	200%		
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds	15 Seconds		Leandro, the Sneering
+Boost					Below 25% HP: Boosts Damage	Defending			
+Debuff		Topple if Target was Airborne	HP Recovery Down	Slow Arts					
+Disabled by Destroying -					Right Hand	Either Hand			
+Homing		Yes							
+									
+Appendages	Main Body	Head	Posterior	Left Hand	Right Hand				
+Hardness	N/A	0	0	1	1				
+Skell Targetable	Yes	Yes	No	No	No				
+Exposed by -									
+									
+Species Drops									
+Materials	Slimy Epithelium	Squishy Cartilage	Muscled Cantor Bulge	Silver Cantor Tooth	Golden Cantor Tooth	Luminescent Tail	Hidden Cantor Hoard		
+Dropped From -	All	All	Hands	Head	Head	Tail	All		
+									
+Use in Augments	Evasion Boost	Electric Resistance Up	Boosts Melee Attack (High Level)	Weapon Attack Power Up (High Level)	Max HP Boost (High Level)	Visual Cloaking (High Level)	N/A		
+	Boost.EVA	SpecUp.ELEC.RES	SpecUp.R-ATK (High Level)	Custom.WP-ATK (High Level)	Boost.HP-MAX (High Level)	Cloak.SIGHT (High Level)			
+									
+Use in Gear Crafting	N/A						Original/Masterstroke Ranged Weapons		
+							US0232 Police		
+Armor	Sakuraba Medium Wear								
+Weapons	Yes								
+Skell Armor	No								
+Skell Weapons	No								

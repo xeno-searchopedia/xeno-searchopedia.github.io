@@ -1,0 +1,51 @@
+	Unafulge							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Unafulge	1000	990	1025	990	1025	1075	1100	2
+Small Unafulge	850	990	1025	990	1025	1075	1100	1
+Planetes	2812	1416	1076	1416	1076	1128	1574	3
+Ruth	2250	1039	1076	1039	1076	1128	1155	2
+								
+Resistances	Unafulge	Unafulge Tyrant						
+Physical	0	5					Planetes, the Torrential	
+Beam	0	5						
+Ether	-25	-20						
+Thermal	0	5						
+Electric	-50	-45						
+Gravity	-25	-20						
+Debuff		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	N/A							
+								
+Species Arts List	Spin Tackle	Jam	Reinforce	Self-Destruct				
+Type	Melee	Ranged	Buff	Ranged				
+Target	Single Target	Nearby Enemies	Nearby Allies	Nearby Enemies			Ruth, the Shunner of LIght	
+No. of Hits	1	1	1	1				
+Attribute	Physical	Ether	N/A	Thermal				
+Damage Scaling	150%	170%	N/A	750%				
+Recast	3 seconds	15 Seconds	60 Seconds	60 Seconds				
+Boost			Boosts Evasion					
+Debuff		Slow Arts		Destroys Self, Launch II				
+Disabled by Destroying -		Head	Head	Head				
+Homing			Yes					
+								
+Appendages	Main Body	Head						
+Hardness	N/A	0						
+Skell Targetable	Yes	No						
+Exposed by -								
+								
+Species Drops								
+Materials	Opaque Membrane	Transparent Membrane	Steel Unafulge Cell	Unafulge Numbing Toxin	Unafulge Death Toxin			
+Dropped From -	All	All	Head	All	All			
+								
+Use in Augments	Danger Surge	Thunderstorm Screen*	Incapacitation Surge	Critical Surge	HP Rebound (High Level)			
+								
+Use in Gear Crafting	N/A							
+								
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

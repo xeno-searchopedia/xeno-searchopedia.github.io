@@ -1,0 +1,65 @@
+	Caladar											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Black Caladar	1250	1050	1000	1050	1000	1000	1100	L				
+Gold Caladar	1562	1650	1050	1650	1050	1000	1725	L				
+Deva Caladar	3000	1050	1000	1050	1000	1000	1100	L				
+												
+Resistances	Caladar	Gold Caladar	Deva Caladar									
+Physical	35	30	35									
+Beam	-10	-25	-10									
+Ether	35	10	35									
+Thermal	35	10	35									
+Electric	-10	-25	-10									
+Gravity	-10	-50	-10			 						
+Debuff Immunity	Control	Control	Control									
+Debuff Resistant	Topple & Control	Topple, Control & Virus	Topple, Control, Virus & Blackout									
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Caladars	30% Health 	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	V	60 Seconds							
+	Deva Caladar	30% Health	Boosts Evasion, Mobility Debuff Immunity and 30% Damage Reduction	III	60 Seconds							
+												
+Enemy Skill	Deva Caladar	Brimstone Rain Weather	30% Damage Boost									
+	Deva Caladar	Brimstone Rain Weather	30% Arts Cooldown Reduction									
+					Caladar Only	Deva Caladar Only					Black Caladars & Deva Caladar Only	
+Species Arts List	Cleave	Onigumo Web	Kagenui	Astriad	Sunburst	Obliteration Bow	Riot Beam	Defend	Incendiary Spree	Miasmic Volley	Nanobuff	Nanorecovery
+Type	Melee	Ranged	Ranged	Melee	Ranged	Ranged	Ranged	Aura	Ranged	Ranged	Buff	Buff
+Target	Single Target	Single Target	Multi Target	Single Target	Targeted Blast	Targeted Blast	Frontal Arc	Self	Multi Target	Frontal Arc	Self	Self
+No. of Hits	1	1	4	3	1	1	1	N/A	8	3	N/A	N/A
+Attribute	Physical / Beam	Physical	Gravity	Physical / Beam	Thermal	Thermal	Beam	N/A	Thermal	Beam	N/A	N/A
+Damage Scaling	100%	100%	140%	200%	200%	400%	300%	N/A	200%	500%	N/A	300 x PTL
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	40 Seconds	40 Seconds	30 Seconds	60 Seconds	30 Seconds	30 Seconds
+Boost								Defending / Defending III			Decoy / Decoy III	Restores HP
+Debuff		Slow Arts / Slow Arts III	20% / 25% Chance of Stun II	5% / 10% Chance of Stagger II	Flinch & Blaze	Flinch & Blaze II						
+Disabled by Destroying -					Left Shoulder				Either Shoulder			
+Homing			Yes		Yes				Yes			
+												
+Appendages	Main Body	Head	Left Shoulder	Right Shoulder	Posterior	Left Leg	Right Leg					
+Hardness	N/A	1	1	1	-1	0	0	Deva Caladar				
+Skell Targetable	Yes	Yes	No	No	Yes	No	No					
+Exposed by -												
+												
+Deva Caladar Drops												
+Materials	Laser Light	Dialek Glyph	Deva Caladar's Red Ear		Caladar							
+Dropped From -	All	All	All									
+												
+Use in Augments	N/A	N/A	Ultrafauna Slayer (High Level)									
+			Slayer.ULTRAFAUNA (High Level)									
+												
+Use in Gear Crafting	SP - Back - Antimatter-R	Lv. 30 Skell Superweapons										
+	SP - Back - G-Piledriver											
+	SP - Back - Dragoon-Lance											
+	SP - Back - Drone-Storm											
+	SP - Shoulder - Deus-Crusher											
+	SP - Shoulder - Barrage-Cloak											
+	SP - Back - Detonation-F											
+	SP - Shoulder - Megaflame-B											
+												
+Armor	No											
+Weapons	No											
+Skell Armor	No											
+Skell Weapons	Caladar	Deva Caladar										
+												
+	Back - A-Spear	Back - SENJU										
+	Shoulder - F-Arrow											
+	Shoulder - L-Cannon											

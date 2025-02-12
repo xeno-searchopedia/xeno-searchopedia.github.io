@@ -1,0 +1,53 @@
+	Sacrifole							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Sacrifole	875	1100	1000	1100	1000	1025	1100	M
+Small Sacrifole	744	1100	1000	1100	1000	1025	1100	S
+Large Sacrifole	1094	1499	1000	1499	1000	1025	1499	L
+Sacrifole Tyrant	2460	1574	1000	1574	1000	1025	1574	L
+Angelita	1968	1155	1050	1155	1050	1076	1155	M
+								
+Resistances	Sacrifole	Red Sacrifole	Sacrifole Tyrant	Vegetal				Dobromilla, the Alluring
+Physical	40	40	45	45				
+Beam	0	-25	5	-20				
+Ether	-25	-25	-20	-20				
+Thermal	-25	0	-20	5				
+Electric	0	0	5	5				
+Gravity	-25	-25	-20	-20				
+Debuff Immunity			Control	Control				
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control	Topple & Control				
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Sacrifoles	50% Health	Mobility Debuff Immunity & 20% Damage Reduction	I	60 Seconds			
+	Tyrant Sacrifole	50% Health	Mobility Debuff Immunity & 25% Damage Reduction	II	60 Seconds			Angelita, the Blade Bouquet
+								
+Species Arts List	Acid Shot	Jamming Pollen	Seed Shot	Spin Tackle	Self-Destruct			
+Type	Ranged	Ranged	Ranged	Melee	Ranged			
+Target	Single Target	Nearby Enemies	Single Target	Nearby Enemies	Nearby Enemies			
+No. of Hits	3	1	5	1	1			
+Attribute	Ether	Ether	Ether	Physical	Thermal			
+Damage Scaling	170%	85%	85%	100%	750%			
+Recast	15 Seconds	15 Seconds	3 Seconds	3 Seconds	60 Seconds			
+Boost								
+Debuff	Physical Res Down 	Flinch II & Fatigue 			Launch III & Destroys Self			
+Disabled by Destroying -		Head Feathers						Vegetal, the Heatcrux
+Homing								
+								
+Appendages	Main Body	Head (First Pair of Feathers)	Head (Second Pair of Feathers)					
+Hardness	N/A	0	0					
+Skell Targetable	Yes	Yes	Yes					
+Exposed by -			Breaking First Pair of Feathers					
+								
+Species Drops								
+Materials	Scratched Jewel	Shimmering Silk	Azure Sacrifole Feather	Silver Sacrifole Feather	Crimson Sacrifole Feather	Spicy Sacrifole Pollen	Diamond Seed	
+Dropped From -	All	All	Head (Both)	Head (Both)	Head (Both)	Head (Second Pair of Feathers)	All	
+								
+Use in Augments	Ranged Accuracy Boost	Overdrive: Recover HP (Low Level)	Overdrive.APPEND-HP*	Jamming	Melee: TP Gain Up	N/A	Reflect Damage Up (I)	
+	Boost.R-ACC	Overdrive.FRAME-HP (Low Level)			Custom.WP-M-GP		Reflect.DAMAGE-UP (I)	
+								
+Use in Gear Crafting	N/A							
+								
+Armor	Orphean Light Wear							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

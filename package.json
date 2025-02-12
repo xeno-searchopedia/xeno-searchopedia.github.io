@@ -1,0 +1,32 @@
+{
+  "name": "xeno-searchopedia.github.io",
+  "version": "1.0.0",
+  "description": "search site for xeno games",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeno-searchopedia/xeno-searchopedia.github.io.git"
+  },
+  "keywords": [
+    "xenogears",
+    "xenosaga",
+    "xenoblade",
+    "search",
+    "searchopedia",
+    "items",
+    "drops",
+    "collectibles",
+    "collectopaedia",
+    "xeno"
+  ],
+  "author": "FourthStrongest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeno-searchopedia/xeno-searchopedia.github.io/issues"
+  },
+  "homepage": "https://github.com/xeno-searchopedia/xeno-searchopedia.github.io#readme"
+}

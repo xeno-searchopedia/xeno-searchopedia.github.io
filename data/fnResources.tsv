@@ -1,0 +1,106 @@
+					Click here for probe locations	
+FN Site	M	G	B	Sightseeing Spots	Rare Resources	Connections
+101	C	A	S	Stonelattice Cavern	-	105
+102	C	F	B	-	-	104
+103	C	E	A	Wonderment Bluff	-	105,106,222
+104	C	A	B	Headwater Cliff	-	102,106
+105	A	F	B	-	-	101,103,109
+106	B	E	B	Turtle Nest	Arc Sand Ore	103,104,107
+107	A	F	B	-	-	106,110
+108	C	F	B	-	Aurorite, Arc Sand Ore, Foucaltium	109
+109	C	D	B	-	Hookoit, Dawnstone, Lionbone Bort	105,108
+110	C	E	B	Talon Rock Prominence	Aurorite, Arc Sand Ore, White Cometite, Dawnstone	107,111,112
+111	C	F	B	-	Foucaltium	110,113
+112	A	F	A	-	-	110,114,115
+113	C	C	B	-	-	111,409
+114	C	E	B	-	-	112,116
+115	C	D	B	-	Arc Sand Ore, White Cometite, Lionbone Bort	112
+116	A	D	B	-	-	114,117
+117	A	D	A	Rock Cavern	-	116,118,120
+118	C	E	B	-	Aurorite, White Cometite, Dawnstone	117,121
+119	C	E	B	-	-	120
+120	B	B	B	-	-	117,119
+121	A	E	B	-	-	118,307
+201	C	B	S	-	-	206
+202	C	C	B	-	Cimmerian Cinnabar, Everfreeze Ore	203,207,208
+203	C	A	B	-	Cimmerian Cinnabar	202,204
+204	A	C	B	-	-	203,205,211,212
+205	A	F	B	-	-	204,209
+206	B	A	S	-	-	201,207,213
+207	C	C	B	-	Infernium, White Cometite, Cimmerian Cinnabar, Foucaltium	202,206
+208	B	D	B	-	Foucaltium	202
+209	C	F	B	-	-	205
+210	B	D	B	-	-	211
+211	A	D	B	-	-	204,210
+212	B	E	B	-	Aurorite, Enduron Lead, White Cometite	204,216
+213	C	A	B	Sentinel's Nest	-	206
+214	C	D	B	Millstone Ridge Skygazer's Atrium	-	215
+215	C	D	B	-	Aurorite, Enduron Lead, Everfreeze Ore, Foucaltium	214,218
+216	C	A	A	Cascade Isle	-	212,218,225
+217	C	C	B	-	Aurorite, Infernium, Cimmerian Cinnabar	222
+218	C	E	B	-	Aurorite, Enduron Lead, White Cometite	215,216,224
+219	C	E	B	-	Enduron Lead, White Cometite	220
+220	C	C	A	Orochi's Belly	Infernium, Everfreeze Ore	219,221,225
+221	C	E	B	Yagami's Vista Ensanguined Font	-	220,222
+222	C	D	B	Whale's Weeper	-	217,221
+223	C	F	B	Idyll Beach	-	224
+224	C	A	B	-	-	103,218,223
+225	C	A	B	Decapotamon Vista	-	216,220
+301	B	D	B	-	Infernium, Arc Sand Ore, Lionbone Bort	121,302,303
+302	C	E	B	-	-	301
+303	C	E	B	-	Aurorite, White Cometite	301,306
+304	B	A	S	-	-	305,306,309
+305	C	E	B	-	Aurorite, Arc Sand Ore, Enduron Lead	304,308
+306	C	D	B	Cryptic Sign	-	304,307
+307	C	B	B	-	Infernium, Arc Sand Ore, Enduron Lead, White Cometite	306,313
+308	B	C	A	-	Ouroboros Crystal	305
+309	C	C	B	-	Enduron Lead, Ouroboros Crystal	304,311
+310	C	A	B	-	-	311
+311	C	B	B	-	-	309,310
+312	C	D	B	-	Infernium, Boiled-Egg Ore, Lionbone Bort	313,315
+313	C	E	A	Azure Lagoon Crater Oasis	-	307,312,314
+314	C	B	S	-	-	313
+315	A	A	B	Kintrees Mount Edge Peak	-	312,316,318,321
+316	C	D	B	-	-	315
+317	C	A	B	Beachside Cove	-	318,319
+318	C	B	B	Primeval Meadow Atop the Giant Ring	Boiled-Egg Ore, White Cometite, Lionbone Bort	315,317
+319	C	D	B	Great Washington Isle	Infernium, Boiled-Egg Ore	317
+320	C	B	B	-	Aurorite, Ouroboros Crystal	321
+321	A	D	A	-	-	315,320,322
+322	A	A	B	-	-	321
+401	C	B	B	-	Parhelion Platinum, Marine Rutile	402,404
+402	A	B	B	-	-	401,408
+403	A	C	S	-	-	405
+404	B	A	S	Abyss Reservoir	-	401,407
+405	A	E	A	-	Arc Sand Ore	403,408,409
+406	C	B	B	-	-	408
+407	A	B	B	-	-	404,412
+408	B	D	B	Sandsprint Cavity	Aurorite, Arc Sand Ore, Everfreeze Ore	402,405,406,413
+409	B	A	B	-	-	113,405,411
+410	C	A	B	Arc Rock	-	412
+411	A	A	S	-	-	409,414
+412	A	B	A	-	-	407,410,415
+413	C	A	B	Xanadu Overlook	-	408,416
+414	C	B	B	Noctilucent Sphere Interior Quay Hollows	Parhelion Platinum, Marine Rutile	411
+415	C	A	B	-	-	412,502
+416	C	B	B	-	-	413,418,419
+417	B	D	B	-	Everfreeze Ore, Boiled-Egg Ore	419
+418	C	C	B	-	Parhelion Platinum, Arc Sand Ore, Everfreeze Ore, Boiled-Egg Ore, Marine Rutile	416
+419	C	A	S	Behemoth's Shadows	-	416,417,420
+420	B	C	B	-	Everfreeze Ore	419
+501	B	F	B	-	Arc Sand Ore	502
+502	A	C	B	Infernal Ledges	Bonjelium	415,501
+503	C	D	B	White Phosphor Lake	Enduron Lead	502,504
+504	C	C	B	-	Arc Sand Ore, Enduron Lead, Marine Rutile, Bonjelium	503,508
+505	C	B	B	Beneath O'rrh Sim Keep Ganglion Antropolis	-	506,509
+506	C	B	B	Forgotten Mining Frigates	Bonjelium, Arc Sand Ore	505
+507	C	A	B	Bandit's Refuge	Bonjelium	508
+508	A	B	S	O'rrh Sim Castle Ruins	Enduron Lead, Marine Rutile	504,507,509,511
+509	A	A	A	-	-	505,508,510,513
+510	C	B	B	-	Bonjelium	509
+511	A	C	A	-	Bonjelium	508,512,514
+512	C	A	S	-	-	511
+513	C	A	B	M'gando Volcanic Crater M'gando Mineral Springs	-	509,516
+514	C	A	B	Kw'arah Cloister	-	511,515
+515	C	B	S	-	-	514
+516	B	E	B	-	-	513

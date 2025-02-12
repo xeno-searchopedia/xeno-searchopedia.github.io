@@ -1,0 +1,56 @@
+	Grex									
+										Dieter, the Epicure
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Grex	1200	1182	1025	990	925	1050	1100	M		
+Callow/Elder	480	960	960	960	960	960	960	M		
+Dieter	3375	1691	1076	1416	971	1102	1574	L		
+Celedonio	2700	1241	1076	1039	971	1102	1155	M		
+										
+Resistances	Grex	Grex Tyrant								
+Physical	0	5								
+Beam	0	5								
+Ether	-25	-20								
+Thermal	-50	-45								
+Electric	0	5								
+Gravity	0	5								
+Debuff Immunity		Control								
+Debuff Resistant	Topple & Control	Topple & Control								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Grexes above Lv. 20	25% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds					
+	Grex Tyrants	25% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds					
+										
+Species Arts List	Bite	Roar	Puke	Guard	Thunder Spear	Wind Tackle	Sky Charge	Invisibility		
+Type	Melee	Ranged	Ranged	Melee	Melee	Melee	Melee	Melee		
+Target	Single	Nearby Enemies	Single	Self	Single	Single	Nearby Enemies	Self		
+No. of Hits	1	1	1	N/A	1	1	1			Celedonio, the Battle-Tested
+Attribute	Physical	Physical	Ether	N/A	Electric	Physical	Electric	None		
+Damage Scaling	100%	100%	85%	N/A	160%	200%	500%	0		
+Recast	3 Seconds	2 Seconds	3 Seconds	60 Seconds	15 Seconds	2 Seconds	60 Seconds	100 Seconds		
+Boost				Defending			Critical Chance +5	Boosts Evasion		
+Debuff		Slow Arts				Fatigue	Launch on Foot/Knockback in Skell			
+Disabled by Destroying -					Tail	Head Plate	Tail	Exposed Head		
+Homing										
+										
+Appendages	Main Body	Tail	Head Plate	Exposed Head						
+Hardness	N/A	0	1	-2						
+Skell Targetable	Yes	No	Yes	No						
+Exposed by -				Destroying Head Plate						
+										
+Species Drops										
+Materials	Muddy Pelt	Slimy Tongue	Jagged Grex Tail	White Mirrorglass	Opaque Mirrorglass	Grex Wisdom Tooth				
+Dropped From -	All	All	Tail	Head Plate & Exposed Head	Head Plate & Exposed Head	All				
+										
+Use in Augments	Melee: Electric Res Down*	Resist Thermal Res Down*	Back Attack Plus	Visual Cloaking	Ether Resistance Up	Resistance Reducer				
+	Nullify Electric Reflect*	Resist.THERM-DOWN*	PositionDMG.BACK	Cloak.SIGHT	SpecUp.ETHER.RES					
+	Extend Electric Res Down*									
+	M-AUTO.ELEC-DOWN*									
+	Reflect.NEG-ELEC*									
+	TimeEX.ELEC-DOWN*									
+										
+Use in Gear Crafting		Reginal Gear								
+										
+Armor	Sakuraba BLADE Wear									
+Weapons	No									
+Skell Armor	No									
+Skell Weapons	No									

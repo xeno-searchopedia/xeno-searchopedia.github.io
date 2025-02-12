@@ -1,0 +1,56 @@
+	Caro								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Caro	1200	1182	990	1100	1050	1025	925	M	Kringe, the Hunting Arrow
+Small Caro	1020	1182	990	1100	1050	1025	925	S	
+Kringe	2700	1241	1039	1155	1102	1076	971	M	
+Spaniel	2295	1691	1416	1575	1102	1076	971	S	
+Andrei	3375	1241	1039	1155	1102	1076	971	L	
+Tainted	1300	1265	990	1100	1075	1050	925	M	
+									
+Resistances	Caro	Tainted Caro	Caro Tyrant						
+Physical	0	5	5						
+Beam	0	5	5						
+Ether	-25	-20	-20						
+Thermal	-50	-45	-45						
+Electric	0	5	5						
+Gravity	0	5	5						
+Debuff Immunity		Control & Sleep	Control						
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control						
+									
+Auras	Members	Trigger	Effect	Tier	Duration				Andrei, the Cunning
+Enrage	Caros above Lv. 20	60% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds				
+	Tainted Caros	50% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds				
+	Caro Tyrants	60% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+									
+Species Arts List	Bite	Roar	Puke	Ether Spear	Sky Charge	Self-Destruct			
+Type	Melee	Ranged	Ranged	Melee	Melee	Ranged			
+Target	Single	Nearby Enemies	Single	Single	Nearby Enemies	Nearby Enemies			
+No. of Hits	1	1	1	1	1	1			
+Attribute	Physical	Physical	Ether	Ether	Ether	None			
+Damage Scaling	150%	100%	85%	170%	425%	750%			
+Recast	3 Seconds	20 Seconds	3 Seconds	15 Seconds	60 Seconds	60 Seconds			
+Boost					Critical Chance +5				
+Debuff		Slow Arts		HP Recovery Down	Launch on Foot/Knockback in Skell	Launch, Destroys Self			
+Disabled by Destroying -				Tail	Tail	Exposed Head			
+Homing									
+									Spaniel, the Obedient
+Appendages	Main Body	Tail	Head Plate	Exposed Head					
+Hardness	N/A	0	3	-3					
+Skell Targetable	Yes	No	Yes	No					
+Exposed by -				Destroying Head Plate					
+									
+Species Drops									
+Materials	Taut Leather	Slimy Tongue	Shiny Copper Caro Plate	Shiny Silver Caro Plate	Shiny Black Caro Plate	Caro Tail Light	Pure White Caro Tusk		
+Dropped From -	All	All	Head Plate & Exposed Head	Head Plate & Exposed Head	Head Plate & Exposed Head	Tail	All		
+									
+Use in Augments	Resist Flinch*	Resist Thermal Res Down*	Thermal Resistance Up	Damage.APPEND*	SpecUp.FUEL-MAX*	Fuel Efficiency Up (Low Level)	Melee Attack Boost		
+	Resist.FLINCH*	Resist.THERM-DOWN*	SpecUp.THERM-RES				Boost.M-ATK		
+	Extend Control*						Ranged Attack Boost (Low Level)		
+							Boost.R-ATK (Low Level)		
+Use in Gear Crafting		Reginal Gear							
+									
+Armor	Meredith Light Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	No								

@@ -1,0 +1,137 @@
+	Yggralith													
+														Yggralith Zero
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size						
+Yggralith Zero	10000	1500	1400	1500	1400	1075	1000	XXL						
+Phanatos, the Netherlord	16000	1950	1050	1950	1050	806	1650	XXL						
+Pharsis, the Everqueen	80000	5000	1400	5000	1400	1075	5000	XXL						
+														
+Resistances	Yggralith	Pharsis												
+Physical	50	50												
+Beam	50	50												
+Ether	50	50												
+Thermal	50	50												
+Electric	50	50												
+Gravity	50	50												
+Debuff Immunity	Control, Virus & Time Bomb	Topple, Stun, Sleep, Control, Virus, Max TP Down, Flight Down & Time Bomb												
+Debuff Resistant	Stagger, Topple, Stun & Control	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Fatigue, Blackout, Slow Arts, Physical/Beam/Ether/Thermal/Electric/Gravity Res Down, Debuff Res Down, HP Recovery Down, Blaze & Shock												
+														
+Auras	Members	Trigger	Effect	Tier	Duration									
+Enrage	Yggralith Zero	N/A	Boosts Melee & Ranged Attack, Boosts Potential, Boosts Critical Chance, Mobility Debuff Immunity & Damage Reduction	V	10 Minutes									
+	Phanatos, the Netherlord	30% Health	Boosts Melee & Ranged Attack, Boosts Potential, Lowers Physical Resistance, Boosts Critical Chance	V	100 Seconds									
+	Pharsis, the Everqueen	30% Health	Boosts Melee & Ranged Attack, Boosts Potential, Boosts Critical Chance, Mobility Debuff Immunity & Damage Reduction	III	Indefinite									
+														
+Aware	Pharsis, the Everqueen	Art - Gravity Spike	30% Damage Reduction & Enables Proximity Spike	I	300 Seconds									
+														
+Spike	Pharsis, the Everqueen	Aware Active	Gravity Damage (15% of Total PTL) Every 2 Seconds & Inflicts Slow Arts											
+														
+Enemy Skill	Yggralith Zero	Receiving Damage	5% Chance of Melee Attack Up III											
+	Yggralith Zero	Receiving Damage	5% Chance of Ranged Attack Up III											
+	Yggralith Zero	Receiving Damage	5% Chance of Critical Power III											
+	Pharsis, the Everqueen	Receiving Damage	50% Topple Suppression											
+	Pharsis, the Everqueen	Low HP	Up to 20% Damage Boost											
+														
+Yggralith Zero Arts List	Slash	Ether Field	Ether Laser	Hyper Roar	Gravity Bomb	Dark Breath	Massive Stomp	Energy Drain	Dark Ray	Supernova	Change Weather			
+Type	Melee	Ranged	Ranged	Ranged	Ranged	Ranged	Melee	Melee	Ranged	Ranged	Buff / Summon			
+Target	Enemies Ahead	Nearby Enemies	Multi Target	Nearby Enemies	Single Target	Frontal Arc	Floor Around Caster	Enemies Ahead	Enemies Ahead	Nearby Enemies	N/A			
+No. of Hits	1	1	6	1	3	1	1	1	3	1	N/A			
+Attribute	Physical	Ether	Ether	Physical	Gravity	Gravity	Physical	Physical	Gravity	Gravity	N/A			
+Damage Scaling	100%	425%	85%	50%	168% / 140%	140%	200%	100%	420%	420%	N/A			
+Recast	3 Seconds	60 Seconds	3 Seconds	60 Seconds	30 Seconds / 15 Seconds	15 Seconds	15 Seconds	60 Seconds	80 Seconds	120 Seconds	N/A			
+Boost					Vs. Toppled Targets: 100% Damage Boost				Negates Gravity Reflect		Changes Weather to Brimstone Rain or EM Storm / Summons Filiavents			
+Debuff		Stagger III & HP Recovery Down V		Flinch III, Fatigue III & Slow Arts III	Vs. Airborne Targets: Topple IV	Blackout V	Topple VI	Drains 750 TP / Vs. Skells: Drains 500 Fuel	Stagger V	Launch V				
+Disabled by Destroying -			Back	Head				Head	Weak Point					
+Homing			Yes											
+														
+Phanatos Arts List	Slash	Ether Laser	Massive Stomp	Hyper Roar	Gravity Bomb	Lethal Tail	Deep Breath	Energy Charge	Dark Ray	Supernova				
+Type	Melee	Ranged	Melee	Ranged	Ranged	Melee	Melee	Buff	Ranged	Ranged				
+Target	Enemies Ahead	Multi Target	Floor Around Caster	Nearby Enemies	Single Target	Floor Around Caster	Frontal Arc	Self	Enemies Ahead	Nearby Enemies				
+No. of Hits	1	6	1	1	3	1	1	N/A	3	2				
+Attribute	Physical	Ether	Physical	Physical	Gravity	Gravity	Physical	N/A	Gravity	Gravity				
+Damage Scaling	100%	85%	200%	240%	168% / 140%	350%	240%	N/A	420%	420%				
+Recast	3 Seconds	3 Seconds	15 Seconds	60 Seconds	30 Seconds / 15 Seconds	60 Seconds	60 Seconds	200 Seconds	80 Seconds	120 Seconds				
+Boost														
+Debuff			Launch II	Flinch III & Fatigue III	Topple III	Knockback IV & Time Bomb II	Pull IV, Drains All TP	Barrier III	Stagger IV & Slow Arts V	Launch V				
+Disabled by Destroying -		Back		Head		Tail	Head	Either Wing	Weak Point					
+Homing				Yes		Yes								
+														
+Pharsis Arts List	Slash	Ether Field	Ether Laser	Massive Stomp	Hyper Roar	Gravity Bomb	Lethal Tail	Regenerate	Gravity Spike	Energy Charge	Dark Ray	Supernova		
+Type	Melee	Ranged	Ranged	Melee	Ranged	Ranged	Melee	Buff	Aura	Buff	Ranged	Ranged		
+Target	Enemies Ahead	Nearby Enemies	Multi Target	Floor Around Caster	Nearby Enemies	Single Target	Floor Around Caster	Self	Self	Self	Enemies Ahead	Nearby Enemies		
+No. of Hits	1	1	6	1	1	3	1	N/A	N/A	N/A	3	2		
+Attribute	Physical	Ether	Ether	Physical	Physical	Gravity	Gravity	N/A	N/A	N/A	Gravity	Gravity		
+Damage Scaling	100%	425%	85%	200%	50%	168% / 140%	350%	N/A	N/A	N/A	45874%	420%		
+Recast	3 Seconds	60 Seconds	3 Seconds	15 Seconds	60 Seconds	30 Seconds / 15 Seconds	60 Seconds	Periodically, once Enraged	N/A	150 Seconds	Follows use of Energy Charge	120 Seconds		
+Boost						Vs. Toppled Targets: 100% Damage Boost		Restores 25% of Max HP	Aware	Enables use of Dark Ray	Negates Gravity Reflect			
+Debuff		Stagger V & HP Recovery Down V		Topple VI	Flinch V, Fatigue V & Slow Arts III	Vs. Airborne Targets: Topple III	Knockback V & Time Bomb V				Stagger V & Gravity Res Down	Launch V & Gravity Res Down V		
+Disabled by Destroying -			Back				Tail			Either Wing	Weak Point			
+Homing			Yes			Yes								
+														
+Appendages	Main Body	Head	Chest	Weak Point	Back	Tail	Left Wing	Right Wing						
+Hardness	N/A	0	3	-3 (Pharsis & Phanatos) / -4 (Zero)	0	0	0	0						
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes						
+Exposed by -				Breaking Chest										
+														
+Species Drops														
+Materials	Silver Yggralith Nut	Golden Yggralith Nut	Golden Yggralith Heart	Noble Yggralith Scale	Yggralith Gold	Black Yggralith Nut	Black Yggralith Scale	Yggralith Horn	White Yggralith Nut	White Yggralith Scale	Yggralith Recovery Horn			
+Dropped From -	All	All	Awarded to party for reducing RP to 0	Awarded for Appraisals	Random Appendage Fragment after Nemesis is Beaten	All	All	All	All	All	All			Phanatos, the Netherlord
+														
+Use in Augments	N/A	N/A	N/A	N/A	N/A	Underdog Surge (High Level)	Ranged: TP Gain Up	Reflect Damage Up (High Level)	Cooldown Reducer (High Level)	Critical Surge (High Level)	Secondary Cooldwon Reducer (High Level)			
+							Custome.WP-R-GP	Reflect.DAMAGE-UP (High Level)	Custom.WP-SPEED (High Level)					
+Use in Gear Crafting	Reginal Gear	Regal Gear	True Gear	Infinite Gear	Infinite Gear									
+	Regal Gear		Ares 90 Frame	True Gear	True Gear									
+														
+Armor	N/A													
+Weapons	N/A													
+Skell Armor	N/A													
+Skell Weapons	N/A													
+														
+Extra	Zero	Pharsis												
+	Destroyer's Skull	Reflect: Gravity												
+	Destroyer's Torso	Reflect.ADD-GRAV												
+	Destroyer's Heart													
+	Destroyer's Tail													
+	Destroyer's Plate													
+	Destroyer's Left Wing													
+	Destroyer's Right Wing													
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														Pharsis, the Everqueen

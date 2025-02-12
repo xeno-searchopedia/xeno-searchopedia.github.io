@@ -1,0 +1,50 @@
+	Xern													
+														Leva'el, the Terminus
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size						Luxaar's Xern
+Xern	15000	3000	1000	3900	1250	500	3900	XXL						
+XL Xern	9000	1998	1000	2597	1250	500	2597	XL						
+Leva'el	75937	3150	1050	4095	1312	525	4095	XXL						
+Luxaar's Xern	33750	3150	1050	4095	1312	525	4095	XXL						
+														
+Resistances	Xern	Xern Tyrant	Leva'el											
+Physical	30	35	50											
+Beam	-25	-20	25											
+Ether	10	15	35											
+Thermal	10	15	35											
+Electric	-25	-20	25											
+Gravity	-50	-45	0											
+Debuff Immunity	Mobility Debuffs (except Stagger & Bind), Sleep, Virus, & Control	Mobility Debuffs (except Stagger & Bind), Sleep, Virus, & Control	Mobility Debuffs (except Pull & Bind), Sleep, Virus, Control											
+Debuff Resistant	Stagger, Topple & Control	Stagger, Topple & Control	Stagger, Topple & Control											
+														
+Auras	Members	Trigger	Effect	Tier	Duration									
+Enrage	Xerns & Leva'el	50% Health, or Break Cannon	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 40% Damage Reduction	V	60 Seconds									
+	Luxaar's Xern	50% Health, or Break Cannon	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 50% Damage Reduction	VI	60 Seconds									
+														
+Enemy Skill	Leva'el, the Terminus	Low HP	Up to 10% Damage Boost											
+	Leva'el, the Terminus	Receiving Damage	1% Chance of Evasion Up III											
+	Leva'el, the Terminus	Sentinel Satellis Active	Invincibility		Until Sentinal Satellis is Defeated									
+											All except Leva'el	Leva'el Only		
+Species Arts List	Drone Egg	Massive Flame (Each Arm)	Debilitating Energy (Three Kinds)	All-Range Beam	Tri Collider	Hyper Boost	Call Reinforcements	Advanced Megashower	Advanced Megacannon	Multi Megacannon	God Wand	Apocalypse Wand		
+Type	Ranged	Ranged	Ranged	Ranged	Ranged	Buff	Summon	Ranged	Ranged	Ranged	Ranged	Ranged		
+Target	Single Target	Targeted Blast	Single Target / Multi Target	Nearby Enemies	Nearby Enemies	Self	N/A	Nearby Enemies	Targeted Blast	Multi Targeted Blasts	Single Target	Single Target		
+No. of Hits	3 (x Remaining Devices)	1	8	5	3	N/A	N/A	5	1	4	1	1		
+Attribute	Beam	Thermal	Beam	Beam	Electric	N/A	N/A	Beam	Beam	Beam	Thermal	Thermal		
+Damage Scaling	200%	200%	100%	200%	160%	N/A	N/A	400%	600%	600%	280%	65535% (Instant Death)		
+Recast	15 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds / 120 Seconds	30 Seconds	60 Seconds	60 Seconds	20 Seconds	10 Minutes		
+Boost						Evasion Up / Evasion Up V & Decoy V	Summons Galdr x3 or Seidr x3		10% Damage Boost per Debuff on Target			Negates Thermal Reflect		
+Debuff		Flinch & Blaze							Launch V		Topple V, HP Recovery Down II & Removes All TP/GP			
+Disabled by Destroying -		Corresponding Arm	Beam Res Down / Beam Res Down V, or Blackout / Blackout V, or Slow Arts / Slow Arts V		Shock / Shock III					Launch III & Virus / Virus V		Launch V		
+Homing	Yes	Yes	Yes						Yes	Yes	Yes	Yes		
+														
+Appendages	Main Body	Cannon	Left Arm	Right Arm	Back Arm	Front Device	Left Device	Right Device						
+Hardness	N/A	1	2	2	2	0	0	0						
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes						
+Exposed by -														
+														
+Species Drops		Leva'el Only												
+Materials**	N/A	Reflect.ADD-BEAM												
+		Reflect.ADD-ELEC												
+Armor	No													
+Weapons	No													
+Skell Armor	Heavy Armor													
+Skell Weapons	No													

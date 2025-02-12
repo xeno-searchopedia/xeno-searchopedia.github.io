@@ -1,0 +1,64 @@
+	Blatta							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Blatta	743	743	743	1671	2456	1671	1000	S
+Red Blatta	900	950	900	945	1495	1050	1000	S
+Silver Blatta	1000	1000	1000	1050	1050	1050	1000	S
+Tyrant Blatta	900	950	900	945	1495	1050	1050	S
+Joker	1000	1000	1000	1050	1050	1050	1050	L
+Golden Tyrant Blatta	1000	1000	1050	1050	1050	1155	1050	S
+								
+Resistances	Blatta	Tyrant Blatta						
+Physical	20	25						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+							Dui, the Invaluable	
+Auras	Members	Trigger	Effect	Tier	Duration		Tico, the Precious	
+Enrage	All Blatta above Lv. 20	35% Health	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds		Roimi, the Affluent	
+	All Tyrant Blatta	35% Health	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds		Agito, the Golden	
+	All Golden Blatta	35% Health	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	VI	60 Seconds		Natt, the Inestimable	
+							Camus, the Treasured	
+Spike	Casper, the Unhealthy Eater	Receiving Damage	Physical Damage - 25% 	Counter			Yuiro, the Luxuriant	
+							Muruse, the Opulent	
+Species Arts List	Slash	Chirp	Flying Slash				Hiro, the Priceless	
+Type	Melee	Ranged	Melee	Casper, the Unhealthy Eater	Prinsipe, the Ravenous	Joker, the Unknowable	Ald, the Extravagant	Vorpall, the Sickle-Fanged
+Target	Single	Nearby Enemies	Single					
+No. of Hits	1	1	1					
+Attribute	Physical	Physical	Electric					
+Damage Scaling	100%	100%	250%					
+Recast	3 Seconds	15 Seconds	60 Seconds					
+Boost			Critical Chance +5					
+Debuff		Fatigue 						
+Disabled by Destroying -		Wings						
+Homing								
+								
+Appendages	Main Body	Wings						
+Hardness	N/A	0						
+Skell Targetable	Yes	No						
+Exposed by -								
+								
+Species Drops								
+Materials	Tatty Insect Wing	Small Insect Leg	Black Blatta Wing	Red Blatta Wing	Green Blatta Wing	Silver Blatta Wing	Golden Blatta Wing	Medicinal Blatta Oil
+Dropped From -	All	All	Wings	Wings	Wings	Wings	Wings	All
+								
+Use in Augments	Insectoid Criticals Up*	Extend Taunt*	Melee: Gravity Res Down*	Resist Fatigue*	Side Attack Plus (Low Level)	Arts: Recover HP (Low Level)	Physical Resistance Up (High Level)	Ether Resistance Up (Low Level)
+	CritUp.INSECTOID*	TimeEX.TAUNT*	M-Auto.GRAV-DOWN*	Resist.FATIGUE*	PositionDMG.SIDE (Low Level)		SpecUp.PHYS.RES (High Level)	SpecUp.ETHER.RES (Low Level)
+	Insectoid Slayer*	Extend Virus*	Nullify Gravity Reflect*	Debuff Suppressor (Low Level)				Heavy Rain Screen*
+	Slayer.INSECTOID*	TimeEX.VIRUS*	Reflect.NEG-GRAV*					Weather.HEAVY-RAIN-RES*
+	Taunt: Supercharge*		Extend Gravity Res Down*					
+			TimeEX.GRAV-DOWN*					
+								
+Use in Gear Crafting								
+								
+Extra	Golden Fur Tree	Golden Medal	Golden Chalice	Gold Ingot	Golden Cedar			
+	All - Dui and Tico	All - Roimi and Agito	All - Camus and Natt	All - Yuiro and Muruse	All - Ald and Hiro			
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

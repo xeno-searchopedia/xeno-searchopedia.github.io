@@ -1,0 +1,51 @@
+	Ceto									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Polaris, the Firmamental
+Ceto	14500	3900	1125	3600	1150	900	3000	XL		
+Polaris	54353	6142	1181	5670	1207	945	4725	XXL		
+Elaine	32625	4095	1181	3780	1207	945	3150	XL		
+										
+Resistances	Ceto	Ceto Tyrant								
+Physical	0	5								
+Beam	-50	-45								
+Ether	-25	-20								
+Thermal	0	5								
+Electric	10	15								
+Gravity	-25	-20								
+Debuff Immunity	Blackout	Blackout, Control & Virus								
+Debuff Resistant	Topple, Control, Stun & Virus	Topple, Control & Stun								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Cetos	15% Health, or Break Balloons	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 30% Damage Reduction	III	60 Seconds					
+	Ceto Tyrants	15% Health, or Break Balloons	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 35% Damage Reduction	IV	60 Seconds					
+										
+Species Arts List	Tackle	Ether Bomber	Ether Missile	Inferno Mortar	Hyper Jam					
+Type	Melee	Ranged	Ranged	Ranged	Ranged					
+Target	Nearby Enemies	Multi Targeted Blasts	Single Target	Targeted Blast	Nearby Enemies					
+No. of Hits	1	9	4	1	1					
+Attribute	Physical	Ether	Ether	Thermal	Ether					
+Damage Scaling	100%	170%	170%	240%	255%					
+Recast	3 Seconds	15 Seconds	15 Seconds	30 Seconds	60 Seconds					
+Boost										
+Debuff	Launch on Foot			Launch V & Blaze, Vs. Airborne Target: Topple III	Ether Res Down					
+Disabled by Destroying -			Mouth		Either Sonar					
+Homing		Yes	Yes	Yes						
+										
+Appendages	Main Body	Head	Posterior	Left Whisker	Right Whisker	Left Sonar	Right Sonar			
+Hardness	N/A	0	3	2	2	0	0			
+Skell Targetable	Yes	Yes	Yes	No	No	Yes	Yes			
+Exposed by -										
+										
+Species Drops										
+Materials	Fatty Fish Belly	Tasty Fish Belly	Large Saw Tooth	Pink Ceto Membrane	Gold Ceto Membrane	Unlucky Black Whisker	Ceto Roe			
+Dropped From -	All	All	Mouth	Sonar	Sonar	Whiskers	Posterior			
+										
+Use in Augments	Max TP Boost (High Level)	Overdrive: Recover HP (High Level)	Opening Art: Damage Up (High Level)	Beam Resistance Up (High Level)	Ether Resistance Up (High Level)		Danger Surge (High Level)			Elaine, the Lunar Eclipse
+		Overdrive.FRAME-HP (High Level)	Draw.OPENING-DMG (High Level)	SpecUp.BEAM-RES (High Level)	SpecUp.ETHER-RES (High Level)					
+										
+Use in Gear Crafting						True Gear				
+										
+Armor	Meredith Heavy Wear									
+Weapons	No									
+Skell Armor	No									
+Skell Weapons	Back - W-Crusher	Back - Phoenix	Shoulder - Heathorn	Shoulder - G-Buster	Shoulder - G2-Buster	Sidearm - Pile-Bunker	Sidearm - B-Claw	Sidearm - P-Knife	Spare - V-Knuckle	

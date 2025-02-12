@@ -1,0 +1,55 @@
+	Fal-swo											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Golden Fal-swo	1468	1650	900	1500	950	1100	1500	L				
+Fal-swo	1468	1687	900	1537	950	1100	1500	L				
+XL Fal-swo	7046	2249	900	2049	950	1100	2000	XL				
+Ji-ett	15854	2309	945	2100	997	1155	2100	XL				
+Fal-swo Tyrant	3303	1771	945	1613	997	1155	1575	L				
+Summoned Fal-swo	734	1350	900	1230	950	1100	1200	L				
+									Ji-ett, the Thunderclap			Ya-rhat - The Thundercloud
+Resistances	Fal-swo	Fal-swo Tyrant										
+Physical	30	35										
+Beam	-25	-20										
+Ether	10	15										
+Thermal	10	15										
+Electric	-25	-20										
+Gravity	-50	-45										
+Debuff Immunity		Control										
+Debuff Resistant	Topple & Control	Topple & Control										
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	N/A											
+												
+Reflect	No-dhor	Passive	Gravity Damage									
+												
+Species Arts List	Gravity Shell	Collider	Electro Ray	Over Spin	Over Charge	Gravity Laser	Self-Destruct (Summons Only)					
+Type	Ranged	Ranged	Ranged	Melee	Melee	Ranged	Ranged		No-dhor, the Shadowcaster			Ga-uhl, the Percept Keeper
+Target	Multi Target	Nearby Enemies	Mult-Target	Nearby Enemies	Single Target	Enemies Ahead	Nearby Enemies					
+No. of Hits	2	1	4	3	1	3	1					
+Attribute	Gravity	Electric	Electric	Physical	Electric	Gravity	Thermal					
+Damage Scaling	70%	200%	100%	200%	240%	350%	750%					
+Recast	3 Seconds	15 Seconds	3 Seconds	15 Seconds	20 Seconds	60 Seconds	60 Seconds					
+Boost												
+Debuff	Slow Arts	Fatigue					Launch III					
+Disabled by Destroying -				Either Wing	Stabiliser							
+Homing	Yes		Yes									
+												
+Appendages	Main Body	Left Wing	Right Wing	Stabiliser								
+Hardness	N/A	0	0	0								
+Skell Targetable	Yes	Yes	Yes	Yes								
+Exposed by -												
+												
+Species Drops												
+Materials	Reinforced Jet	Advanced Jet	Genuine Plate	Golden Stabiliser	Black Stabiliser	Ocher Stabiliser	White Stabiliser	Fal-swo Solar Crest				
+Dropped From -	All	All	Wings	Stabiliser	Stabiliser	Stabiliser	Stabiliser	All				
+												
+Use in Augments	Aura Rapid Cooldown	Secondary Cooldown Reducer	Gravity Resistance Up (Low Level)	N/A	Melee Draw Surge (High Level)	Beam Resistance Up (Low Level)	Magazine Capacity Up (High Level)	Evasion Boost (Low Level)				
+			SpecUp.GRAV-RES (Low Level)			SpecUp.BEAM-RES (Low Level)		Boost.EVA (Low Level)				
+												
+Use in Gear Crafting				Delta Bliss								
+												
+Armor	No											
+Weapons	No											
+Skell Armor	Heavy Armor											
+Skell Weapons	Shoulder - SHD-Gatling	Shoulder - SHD-Gravity	Shoulder - SHD-Ray	Shoulder - SHD-Missile								

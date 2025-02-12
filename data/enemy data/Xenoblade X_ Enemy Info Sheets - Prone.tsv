@@ -1,0 +1,109 @@
+	Prone																		
+																					
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size			Vendura, the Spellbinder										
+Prone Male	1020	1100	1050	950	950	900	1000	S													
+Prone Ruffian	500	1100	1050	950	950	900	1000	S													
+Prone Vix	892	1000	1000	1050	1050	950	1200	S													
+Langul, the Alien Payload			2295	1155	1102	997	997	945	1050	S													
+Vendura	2007	1050	1050	1102	1102	997	1260	S													
+Dadaan	8032	1218	1162	1051	1051	236	1107	S													
+																					
+Resistances	Prone	Prone Vixes	Langul	Vendura	Slovity Pagus	Dadaan, the Strongest Prone															
+Physical	0	0	5	5	5	25															
+Beam	-25	-25	-20	-20	-20	-5															
+Ether	10	10	15	15	15	35															
+Thermal	0	0	5	5	5	25															
+Electric	0	0	5	5	5	25															
+Gravity	0	0	5	5	5	25															
+Debuff Immunity			Control	Control & Virus	Virus	Topple, Sleep, Control, Virus, Fatigue & Time Bomb															
+Debuff Resistant	Topple & Control	Topple, Control & Virus	Topple & Control	Topple & Control & Virus	Topple, Control & Virus	Stagger, Flinch, Topple, Launch, Knockback, Stun, Sleep, Control, Virus, Blackout, Slow Arts, Physical/Beam/Ether/Thermal/Electric/Gravity Res Down, Debuff Res Down, HP Recovery Down, Blaze & Shock															
+																					
+Auras	Members	Trigger	Effect	Tier	Duration																
+Enrage	Prone above Lv. 20	50% Health	Boosts Melee and Ranged Attack, Lowers Melee and Ranged Accuracy	III	60 Seconds	Dadaan, the Strongest Prone															
+	Prone Tyrant	50% Health	Boosts Melee and Ranged Attack, Lowers Melee and Ranged Accuracy	IV	60 Seconds	Typhoon Blow		Megaton Slam		Bludgeon	Flame Mortar	Punchity Punchathon		Super Tornado Thingy			Human Warhead			Absolute Demolisher 2056	
+	Dadaan	Engagement	Raises Critical Power Tier, Mobility Debuff Immunity & 30% Damage Reduction	III	Passive	Melee		Melee		Melee	Ranged	Melee		Melee			Melee			Ranged	
+	Dadaan	50% Health	Invincible	N/A	Until all Squad Members are Defeated	Floor Around Caster		Nearby Enemies		Single Target	Single Target	Single Target		Floor Around Caster			Nearby Enemies			Single Target	
+						4		1		1	1	3		4			1			1	
+Enemy Skill	Dadaan	When Inflicting damage	Critical Chance +50	Counter		Physical		Thermal		Physical	Thermal	Physical		Physical			Thermal			Thermal	
+	Dadaan	When Receiving damage	50% Topple Suppression	Counter		500%		500%		100%	100%	200%		500%			500%			65535% (Instant Death)	
+						60 Seconds		60 Seconds		3 Seconds	4 Seconds	15 Seconds		60 Seconds			80 Seconds			N/A	
+Species Arts List	Slam (Prone Male Only)	Wild Slam (Prone Male Only)	Healing (Prone Female Only) - Vix Prisoner + Savage, Fury & Barbarian	Shrapnel								Vs. Staggered Target: Topple V					Vs. Toppled Target: 100% Damage Boost			Negate Reflect	
+Type	Melee	Melee	Buff	Ranged		Fatigue I & Stagger III on Foot		Blaze I & Topple III on foot		Stagger I on foot		Stagger I on foot		Fatigue V, Blackout V & Knockback II on foot			Blaze III & Launch II on foot				
+Target	Single Target	Single Target	Single Target	Single Target / Multi Target (Homing Beam and Velocity Ray Only)																	
+No. of Hits	1	3	1	1																	
+Attribute	Physical	Physical	N/A	Weapon (Refer to righthand table)		Prone utilise several varieties of firearm, and each has its own art, or arts, in addition to the common ones. Each named Prone variety has its own pool of possible weapons, detailed in the table below. The weapon's attribute also carries over to Shrapnel															
+Damage Scaling	100%	200%	300 x PTL	200%		I		II		III	IV	V	VI	VII	VIII		IX	X	XI	XII	XIII
+Recast	3 Seconds	15 Seconds	60 Seconds	20 Seconds		Assault	Furious Blast	Beam Machine Gun	Furious Blast	Beam Shotgun	Debilitating Beam	Ether Rifle	Bolt Snipe	Flame Grenade	Beam Gatling	Bullet Storm	Flame Mortar	Homing Beam	Shockwave	Gravity Shell	Velocity Ray
+Boost			Restores HP			Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged
+Debuff				Slow Arts II (Debilitating Beam Only), Taunt (Shockwave Only), Physical Res Down (Gravity Shell Only)		Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Enemies Ahead	Single Target	Single Target	Single Target	Single Target	Single Target
+Disabled by Destroying -						4	11	6	11	3	2	2	2	1	12	4	1	4	1	3	1
+Homing						Physical	Physical	Beam	Beam	Beam	Beam	Ether	Electric	Thermal	Beam	Beam	Thermal	Beam	Physical	Gravity	Beam
+						100%	200%	100%	200%	150%	100%	127%	144%	100%	200%	500%	100%	100%	100%	70%	144%
+Appendages	Main Body					3 Seconds	15 Seconds	3 Seconds	15 Seconds	5 Seconds	5 Seconds	5 Seconds	5 Seconds	4 Seconds	15 Seconds	60 Seconds	4 Seconds	3 Seconds	5 Seconds	3 Seconds	6 Seconds
+Hardness	N/A																				
+Skell Targetable	Yes										Fatigue I										
+Exposed by -																					
+																		Yes			Yes
+Species Drops					Major	*															
+Materials	Broken Buckle	Fine Black Belt	Prone Coin Purse	
+				Dadaan Only	Warrior	*															
+Dropped From -	All	All	All	
+				Reflect: Thermal	Butcher			*													
+				Reflect: Physical	Eater			*													
+Use in Augments	Humanoid Slayer*	Magazine Capacity Up (Low Level)	None		Soldier			*													
+	Humanoid Criticals Up*	Resist Shock*		Mighty Glaive: Galaxy Edge	Typhoon					*											
+	Slayer.HUMANOID*	Resist.SHOCK*			Rampager					*											
+	CritUp.HUMANOID*				Berserker					*											
+					Trainer						*										
+					Owl							*									
+Use in Gear Crafting	N/A				Vulture							*									
+					Eagle							*									
+Armor	Grenada Medium Wear				Hawk								*								
+Weapons	No				Barbarian									*							
+Skell Armor	No				Slayer									*							
+Skell Weapons	No				Bully									*							
+					Commander									*							
+					Fury										*						
+					Admiral										*						
+					Condemened												*				
+					Savage (Healing)												*				
+					Purger					*											
+					Judge					*											
+					Sorcerer										*						
+					Vix Guard						*										
+					Vix Beta						*										
+					Vix Owl							*									
+					Vix Vulture							*									
+					Vix Crow								*								
+					Vix Hawk								*								
+					Vix Griffin								*								
+					Vix Alpha								*								
+					Vix Prisoner (No Healing)										*						
+					Vix Delta															*	
+					Vix Brutalizer																*
+					Dadaan Squad Member			*		*					*						
+					The Dadaan Girls						*										
+					Langul					*											
+					Vendura													*			
+					Fighter	*		*		*		*	*	*	*		*				
+					Leader	*															
+					Scout	*					*										
+					Ruffian						*								*		
+					Destroyer			*				*		*							
+					Box					*											
+					Keeper					*											
+					Brutal	*															
+					Berserk	*															
+					Galba Vassago	*															
+					Loda Gorida			*													
+					Ajiba Falgo														*		
+					Mujiba Falgo															*	
+					Glennar										*						
+					Bastion Glennar													*			
+					Zealot Glennar														*		
+					Vanguard Glennar					*											
+					Enforcer Glennar																*
+					Gelvo Banth										*						
+					Slovity Pagus			*													
+					Vix Soldier			*													
+					Hearthkeeper							*									

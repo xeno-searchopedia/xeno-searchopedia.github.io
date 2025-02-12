@@ -1,0 +1,37 @@
+	Autosentry									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Autosentry	892	950	950	1050	950	900	1000	S		
+Autosentry Mk.II	892	950	975	1050	975	900	1000	S		
+										
+Resistances	Autosentry									
+Physical	30									
+Beam	-25									
+Ether	10									
+Thermal	10									Autosentry Mk.II
+Electric	-25									
+Gravity	-50									
+Debuff Immunity	Control									
+Debuff Resistant	Topple & Control									
+						Autosentry				
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	N/A									
+										
+Species Arts List	Kick	Assault Rifle	Grenade	Flash Grenade						
+Type	Melee	Ranged	Ranged	Ranged						
+Target	Single Target	Single Target	Targeted Blast	Targeted Blast						
+No. of Hits	1	4	1	1						
+Attribute	Physical	Physical	Thermal	Physical						
+Damage Scaling	100%	100%	200%	150%						
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds						
+Boost										
+Debuff				Flinch						
+Disabled by Destroying -		Right Arm	Left Arm	Left Arm						
+Homing			Yes	Yes						
+										
+Appendages	Main Body	Left Arm	Right Arm	Head						
+Hardness	N/A	-1	-1	-1						
+Skell Targetable	Yes	No	No	No						
+Exposed by -		Destroying Head (Mk. I Only)	Destroying Head (Mk. I Only)	Destroying Arms (Mk. II Only)						
+										
+Species Drops	N/A									

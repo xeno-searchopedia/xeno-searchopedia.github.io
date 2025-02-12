@@ -1,0 +1,52 @@
+	Lepyx								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Sirene, the Lost
+Lepyx 	1687	1725	1100	1575	1100	800	1500	L	
+Lepyx Tyrant	3795	1811	1155	1653	1155	840	1575	L	
+									
+Resistances	Lepyx	Lepyx Tyrant							
+Physical	0	5							
+Beam	0	5							
+Ether	-25	-20							
+Thermal	-50	-45							
+Electric	0	5							
+Gravity	0	5							
+Debuff Immunity		Control							
+Debuff Resistant	Topple & Control	Topple & Control							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Lepyx above Lv. 20	30% Health, or Destroy Stone	Boosts Evasion, Mobility Debuff Immunity, 30% Damage Reduction	III	60 Seconds				
+	Lepyx Tyrants	30% Health, or Destroy Stone	Boosts Evasion, Mobility Debuff Immunity, 35% Damage Reduction	IV	60 Seconds				
+									
+Species Arts List	Stomp	Ether Shot	Roar	Thermal Ray	Neck Swing	Debilitating Breath	Body Press		
+Type	Melee	Ranged	Ranged	Ranged	Melee	Ranged	Melee		
+Target	Enemies Ahead	Single Target	Nearby Enemies	Single Target	Enemies Ahead	Frontal Arc	Floor Around Caster		
+No. of Hits	1	1	1	1	1	1	1		
+Attribute	Physical	Ether	Physical	Thermal	Physical	Ether	Gravity		
+Damage Scaling	100%	170%	100%	300%	160%	85%	140%		
+Recast	3 Seconds	3 Seconds	15 Seconds	60 Seconds	15 Seconds	15 Seconds	15 Seconds		
+Boost						Remove One Buff from Target	Critiical Chance +10		
+Debuff			Slow Arts	Blaze	Knockback II	Flinch on Foot	Stagger II		
+Disabled by Destroying -	Either Forefoot	Back			Head				
+Homing		Yes		Yes					
+									Giraffin, the Old Hand
+Appendages	Main Body	Head	Left Foreleg	Right Foreleg	Left Back Leg	Right Back Leg	Back		
+Hardness	N/A	0	0	0	0	0	2		
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes		
+Exposed by -									
+									
+Species Drops									
+Materials	Supple Leather	Dull Stone	Lepyx Elastic Cell	Lepyx Jaw Meat	Lepyx Sunstone	Lepyx Moonstone			
+Dropped From -	All	All	Legs	Head	Back	Back			
+									
+Use in Augments	Vantage Attack Plus*	Resist Blackout*	Electric Resistance Up (Low Level)	Resist Gravity Res Down*	Resist Virus*	Boosts Potential (High Level)			
+	PositionDmg.ABOVE*	Resist.BLACKOUT*	SpecUp.ELEC.RES (Low Level)	Resist.GRAV-DOWN*	Resist.VIRUS*	SpecUp.PTL (High Level)			
+	Extend Slow Arts*	Treasure Sensor (Low Level)							
+	TimeEx.SLOW-ARTS*								
+									
+Use in Gear Crafting	Six Stars Ritual Attire								
+									
+Armor	Sakuraba Medium Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	No								

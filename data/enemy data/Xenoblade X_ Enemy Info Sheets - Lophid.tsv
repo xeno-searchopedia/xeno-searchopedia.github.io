@@ -1,0 +1,52 @@
+	Lophid									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Izgnanie, the Smoldering
+Lophid	6600	2300	950	1950	950	1125	2000	XL		
+Large Lophid	1373	1725	950	1462	950	1125	1500	L		
+Izgnanie	24740	3622	997	3070	997	1181	3150	XXL		
+Ridill	14850	2415	997	2047	997	1181	2100	XL		
+										
+Resistances	Lophid	Lophid Tyrant								
+Physical	0	5								
+Beam	0	5								
+Ether	-25	-20								
+Thermal	0	5								
+Electric	-50	-45								
+Gravity	-25	-20								
+Debuff Immunity	Blaze	Control & Blaze								
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Lophid above Lv. 20	Break Tail or Lantern	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds					
+	Lophid Tyrants	Break Tail or Lantern	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds					
+										
+Species Arts List	Bite	Jam	Fin Slash	Flame Mortar	Deep Breath					
+Type	Melee	Ranged	Melee	Ranged	Ranged					
+Target	Single Target	Nearby Enemies	Single Target	Targeted Blast	Frontal Arc					
+No. of Hits	1	1	1	2	1					
+Attribute	Physical	Ether	Physical	Thermal	Physical					
+Damage Scaling	100%	85%	500%	160%	100%					
+Recast	3 Seconds	15 Seconds	60 Seconds	15 Seconds	15 Seconds					
+Boost			Critical Chance +10							
+Debuff		Physical Res Down	Stagger	Blaze	Pull II & Removes Buff from Target					
+Disabled by Destroying -		Lantern	Tail	Lantern						
+Homing				Yes						
+										
+Appendages	Main Body	Lantern	Mouth	Abdomen	Tail					
+Hardness	N/A	0	-1	2	1					
+Skell Targetable	Yes	Yes	No	Yes	Yes					
+Exposed by -										
+										
+Species Drops										
+Materials	Smelly Fish Meat	Quirky Liver	Lophid Jaw Meat	Spiked Tail Fin	Alluring Lophid Extract	Blinding Lophid Extract	Large Lophid Liver			
+Dropped From -	All	All	Mouth	Tail	Lantern	Lantern	Abdomen			
+										
+Use in Augments	Resist Stun (Low Level)	Beam Attack Plus (Low Level)	Extend Critical Power (High Level)	Critical Chance Up (High Level)	Overdrive: Gain TP (High Level)	Evasion Boost (High Level)	Arts: Recover HP (High Level)			
+	Resist.STUN (Low Level)	AttributeDMG.BEAM (Low Level)		CriticalUp (High Level)		Boost.EVA (High Level)				
+										
+Use in Gear Crafting	N/A									
+										
+Armor	Candid Light Wear									
+Weapons	No									Ridill, the Arrogant
+Skell Armor	No									
+Skell Weapons	Arm - Shield (All Kinds)									

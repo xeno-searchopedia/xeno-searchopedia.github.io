@@ -1,0 +1,58 @@
+	Papil							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Small Papil	722	1045	1000	1100	1050	1020	1100	S
+Papil	850	1045	1000	1100	1050	1020	1100	M
+Sacrum	1912	1097	1050	1155	1102	1071	1155	S
+Caranau	1625	1097	1050	1155	1102	1071	1155	M
+								
+Resistances	Papil	Papil Tyrant				Sacrum, the Noctiluscent		
+Physical	35	40						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	-25	-20						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Papil above Lv.20	Break Tail	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds			
+	Papil Tyrants	Break Tail	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds			
+								
+Species Arts List	Tackle	Acid Bolt	Jam	Bolt Strike				
+Type	Melee	Ranged	Ranged	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Single Target		Caranau, the Water Drake		
+No. of Hits	1	2	1	1				
+Attribute	Physical	Electric	Ether	Electric				
+Damage Scaling	100%	150%	85%	200%				
+Recast	3 seconds	6 seconds	15 Seconds	15 seconds				
+Boost								
+Debuff			Flinch II, Slow Arts 	Stun 				
+Disabled by Destroying -		Mouth		Stinger				
+Homing								
+								
+Appendages	Main Body	Mouth	Tail					
+Hardness	N/A	0	1					
+Skell Targetable	Yes	No	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Viscous Humour	Musky Nectar	Poisonous Needle	Papil Straw	Alluring Papil Scales	Flowering Papil Scales		
+Dropped From -	All	All	Stinger	Mouth	All	All		
+								
+Use in Augments	Spore Screen*	Resist Sleep*	Stabiliser*	Resist Ether Res Down*	Sandstorm Screen*	Vehicle.DEBUFF-RES		
+	Weather.SPORE-RES*	Resist.SLEEP*	Custom.WP-STABLE*	Resist.ETHER-DOWN*	Weather.S-STORM-RES*			
+			Extend Blaze*					
+			TimeEX.BLAZE*					
+								
+								
+Use in Gear Crafting		Lv. 20 Archetype Weaponry	Lv. 20 Archetype Weaponry					
+								
+								
+Armor	Sakuraba Medium (Low Level)							
+	Six Stars Medium Wear							
+								
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

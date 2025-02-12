@@ -1,0 +1,65 @@
+	Sylooth											
+										Yama, the Obliviator		Anselm, the Triumphant
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Sylooth	8400	2600	950	2300	900	500	2000	XL				
+Sylooth Tyrant	18900	2730	997	2415	945	525	2100	XL				
+Pyotr	20790	2600	950	2300	900	500	2000	XL				
+Squad Mission Sylooth (A Couple of Troublemakers)	7560	2730	997	2415	945	525	2100	XL				
+												
+Resistances	Sylooths	Sylooth Tyrants	Yama, the Obliviator	Pyotr, the Shepherd	Mission Sylooths							
+Physical	0	5	5	30	0							
+Beam	-25	-20	-20	-10	-25							
+Ether	10	15	100	50	10							
+Thermal	0	5	5	30	0							
+Electric	0	5	5	30	0							
+Gravity	0	5	5	30	0							
+Debuff Immunity		Control	Control & Ether Res Down	Flinch, Topple, Launch, Knockback, Sleep, Fatigue & Control								
+Debuff Resistant	Stagger, Topple, Stun & Control	Stagger, Topple, Stun & Control	Stagger, Topple, Stun & Control	Stagger, Topple, Stun, Control, Virus, Blackout & Slow Arts	Topple, Control & Stun							
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Sylooths	40% Health, or Break Back	Boosts Melee Attack, Boosts Ranged Accuracy, Mobility Debuff Immunity & 30% Damage Reduction	III	60 Seconds							
+	Sylooth Tyrants	40% Health, or Break Back	Boosts Melee Attack, Boosts Ranged Accuracy, Mobility Debuff Immunity & 35% Damage Reduction	IV	60 Seconds							
+	Pyotr, the Shepherd	Heidi or Claire Defeated	Critical Chance +80, Raises Critical Power Tier, Mobility Debuff Immunity & 50% Damage Reduction	VI	Indefinite							
+	Squad Mission Sylooths	Partner Defeated	Boosts Melee Attack, Boosts Ranged Accuracy, Mobility Debuff Immunity & 40% Damage Reduction	V	60 Seconds							
+												
+Calm	Squad Mission Sylooths	Art - Guard	Mobility Debuff Immunity & 70% Damage Reduction	I	60 Seconds							
+												
+Enemy Skill	Sylooth Lv.31 - 40	Inflicting Damage	Raises Buff/Debuff Tier	II								
+	Sylooth Lv.41 - 50	Inflicting Damage	Raises Buff/Debuff Tier	III								
+	Sylooth Lv.51+	Inflicting Damage	Raises Buff/Debuff Tier	IV								
+	Squad Mission Sylooth	Inflicting Damage	Raises Debuff Tier	II								
+	Squad Mission Sylooth	Inflicting Damage	Raises Buff Tier	I								
+	Pyotr, the Shepherd	Receiving Damage	50% Topple Suppression									
+	Pyotr, the Shepherd	Inflicting Damage	Soft Touch 100%									
+	Pyotr, the Shepherd	Heid & Claire Defeated	All Stats Up & All Attribute Resistances +35	V	Indefinite							
+												
+Species Arts List	Punch	Roar	Ether Shot	Rock Toss	Guard	Sledgehammer	Ether Explosion	Flying Body Press				
+Type	Melee	Ranged	Ranged	Ranged	Aura	Melee	Ranged	Melee				
+Target	Single Target	Nearby Enemies	Single Target	Targeted Blast	Self	Nearby Enemies	Nearby Enemies	Floor Around Caster				
+No. of Hits	1	1	3	1	N/A	1	1	1				
+Attribute	Physical	Physical	Ether	Physical	N/A	Ether	Ether	Physical				
+Damage Scaling	100%	100%	136%	160% / 200% (Pyotr)	N/A	204%	425%	999% / 9999% (Squad Mission Sylooth)				
+Recast	3 Seconds	15 Seconds / 60 Seconds (Pyotr)	15 Seconds	20 Seconds / 5 Seconds (Pyotr)	60 Seconds / 120 Seconds (Squad Mission Sylooth)	20 Seconds	60 Seconds	120 Seconds				
+Boost					Defending / Calm (Squad Mission)	Vs. Controlled Target: 100% Damage Boost (Pyotr)		Critical Chance +20 / Vs. Sleeping Target: 100% Damage Boost (Pyotr)				
+Debuff	Stagger / Stagger III (Pyotr)	Flinch & Slow Arts / Taunt VI & Slow Arts V (Pyotr)		Knockback II, Vs. Airborne Targets: Topple III (Pyotr)		Launch / Launch III (Pyotr)	Launch III & Ether Res Down / Topple IV & Ether Res Down V (Pyotr)	Launch V				
+Disabled by Destroying -							Back					
+Homing			Yes									
+												
+Appendages	Main Body	Head	Left Arm	Right Arm	Left Leg	Right Leg	Hip	Back	Exposed Back			
+Hardness	N/A	0	0	0	0	0	0	1	-3			
+Skell Targetable	Yes	No	No	No	Yes	Yes	Yes	Yes	Yes			
+Exposed by -									Destroying Back			
+												
+Species Drops												
+Materials	White Fungal Egg	Distilled Sap	Quality Giant Cells	Blue Sylooth Brace	White Sylooth Brace	Black Sylooth Brace	Gold Sylooth Brace	Sylooth Tonic Water				
+Dropped From -	All	All	Back, Hip	Arms, Legs, Hips, Back, Exposed Back	Arms, Legs, Hips, Back, Exposed Back	Arms, Legs, Hips, Back, Exposed Back	Arms, Legs, Hips, Back, Exposed Back	Exposed Back				
+										Climati, the Chilling Wind		Pyotr, the Shepherd
+Use in Augments	Potential Boost (Low Level)	Boosts Potential (High Level)	Weapon Attack Power Up (High Level)	Boosts Melee Attack (High Level)	Boosts Melee Attack (High Level)	Overdrive: Recover HP (High Level)	Gravity Attack Plus (High Level)	Overdrive Green Bonus				
+	Boost.PTL (Low Level)	SpecUp.PTL (High Level)	Custom.WP-ATK (High Level)	SpecUp.M-ATK (High Level)	SpecUp.M-ATK (High Level)	Overdrive.FRAME-HP (High Level)	AttributeDmg.GRAV (High Level)					
+												
+Use in Gear Crafting	N/A											
+												
+Armor	Sakuraba Heavy Wear											
+Weapons	No											
+Skell Armor	No											
+Skell Weapons	Back - B-Gatling (Meredith)	Back - H-Arrow	Shoulder - Widebeam	Shoulder - HB-Missile	Sidearm - B-Centipede	Sidearm - B-Sniper	Sidearm - B-Rifle (Sakuraba	Sidearm - B-Rifle (Meredith)				

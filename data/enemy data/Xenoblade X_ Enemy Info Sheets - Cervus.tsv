@@ -1,0 +1,58 @@
+	Cervus												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Seti, the Light of Stars			Asana, the Azure Star
+Cervus	6600	1950	1000	2050	1000	1050	2000	XL					
+Large Cervus	1372	1462	1000	1537	1000	1050	1500	L					
+Asana	24740	3070	1050	3228	1050	1102	3150	XXL					
+Seti	3088	1535	1050	1614	1050	1102	1575	L					
+Squad Mission Cervus (A Sad End)	5940	2047	1050	2152	1050	1102	2100	XL					
+													
+Resistances	Cervus	Cervus Tyrant											
+Physical	0	5											
+Beam	0	5											
+Ether	-25	-20											
+Thermal	-50	-45											
+Electric	0	5											
+Gravity	0	5											
+Debuff Immunity		Control											
+Debuff Resistant	Topple, Control & Stun	Topple, Control, Stun & Virus											
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Cervuses	25% Health	Boosts Melee Attack, Ranged Up, Boosts Potential	III	60 Seconds								
+	Cervus Tyrant	25% Health	Boosts Melee Attack, Ranged Up, Boosts Potential	IV	60 Seconds								
+	Squad Mission Cervus	25% Health	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	V	60 Seconds								
+													
+Aware	Squad Mission Cervus	Engagement	Regen (0.5% of Total HP) every 10 Seconds	I									
+													
+Species Arts List	Stomp	Scream	Wood Horn	Thunder Flash									
+Type	Melee	Ranged	Melee	Ranged									
+Target	Floor Around Caster	Targeted Blast	Single Target	Multi Target									
+No. of Hits	1	1	1	8									
+Attribute	Physical	Physical	Physical	Electric									
+Damage Scaling	100%	100%	160%	200%									
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds									
+Boost													
+Debuff		Electric Res Down	Knockback II										
+Disabled by Destroying -			Antler	Antler									
+Homing				Yes									
+													
+Appendages	Main Body	Left Antler	Right Antler	Back									
+Hardness	N/A	1	1	0									
+Skell Targetable	Yes	Yes	Yes	Yes									
+Exposed by -													
+													
+Species Drops													
+Materials	Supple Leather	Large Hoof	Amber Cervus Antlers	Purple Cervus Antlers	Longevity Bough	Lucky Cervus Sapling							
+Dropped From -	All	All	Horns	Horns	Back	All							
+													
+Use in Augments	Vantage Attack Plus*	Gravity Resistance Up	SpecUp.FUEL-COST*	Ether Attack Plus (High Level)	AppendLost.EVA-UP*	AppendLost.GP*							
+	PositionDmg.ABOVE*	SpecUp.GRAV.RES		AttributeDmg.ETHER (High Level)									
+	Extend Slow Arts*												
+	TimeEx.SLOW-ARTS*												
+													
+Use in Gear Crafting	Six Stars Ritual Attire												
+													
+Armor	Grenada Light Wear												
+Weapons	No												
+Skell Armor	No												
+Skell Weapons	No												

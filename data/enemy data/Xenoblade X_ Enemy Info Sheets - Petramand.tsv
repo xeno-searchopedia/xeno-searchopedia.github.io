@@ -1,0 +1,57 @@
+Petramand																			
+																			
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size											
+Petramand	1093	1575	1050	1425	1000	950	1500	L											
+Medium Petramand	875	1154	1050	1044	1000	950	1100	M											
+Small Petramand	743	1049	1050	949	1000	950	999	S											
+Caesar	2459	1653	1102	1496	1050	997	1575	L											
+Candelario & Eisen	11803	2203	1102	1994	1050	997	2100	XL											
+Truppe	1672	1101	1102	996	1050	997	1049	S											
+Piernus	19672	3306	1102	2992	1050	997	3150	XXL											
+																			
+Resistances	Petramand	Lava Petramand	Petramand Tyrant	Piernus															
+Physical	35	35	40	40															
+Beam	0	-25	5	-20															
+Ether	-25	-25	-20	-20															
+Thermal	-25	0	-20	5															
+Electric	0	0	5	5															
+Gravity	0	0	5	5		Caesar, the Hundred-Eyed		Candelario, the Bronze			Eisen, the Ebon Rock				Truppe, the Ceaseless Dark				Piernus, the Scorcher
+Debuff Immunity			Control	Control															
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control	Topple & Control															
+																			
+Auras	Members	Trigger	Effect	Tier	Duration														
+Enrage	Petramands above Lv. 20	35% Health or Destroying Acid Sac	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds														
+	Petramand Tyrants	35% Health or Destroying Acid Sac	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds														
+																			
+Species Arts List	Slash (Each Claw)	Ether Acid	Guard	Air Slash															
+Type	Melee	Ranged	Aura	Ranged															
+Target	Single Target	Single Target	Self	Single Target															
+No. of Hits	1	6	N/A	1															
+Attribute	Physical	Ether	N/A	Electric															
+Damage Scaling	100%	255%	N/A	200%															
+Recast	3 Seconds	20 Seconds	40 Seconds	15 Seconds															
+Boost			Defending																
+Debuff				Topple on Airborne targets															
+Disabled by Destroying -	Corresponding Claw	Acid Sac		Either Claw															
+Homing																			
+																			
+Appendages	Main Body	Head	Left Claw	Right Claw	Acid Sac														
+Hardness	N/A	0	1	1	-2														
+Skell Targetable	Yes	Yes	No	No	No														
+Exposed by -																			
+																			
+Species Drops																			
+Materials	Cracked Claw	Iron Lump	Ornate Petramand Claw	Gray Shell	Golden Petramand Silk	Silver Petramand SIlk	Malevolent Petramand SIlk	Black Petramand SIlk	Rainbow Metal										
+Dropped From -	All	All	Claw	Head	Sac	Sac	Sac	Sac	All										
+																			
+Use in Augments	Ranged Appendage Damage Up (Low Level)	Reflect Damage Up (Rank V)	Extend Critical Power (High Level)	Aural Cloaking (High Level)	Crush: Gain TP (High Level)	TP Rebound (High Level)	Ranged Appendage Damage (High Level)	Ranged Attack Boost (High Level)											
+	Resist Control*	Reflect.DAMAGE-UP (Rank V)		Cloak.SOUND (High Level)	Crush: GP (High Level)			Boost.R-ATK (High Level)											
+	Crush.Append (Low Level)																		
+	Resist.CONTROL*																		
+																			
+Use in Gear Crafting									Delta Bliss										
+																			
+Armor	Sakuraba BLADE Wear (Low Level)	Sakuraba Skell Wear																	
+Weapons	No																		
+Skell Armor	No																		
+Skell Weapons	Shoulder - Chaingun	Arm - Minigun	Arm - Needlegun	Sidearm - E-Machine Gun	Sidearm - Machine Gun														

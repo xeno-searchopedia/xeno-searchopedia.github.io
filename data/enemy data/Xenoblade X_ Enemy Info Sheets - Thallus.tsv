@@ -1,0 +1,52 @@
+	Thallus							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Thallus	1156	1575	1000	1575	1025	900	1500	L
+Thallus Tyrant	2601	1653	1050	1653	1076	945	1575	L
+								
+Resistances	Thallus	Thallus Tyrant					Pizelle, the Purple Lightning	
+Physical	35	40						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Thallus above Lv.20	75% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Lowers Melee Accuracy, Lowers Ranged Accuracy	III	60 Seconds			
+	Thallus Tyrants	75% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Lowers Melee Accuracy, Lowers Ranged Accuracy	IV	60 Seconds			
+								
+Species Arts List	Strike (Right Arm)	Double Sickle	Acid Breath	Jam	Ether Mortar 	Ether Snipe		
+Type	Melee	Melee	Ranged	Ranged	Ranged	Ranged		
+Target	Single Target	Single Target	Frontal Arc	Nearby Enemies	Targeted Blast	Single Target		
+No. of Hits	1	1	1	1	1	1		
+Attribute	Physical	Electric	Ether	Ether	Ether	Ether	Edgardo, the Carefree	
+Damage Scaling	100%	200%	127%	85%	170%	425%		
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds		
+Boost		Below 25% HP: Boosts Damage						
+Debuff			Physical Res Down	Blackout		Stagger II		
+Disabled by Destroying -	Right Arm	Either Arm			Tail	Tail		
+Homing					Yes			
+								
+Appendages	Main Body	Left Arm	Right Arm	Mouth	Tail			
+Hardness	N/A	1	1	-1	0			
+Skell Targetable	Yes	No	No	No	Yes			
+Exposed by -				Destroying Left Arm				
+								
+Species Drops								
+Materials	Sticky Mucus	Insect Jaw	Thallus Crescent Hook	Black Thallus Antenna	Red Thallus Antenna	Moving Thallus Tail		
+Dropped From -	All	All	Arm	Mouth	Mouth	Tail		
+								
+Use in Augments	Chimeroid Criticals Up (Low Level)	Weapon Attack Power Up (Low Level)	Melee: Recover HP	Max TP Boost (Low Level)	Opening Art: Damage Up	Overdrive Count Up (Low Level)		
+	Chimeroid Slayer (Low Level)	Custom.WP-ATK (Low Level)	M-AUTO.HP-RECOV		Draw.OPENING-DMG	Overdrive.EXTEND (Low Level)		
+	CritUp.CHIMEROID (Low Level)							
+	Slayer.CHIMEROID (Low Level)							
+								
+Use in Gear Crafting		Lv. 20 Archetype Weaponry						
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

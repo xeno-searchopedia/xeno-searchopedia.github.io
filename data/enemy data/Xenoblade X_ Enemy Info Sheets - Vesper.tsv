@@ -1,0 +1,58 @@
+	Vesper							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Vesper	1100	1210	1050	1100	1000	1100	1100	M
+Small Vesper	880	887	1050	806	1000	1100	806	S
+Necro	1980	931	1102	847	1050	1155	847	S
+Froste	2475	1270	1102	1155	1050	1155	1155	M
+								
+Resistances	Vesper	Vesper Tyrant					Necro, the Cavelord	
+Physical	0	5						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-50	-45						
+Electric	0	5						
+Gravity	-25	-20						
+Debuff Immunity	Blackout	Control & Blackout						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Vespers above Lv. 20	25% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds			
+	Vesper Tyrants	25% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds		Froste, the Courteous	
+								
+Species Arts List	Tackle	Acid Shot	Tail Spear	Thunder Flash	Flash			
+Type	Melee	Ranged	Melee	Ranged	Ranged			
+Target	Single	Frontal Arc	Single	Single	Nearby Enemies			
+No. of Hits	1	1	1	1	1			
+Attribute	Physical	Ether	Physical	Electric	Physical			
+Damage Scaling	100%	136%	160%	500%	160%			
+Recast	3 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds			
+Boost			Critical Chance +5					
+Debuff		Physical Res Down			Flinch II			
+Disabled by Destroying -			Tail		Head			
+Homing				Yes				
+								
+Appendages	Main Body	Head	Tail					
+Hardness	N/A	0	0					
+Skell Targetable	Yes	Yes	Yes					
+Exposed by -								
+								
+Species Drops								
+Materials	Taut Leather	Black Fog Deposits	Vesper Fang	Vesper Hair Clip	Vesper Fry			
+Dropped From -	All	All	Head	Tail	All			
+								
+Use in Augments	Resist Flinch*	Boosts Evasion (Low Level)*	Extend Shock*	Antispike (Low Level)	Crush: Gain TP (Low Level)			
+	Resist.FLINCH*	SpecUP.EVA (Low Level)*	TimeEx.SHOCK*	Spike.EVA (Low Level)	Crush.GP (Low Level)			
+	Extend Control*	Evasion Boost (Low Level)			Resist Blaze*			
+		Boost.EVA (Low Level)			Resist.BLAZE*			
+		Evasion Drive						
+		Taunt: Decoy*						
+		Stun: Decoy*						
+		Topple: Decoy*						
+								
+Use in Gear Crafting								
+								
+Armor	Sakuraba Heavy Wear							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

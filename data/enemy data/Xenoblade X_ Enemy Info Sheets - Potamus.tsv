@@ -1,0 +1,55 @@
+Potamus								
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Potamus	1250	1127	1000	1127	1000	900	1100	M
+Rodriguez	2812	1183	1050	1183	1050	945	1155	M
+Mesgen	3515	1612	1050	1612	1050	945	1574	L
+								
+Resistances	Potamus	Potamus Tyrant					Mesgen, the Fairweathered	
+Physical	0	5						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-50	-45						
+Electric	0	5						
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Potamus Above Lv. 20	30% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds			
+	Potamus Tyrants	30% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds			
+							Rodriguez. the Twin-Tusked	
+Species Arts List	Bite	Lick	Tackle 	Bionic Mortar	Multi Mortar	Water Smash		
+Type	Melee	Melee	Melee	Ranged	Ranged	Ranged		
+Target	Single	Single	Nearby Enemies	Targeted Blast	Multi Target	Single		
+No. of Hits	1	2	1	2	7	4		
+Attribute	Physical	Physical	Physical	Thermal	Thermal	Physical		
+Damage Scaling	100%	80%	150%	160%	160%	200%		
+Recast	3 Seconds	15 seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds		
+Boost						Critical Chance +5		
+Debuff		Physical Res Down		Stagger		Knockback II		
+Disabled by Destroying -			Mouth	Either Hump	Either Hump			
+Homing								
+								
+Appendages	Main Body	Mouth	Front Hump	Back Hump				
+Hardness	N/A	0	0	0				
+Skell Targetable	Yes	No	No	No				
+Exposed by -								
+								
+Species Drops								
+Materials	Muddy Pelt	Succulent Meat	Hulking Incisor	Murky Potamus Water	Hot Potamus Juice	Potamus Life Lung		
+Dropped From -	All	All	Mouth	Humps	Humps	All		
+								
+Use in Augments	Melee: Electric Res Down*	Max HP Up*	HP Rebound (Low Level)	None	Ultrafauna Criticals Up (Low Level)	Thermal Resistance Up (Low Level)		
+	Nullify Electric Reflect*	SpecUp.HP.MAX*			CritUp.ULTRAFAUNA (Low Level)	SpecUp.THERM.RES (Low Level)		
+	Extened Electric Res Down*	Max HP Boost (Low Level)			Ultrafauna Slayer (Low Level)			
+	M-AUTO.ELEC-DOWN*	Boost.HP.MAX (Low Level)			Slayer.ULTRAFAUNA (Low Level)			
+	Reflect.NEG-ELEC*	Max HP Drive						
+	TimeEX.ELEC-DOWN*	Resist HP Recovery Down*						
+								
+Use in Gear Crafting								
+								
+Armor	Sakuraba BLADE Wear							
+Weapons	No							
+Skell Armor	No							
+Skell Weapons	No							

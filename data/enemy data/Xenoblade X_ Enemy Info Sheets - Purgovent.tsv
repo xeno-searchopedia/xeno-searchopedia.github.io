@@ -1,0 +1,52 @@
+	Purgovent											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Purgovent	6600	2250	975	1950	950	1125	2000	XL				
+Large Purgovent	1373	1688	975	1463	950	1125	1500	L				
+Albin	24740	3543	1023	3070	997	1181	3150	XXL				
+Libra	14850	2362	1023	2047	997	1181	2100	XL				
+												
+Resistances	Purgovent	Purgovent Tyrant					Albin, the Wicked Meddler					Libra, the Long-Lived
+Physical	0	5										
+Beam	0	5										
+Ether	-25	-20										
+Thermal	0	5										
+Electric	-50	-45										
+Gravity	-25	-20										
+Debuff Immunity		Control										
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun										
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Purgovents	Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds							
+	Purgovent Tyrants	Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds							
+												
+Species Arts List	Bite	Jam	Deep Breath	Fin Slash								
+Type	Melee	Ranged	Ranged	Melee								
+Target	Single Target	Nearby Enemies	Frontal Arc	Single Target								
+No. of Hits	1	1	1	1								
+Attribute	Physical	Ether	Physical	Physical								
+Damage Scaling	160%	85%	160%	600%								
+Recast	3 Seconds	15 Seconds	15 Seconds	40 Seconds								
+Boost				Critical Chance +10								
+Debuff		Physical Res Down	Pull II & Removes Buff from Target	Stagger								
+Disabled by Destroying -		Lantern		Tail								
+Homing												
+												
+Appendages	Main Body	Lantern	Mouth	Abdomen	Tail							
+Hardness	N/A	0	-1	2	1							
+Skell Targetable	Yes	Yes	No	Yes	Yes							
+Exposed by -												
+												
+Species Drops												
+Materials	Smelly Fish Meat	Quirky Liver	Pugovent Jaw Meat	Smooth Tail Fin	Stout Purgovent Extract	Strong Purgovent Extract	Large Purgovent Liver					
+Dropped From -	All	All	Mouth	Tail	Lantern	Lantern	Abdomen					
+												
+Use in Augments	Resist Stun (Low Level)	Beam Attack Plus (Low Level)	Debuff Suppressor (Low Level)	Resist Topple (Low Level)	Electric Resistance Up (Low Level)	Weapon Attack Power Up (Low Level)	HP Rebound (Low Level)					
+	Resist.STUN (Low Level)	AttributeDMG.BEAM (Low Level)		Resist.TOPPLE (Low Level)	SpecUp.ELEC-RES (Low Level)	Custom.WP-ATK (Low Level)						
+												
+Use in Gear Crafting	N/A											
+												
+Armor	Meredith Medium Wear											
+Weapons	No											
+Skell Armor	No											
+Skell Weapons	Back - Backbomb	Shoulder - F-Grenade	Sidearm - Short-Rifle	Sidearm - E-Sniper								

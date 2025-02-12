@@ -1,0 +1,52 @@
+Falsaxum																
+																
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Clemente, the Iron Meteor							Mikulas, the Keystone
+Falsaxum	6150	2500	975	2300	975	600	2000	XL								
+Falsaxum Tyrant	13837	2625	1023	2415	1023	630	2100	XL								
+																
+Resistances	Falsaxum	Falsaxum Tyrant														
+Physical	35	40														
+Beam	0	5														
+Ether	-25	-20														
+Thermal	-25	-20														
+Electric	0	5														
+Gravity	0	5														
+Debuff Immunity		Control & Virus														
+Debuff Resistant	Topple, Control & Virus	Stagger, Topple & Control														
+																
+Auras	Members	Trigger	Effect	Tier	Duration											
+Enrage	Falsaxums	15% Health, or Break Horn	Mobility Debuff Immunity, 30% Damage Reduction	III	60 Seconds											
+	Falsaxum Tyrant	15% Health, or Break Horn	Mobility Debuff Immunity, 35% Damage Reduction	IV	60 Seconds											
+																
+Species Arts List	Stomp (Each Leg)	Roar	Poison Gas	Acid Spray	Guard	Hyper Acid										
+Type	Melee	Ranged	Ranged	Ranged	Aura	Ranged										
+Target	Nearby Enemies	Nearby Enemies	Nearby Enemies	Single Target	Self	Single Target										
+No. of Hits	1	1	1	4	N/A	4										
+Attribute	Physical	Physical	Ether	Physical	N/A	Physical										
+Damage Scaling	150%	100%	170%	100%	N/A	500%										
+Recast	3 Seconds	15 Seconds	15 Seconds	3 Seconds	40 Seconds	60 Seconds										
+Boost					Defending 	Critical Chance +10										
+Debuff	Stagger 	Physical Res Down 	HP Recovery Down													
+Disabled by Destroying -	Corresponding Leg					Head										
+Homing																
+																
+Appendages	Main Body	Head	Left Foreleg	Right Foreleg	Left Hindleg	Right Hindleg	Abdomen	Left Back Spine	Right Back Spine	Horn	Weak Point					
+Hardness	N/A	0	1	1	1	1	0	0	0	2	-2					
+Skell Targetable	Yes	Yes	No	No	No	No	Yes	No	No	Yes	Yes					
+Exposed by -											Breaking Horn					
+																
+Species Drops																
+Materials	Lead Carapace	Refined Horn	Falsaxum Shell	Giant Falsaxum Jaw	Thick Falsaxum Horn	Gremlin Stone	Green Crystal									
+Dropped From -	All	All	Abdomen, Tail	Head	Horn, Back Spines	Head, Weak Point	Head, Weak Point									
+																
+Use in Augments	Beam Resistance Up	Melee Accuracy Boost	Physical Resistance Up (Low Level)	Physical Attack Plus (Low Level)	Melee Attack Boost (Low Level)	Extend Critical Power	Reflect Damage Up (I Only)									
+	SpecUp.BEAM-RES	Boost.M-ACC	SpecUp.PHYS.RES (Low Level)	AttributeDMG.PHYS (Low Level)	Boost.M-ATK (Low Level)		Reflect.DAMAGE-UP (I Only)									
+		Weapon Attack Power Up (Low Level)														
+		Custom.WP-ATK (Low Level)														
+																
+Use in Gear Crafting	N/A															
+																
+Armor	Sakuraba Skell Wear															
+Weapons	No															
+Skell Armor	No															
+Skell Weapons	Back - Javelin	Shoulder - E-Scythe	Sidearm - Heat-Edge													

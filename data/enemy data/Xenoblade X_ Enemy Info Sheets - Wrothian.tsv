@@ -1,0 +1,71 @@
+	Wrothian									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Wrothian Enacter	425	825	880	712	800	800	750	S		
+Wrothian Sneaker	403	712	840	712	840	900	750	S		
+Wrothian Male	850	1100	1100	950	1000	1000	1000	S		
+Wrothian Female	807	950	1050	950	1050	1125	1000	S		
+Gi Ziordo	1870	1250	1100	950	1000	1000	1200	S		
+Gi Ziorde	1700	1200	1200	1000	1000	1150	1200	S		
+Gi Zang (The Duel)	1275	1100	1100	950	1000	1100	1000	S		
+Gi Zang (The Lurker & The Gauntlet)	2550	1150	1200	1000	1100	1000	1050	S		
+										
+Resistances	Wrothian Male	Wrothian Female	Gi Zang (The Duel)	Gi Zang (The Lurker and The Gauntlet)	Gi Ziordo & Gi Ziorde					
+Physical	0	0	5	10	0					
+Beam	-25	-25	-20	-15	-25		Wrothian Male			
+Ether	10	10	15	20	10					
+Thermal	0	0	5	10	0					
+Electric	0	0	5	10	0					
+Gravity	0	0	5	10	0					
+Debuff Immunity	Control	Control	Control	Control	Control					
+Debuff Resistant	Topple & Control	Topple, Control & Slow Arts	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Fatigue & Slow Arts	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Fatigue & Slow Arts	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Fatigue & Slow Arts					
+								Wrothian Female		
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Wrothian Males	60% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds					
+	Wrothian Females	25% Health	Boosts Melee Accuracy, Ranged Accuarcy Up, Boosts Evasion	IV	60 Seconds					
+	Gi Zang	25% Health	Melee & Boosts Ranged Attack, Boosts Potential, Lowers Evasion, Lowers Melee & Ranged Accuracy, Mobility Debuff Immunity & 30% Damage Reduction	III	60 Seconds					
+	Gi Ziordo and Go Ziorde	Partner Defeated	Melee & Boosts Ranged Attack, Boosts Potential, Lowers Evasion, Lowers Melee & Ranged Accuracy, Mobility Debuff Immunity & 40% Damage Reduction	V	60 Seconds					
+										
+Calm	Gi Ziorde	Art - Nimble Wind	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion & Decoy x100	IV	80 Seconds					
+	Gi Zang	Art - Reverse Wave+	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential & Enables Counter Spike	II	Indefinite					
+										
+Aware	Wrothian Males 	Art - Wildfire	Boosts Melee Attack, Boosts Melee Accuracy & Critical Chance +30	I	60 Seconds					
+	Wrothian Females	Art - Phantasm	Boosts Melee Attack, Boosts Melee Accuracy & Boosts Evasion	I	60 Seconds					
+	Gi Ziordo	Art - Hungry Flame	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential & Critical Chance +40	III	80 Seconds					
+										
+Spike	Gi Zang	Calm Active	Physical Damage (15% of Total PTL) and Slow Arts	Counter						
+										
+Enemy Skill	Gi Ziorde, Gi Ziordo, Gi Zang, Ga Bewhe, Zo Zazhi, Gu Ladha	Passive	Immunity to Brimstone Rain and EM Storm Weather Effects							
+	Gi Ziorde, Gi Ziordo & Gi Zang	Inflicting Damage	Critical Chance +20							
+							Gi Ziordo Only	Gi Ziorde Only	Gi Zang Only	
+Wrothian Male Arts List	Ranged Attack	Precision Shot	Tiger Run	Moleslayer	Triple Slash	Wildfire	Hungry Flame 	Nimble Wind	Reverse Wave+	Meteor Shower
+Type	Ranged	Ranged	Melee	Melee	Melee	Aura	Aura	Aura	Aura	Melee
+Target	Single Target	Single Target	Single Target	Nearby Enemies	Single Target	Self	Self	Self	Self	Single Target
+No. of Hits	1	1	2	1	3	N/A	N/A	N/A	N/A	5
+Attribute	Thermal	Thermal	Physical	Physical	Physical	N/A	N/A	N/A	N/A	Physical
+Damage Scaling	100%	200%	200% / 160% (Gi Ziordo) / 150% (Gi Ziorde)	160% / 240% (Gi Ziordo) / 150% (Gi Ziorde)	160%	N/A	N/A	N/A	N/A	500%
+Recast	3 Seconds	20 Seconds	15 Seconds	15 Seconds	15 Seconds	120 Seconds	120 Seconds	120 Seconds	120 Seconds	60 Seconds
+Boost						Aware	Aware III	Calm IV	Calm II	Critical Chance +10 (Standard) / Vs. Toppled Target: 50% Damage Boost (Gi Zang)
+Debuff		Blaze / Vs. Airborne Targets: Topple III (Gi Ziordo)	N/A / Physical Res Down III (Gi Ziordo)  / Fatigue III & Vs. Staggered Targets: Topple III (Gi Ziorde & Gi Zang Only)	Flinch / Flinch V & Slow Arts III (Gi Ziordo) / Stagger V & Blackout III (Gi Ziorde & Gi Zang)						HP Recovery Down III (Gi Zang) 
+Disabled by Destroying -										
+Homing										
+										
+										
+Wrothian Female Arts List	Cleave	Katon	Katon Extended	Hornet	Flying Swallow	Phantasm	Coil Slash			
+Type	Melee	Ranged	Ranged	Ranged	Melee	Aura	Melee			
+Target	Single Target	Single Target	Multi Target	Nearby Enemies	Single Target	Self	Nearby Enemies			
+No. of Hits	1	1	4	3	4	N/A	4			
+Attribute	Physical	Thermal	Thermal	Physical	Physical	N/A	Physical			
+Damage Scaling	100%	100%	150%	160%	200%	N/A	400%			
+Recast	3 Seconds	3 Seconds	5 Seconds	15 Seconds	15 Seconds	120 Seconds	40 Seconds			
+Boost					Critical Chance +5	Aware	Critical Chance +10			
+Debuff				Slow Arts						
+Disabled by Destroying -										
+Homing		Yes	Yes							
+										
+Appendages	Main Body									
+Hardness	N/A									
+Skell Targetable	Yes									
+Exposed by -										
+										
+Species Drops	N/A									

@@ -1,0 +1,53 @@
+	Aprica												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Oskar, the Summer Squall			Sviatoslav, the Reproachful
+Aprica	6900	2300	950	2300	1100	700	2000	XL					
+Large Aprica	1435	1725	950	1725	1100	700	1500	L					
+Aprica Tyrant	15525	2415	997	2415	1155	735	2100	XL					
+													
+Resistances	Aprica	Aprica Tyrant											
+Physical	0	5											
+Beam	0	5											
+Ether	-25	-20											
+Thermal	-50	-45											
+Electric	0	5											
+Gravity	0	5											
+Debuff Immunity		Control											
+Debuff Resistant	Topple, Control & Stun	Stagger, Topple, Stun, Control & Virus											
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Aprica	Break Back	Boosts Evasion, Mobility Debuff Immunity, 35% Damage Reduction	IV	60 Seconds								
+	Aprica Tyrant	Break Back	Boosts Evasion, Mobility Debuff Immunity, 40% Damage Reduction	V	60 Seconds								
+													
+Reflect	Sviatoslav, the Reproachful	Passive	Reflects Ether Damage										
+													
+Species Arts List	Stomp	Scream	Wood Horn	Ether Laser 	Ether Field								
+Type	Melee	Ranged	Melee	Ranged	Ranged								
+Target	Floor Around Caster	Targeted Blast	Single Target	Multi Target	Floor Around Caster								
+No. of Hits	1	1	1	8	3								
+Attribute	Physical	Physical	Physical	Ether	Ether								
+Damage Scaling	100%	100%	160%	170%	425%								
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds								
+Boost					Critical Chance +10								
+Debuff		Ether Res Down	Knockback II										
+Disabled by Destroying -			Antler	Antler	Antler								
+Homing				Yes									
+													
+Appendages	Main Body	Left Antler	Right Antler	Back	Exposed Back								
+Hardness	N/A	1	1	0	-1								
+Skell Targetable	Yes	Yes	Yes	Yes	No								
+Exposed by -					Breaking Back								
+													
+Species Drops													
+Materials	Rough Skin	Slender Horn	Evergreen Aprica Antlers	Redwood Aprica Antlers	Aprica Back Moss	Fine Aprica Wood							
+Dropped From -	All	All	Horns	Horns	Back	Exposed Back							
+													
+Use in Augments	Rising Energy Mist Screen*	EM Storm Screen*	Artful Execution Surge (Low Level)	Max HP Boost	Incapacitation Surge (Low Level)	Overdrive Surge (Low Level)							
+	Weather.RISING-E-MIST-RES*	Weather.EM-STORM-RES*											
+													
+Use in Gear Crafting	N/A												
+													
+Armor	Grenada Medium Wear												
+Weapons	No												
+Skell Armor	No												
+Skell Weapons	No												

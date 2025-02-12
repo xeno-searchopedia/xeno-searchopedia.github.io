@@ -1,0 +1,62 @@
+	Saltat													
+														
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Sapara, the Laconic				Wenzel, the Inebriated
+Golden Saltat	1200	1072	1000	1072	1000	1000	1100	M						
+Demonic Saltat	1250	1100	1025	1100	1025	1025	1100	M						
+Sky Saltat	1350	1155	1050	1155	1050	1050	1100	M						
+Galaxial Saltat	1500	1210	1100	1210	1100	1100	1100	M						
+Sapara & Wenzel	2700	1125	1050	1125	1050	1050	1155	M						
+Aria & Zorn	2812	1155	1076	1155	1076	1076	1155	M						
+Zdenka & Rolf	3037	1212	1102	1212	1102	1102	1155	M						
+Jarrosch & Bressole	3375	1270	1155	1270	1155	1155	1155	M						
+														
+Resistances	Saltat	Saltat Tyrant												
+Physical	0	5												
+Beam	0	5												
+Ether	-25	-20												
+Thermal	-50	-45												
+Electric	0	5								Aria, the Zauberflote				Zorn, the Wanderer
+Gravity	0	5												
+Debuff Immunity		Control												
+Debuff Resistant	Topple & Control	Topple & Control												
+														
+Auras	Members	Trigger	Effect	Tier										
+Enrage	Saltat	70% Health, or Break Jewel	Boosts Melee and Ranged Attack, Boosts Potential, Lowers Melee and Ranged Accuracy	III										
+	Saltat Tyrant	70% Health, or Break Jewel	Boosts Melee and Ranged Attack, Boosts Potential, Lowers Melee and Ranged Accuracy	IV										
+														
+	Open Palm Stance				Switch Hit Stance									
+Species Arts List	Ether Sphere	Rallying Roar	Dance Dance Dance	Guard	Avian Combo	Rising Bird	Mach Punch	Flying Megaton						
+Type	Ranged	Ranged	Buff	Aura	Melee	Melee	Melee	Melee						
+Target	Single Target	Nearby Enemies	Self	Self	Single Target	Nearby Enemies	Single Target	Nearby Enemies						
+No. of Hits	4	1	N/A	N/A	3	3	1	1						
+Attribute	Ether	Physical	N/A	N/A	Physical	Physical	Electric	Gravity						
+Damage Scaling	85%	200%	N/A	N/A	100%	500%	160%	140%						
+Recast	3 Seconds	15 Seconds	40 Seconds	60 Seconds	3 Seconds	60 Seconds	15 Seconds	15 Seconds		Zdenka, the Raucous				Rolf, the Sonorous
+Boost			Boosts Ranged Attack or Boosts Evasion (Galaxial Saltat)	Defending		Critical Chance +10								
+Debuff		Physical Res Down				Stagger	Vs. Airborne Target: Topple	Flinch						
+Disabled by Destroying -						Jewel								
+Homing														
+														
+Appendages	Main Body	Left Wing	Right WIng	Jewel										
+Hardness	N/A	0	0	0										
+Skell Targetable	Yes	No	No	No										
+Exposed by -														
+														
+Species Drops														
+Materials	Filthy Wing	Vibrant Plume	Glossy Saltat Fan	Golden Jewel	Demonic Jewel	Sky Jewel	Galaxial Jewel	Saltat Horn						
+Dropped From -	All	All	Wing	Jewel	Jewel	Jewel	Jewel	All						
+														
+Use in Augments	Danger Surge (Low Level)	Fog Screen*	Visual Cloaking (Low Level)	EXP Boost	Treasure Sensor	Treasure Sensor (Low Level)	N/A	High Danger Surge		Jarrosch, the Sensational				Bressole, the Fugitive
+		Weather.FOG-RES*	Cloak.SIGHT (Low Level)											
+														
+														
+														
+														
+														
+Use in Gear Crafting		Six Stars Ritual Attire					US0232 Police Frame							
+														
+Armor	Sakuraba Light Wear (Low Level)													
+	Six Stars Light Wear													
+Weapons	Yes													
+Skell Armor	No													
+Skell Weapons	No													

@@ -1,0 +1,59 @@
+	Gerrid								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Bartley, the Conflagration
+Gerrid	1687	1650	1100	1500	1100	1050	1650	L	
+Small Gerrid	1350	1210	1100	1100	1100	1050	1210	M	
+Medium Gerrid	1147	1100	1100	999	1100	1050	1100	S	
+Tyrants	3036	1270	1155	1154	1155	1102	1270	M	
+									
+Resistances	Gerrids	Gerrid Tyrants							
+Physical	0	0							
+Beam	0	0							
+Ether	-25	-25							
+Thermal	-50	-50							
+Electric	0	0							
+Gravity	0	0							
+Debuff Immunity	Control	Control							
+Debuff Resistant	Topple, Control & Virus	Topple, Control & Virus							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Gerrids	50% Health, or Break Both Tentacles	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+	Gerrid Tyrants	50% Health, or Break Both Tentacles	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds				
+									
+Calm	All	Break Back	Enables Proximity Spike Damage	I					
+									
+Spike	All	Calm Active	Ether Damage every 2 Secs (100% of Total PTL)	Proximity					
+									
+Enemy Skill	Bartley, the Conflagration	Passive	50% Arts Cooldown Reduction						
+									Daemon, the Undertaker
+Species Arts List	Stomp	Roar	Body Press	Ether Shot	Acid Bomber	Hypno Laser	Spiral Laser		
+Type	Melee	Ranged	Melee	Ranged	Ranged	Ranged	Ranged		
+Target	Single Target	Nearby Enemies	Floor Around Caster	Single Target	Nearby Enemies	Enemies Ahead	Single Target		
+No. of Hits	1	1	1	2	1	1	1		
+Attribute	Physical	Physical	Gravity	Ether	Ether	Ether	Electric		
+Damage Scaling	100%	100%	140%	170%	204%	85%	500%		
+Recast	3 Seconds	15 Seconds	15 Seconds	3 Seconds	20 Seconds	30 Seconds	60 Seconds		
+Boost			Critical Chance +10				20% Damage Boost per Debuff on Target		
+Debuff		Electric Res Down	Stagger II		Virus	Control	Flinch II & Taunt		
+Disabled by Destroying -			Torso		Shell	Both Tentacles			
+Homing				Yes			Yes		
+									
+									
+Appendages	Main Body	Left Tentacle	Right Tentacle	Torso	Back				
+Hardness	N/A	0	0	2	0				
+Skell Targetable	Yes	Yes	Yes	Yes	Yes				
+Exposed by -			Breaking Left Tentacle						
+									
+Species Drops									
+Materials	Lead Carapace	Active Cells	Odorous Tentacle	Gerrid Navel	Gerrid Shell	Clear Gerrid Soup	Cloudy Gerrid Soup		
+Dropped From -	All	All	Tentacles	Torso	Back	All	All		
+									
+Use in Augments	Beam Resistance Up	N/A	Reflect Damage Up V	Soft Touch (High Level)	Boosts Evasion (High Level)	Potential Boost (High Level)	Reflect Damage Up (High Level)		
+	SpecUp.BEAM-RES		Reflect.DAMAGE-UP V		SpecUp.EVA (High Level)	Boost.PTL (High Level)	Reflect.DAMAGE-UP V (High Level)		
+							Aura Rapid Cooldown (Low Level)		
+Use in Gear Crafting	N/A	Original & Masterstroke Ranged Weaponry							
+									
+Armor	Meredith Light Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	No								

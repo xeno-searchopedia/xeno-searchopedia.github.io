@@ -1,0 +1,96 @@
+	Telethia																								
+																									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size																	
+Telethia Plume	10000	1500	1500	1500	1200	1400	1400	XXL																	
+Telethia, the Endbringer	80000	4500	4500	4500	1400	1400	1400	XXL																	
+																									
+Resistances	Telethia Plume	Telethia, the Endbringer																							
+Physical	50	50																							
+Beam	50	50																							
+Ether	50	50																							
+Thermal	50	50																							
+Electric	50	50																							
+Gravity	50	50																							
+Debuff Immunity	Control, Sleep, Virus, Time Bomb, Max TP Down, Flight Down	Topple, Stun, Sleep, Control, Virus, Max TP Down, Flight Down & Time Bomb																							
+Debuff Resistant	Stagger, Topple, Stun & Control	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Fatigue, Blackout, Slow Arts, Physical/Beam/Ether/Thermal/Electric/Gravity Res Down, Debuff Res Down, HP Recovery Down, Blaze & Shock																							
+																									
+Auras	Members	Trigger	Effect	Tier	Duration																				
+Enrage	Telethia Plume	Art - Telethia Rage	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Critical Chance +50, Mobility Debuff Immunity, and 40% Damage Reduction	V	300 Seconds																				
+	Telethia, the Endbringer	Art - Telethia Rage	All Stats Up, 30% Damage Reduction, and Enables Proximity Spike Damage	I	Indefinite																				
+																									
+Calm	Telethia	Art - Reflect Elements - "Telethia has Gained Damage Reflection for Thermal and Electric Attacks"	Electric Attack Plus 75% & Enables Damage Reflect	III	300 Seconds																				
+	Telethia	Art - Reflect Photon - "Telethia has Gained Damage Reflection for Beam and Ether Attacks"	Ether Attack Plus 75% & Enables Damage Reflect	III	300 Seconds																				
+	Telethia Plume	Art - Soul Read - "Telethia has Begun to Read Your Thoughts"	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion, Decoy (x100)	I	300 Seconds																				
+	Telethia, the Endbringer	Art - Soul Read - "Telethia has Begun to Read Your Thoughts"	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion, Boosts Critical Chance, Decoy (x150)	III	Indefinite																				
+	Telethia Plume	Art - Ether Barrier - "Telethia has Gained Increased Defence"	Regen (0.5% of Base HP) every 10 Seconds, and 30% Damage Reduction	I	300 Seconds																				
+																									
+Aware	Telethia 	Art - Telethia Zone - "Telethia is Charging Up"	Enables Proximity Spike Damage and Counter Spike Debuff	I	300 Seconds																				
+	Telethia 	Art - Ether Charge - "Telethia has Begun Generating a Flow of Powerful Ether"	Boosts Melee Accuracy, Boosts Ranged Accuracy, Grants Supercharge	III	300 Seconds																				
+	Telethia Plume	Art - Accelerator - "Telethia's Movements have Quickened"	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	II	300 Seconds																				
+																									
+Spike	Telethia 	Telethia Zone Active	Ether Damage (10% of Total PTL) Every 2 Seconds	Proximity																					
+	Telethia 	Telethia Zone Active	Ether Damage (10% of Total PTL) Every 2 Seconds & Inflicts Slow Arts	Counter																					
+	Telethia, the Endbringer	Enrage Active	Ether Damage Every 2 Seconds - (50% of Total PTL)	Proximity																					
+																									
+Enemy Skill	Telethia Plume	Receiving Damage	5% Chance of Boosts Evasion III or Critical Power III																						
+	Telethia, the Endbringer	Passive	Regen (0.5% of Base HP) every 10 Seconds																						
+	Telethia, the Endbringer	Receiving Damage	50% Topple Suppression																						
+	Telethia, the Endbringer	Inflicting Damage	Low HP = Up to 50% Damage Boost																						
+																									
+Reflect	Telethia Plume	Reflect Elements Active	Thermal & Electric Damage																						
+	Telethia Plume	Reflect Photon Active	Beam & Ether Damage																						
+																		Auras							Endbringer Only
+Telethia Plume Arts List	Slash	Ether Shot	Tail Swing	Multi Ether Laser		Collider X		Ether Storm	Energy Drain	Negentropy	Sedative Mind	Regenerate	Telethia Roar	Ether Breaker		Big Bang		Ether Barrier	Accelerator	Ether Charge	Soul Read	Reflect Elements	Reflect Photon	Telethia Zone	Telethia Rage
+Type	Melee	Ranged	Melee	Ranged		Ranged		Ranged	Ranged	Aura	Ranged	Buff	Ranged	Ranged		Ranged		Aura	Aura	Aura	Aura	Aura	Aura	Aura	Aura
+Target	Enemies Ahead	Single Target	Floor Around Caster	Multi Target		Nearby Enemies		Nearby Enemies	Nearby Enemies	Self	Nearby Enemies	Self	Nearby Enemies	Enemies Ahead		Nearby Enemies		Self	Self	Self	Self	Self	Self	Self	Self
+No. of Hits	1	1	1	8		1		1	1	1	1	1	1	3		1		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Attribute	Physical	Ether	Physical	Ether		Electric		Ether	Ether	N/A	Ether	N/A	Physical	Ether	Gravity	Ether	Gravity	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Damage Scaling	100%	85%	200%	136%		100%		204%	2550 TP/GP	N/A	63%	850 x PTL	100%	425%	420%	425%	420%	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds		15 Seconds		30 Seconds	60 Seconds	120 Seconds	30 Seconds	300 Seconds	40 Seconds	60 Seconds		60 Seconds		N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Boost						Vs. Sleeping Target: 100% Damage Boost	N/A			Ranged Attack Up III		Restores HP		Negate Ether Reflect	Negate Gravity Reflect			Calm I	Aware II	Aware III	Calm I	Calm III	Calm III	Aware I	Enrage
+Debuff	Knockback III on foot, Knockback I in Skell		Fatigue V & Topple VI	N/A	Vs. Airborne Targets: Topple IV	Shock V	Shock V, Vs. Toppled Target: Stun V	Ether Res Down V	Debuff Res Down V & Drains TP/GP		Sleep V		Flinch V & HP Recovery Down V	Launch III on foot, Launch in skell		Launch V & Drains 100 TP/GP									
+Disabled by Destroying -			Tail																						
+Homing		Yes		Yes																					
+																				Auras					
+Telethia, the Endbringer Arts List	Slash	Ether Shot	Tail Swing	Multi Ether Laser		Collider X		Ether Storm	Energy Drain	Negentropy	Sedative Mind	Regenerate	Telethia Roar	Ether Breaker		Big Bang		Break All	Massive Tear	Ether Charge	Soul Read	Reflect Elements	Reflect Photon	Telethia Zone	Telethia Rage
+Type	Melee	Ranged	Melee	Ranged		Ranged		Ranged	Ranged	Aura	Ranged	Buff	Ranged	Ranged		Ranged		Ranged	Reanged	Aura	Aura	Aura	Aura	Aura	Aura
+Target	Enemies Ahead	Single Target	Floor Around Caster	Multi Target		Nearby Enemies		Nearby Enemies	Nearby Enemies	Self	Nearby Enemies	Self	Nearby Enemies	Enemies Ahead		Nearby Enemies		Enemies Ahead	Nearby Enemies	Self	Self	Self	Self	Self	Self
+No. of Hits	1	1	1	8		1		1	1	1	1	1	1	3		1		3	1	N/A	N/A	N/A	N/A	N/A	N/A
+Attribute	Physical	Ether	Physical	Ether		Electric		Ether	Ether	N/A	Ether	N/A	Physical	Ether	Gravity	Ether	Gravity	Ether	Ether	N/A	N/A	N/A	N/A	N/A	N/A
+Damage Scaling	100%	85%	200%	136%		100%		204%	2550 TP/GP	N/A	63%	850 x PTL	100%	425%	420%	425%	420%	595%	595%	N/A	N/A	N/A	N/A	N/A	N/A
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds		15 Seconds		30 Seconds	60 Seconds	120 Seconds	30 Seconds	300 Seconds	40 Seconds	60 Seconds		60 Seconds		60 Seconds	60 Seconds	300 Seconds	300 Seconds	180 Seconds	180 Seconds	300 Seconds	N/A
+Boost						Vs. Sleeping Target: 200% Damage Boost	N/A			Ranged Attack Up III		Restores HP & Regenerates All Appendages		Negate Ether Reflect	Negate Gravity Reflect			Negate Ether Reflect		Aware III	Calm III	Calm III	Calm III	Aware I	Enrage
+Debuff	Knockback III on foot, Knockback I in Skell		Fatigue V & Topple VI	N/A	Vs. Airborne Targets: Topple V	Shock V	Shock V, Vs. Toppled Target: Stun V	Ether Res Down V	Debuff Res Down V & Drains TP/GP		Sleep V		Flinch V & Control V	Launch III on foot, Launch in skell		Launch V & Drains All TP/GP		Launch IV on foot, Launch II in Skell & HP Recovery Down V	Launch V, HP Recovery Down V and Drains All TP/GP						
+Disabled by Destroying -			Tail																						
+Homing		Yes		Yes																					
+										Telethia															
+Appendages	Main Body	Head	Chest	Tail	Left Wing	Left Wingtip	Right Wing	Right Wingtip																	
+Hardness	N/A	0	0	0	0	0	0	0																	
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes																	
+Exposed by -																									
+																									
+Species Drops				Nemesis Only																					
+Materials	Telethia Mirror	Infinite Telethia Pen	Telethia Ring	Telethia Stem Cell	Telethia Emerald																				
+Dropped From -	All	All	All	Awarded for Appraisals	Random Appendage Fragment after Nemesis is Beaten																				
+																									
+Use in Augments	N/A																								
+																									
+Use in Gear Crafting	Lv. 40 Archetype Weaponry	Lv. 60 Archetype Weaponry	White Bunnyband	Lv. 60 Archetype Weaponry	Supercivilsation Attire																				
+	Lv. 60 Archetype Weaponry	Black Bunnyband	Bunny Attire	Supercivilsation Attire	Red Bunnyband																				
+	Six Stars Ritual Attire			Red Bunnyband	White Bunnyband																				
+	Black Bunnyband			White Bunnyband	Bunny Attire																				
+				Bunny Attire																					
+																									
+Armor	Hibiscus (Plume Only)																								
+Weapons	N/A																								
+Skell Armor	N/A																								
+Skell Weapons	N/A																								
+																									
+Extra	Plume	Endbringer																							
+	Guardian's Skull	Reflect: Ether																							
+	Guardian's Plate	Reflect.ADD-ETHER																							
+	Guardian's Tail																								
+	Guardian's Left Wing																								
+	Guardian's Right Wing																								
+	Guardian's Left Plume																								
+	Guardian's Right Plume																								

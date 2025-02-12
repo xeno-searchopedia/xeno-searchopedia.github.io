@@ -1,0 +1,51 @@
+	Aetrygon							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Aetrygon	950	1100	925	990	1000	1100	1100	M
+Large Aetrygon	1188	1500	925	1350	1000	1100	1500	L
+Ramus	1670	1575	971	1416	1050	1155	1575	L
+Vilem	2137	1155	971	1039	1050	1155	1155	M
+								
+Resistances	Aetrygon	Aetrygon Tyrant				Ramus, the Supersonic		
+Physical	0	5						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	0	5						
+Electric	-50	-45						
+Gravity	-25	-20						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Aetrygons above Lv. 20	Break Horn	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	IV	60 Seconds			
+	Aetrygon Tyrants	Break Horn	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	V	60 Seconds			
+								
+Species Arts List	Horn Shot	Gunwing	Horn Charge					
+Type	Ranged	Ranged	Melee			Vilem, the Gold-Scaled		
+Target	Targeted Blast	Single Target	Single Target					
+No. of Hits	2	4	1					
+Attribute	Ether	Ether	Physical					
+Damage Scaling	170%	87%	400%					
+Recast	15 Seconds	3 Seconds	40 Seconds					
+Boost								
+Debuff			Stagger II					
+Disabled by Destroying -	Horn		Horn or Back					
+Homing	Yes							
+								
+Appendages	Main Body	Horn	Back					
+Hardness	N/A	3	0					
+Skell Targetable	Yes	Yes	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Rotten Meat	Fresh Fish Meat	Amber Aetrygon Horn	Beryl Aetrygon Horn	Light-Speed Jet Fin			
+Dropped From -	All	All	Horn	Horn	Back			
+								
+Use in Augments	Evasion Drive (Low Level)	Max HP Drive (Low Level)	SpecUp.FUEL-PARK	Ranged Attack Boost	N/A			
+				Boost.R-ATK				
+Use in Gear Crafting	N/A							
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

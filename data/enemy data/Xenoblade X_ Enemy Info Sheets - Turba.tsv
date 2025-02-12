@@ -1,0 +1,57 @@
+	Turba							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Turba	850	1100	1025	1045	1000	1020	1100	M
+Small Turba	723	1100	1025	1045	1000	1020	1100	S
+Turba Tyrant	1912	1155	1076	1097	1050	1071	1155	M
+								
+Resistances	Turba	Turba Tyrant					Tormenta, the Scarlet-Clad	
+Physical	35	40						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	-25	-20						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Turba above Level 20	Destroy Mouth	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds			
+	Turba Tyrants	Destroy Mouth	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds			
+								
+Species Arts List	Tackle	Acid Bolt	Flash	Bolt Strike			Feld, the Indigo-Clad	
+Type	Melee	Ranged	Ranged	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Single Target				
+No. of Hits	1	2	1	1				
+Attribute	Physical	Electric	Ether	Electric				
+Damage Scaling	100%	150%	85%	200%				
+Recast	3 seconds	6 seconds	15 seconds	15 seconds				
+Boost								
+Debuff			Flinch II, Blackout 	Stun 				
+Disabled by Destroying -		Mouth		Stinger				
+Homing								
+								
+Appendages	Main Body	Mouth	Stinger					
+Hardness	N/A	0	1					
+Skell Targetable	Yes	No	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Broken Antenna	Musky Nectar	Poisonous Needle	Turba Straw	Turba Nectar	Black Turba Nectar		
+Dropped From -	All	All	Stinger	Mouth	All	All		
+								
+Use in Augments	Art Draw Surge (I-X)	Resist Sleep*	Stabiliser*	Firing Range Up	Extend Aura	Overdrive: Recover HP		
+		Resist.SLEEP*	Custom.WP-STABLE*	Custom.WP-RANGE		Overdrive.FRAME-HP		
+			Extend Blaze*					
+			TimeEX.BLAZE*					
+								
+								
+Use in Gear Crafting			Lv. 20 Archetype Weaponry					
+								
+								
+Armor	Sakuraba BLADE Wear (Low Level)							
+	Sakuraba Skell Wear							
+								
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

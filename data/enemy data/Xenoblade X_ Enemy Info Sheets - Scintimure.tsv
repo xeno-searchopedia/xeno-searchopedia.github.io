@@ -1,0 +1,69 @@
+	Scintimure															
+																
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Eddie, the Electric Heat						Zohan, the Thunderbolt
+Scintimure	6300	1950	1200	2150	1200	1075	2000	XL								
+Tainted Scintimure	6600	2000	950	2250	1000	1050	2000	XL								
+Large Scintimures	1310	1462	1200	1612	1200	1075	1500	L								
+XXL Scintimures	10496	2925	1200	3300	1200	1075	3000	XXL								
+Scintimure Tyrants	14175	2047	1260	2257	1260	1128	2100	XL								
+Zohan	23616	3070	1260	3465	1260	1128	3150	XXL								
+Coil	23616	3070	1260	3385	1260	1128	3150	XXL								
+Squad Mission Scintimure 1 (Resource Seizure & Free Electricity)	1046	1072	1200	1182	1200	1075	1100	M								
+Squad Mission Scintimure 2 (Storm and Heat)	4961	2047	1260	2257	1260	1128	2100	XL								
+																
+Resistances	Scintimure	Tainted Scintimure	Scintimure Tyrant	Eddie, the Electric Heat												
+Physical	0	0	5	5												
+Beam	-50	-50	-45	-45												
+Ether	-25	-25	-20	-20												
+Thermal	0	0	5	25												
+Electric	10	10	15	15												
+Gravity	-25	-25	-20	-20												
+Debuff Immunity	Shock	Control, Sleep & Shock	Shock & Control	Shock & Control												
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun	Topple, Control & Stun	Topple, Control & Stun												
+																
+Auras	Members	Trigger	Effect	Tier	Duration											
+Enrage	Scintimures	50% Health, or Break Either Tentacle	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds											
+	Scintimure Tyrants	50% Health, or Break Either Tentacle	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds											
+																
+Calm	All	Art - Thunder Spike	Enables Proximity Spike Damage	III (Tier Increases past Lv. 21)	80 Seconds											
+Spike	All	Calm Active	Electric Damage Every 2 Seconds - 20% 	Proximity												
+Enemy Skill	Scintimure (Storm and Heat)	Passive	Regen (1.5% of Base HP) every 10 Seconds	II												
+Reflect	Coil, the Neverending	Passive	Reflects Electric Damage													
+																
+Species Arts List	Tackle	Collider	Thunder Shot	Lightning Spear	Thunder Flash	Thunder Spike										
+Type	Melee	Ranged	Ranged	Melee	Ranged	Aura/Potential										
+Target	Single Target	Nearby Enemies	Single Target	Single Target	Multi Target	Self										
+No. of Hits	1	1	2	2	4	N/A										
+Attribute	Electric	Electric	Electric	Electric	Electric	N/A										
+Damage Scaling	100%	200%	100%	160%	200%	N/A										
+Recast	3 Seconds	15 Seconds	3 Seconds	15 Seconds	60 Seconds	100 Seconds										
+Boost				Critical Chance +10		Calm (See above)										
+Debuff				Stun & Stagger II	Shock					Legato, the Sky Watcher						Coil, the Neverending
+Disabled by Destroying -				Either Tentacle	Either Tentacle											
+Homing			Yes													
+																
+Appendages	Main Body	Head	Tail	Left Tentacle	Right Tentacle											
+Hardness	N/A	1	2	0	0											
+Skell Targetable	Yes	Yes	Yes	No	No											
+Exposed by -																
+																
+Species Drops																
+Materials	Small Dorsal Fin	Pristine Spicule	Scintimure Fat	Red Scintimure Tentacle	Black Scintimure Tentacle	White Scintimure Tentacle	Purple Scintimure Tentacle	Rich Scintimure Meat								
+Dropped From -	All	All	Head, Tail, Tentacle	Tentacle	Tentacle	Tentacle	Tentacle	Tail, Head, Tentacle								
+																
+Use in Augments	Piscinoid Slayer*	N/A	Max TP Boost (High Level)	Crush: Gain TP (High Level)	Electric Attack Plus (Low Level)	Night.MR-ACC*	Electric Resistance Up (High Level)	HP Rebound (High Level)								
+	Slayer.PISCINOID*			Crush.GP (High Level)	AttributeDMG.ELEC (Low Level)		SpecUp.ELEC.RES (High Level)									
+	Piscinoid Criticals Up*															
+	CritUp.PISCINOID*															
+																
+																
+Use in Gear Crafting	N/A															
+																
+Armor	Candid Medium															
+Weapons	No															
+Skell Armor	No															
+Skell Weapons	Normal	Tainted														
+	Arm - Beam-Shield	Back - P-Cannon														
+		Back - Lasergun														
+		Back - Railgun														
+		Sidearms - E-Cannon														

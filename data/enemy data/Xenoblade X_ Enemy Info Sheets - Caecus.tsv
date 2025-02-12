@@ -1,0 +1,51 @@
+Caecus										
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Pelicollo, the Panzer
+Caecus	1200	1100	975	1155	1000	950	1100	2		
+Small Caecus	1020	1100	975	1155	1000	950	1100	1		
+Caecus Tyrant	3375	1575	1023	1652	1050	997	1575	3		
+										
+Resistances	Caecus	Caecus Tyrant								
+Physical	0	5								
+Beam	0	5								
+Ether	-25	-20								
+Thermal	-50	-45								
+Electric	0	5								
+Gravity	0	5								
+Debuff Immunity		Control								
+Debuff Resistant	Topple & Control	Topple & Control								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Caecus	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds					
+	Caecus Tyrant	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds					Andrea, the Famished Hunter
+										
+			All Except Pelicollo		Pelicollo Only					
+Species Arts List	Peck	Poison Shot	Hyper Charge	Drop Kick	Mighty Charge	Mega Drop Kick				
+Type	Melee	Ranged	Melee	Melee	Melee	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Single Target	Nearby Enemies	Single Target				
+No. of Hits	1	1	1	1	1	1				
+Attribute	Physical	Ether	Physical	Physical	Physical	Physical				
+Damage Scaling	100%	85%	200%	500%	200%	300%				
+Recast	3 Seconds	3 Seconds	15 Seconds	60 Seconds	15 Seconds	30 Seconds				
+Boost										
+Debuff		Blackout	Stagger	Knockback II	Launch III	Knockback V				
+Disabled by Destroying -			Head		Head					
+Homing		Yes								
+										
+Appendages	Main Body	Head	Posterior							
+Hardness	N/A	1	0							Drake, the Waypost
+Skell Targetable	Yes	No	No							
+Exposed by -										
+										
+Species Drops										
+Materials	Slimy Epithelium	Squishy Cartilage	Bone-in-Thigh Meat	Caecus Crest	Black Meaty Caecus Liver	White Meaty Caecus Liver	Raw Meaty Caecus Liver			
+Dropped From -	All	All	Posterior	Head	All	All	All			
+										
+Use in Augments	Evasion Boost	Electric Resistance Up	Artful Execution Surge	Resist Launch (Low Level)	Thermal Attack Plus (V Only)	SpecUp.APP-HP*	Max HP Boost (Low Level)			
+	Boost.EVA	SpecUp.ELEC.RES		Resist.LAUNCH (Low Level)	AttributeDMG.THERM (V Only)		Boost.HP.MAX (Low Level)			
+										
+Use in Gear Crafting	N/A									
+Armor	Sakuraba BLADE Wear									
+Weapons	No									
+Skell Armor	No									
+Skell Weapons	No									

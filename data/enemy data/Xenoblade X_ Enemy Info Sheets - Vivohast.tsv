@@ -1,0 +1,53 @@
+	Vivohast							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Vivohast	1156	1650	1025	1500	1000	900	1500	L
+Medium Vivohast	925	1210	1025	1100	1000	900	1100	M
+Lockhart	2601	1732	1076	1575	1050	945	1575	L
+								
+Resistances	Vivohast	Lockhart					Lockhart, the Killer of Hope	
+Physical	35	40						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Vivohast	75% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Lowers Melee Accuracy, Lowers Ranged Accuracy	III	60 Seconds			
+	Lockhart	75% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Lowers Melee Accuracy, Lowers Ranged Accuracy	IV	60 Seconds			
+								
+Species Arts List	Strike (Right Arm)	Double Sickle	Acid Breath	Jam	Ether Mortar 	Mantis Pile		
+Type	Melee	Melee	Ranged	Ranged	Ranged	Melee		
+Target	Single Target	Single Target	Frontal Arc	Nearby Enemies	Targeted Blast	Floor Around Caster		
+No. of Hits	1	1	1	1	1	1		
+Attribute	Physical	Electric	Ether	Ether	Ether	Physical		
+Damage Scaling	100%	200%	127%	85%	170%	500%		
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds		
+Boost		Below 25% HP: Boosts Damage						
+Debuff			Physical Res Down	HP Recovery Down		Stagger II		
+Disabled by Destroying -	Right Arm	Either Arm			Tail	Tail		
+Homing					Yes	Yes		
+								
+Appendages	Main Body	Left Arm	Right Arm	Mouth	Tail			
+Hardness	N/A	1	1	-1	0			
+Skell Targetable	Yes	No	No	No	Yes			
+Exposed by -				Destroying Left Arm				
+								
+Species Drops								
+Materials	Sticky Mucus	Pristine Insect Jaw	Vivohast Crescent Hook	Sharp Vivohast Jaw	Moving Vivohast Tail			
+Dropped From -	All	All	Arm	Mouth	Tail			
+								
+Use in Augments	Chimeroid Criticals Up (Low Level)	Arts: Recover HP (Low Level)	Electric Attack Plus V	CutTime.DEBUFF*	TimeEx.SLEEP*			
+	Chimeroid Slayer (Low Level)	Crush: Gain TP						
+	CritUp.CHIMEROID (Low Level)	Crush.GP						
+	Slayer.CHIMEROID (Low Level)							
+								
+Use in Gear Crafting	N/A							
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

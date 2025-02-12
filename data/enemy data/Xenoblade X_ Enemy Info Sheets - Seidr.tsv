@@ -1,0 +1,81 @@
+	Seidr															
+														Enhanced Attack Seidr		Sharnaak's Seidr
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size								
+Type A Seidr	1500	1800	1000	1912	1000	800	1500	L								
+Type B Seidr	1500	1800	1000	1800	1100	800	1500	L								
+Type C Seidr	1500	1800	1000	1875	1050	800	1500	L								
+XL Type A Seidr	7200	2400	1000	2549	1000	800	2000	XL								
+XL Type B Seidr	7200	2400	1000	2400	1100	800	2000	XL								
+XL Type C Seidr	7200	2400	1000	2500	1050	800	2000	XL								
+Enhanced Attack Seidr	16200	2520	1050	2675	1050	840	2100	XL								
+Armored Cruiser Seidr	16200	2520	1050	2520	1155	840	2100	XL								
+Enhanced Defence Seidr	3375	1890	1050	1968	1102	840	1575	L								
+Sharnaak's Seidr	16200	2520	1102	2675	1102	997	2100	XL								
+Badul's Seidr	3375	1890	1260	1890	1260	997	1575	L								
+Ahama's Seidr	3375	1890	1155	1968	1207	997	1575	L								
+Squad Mission Seidr (Secret Activities)	2025	1606	981	1672	1025	847	1338	L								
+Summoned Seidr #1 (Leva'el, the Terminus)	750	1800	1050	1912	1050	950	1500	L								
+Summoned Seidr #2 (Leva'el, the Terminus)	750	1800	1200	1800	1200	950	1500	L								
+Summoned Seidr #3 (Leva'el, the Terminus)	750	1800	1100	1875	1150	950	1500	L								
+																
+Resistances	Seidr	Seidr Tyrant														
+Physical	30	35														
+Beam	-25	-20														
+Ether	10	15														
+Thermal	10	15														
+Electric	-25	-20														
+Gravity	-50	-45														
+Debuff Immunity		Control														
+Debuff Resistant	Topple, Control & Virus	Topple, Control & Virus														
+																
+Auras	Members	Trigger	Effect	Tier	Duration											
+Enrage	Seidrs	30% Health, or Break Shoulder Weapons	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 35% Damage Reduction	IV	60 Seconds											
+	Seidr Tyrants	30% Health, or Break Shoulder Weapons	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 40% Damage Reduction	V	60 Seconds											
+																
+Aware	All	Art - Upshift	Boosts Ranged Attack, Boosts Ranged Accuracy, Critical Chance Up	I												
+																
+Reflect	Sharnaak's Seidr	Passive	Reflects Beam Damage													
+														Armored Cruiser Seidr		Badul's Seidr
+Species Arts List	Double Claw	Energy Cannon	Debilitating Energy	Assault Claw	Multi Laser	Guard	Upshift	Velocity Ray	All-Range Beam	I. Hyper Rail Cannon	II. Maximal Missile	III. Fuse Blower				
+Type	Melee	Ranged	Ranged	Melee	Ranged	Aura	Aura	Ranged	Ranged	Ranged	Ranged	Ranged				
+Target	Single Target	Single Target	Multi Target	Nearby Enemies	Multi Target	Self	Self	Single Target	Nearby Enemies	Single Target	Multi Targeted Blasts	Multi Target				
+No. of Hits	2	2	4	1	3	N/A	N/A	1	1	2	6	2				
+Attribute	Physical	Beam	Beam	Electric	Beam	N/A	Ether	Beam	Beam	Beam	Thermal	Gravity				
+Damage Scaling	100%	100%	100%	200%	160%	N/A	N/A	200%	240%	500%	360%	280%				
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	160 Seconds	15 Seconds	20 Seconds	60 Seconds	60 Seconds	60 Seconds				
+Boost						Defendng	Aware	Low HP = Up to 25% Damage Boost		Critical Chance +10		Removes Buff From Target				
+Debuff			Beam Res Down	Launch II				Stagger II & Fatigue		Knockback V	Blaze, Vs. Airborne Target: Topple III	HP Recovery Down				
+Disabled by Destroying -				Either Leg	Back			Head		Either Shoulder Weapon	Either Shoulder Weapon	Either Shoulder Weapon				
+Homing		Yes	Yes		Yes					Yes	Yes	Yes				
+																
+Appendages	Main Body	Head	Waist	Back	Left Leg	Right Leg	Left Shoulder Weapon	Right Shoulder Weapon								
+Hardness	N/A	0	0	0	0	0	1	1								
+Skell Targetable	Yes	Yes	Yes	No	No	No	Yes	Yes								
+Exposed by -																
+																
+Species Drops																
+Materials	Upgraded Lens	Advanced Lens	Damask Metal	Orichalcum Metal	Amethyst Metal	Turquoise Metal	Advanced Crank	Genuine Chamber	Advanced Chamber	Seidr Control Device	Special Weapons					
+Dropped From -	All	All	Torso, Back	Torso, Back - Sharnaak's Seidr Only	Torso, Back - Badul's Seidr Only	Torso, Back - Ahama's Seidr Only	Legs	Shoulders	Shoulders	Head	Shoulder Weapons					
+																
+Use in Augments	N/A	Beam Attack Plus (High Level)	N/A	Overdrive Surge (High Level)	Aura Surge (High Level)	Art Draw Surge (High Level)	N/A	Ranged Draw Surge (High Level)	N/A	N/A	Type A - Back - R-Cannon					
+		AttributeDmg.BEAM (High Level)									Type B - Shoulder - M-Missile (GO)					
+											Type C - Shoulder - Night-Cage					
+Use in Gear Crafting	SP - Back - Hexad-Partican		Ares 70 Frame				Lv. 60 Skell Frames			Ares 70 Frame						
+	SP - Back - Zenith-Cannon		Ares 90 Frame							Ares 90 Frame						
+	SP - Back - Zweihand-Q									US0860 Excavator Frame						
+	SP - Back - Trident-Anchor															
+	SP - Shoulder - Electric-Flood															
+	SP - Shoulder - Voltaic-Tusk															
+														Enhanced Defence Seidr		Ahama's Seidr
+Armor	No															
+Weapons	Heavy Armor															
+Skell Armor	Yes															
+Skell Weapons	Type A	Type B	Type C													
+																
+	Back - S-Missile (Sakuraba)	Arm - Beam-Shield	Back - Backbomb													
+	Back - S-Missile (Meredith)		Shoulder - F-Grenade													
+	Back - L-Missile (Sakuraba)		Sidearm - Short-Rifle													
+	Back - L-Missile (Meredith)		Sidearm - E-Sniper													
+	Shoulder - M-Missile (Sakuraba)															
+	Shoulder - M-Missile (Grenada)															
+	Shoulder - M-Missile (Meredith)															

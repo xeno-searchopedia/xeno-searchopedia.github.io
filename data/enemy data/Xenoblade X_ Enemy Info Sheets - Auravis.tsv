@@ -1,0 +1,52 @@
+	Auravis												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size					
+Auravis	1312	1537	1025	1462	1000	1050	1500	L					
+Bohdan	14170	2150	1076	2046	1050	1102	2100	XL					
+Gotthard & Auravis (The Savage Protector)	2952	1613	1076	1535	1050	1102	1575	L					
+													
+Resistances	Auravis	Auravis Tyrant & Auravis (The Savage Protector)					Bohdan, the Mistral						Gotthard, the Intimidating
+Physical	0	5											
+Beam	0	5											
+Ether	-25	-20											
+Thermal	-50	-45											
+Electric	0	5											
+Gravity	-25	-20											
+Debuff Immunity		Control											
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun											
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Auravises above Lv. 20	50% or Break Horn or Back	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds								
+	Auravis Tyrants	50% or Break Horn or Back	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds								
+													
+Species Arts List	Roar	Fire Shot	Spiral Lance	Tail Twirl (Airborne Only)	Slash (Ground Only)	Bomber Lance (Ground Only)							
+Type	Ranged	Ranged	Melee	Melee	Melee	Ranged							
+Target	Nearby Enemies	Single Target	Single Target	Nearby Enemies	Single Target	Nearby Enemies							
+No. of Hits	1	2 (Airborne), or 3 (Ground)	1	1	1	1							
+Attribute	Physical	Thermal	Thermal	Physical	Physical	Thermal							
+Damage Scaling	100%	100% (Airborne), or 200% (Ground)	400%	200%	100%	240%							
+Recast	15 Seconds	3 Seconds (Airborne), or 10 Seconds (Ground)	30 Seconds	15 Seconds	3 Seconds	20 Seconds							
+Boost			Low HP = Up to 25% Damage Boost										
+Debuff	Fatigue		Stagger			Launch							
+Disabled by Destroying -			Horn	Tail		Back							
+Homing		Yes											
+													
+Appendages	Main Body	Horn	Back	Tail									
+Hardness	N/A	1	0	0									
+Skell Targetable	Yes	No	Yes	No									
+Exposed by -													
+													
+Species Drops													
+Materials	Filthy Wing	Cracked Bill	Auravis Courtship Feather	Auravis Horn	Auravis Laughing Bag	Auravis Croaking Bag	Unfertilized Auravis Egg						
+Dropped From -	All	All	Tail	Horn	Back	Back	All						
+													
+Use in Augments	Danger Surge (Low Level)	Front Attack Plus	Weather Master (Low Level)	Front Attack Plus (Low Level)	Resist Launch	Resist Topple	Extend Overdrive						
+		PositionDMG.FRONT	Weather.DAMAGE-RES (Low Level)	PositionDMG.FRONT (Low Level)	Resist.LAUNCH	Resist.TOPPLE							
+													
+Use in Gear Crafting	N/A												
+													
+Armor	Sakuraba Medium Wear (Low Level)												
+	Orphean Medium Wear												
+Weapons	Yes												
+Skell Armor	No												
+Skell Weapons	No												

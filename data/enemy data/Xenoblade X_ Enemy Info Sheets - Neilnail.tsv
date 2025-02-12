@@ -1,0 +1,70 @@
+	Neilnail													
+												Neilnail Albus		Neilnail Furvus
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size						
+Neilnails (Twin Dolls of Mystery)	1650	1204	1204	1204	1204	1204	1204	L						
+Neilnails (The Unknown Threat)	1500	1147	1147	1147	1147	1147	1147	L						
+														
+Resistances	Neilnail													
+Physical	40													
+Beam	-10													
+Ether	50													
+Thermal	30													
+Electric	-10													
+Gravity	0													
+Debuff Immunity	Control & Sleep													
+Debuff Resistant	Topple, Control & Virus													
+														
+Auras	Members	Trigger	Effect	Tier	Duration									
+Enrage	Neilnails	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds									
+														
+Calm	Neilnails	Partner Defeated 	Regen (4.5% of base HP) every 7 Seconds	III	Indefinite									
+	Neilnail Albus	Art - Defensive Instinct	Boosts All Resistances by 30	IV	26 Seconds									
+														
+Aware	Neilnail Albus	Art - Transcendence	All Stats Up & 40% Damage Reduction	V	100 Seconds									
+														
+Enemy Skill	Neilnail Furvus	Art - All Creation	Grants Melee Attack Up, Mlee Accuracy Up, Ranged Attack Up, Barrier & Critical Chance Up	V	60 Seconds									
+	Neilnail Albus	Art - All Creation	Grants Physical Res Up, Ether Res Up, Critical Power, Evasion Up & Decoy	VI	60 Seconds									
+														
+Neilnail Albus Arts List	Mask Flash	Spin Kick	Hostile Intent	All Creation	White Flash	Incantation	Nanorecovery	Defensive Instinct	Transcendence					
+Type	Ranged	Melee	Buff	N/A	Melee	Buff	Buff	Aura	Aura					
+Target	Single Target	Nearby Enemies	Self	N/A	Nearby Enemies	Self	Self	Self	Self					
+No. of Hits	3	5	N/A	N/A	5	N/A	N/A	N/A	N/A					
+Attribute	Ether	Physical	N/A	N/A	Ether	N/A	N/A	N/A	N/A					
+Damage Scaling	85%	200%	N/A	N/A	425%	170%	1000 HP	N/A	N/A					
+Recast	3 Seconds	15 Seconds	60 Seconds	180 Seconds	60 Seconds	15 Seconds	20 Seconds	30 Seconds	40 Seconds					
+Boost			Ranged Attack Up V	Accelerates Time				Calm IV	Aware V					
+Debuff		Knockback II				Sleep V								
+Disabled by Destroying -				Mantles	Antenna	Mask								
+Homing	Yes													
+														
+Neilnail Furvus Arts List	Mask Flash	Spin Kick	Hostile Intent	Sonic Ram	Black Flash	Gravity Wave	Cudgel Strike	Defend	Nanosabotage	Vitality Absorb				
+Type	Ranged	Melee	Buff	Melee	Ranged	Ranged	Melee	Aura	Ranged	Ranged				
+Target	Single Target	Nearby Enemies	Self	Single Target	Single Target	Nearby Enemies	Single Target	Self	Nearby Enemies	Nearby Enemies				
+No. of Hits	3	5	N/A	1	1	1	4	N/A	1	1				
+Attribute	Ether	Physical	N/A	Gravity	Ether	Ether	Gravity	N/A	Ether	Ether				
+Damage Scaling	85%	200%	N/A	140%	425%	170%	140%	60 Seconds	63%	2550 TP				
+Recast	3 Seconds	15 Seconds	60 Seconds	15 Seconds	60 Seconds	15 Seconds	15 Seconds	Defending	20 Seconds	20 Seconds				
+Boost			Supercharge V											
+Debuff		Knockback III		Launch III	Launch V	Slow Arts III			Stun V					
+Disabled by Destroying -					Right Mantle	Left Mantle			Mask	Antenna				
+Homing	Yes				Yes									
+														
+Appendages	Main Body	Mask	Antenna	Left Mantle	Right Mantle	Back								
+Hardness	N/A	0	2	1	1	-1								
+Skell Targetable	No	No	No	No	No	No								
+Exposed by -						Destroying Both Mantles								
+														
+Species Drops														
+Materials	Rainbow Carving Shard	Spathi Glyph	Crude Neilnail Mask											
+Dropped From -	All	All	All											
+														
+Use in Augments	Ranged Attack Drive (High Level)	Cooldown Reducer (High Level)	N/A											
+		Custom.WP-SPEED (High Level)												
+														
+Use in Gear Crafting	N/A	N/A	Lv. 60 Skell Frames											
+			Ares Frames											
+Armor	No													
+Weapons	No													
+Skell Armor	No													
+Skell Weapons	Albus	Furvus												
+	Sidearm - White-ROD	Sidearm - BLACK-ROD												

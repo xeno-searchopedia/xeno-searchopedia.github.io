@@ -1,0 +1,52 @@
+	Monoceros												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size					
+Monoceros	1500	1425	1025	1462	1025	1050	1500	L					
+Medium Monoceros	1200	1044	1025	1071	1025	1050	1099	M					
+Monoceros Tyrant	3375	1496	1076	1535	1076	1102	1575	L					
+Uluora	2700	1096	1076	1125	1076	1102	1154	M					
+													
+Resistances	Monoceros	Monoceros Tyrant											
+Physical	0	5											
+Beam	0	5				Uluora, the Burgeoning		Alexei, the Jade					Dawid, the Destrier
+Ether	-25	-20											
+Thermal	-50	-45											
+Electric	0	5											
+Gravity	0	5											
+Debuff Immunity		Control											
+Debuff Resistant	Topple & Control	Topple & Control											
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Monoceros above Lv. 20	Break Any Appendage	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds								
+	Monoceros Tyrants	Break Any Appendage	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds								
+													
+Species Arts List	Horn Swing	Thunder Flash	Roar	Collider	Horse Kick								
+Type	Melee	Ranged	Ranged	Ranged	Melee								
+Target	Nearby Enemies	Single Target	Nearby Enemies	Nearby Enemies	Nearby Enemies								
+No. of Hits	1	3	1	1	1								
+Attribute	Physical	Electric	Ether	Electric	Electric								
+Damage Scaling	100%	200%	100%	250%	500%								
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds								
+Boost					Critical Chance +20								
+Debuff			Electric Res Down		Taunt & Knockback II								
+Disabled by Destroying -		Horn		Either Wing									
+Homing		Yes											
+													
+Appendages	Main Body	Horn	Left Wing	Right WIng									
+Hardness	N/A	2	0	0									
+Skell Targetable	Yes	No	No	No									
+Exposed by -													
+													
+Species Drops													
+Materials	Worn Muscle Fiber	Slender Horn	Monoceros Wing	Gold Monoceros Horn	Green Monoceros Horn	Brown Monoceros Horn	Monoceros Hoof Hook						
+Dropped From -	All	All	Wings	Horn	Horn	Horn	All						
+													
+Use in Augments	Heat Wave Screen*	EM Storm Screen*	Opening Art: Damage Up (Low Level)	Beam Attack Plus (Low Level)	Melee: Recover HP (Low Level)	Ranged Appendage Damage (High Level)	Ranged Appendage Damage (Low Level)						
+		Weather.EM-STORM-RES*	Draw.OPENING-DMG (Low Level)	AttributeDMG.BEAM (Low Level)	M-Auto.HP-RECOV (Low Level)	Crush.APPEND (High Level)	Crush.APPEND (Low Level)						
+													
+Use in Gear Crafting	N/A												
+													
+Armor	No												
+Weapons	Yes												
+Skell Armor	No												
+Skell Weapons	No												

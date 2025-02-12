@@ -1,0 +1,57 @@
+	Colubrim																
+																	
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size							Elvira, the Talondrake		Vortice, the Deific Blast
+Black Colubrim	12500	3900	1150	3900	1150	1100	3000	XXL									
+Brown Colubrim	70312	4050	1150	4050	1150	1100	3600	XXL									
+Squad Mission Colubrim (Legendary Drake)	5625	3480	1025	3480	1025	981	2677	XXL									
+Squad Mission Colubrim (Unnatural Disaster)	42187	2697	1150	2697	1150	1100	2398	XL									
+																	
+Resistances	Black Colubrim	Brown Colubrim	Squad Mission Colubrim (Legendary Drake)														
+Physical	0	50	5														
+Beam	0	25	5														
+Ether	-10	25	-5														
+Thermal	0	100	5														
+Electric	-30	100	-25														
+Gravity	-10	25	-5														
+Debuff Immunity	Control, Blaze & Shock	Toppple, Stun, Sleep, Control, Virus, Blaze & Shock	Topple, Virus & Control														
+Debuff Resistant	Stagger, Flinch, Topple, Launch, Knockback, Stun, Sleep, Control, Virus, Fatigue, Blackout & Slow Arts	Stagger, Flinch, Topple, Launch, Knockback, Stun, Sleep, Control, Fatigue, Blackout & Slow Arts	All (Except Appendage Crush & Bind)														
+																	
+Auras	Members	Trigger	Effect	Tier	Duration												
+Enrage	Black Colubrims	20% Health, or Break Reverse Fin	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 35% Damage Reduction	IV	60 Seconds												
+	Brown Colubrims	20% Health, or Break Reverse Fin	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 40% Damage Reduction	V	60 Seconds												
+	Squad Mission Colubrim (Legendary Drake)		Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds												
+																	
+Enemy Skill	Colubrims, bar. Squad Mission Colubrim (Legendary Drake)	Receiving Damage	50% Topple Suppression														
+	Colubrims, bar. Squad Mission Colubrim (Legendary Drake)	Brimstone Rain	20% Damage Boost														
+	Colubrims, bar. Squad Mission Colubrim (Legendary Drake)	Passive	Regen (0.5% of Base HP) every 10 Seconds	V													
+																	
+Species Arts List	Lightning Round	Electric Discharge	Suction	Supersuction	Tentacle Laser	Tentacle Riot	Tentacle Recovery	Dragon Lightning	Flame Tornado	Skydrake's Roar	Skydrake's Roar II	Skydrake's Roar III	Rainmaker				
+Type	Ranged	Ranged	Aura	Melee	Ranged	Melee	Buff	Ranged	Ranged	Ranged	Ranged	Ranged	Buff				
+Target	Single Target	Nearby Enemies	Self / Single Target	Frontal Arc	Multi Target	Nearby Enemies	Self	Single Target	Nearby Enemies	Enemies Ahead	Enemies Ahead	Enemies Ahead	N/A				
+No. of Hits	4	1	N/A	1	8	1	N/A	1	1	5	5	5	N/A				
+Attribute	Electric	Electric	N/A	Physical	Electric	Electric	N/A	Electric	Thermal	Electric	Electric	Electric	N/A				
+Damage Scaling	100%	160%	N/A	50%	160%	160%	500%	200%	300%	500%	600%	700%	N/A				
+Recast	3 Seconds	15 Seconds	120 Seconds	30 Seconds	15 Seconds	15 Seconds	N/A	15 Seconds	30 Seconds	60 Seconds	70 Seconds	80 Seconds	N/A				
+Boost			Ranged Attack Up V				Regenerates Lost Tentacle Appendages		In Brimstone Rain: 50% Damage Boost			Negates Electric Reflect	Changes Weather to Brimstone Rain				
+Debuff	Electric Res Down III	Fatigue V	Electric Res Down V, Vs Skells: Removes 500 Fuel	Pull V & Drains All TP	Electric Res Down III	Launch / Launch V		Stun V	Knockback IV & Blaze / Blaze V	Flinch IV & Shock III	Flinch V & Shock / Shock IV	Flinch VI & Shock II / Shock V					
+Disabled by Destroying -	Inverse Fin		Inverse Fin	Head	Either Foretentacle	Either Reartentacle				Tail	Tail	Tail					
+Homing	Yes				Yes			Yes									
+																	
+Appendages	Main Body	Head	Tail	Left Foretentacle	Right Foretentacle	Left Reartentacle	Right RearTentacle	Inverse Fin	Weak Point								
+Hardness	N/A	1	2	0	0	0	0	3	-3								
+Skell Targetable	Yes	Yes	Yes	No	No	Yes	Yes	Yes	Yes								
+Exposed by -									Breaking Inverse Fin								
+																	
+Species Drops																	
+Materials	Pristine Whiskers	Quality Scale	Colubrim Eel Kebab	Black Colubrim Tail	Brown Colubrim Tail	Reverse Colubrim Fin											
+Dropped From -	All	All	Head, Tentacles	Tail	Tail	Horn											
+																	
+Use in Augments	Potential Drive (High Level)	N/A	Ultrafauna Criticals Up (High Level)	Chimeroid Criticals Up (High Level)	Chimeroid Criticals Up (High Level)	Ultrafauna Criticals Up (High Level)											
+			CritUp.ULTRAFAUNA (High Level)	CritUp.CHIMEROID (High Level)	CritUp.CHIMEROID (High Level)	CritUp.ULTRAFAUNA (High Level)											
+																	
+Use in Gear Crafting		Original/Masterstroke Ranged Weaponry															
+																	
+Armor	Orphean Heavy Wear																
+Weapons	No																
+Skell Armor	No																
+Skell Weapons	Back - Voltnet	Shoulder N-Cannon	Shoulder - Antipulser	Sidearm - Firegun (SA)	Sidearm - Firegun (ME)	Sidearm - Rod											

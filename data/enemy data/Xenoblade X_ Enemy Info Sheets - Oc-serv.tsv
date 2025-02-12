@@ -1,0 +1,56 @@
+	Oc-serv												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size					
+Silver Oc-serv	1200	1155	900	1155	1000	1100	1100	M					
+Large Silver Oc-Serv	1500	1574	900	1574	1000	1100	1500	L					
+Grey & Golden Oc-serv	1200	1100	900	1155	1000	1100	1100	M					
+Large Grey & Golden Oc-Serv	1500	1500	900	1574	1000	1100	1500	L					
+Black Oc-serv	1500	1500	900	1650	1000	1100	1500	L					
+Oc-serv, the Ancient	2700	1212	945	1212	1050	1155	1155	M					
+Na-mulk & Si-el	2700	1155	945	1212	1050	1155	1155	M					
+Ro-darm	3375	1574	945	1731	1050	1155	1574	L					
+													
+Resistances	Oc-serv	Oc-serv Tyrant	Oc-serv, the Ancient				Oc-serv, the Ancient		Na-mulk, the Rebellious		Si-el, the Vacuous		Ro-darm, the Demon Claw
+Physical	30	35	35										
+Beam	-25	-20	-20										
+Ether	10	15	15										
+Thermal	10	15	15										
+Electric	-25	-20	-20										
+Gravity	-50	-45	100										
+Debuff Immunity		Control	Control & Gravity Res Down										
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control										
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Oc-serv	75% Health, or Destroy Tail or Arms	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds								
+	Oc-serv Tyrants	75% Health, or Destroy Tail or Arms	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds								
+													
+Species Arts List	Arm Swing	Gravity Shell	Graviton	Radius									
+Type	Melee	Ranged	Ranged	Ranged									
+Target	Nearby Enemies	Single Target	Nearby Enemies	Enemies Ahead									
+No. of Hits	3	2	1	3									
+Attribute	Physical	Gravity	Gravity	Beam									
+Damage Scaling	100%	70%	112%	200%									
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds									
+Boost													
+Debuff													
+Disabled by Destroying -	Arms			Crest									
+Homing		Yes											
+													
+Appendages	Main Body	Left Arm	Right Arm	Left Armour	Right Armour	Tail	Crest						
+Hardness	N/A	1	1	0	0	1	1						
+Skell Targetable	Yes	No	No	Yes	Yes	No	No						
+Exposed by -							Destroying Both Pieces of Armor						
+													
+Species Drops													
+Materials	Standard Coil	Upgraded Coil	Elemental Fragment	Oc-serv Hand	Elemental Cluster	Oc-serv Northern Crest	Oc-serv Southern Crest	Oc-serv Western Crest	Oc-serv Eastern Crest				
+Dropped From -	All	All	Armour	Hand	Tail	Crest	Crest	Crest	Crest				
+													
+Use in Augments	Fuel Efficiency Up (Low Level)	Melee: TP Gain Up	Ether Attack Plus (Low Level)	Critical Chance Up	Overdrive Count Up	Focused Evasion (Low Level)	Gravity Resistance Up (High Level)	Crush: Gain TP (Low Level)	Gravity Resistance Up (High Level)				
+		Custom.WP-M-GP	AttributeDMG.ETHER (Low Level)	CriticalUp	Overdrive.EXTEND		SpecUp.GRAV.RES (High Level)	Crush.GP (Low Level)	SpecUp.GRAV.RES (High Level)				
+													
+Use in Gear Crafting	Delta Bliss												
+													
+Armor	No												
+Weapons	No												
+Skell Armor	No												
+Skell Weapons	Back - Voltnet	Shoulder N-Cannon	Shoulder - Antipulser	Sidearm - Firegun (SA)	Sidearm - Firegun (ME)	Sidearm - Rod							

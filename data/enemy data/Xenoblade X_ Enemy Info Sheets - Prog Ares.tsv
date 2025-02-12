@@ -1,0 +1,55 @@
+	Prog Ares												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size					
+Prog Ares	9000	1125	1000	1125	1000	1000	1125	L					
+													
+Resistances	Prog Ares												
+Physical	40												
+Beam	-10												
+Ether	50												
+Thermal	30												
+Electric	-10												
+Gravity	-20												
+Debuff Immunity	Control & Virus												
+Debuff Resistant	Stagger, Topple, Launch, Knockback, Stun, Control, Blackout, Fatigue, Slow Arts, Beam/Electric/Gravity Res Down, Blaze & Shock												
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Prog Ares	Art - Hyper Rage (Break Both Appendages)	All Stats Up, Regen (1.5% of Base HP) every 10 Seconds, Mobility Debuff Immunity & 25% Damage Reduction	II	Indefinite								
+													
+Calm	Prog Ares	Art - Barrier	Grants Barrier	I	60 Seconds								
+	Prog Ares	Art - Ranged Mode	Boosts Ranged Attack, Increase Damage Taken by 30%, Nullifies Damage from Melee Attacks	II	300 Seconds								
+													
+Aware	Prog Ares	Art - Melee Mode	Boosts Melee Attack, Increase Damage Taken by 30%, Nullifies Damage from Ranged Attacks	II	300 Seconds								
+													
+Enemy Skill	Prog Ares	Inflicting Damage	Vs. On-foot Target: 25% Damage Boost										
+													
+Species Arts List	Barrier	Melee Mode	Ranged Mode	Ether Blaster	Ether Blade	Blade Flurry	Agni Gatling	Avatara Missile	Vajra Flail	Agashura Cannon	Hyper Rage	Mahakala Energy	Mahakala Energy II
+Type	Aura	Aura	Aura	Ranged	Melee	Melee	Ranged	Ranged	Melee	Ranged	Aura	Ranged	Ranged
+Target	Self	Self	Self	Single Target	Single Target	Single Target	Enemies Ahead	Multi Target	Single Target	Enemies Ahead	Self	Nearby Enemies	Nearby Enemies
+No. of Hits	N/A	N/A	N/A	1	1	3	5	4	4	1	N/A	2	4
+Attribute	N/A	N/A	N/A	Ether	Ether	Ether	Ether	Ether	Ether	Ether	N/A	Beam	Beam
+Damage Scaling	N/A	N/A	N/A	100%	100%	100%	200%	200%	300%	240%	N/A	500%	65535%
+Recast	30 Seconds	120 Seconds	120 Seconds	3 Seconds	3 Seconds	3 Seconds	60 Seconds	60 Seconds	30 Seconds	30 Seconds	90 Seconds	120 Seconds	10 Minutes
+Boost	Calm	Aware II	Calm II				Vs. Stunned Targets: 50% Damage Boost			Vs. Blacked-out Target: 50% Damage Boost	Enraged II		
+Debuff				10% Chance of Ether Res Down III	10% Chance of Fatigue III	Stagger V, 10% Chance of Slow Arts III		Blackout IV, Vs. Toppled Target: Stun V	Vs. Staggered Target: Topple V	Launch II		Launch III & HP Recovery Down IV	
+Disabled by Destroying -													
+Homing								Yes					
+													
+Appendages	Main Body	Core	Inner Core										
+Hardness	N/A	-2	-2		Prog Ares								
+Skell Targetable	Yes	Yes	Yes										
+Exposed by -													
+													
+Species Drops													
+Materials	Quality Core	Advanced Jet	Advanced Lens										
+Dropped From -	All	All	All										
+													
+Use in Augments	Debuff Suppressor (High Level)	Secondary Cooldown Reducer	Beam Attack Plus (High Level)										
+			AttributeDmg.BEAM (High Level)										
+													
+Use in Gear Crafting	N/A												
+													
+Armor	No												
+Weapons	No												
+Skell Armor	No												
+Skell Weapons	No												

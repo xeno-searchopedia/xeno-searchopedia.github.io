@@ -1,0 +1,57 @@
+	Murra							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Murra	1100	1100	1000	1210	1025	1125	1100	M
+Camille	2475	1155	1050	1270	1076	1181	1155	M
+Squad Mission Murra (Odd Symbiosis)	60	1270	1102	1155	1050	1155	1155	M
+								
+Resistances	Murra	Murra Tyrant				Camille, the Immortal		
+Physical	0	5						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-50	-45						
+Electric	0	5						
+Gravity	-25	-20						
+Debuff Immunity		Control 						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Murras	50% Health	Melee Accuarcy Up, Boosts Ranged Accuracy, Boosts Evasion	III	60 Seconds			
+	Murra Tyrants	50% Health	Melee Accuarcy Up, Boosts Ranged Accuracy, Boosts Evasion	IV	60 Seconds			
+								
+Species Arts List	Tackle	Multi Thunder	Odd Wave	Thunder Flash	Flash	Self-Destruct		
+Type	Melee	Ranged	Ranged	Ranged	Ranged	Ranged		
+Target	Single	Multi Target	Targeted Blast	Single	Nearby Enemies	Nearby Enemies		
+No. of Hits	1	7	1	1	1	1		
+Attribute	Physical	Electric	Physical	Electric	Physical	Electric		
+Damage Scaling	100%	200%	100%	500%	160%	750%		
+Recast	3 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds	60 Seconds		
+Boost								
+Debuff					Flinch II	Launch III		
+Disabled by Destroying -			Head					
+Homing		Yes		Yes				
+								
+Appendages	Main Body	Head						
+Hardness	N/A	0						
+Skell Targetable	Yes	Yes						
+Exposed by -								
+								
+Species Drops								
+Materials	Supple Leather	Black Fog Deposits	Brilliant Murra Liquid	Multicolour Murra Wing				
+Dropped From -	All	All	Head	All				
+								
+Use in Augments	Vantage Attack Plus*	Boosts Evasion (Low Level)*	Secondary Cooldown Reducer I	Vehicle.APPEND-DEF*				
+	PositionDmg.ABOVE*	SpecUP.EVA (Low Level)*						
+	Extend Slow Arts*	Evasion Boost (Low Level)						
+	TimeEx.SLOW-ARTS*	Boost.EVA (Low Level)						
+		Evasion Drive						
+		Taunt: Decoy*						
+		Stun: Decoy*						
+		Topple: Decoy*						
+								
+Use in Gear Crafting	N/A							
+								
+Armor	Sakuraba BLADE Wear							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

@@ -1,0 +1,49 @@
+	Visigel							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Visigel	1000	990	1025	1100	1050	1000	1100	M
+Medium Visigel	1250	1349	1025	1499	1050	1000	1499	L
+Visigel Tyrant	2250	1039	1076	1155	1102	1050	1155	M
+								
+Resistances	Visigel	Visigel Tyrant	Bio Visigel					
+Physical	0	5	0			Yune, the Ambusher		
+Beam	0	5	0					
+Ether	-25	-20	-25					
+Thermal	0	5	0					
+Electric	-50	-45	-50					
+Gravity	-25	-20	-25					
+Debuff Immunity		Control	Control, Sleep & Virus					
+Debuff Resistant	Topple & Control	Topple & Control	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Physical/Beam/Ether/Thermal/Electric/Gravity Res Down & Debuff Res Down					
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	N/A							
+								
+Species Arts List	Spin Tackle	Ether Mortar	Self-Destruct	Regenerate (Bio Visigel Only)				
+Type	Melee	Ranged	Ranged	Buff				
+Target	Single Target	Single Target	Nearby Enemies	Self				
+No. of Hits	1	1	1	N/A		Poppy, the Pyromaniac		
+Attribute	Physical	Ether	Thermal	N/A				
+Damage Scaling	150%	170%	750%	N/A				
+Recast	3 seconds	15 Seconds	60 Seconds	10 Seconds				
+Boost				Evasion Up V				
+Debuff			Destroys Self, Launch II					
+Disabled by Destroying -		Head	Head					
+Homing		Yes						
+								
+Appendages	Main Body	Head						
+Hardness	N/A	0						
+Skell Targetable	Yes	No						
+Exposed by -								
+								
+Species Drops								
+Materials	Opaque Membrane	Glowing Retina	Brilliant Visigel Liquid	Visigel Waterfall Orb	Visigel Poison Orb			
+Dropped From -	All	All	Head	All	All			
+								
+Use in Augments	Danger Surge	TP Rebound (Low Level)	Secondary Cooldown Reducer V	Gravity Attack Plus (Low Level)	Weapon Attack Power Up (High Level)			
+		Damage.GP-Gain (Low Level)		AttributeDmg.GRAV (Low Level)	Custom.WP-ATK (High Level)			
+Use in Gear Crafting	N/A							
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

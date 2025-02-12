@@ -1,0 +1,86 @@
+	Qmoeva											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Infantry Support Qmoeva		Daril's Qmoeva
+Qmoeva	1437	1500	1000	1500	1000	1025	1500	L				
+Red (Buster) Qmoeva	1437	1650	1000	1500	1000	1050	1500	L				
+Golden (War) Qmoeva	1437	1500	1000	1650	1000	1050	1500	L				
+Blue (Duel) Qmoeva	1437	1500	1100	1500	1100	1050	1500	L				
+Green (Rebel) Qmoeva	1437	1575	1000	1575	1000	1050	1500	L				
+Qmoeva Tyrant	3233	1575	1050	1575	1050	1076	1575	L				
+Daril's Qmoeva	3233	1732	1050	1575	1050	1102	1575	L				
+Urdu's Qmoeva	3233	1575	1050	1732	1050	1102	1575	L				
+Sadar's Qmoeva	3233	1575	1155	1575	1155	1102	1575	L				
+Gadaf's Qmoeva	3233	1653	1050	1653	1050	1102	1575	L				
+Twin Qmoeva	3233	1653	1050	1653	1050	1102	1575	L				
+Qmoeva (Let Sleeping Dogs Lie)	1616	1653	1050	1653	1050	1102	1575	L				
+Qmoeva (The Viscious Millepod)	808	1653	1050	1653	1050	1102	1575	L				
+Summoned Qmoeva (Zu Pharg)	718	1200	1000	1200	1000	1000	1200	L				
+												
+Resistances	Qmoeva	Qmoeva Tyrant										
+Physical	30	35										
+Beam	-25	-20										
+Ether	10	15										
+Thermal	10	15										
+Electric	-25	-20										
+Gravity	-50	-45								Experimental Composite Qmoeva		Urdu's Qmoeva
+Debuff Immunity		Control										
+Debuff Resistant	Topple & Control	Topple, Control & Virus										
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Grey Qmoevas Above Lv. 20	25% Health, or Break Head	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	III	60 Seconds							
+	Coloured Qmoevas Above Lv.20	25% Health, or Break Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds							
+	Grey Qmoeva Tyrants	25% Health, or Break Head	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	IV	60 Seconds							
+	Coloured Qmoeva Tyrants	25% Health, or Break Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds							
+	Qmoeva 1 (Let Sleeping Dogs Lie)	50% Health, or Break Head	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	III	60 Seconds							
+	Qmoeva 2 (Let Sleeping Dogs Lie)	50% Health, or Break Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds							
+	Summoned Qmoevas	Break Head	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	III	60 Seconds							
+												
+Reflect	Urdu's Qmoeva	Passive	Physical Damage									
+												
+Species Arts List	Nipper Strike	Nipper Beam	Monocular Beam	1. Ganglion Railgun	2. Spike Cannon	3. Bubble Energy	4. Multi Laser	5. Boggle Bomb				
+Type	Melee	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged				
+Target	Enemies Ahead	Single target	Enemies Ahead	Single Target	Single Target	Single Target	Multi Target	Single Target				
+No. of Hits	3	2	2	1	3	2	5 or 10 (Double)	7 or 14 (Double)				
+Attribute	Physical	Beam	Beam	Beam	Beam	Ether	Beam	Ether				
+Damage Scaling	160%	100%	200%	340%	400%	100% or 200% (Layout 4)	170% or 425% (Double)	106% or 85% (Layout 4) or 170% (Double)				
+Recast	15 Seconds	3 Seconds	30 seconds	60 Seconds	60 Seconds	15 Seconds	15 Seconds or 60 Seconds (Double)	15 Seconds or 60 Seconds (Double)				
+Boost				Critical Chance +10	Critical Chance +5							
+Debuff				Stagger II	Fatigue	Beam Res Down		Slow Arts				
+Disabled by Destroying -			Head	Rail-Gun Weapon	Spine Cannon Weapon	E-Bubble Weapon	M-Laser Weapon	B-Bomb Weapon				
+Homing		Yes			Yes	Yes	Yes	Yes				
+										Intermediate Arsenal Qmoeva		Sadar's Qmoeva
+Appendages	Main Body	Head	Left Leg	Right Leg	Shoulder Weapon 1	Shoulder Weapon 2	Shoulder Weapon 3	Shoulder Weapon 4				
+Hardness	N/A	0	0	0	0	0	0	0				
+Skell Targetable	Yes	Yes	Yes	Yes	No	No	No	No				
+Exposed by -												
+												
+Species Drops												
+Materials	Quality Crank	Dual Boards	Genuine Frame	Reinforced Frame	Qmoevan Capacitor	Blood-Stained Face	Special Weapons					
+Dropped From -	All	All	Legs	Legs	Weapons	Head	Weapons					
+												
+Use in Augments	N/A	Ranged Attack Drive (Low Level)	Ranged: TP Gain Up	Physical Attack Plus (High Level)	N/A	Chimeroid Slayer (Low Level)	Rail-Gun					
+			Custom.WP-R-GP	AttributeDMG.PHYS (High Level)		Chimeroid Criticals Up (Low Level)	Spine-Cannon					
+						Slayer.CHIMEROID (Low Level)	E-Bubble					
+						CritUp.CHIMEROID (Low Level)	M-Laser					
+							B-Bomb					
+Use in Gear Crafting	Superweapon - Antimatter-R				Superweapon - G-Piledriver							
+	Superweapon - Dragoon-Lance				Superweapon - Drone-Storm							
+	Superweapon - Deus-Crusher				Superweapon - Barrage-Cloak							
+	Superweapon - Detonation-F				Superweapon - Megaflame-B							
+												
+Armor	No									Support Trainee Qmoeva		Gadaf's Qmoeva
+Weapons	No											
+Skell Armor	Light Armor											
+Skell Weapons	Layout 1 (Talon, Barbed & Buster)	Layout 2 (Palace, Purger, War)	Layout 3 (Multi, Brave, Duel)	Layout 4 (Suppressor, True, Rebel)								
+												
+	Back - Rail-Gun	Back - M-Laser	Back - Rail-Gun	Shoulder - Spine-Cannon								
+	Back - M-Laser	Shoulder - Spine-Cannon	Back - M-Laser	Shoulder - E-Bubble								
+	Shoulder - B-Bomb	Shoulder - B-Bomb	Shoulder - E-Bubble	Shoulder - B-Bomb								
+	Shoulder - E-Bubble	Shoulder - E-Bubble										
+												
+	Sidearm - Shotgun	Back - B-Gatling (Meredith)	Sidearm - E-Rifle	Back - Grenade								
+	Sidearm - L-Cannon (Sakuraba)	Shoulder - B-Gatling (Sakuraba)	Sidearm - HB-Rifle	Back - Dragon								
+	Sidearm - Bladegun	Shoulder - B2-Gatling	Sidearm - Assault	Back - Hyper-Rail								
+	Sidearm - Wiregun	Shoulder - Voltstorm	Sidearm - Sniper	Back - Buster-Launcher								
+				Back - Meteor								
+				Sidearm - Diskbomb								

@@ -1,0 +1,63 @@
+	Pugilith									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Raider Pugilith
+Pugilith	1150	1155	950	1210	1000	900	1100	M		
+Large Pugilith	1437	1575	950	1650	1000	900	1500	L		
+Pugilith Tyrant	3234	1652	997	1731	1050	945	1575	L		
+										
+Resistances	Pugilith	Pugilith Tyrant								
+Physical	30	35								
+Beam	-25	-20								
+Ether	10	15								
+Thermal	10	15								
+Electric	-25	-20								
+Gravity	-50	-45								
+Debuff Immunity		Control								
+Debuff Resistant	Topple & Control	Topple & Control								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Pugilith Above Lv. 20	Destroy Puge Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Mobility Debuff Immunity, 35% Damage Reduction	IV	60 Seconds					
+	Pugilith Tyrants	Destroy Puge Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential, Mobility Debuff Immunity, 40% Damage Reduction	V	60 Seconds					
+										
+Species Arts List	Kick	Beam Gun	Anti-Air Beam	Mortar Beam	Hyper Beam					
+Type	Melee	Ranged	Ranged	Ranged	Ranged					
+Target	Single Target	Single Target	Single Target	Targeted Blast	Single Target					
+No. of Hits	1	4	2	2	3					
+Attribute	Physical	Beam	Beam	Beam	Beam					
+Damage Scaling	100%	100%	160%	160%	200%					
+Recast	3 Seconds	3 Seconds	10 Seconds	15 seconds	15 Seconds					High-Output Pugilith
+Boost										
+Debuff										
+Disabled by Destroying -		Puge	Cannon							
+Homing		Yes	Yes	Yes	Yes					
+										
+Appendages	Main Body	Puge	Cannon	Left Armour	Right Armour					
+Hardness	N/A	0	1	0	0					
+Skell Targetable	Yes	Yes	No	No	No					
+Exposed by -										
+										
+Species Drops										
+Materials	Stripped Plating	Dual Boards	Genuine Crank 	Used Cylinder	New Cylinder	Quality Fuse	Pugilith Lamp			
+Dropped From -	All	All	Armour	Puge	Puge	Cannon	All			
+										
+Use in Augments	Underdog Surge (Low Level)	Ranged Attack Drive (Low Level)	Magazine Capacity Up	Firing Range Up (Low Level)		Cooldown Reducer	Melee: Blaze (Low Level)			
+				Custom.WP-R-RANGE (Low Level)		Custom.WP-SPEED	M-Auto.BLAZE (Low Level)			
+										
+										
+										
+										
+Use in Gear Crafting					USB030 Dozer Frame					
+										
+										
+Armor	Grenada Medium Wear (Below Lv. 10)									
+Weapons	No									
+Skell Armor	No									
+Skell Weapons	Orange	Green								
+										
+	Back - P-Cannon	Back - S-Missile (Sakuraba)								
+	Back - Lasergun	Back - S-Missile (Meredith)								
+	Back - Railgun	Back - L-Missile (Sakuraba)								
+	Sidearms - E-Cannon	Back - L-Missile (Meredith)								
+		Shoulder - M-Missile (Sakuraba)								
+		Shoulder - M-Missile (Grenada)								
+		Shoulder - M-Missile (Meredith)								

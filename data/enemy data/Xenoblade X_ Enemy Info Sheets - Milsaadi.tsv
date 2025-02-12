@@ -1,0 +1,72 @@
+	Milsaadi								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Red Milsaadi Male	807	1100	1050	950	1050	1125	1000	S	
+Blue Milsaadi Male	850	1150	1025	925	1075	1125	1000	S	
+Red Milsaadi Female	786	1100	1050	950	1050	1125	1000	S	
+Blue Milsaadi Female	828	1150	1025	925	1075	1125	1000	S	
+Sharnaak	2134	1270	1102	1097	1102	1181	1155	M	
+Badul	1912	1207	1076	971	1128	1181	1050	S	
+Chantai	1768	1155	1102	997	1102	1181	1050	S	
+Lyla	1863	1207	1076	971	1128	1181	1050	S	
+Na-hum	2795	1086	1129	917	1184	1240	992	M	
+Squad Mission Milsaadi #1 (The Hidden Conductors)	2017	1207	1076	971	1128	1181	1050	S	
+Squad Mission Milsaadi #2 (The Hidden Conductors)	1965	1207	1076	971	1128	1181	1050	S	
+Gale Milsaadi	4998	1540	1600	1320	1600	1125	1540	M	
+									
+Resistances	Milsaadi	Gale Milsaadi	Milsaadi Tyrant	Na-hum, the Red Hare					
+Physical	0	20	5	30					
+Beam	-25	-5	-20	-5					
+Ether	10	20	15	40					
+Thermal	0	10	5	30					
+Electric	0	10	5	30					
+Gravity	0	10	5	30					
+Debuff Immunity		Control, Virus & Sleep	Control	Mobilty Debuffs (Except Stagger, Pull & Bind), Virus, Control, Sleep & Time Bomb					
+Debuff Resistant	Topple & Control	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Virus & Slow Arts	Topple & Control	Stagger, Topple, Stun, Control, Taunt, Blackout, Fatigue & Slow Arts					
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	N/A								
+									
+Enemy Skill	Badul, the One-Eyed	Inflicting Damage	Guaranteed Critical Attack						
+	Na-Hum	Inflicting Damage	Critical Chance +10						
+	Na-Hum	Inflicting Damage to a Skell	50% Damage Boost						
+	Na-Hum	Art - Summon Almandal	Invincilibity		Summoning				
+									
+						Male Milsaadi Only	Female Milsaadi Only	Gale Milsaadi & Na-hum Only	Na-Hum Only
+Species Arts List	Slash	Energy Shot	Jam	Speed Blade	Blade Dance	Hype Up	Accelerator	Overhack	Summon Almandal
+Type	Melee	Ranged	Ranged	Melee	Melee	Buff	Buff	Ranged	N/A
+Target	Single Target	Single Target	Nearby Enemies	Single Target	Single Target	Self	Self	Nearby Enemies	N/A
+No. of Hits	1	3 (Male) / 6 (Female)	1	1	5 (Male) / 6 (Female)	N/A	N/A	1	N/A
+Attribute	Physical	Beam	Beam	Gravity	Gravity	N/A	N/A	Beam	N/A
+Damage Scaling	100%	200%	100%	140%	350%	N/A	N/A	100%	N/A
+Recast	3 Seconds	15 Seconds / 10.5 Seconds (Gale) / 5 Seconds (Na-hum)	15 Seconds	15 Seconds / 10.5 Seconds (Gale)	60 Seconds / 30 Seconds (Gale)	60 Seconds / 45 Seconds (Gale)	60 Seconds	60 Seconds (Gale) / 15 Seconds (Na-hum)	N/A
+Boost						Boosts Melee Attack	Boosts Evasion		Invincibility, and Summons Nardacyon, the Shadowless
+Debuff			Physical Res Down / Virus V (Na-hum Only)	Blackout V (Na-hum Only)	Fatigue V (Na-hum Only)			Beam Res Down II (Gale Milsaadi Only), Vs. Skell: Control V	
+Disabled by Destroying -									
+Homing		Yes					Na-hum, the Red Hare		
+						Sharnaak, the Technician	Chantai, the Insect Maiden		
+Appendages	Main Body	Hood (Badul and Lyla lack this Appendage)							
+Hardness	N/A	0							
+Skell Targetable	Yes	No							
+Exposed by -									
+									
+Species Drops									
+Materials	Dirty Cloth	Parasitic Capsule	Red Milsaadi Hood	Blue Milsaadi Hood					
+Dropped From -	All	All	Hood	Hood					
+									
+Use in Augments	Focused Evasion (High Level)	Opening Art: Damage Up (High Level)	Beam Resistance Up (High Level)	Ether Resistance Up (High Level)					
+		Draw.OPENING-DMG (High Level)	SpecUp.BEAM-RES (High Level)	SpecUp.ETHER-RES (High Level)					
+									
+Use in Gear Crafting	N/A								
+									
+Armor	No								
+Weapons	Yes								
+Skell Armor	No								
+Skell Weapons	Male	Female	Lv. 51+ Only	Sharnaak Only	Chantai Only				
+			FILES - Original Melee Weapons	Ethereal Glaive: Helldragon	Signature Glaive: Four Virtues				
+	Sidearm - E-Rifle	Back - Grenade	FILES - Masterstroke Melee Weapons						
+	Sidearm - HB-Rifle	Back - Dragon							
+	Sidearm - Assault	Back - Hyper-Rail				Badul, the One-Eyed	Lyla, the Lustrous		
+	Sidearm - Sniper	Back - Buster-Launcher							
+		Back - Meteor							
+		Sidearm - Diskbomb							

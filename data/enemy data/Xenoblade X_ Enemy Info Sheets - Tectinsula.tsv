@@ -1,0 +1,51 @@
+Tectinsula									
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Tectinsula	1093	1800	900	1650	900	1000	1500	L	
+Alfombra	2459	1899	949	1740	949	1000	1575	L	
+Vittorio	2459	1890	945	1732	945	1050	1575	L	
+									
+Resistances	Tectinsula	Alfombra	Vittorio						Alfrombra, the Transcendent
+Physical	45	55	50						
+Beam	0	5	5						
+Ether	-25	-20	-20						
+Thermal	-25	-20	-20						
+Electric	0	5	5						
+Gravity	0	5	5						
+Debuff Immunity		Control	Control						
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control						
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Tectinsula	15% HP, or Break Underbelly	Mobility Debuff Immunity, 35% Damage Reduction	IV	60 Seconds				
+	Tectinsula Tyrant	15% HP, or Break Underbelly	Mobility Debuff Immunity, 40% Damage Reduction	V	60 Seconds				
+									
+Species Arts List	Headbutt	Ether Shot	Body Press	Jam	Mega Breath	Hyper Acid			
+Type	Melee	Ranged	Melee	Ranged	Ranged	Ranged			
+Target	Single Target	Single Target	Floor Around Caster	Nearby Enemies	Floor Around Caster	Single Target			
+No. of Hits	1	2	1	1	1	2			
+Attribute	Gravity	Ether	Gravity	Ether	Physical	Physical			
+Damage Scaling	87%	127%	140%	85%	200%	500%			
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds			
+Boost			Critical Chance +10						
+Debuff			Stagger II	Fatigue	Launch II	Slow Arts			
+Disabled by Destroying -		Either Antennae		Either Antennae					
+Homing		Yes							
+									
+Appendages	Main Body	Head	Left Antenna	Right Antenna	Back	Underbelly			
+Hardness	N/A	0	1	1	4	-3			Vittorio, the Battle-Scarred
+Skell Targetable	Yes	Yes	No	No	Yes	No			
+Exposed by -									
+									
+Species Drops									
+Materials	Viscous Humour	Dried Seaweed Lichen	Luminescent Antenna	Tectinsula Shell	Tectinsula Back Moss	Orange Tequila	Topaz Wine		
+Dropped From -	All	All	Antenna	Head	Back	Underbelly	Underbelly		
+									
+Use in Augments	Spore Screen*	Energy Mist Screen*	Overdrive Surge	Ranged Draw Surge	Critical Surge (Low Level)	Potential Drive (Low Level)	TP Rebound		
+	Weather.SPORE-RES*	Weather.E-MIST-RES*					Damage.GP-GAIN		
+									
+Use in Gear Crafting	N/A								
+									
+Armor	Sakuraba Medium Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	No								

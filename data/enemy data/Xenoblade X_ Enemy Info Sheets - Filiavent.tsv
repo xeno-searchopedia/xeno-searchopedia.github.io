@@ -1,0 +1,51 @@
+	Filiavent											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Laurencio, the Fog Bow		Trueno, the Cataclysm
+Filiavent	14500	3000	1000	3975	1100	1000	3000	XXL				
+XL Filiavent	8700	1998	1000	2647	1100	1000	1998	XL				
+Filiavent Tyrants	32625	3150	1050	4173	1155	1050	3150	XXL				
+Summoned Filiavents	3262	954	1050	1264	1155	1050	954	XXL				
+												
+Resistances	Filiavent	Laurencio	Trueno	Mission Filiavent								
+Physical	0	5	5	0								
+Beam	0	5	5	0								
+Ether	-25	-20	-20	-25								
+Thermal	0	5	5	0								
+Electric	-50	-45	-45	-50								
+Gravity	-25	-20	-20	-25								
+Debuff Immunity	Shock	Control, Shock & Virus	All	Shock								
+Debuff Resistant	Stagger, Topple, Stun, Control & Virus	Stagger, Topple, Stun & Control	None	Topple, Control & Stun								
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Filiavent	30% Health or Break Mouth	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 30% Damage Reduction	III	60 Seconds							
+	Filiavent	30% Health or Break Mouth	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 35% Damage Reduction	IV	60 Seconds							
+												
+Species Arts List	Hyper Collider	Thunder Shot	Thunder Flash	Charged Lightning	Flame Cloak	Bionic Bomb	Hyper Vacuum	Mighty Exhale				
+Type	Ranged	Ranged	Ranged	Ranged	Buff	Ranged	Melee	Melee				
+Target	Nearby Enemies	Multi Target	Single Target	Single Target	Self	Targeted Blast	Enemies Below	Enemies Below				
+No. of Hits	1	10	1	4	N/A	1	4	4				
+Attribute	Electric	Electric	Electric	Electric	N/A	Thermal	Physical	Physical				
+Damage Scaling	500%	200%	200%	240%	N/A	400%	240%	240%				
+Recast	60 Seconds	15 Seconds	15 Seconds	40 Seconds	80 Seconds	60 Seconds	40 Seconds	40 Seconds				
+Boost	Critical Chance +10			Low HP = Up to 25% Damage Boost	Thermal Res Up		Recovers 100% of Damage Dealt as HP					
+Debuff	Stun			Shock		Launch III & Blaze, Vs. Airborne Targets: Topple	Pull V & Fatigue	Launch V & Debuff Res Down				
+Disabled by Destroying -	Mouth			First or Third Tentacles	Second or Fouth Tentacles							
+Homing		Yes	Yes	Yes		Yes						
+												
+Appendages	Main Body	Mouth	Tentacle 1	Tentacle 2	Tentacle 3	Tentacle 4						
+Hardness	N/A	2	0	0	0	0						
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes						
+Exposed by -												
+												
+Species Drops												
+Materials	Mollusk Mucus	Quality Skin	Red Filiavent Tentacle	Black Filiavent Tentacle	Giant Protein	Filiavent Intestine						
+Dropped From -	All	All	Tentacles	Tentacles	Mouth	All						
+												
+Use in Augments	Evasion Drive (High Level)	Bind: Refuel (High Level)	Resist Launch (High Level)	Resist Stun (High Level)	Fuel Efficiency Up (High Level)	Fuel Efficiency Up (High Level)						
+			Resist.LAUNCH (High Level)	Resist.STUN (High Level)								
+Use in Gear Crafting	N/A											
+												
+Armor	Candid Heavy Wear											
+Weapons	No											
+Skell Armor	No											
+Skell Weapons	No											

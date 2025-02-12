@@ -1,0 +1,64 @@
+	Mephite								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Mephite	1150	990	1000	1155	1000	1125	1100	2	
+Small Mephite	978	990	1000	1155	1000	1125	1100	1	
+Tyrant	2587	1039	1050	1212	1050	1181	1155	2	
+Ferdinand	2587	1039	1050	1212	1050	1500	1155	2	
+									
+									
+Resistances	Mephite	Mephite Tyrant							
+Physical	0	5							
+Beam	0	5			Gerhardt, the Lone and Proud		Ferdinand, the Fortuitous		Lask, the Unscrupulous
+Ether	-25	-20							
+Thermal	-50	-45							
+Electric	0	5							
+Gravity	0	5							
+Debuff Immunity		Control							
+Debuff Resistant	Topple & Control	Topple & Control							
+									
+Auras	Members	Trigger	Effect	Tier					
+Enrage	N/A								
+									
+Species Arts List	Tail Swing	Yellow Gas	Gas Explosion	Gas					
+Type	Melee	Ranged	Ranged	Ranged					
+Target	Floor Around Caster	Nearby Enemies	Nearby Enemies	Nearby Enemies					
+No. of Hits	1	1	3	1					
+Attribute	Physical	Physical	Physical	Thermal					
+Damage Scaling	125%	125%	150%	400%					
+Recast	3 seconds	15 Seconds	15 Seconds	60 Seconds					
+Boost									
+Debuff		HP Recovery Down	Blackout	Stagger II					
+Disabled by Destroying -			Tail						
+Homing									
+									
+Appendages	Main Body	Left Ear	Right Ear	Tail					
+Hardness	N/A	0	0	0					
+Skell Targetable	Yes	No	No	No					
+Exposed by -									
+									
+Species Drops									
+Materials	Fleecy Fur	Lightweight Pelt	Mephite Ear Hair	Green Puff	Black Puff	Golden Puff	Mephite Stinkbag		
+Dropped From -	All	All	Ears	Tail	Tail	Tail	All		
+									
+Use in Augments	Theroid Slayer*	Aural Cloaking	Ranged Draw Surge (Low Level)	Resistance Reducer (Low Level)	Fuel Efficiency Up 	AppendLost.ATK-UP	High Danger Surge (Low Level)		
+	Slayer.THEROID*	Cloak.SOUND							
+	Theroid Criticals Up*								
+	CritUp.THEROID*								
+	Max TP Up*								
+	Max TP Boost (Low Level)								
+	Max GP Drive								
+	Boosts Potential (Low Level)*								
+	SpecUp.PTL (Low Level)*								
+	Potential Boost (Low Level)								
+	Boost.PTL (Low Level)								
+	Potential Drive								
+									
+Use in Gear Crafting	Six Stars Ritual Attire		Black Bunnyband						
+	Bunny Attire								
+	White Bunnyhood								
+									
+Armor	No								
+Weapons	Yes								
+Skell Armor	No								
+Skell Weapons	No								

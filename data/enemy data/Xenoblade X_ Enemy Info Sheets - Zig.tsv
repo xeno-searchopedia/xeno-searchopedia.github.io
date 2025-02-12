@@ -1,0 +1,54 @@
+	Zig														
+									Type A		Type B		Type C		Type D
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size							
+Grey Zigs	1500	0	0	1875	1300	500	0	L	Experimental Compact Zig		Enhanced Search Zig		Unlimited Output Zig		Enhanced Supprt Zig
+XL Grey Zigs	7200	0	0	2500	1300	500	0	XL							
+Silver Zigs	1500	0	0	1950	1400	500	0	L							
+XL Silver Zigs	7200	0	0	2600	1400	500	0	XL							
+Grey Zig Tyrants	3375	0	0	1968	1365	525	0	L							
+Silver Zig Tyrants	3375	0	0	2047	1470	525	0	L							
+Frontline Surveillance Zig	16200	0	0	1729	1470	525	0	XL							
+															
+Resistances	Zig	Zig Tyrants													
+Physical	30	35													
+Beam	-25	-20													
+Ether	10	15													
+Thermal	10	15													
+Electric	-25	-20													
+Gravity	-50	-45													
+Debuff Immunity	Knockback & Launch	Control, Knockback, Launch & Virus													
+Debuff Resistant	Topple, Control & Virus	Topple & Control													
+															
+Auras	Members	Trigger	Effect	Tier	Duration										
+Enrage	All	N/A	N/A	N/A	N/A										
+															
+Species Arts List	Homing Beam	I. Flame Launcher	II. Beam Gatling	III. Flame Cannon	IVa. Debilitating Energy	IVb. Jam									
+Type	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged									
+Target	Multi Target	Single Target	Single Target	Targeted Blast	Single Target	Nearby Enemies									
+No. of Hits	2	2	16	2	2	1									
+Attribute	Beam	Thermal	Beam	Thermal	Beam	Beam									
+Damage Scaling	100%	200%	200%	240%	150%	100%									
+Recast	3 Seconds	15 Seconds	15 Seconds	20 Seconds	15 Seconds	10 Seconds									
+Boost									Damaged Zig		Experimental Second-Gen Zig		Enhanced Attack Range Zig		Frontline Surveillance Zig
+Debuff		Stagger II & Vs. Airborne Targets: Topple III		Launch & Vs. Airborne Targets: Topple III	Slow Arts	Flinch II & Debuff Res Down									
+Disabled by Destroying -		Either Weapon	Either Weapon	Either Weapon	Either Weapon	Either Weapon									
+Homing	Yes	Yes		Yes	Yes										
+															
+Appendages	Main Body	Left Weapon	Right Weapon												
+Hardness	N/A	0	0												
+Skell Targetable	Yes	No	No												
+Exposed by -															
+															
+Species Drops															
+Materials	Standard Sensor Part	Upgraded Sensor Part	Hi-Spec Sensor Module	Standard Shaft	Genuine Shaft	Upgraded Shaft Part	Quality Shaft	Ziggian Long Antennae							
+Dropped From -	All	All	All	Weapons - Normal and Type A Zig Tyrants Only	Weapons - Type B Zig Tyrants Only	Weapons - Type C Zig Tyrants Only	Weapons - Type D Zig Tyrants Only	All							
+															
+Use in Augments		Ether Resistance Up (Low Level)	Custom.WP-FUEL	Magazine Capacity Up (Low Level)	Custom.WP-MSL-MAG (Upgrade Only)	Cooldown Reducer (Low Level)	Secondary Cooldown Reducer (Low Level)	Critical Chance Up (Low Level)							
+		SpecUp.ETHER.RES (Low Level)			Custom.WP-RFL-MAG (Upgrade Only)	Custom.WP.SPEED (Low Level)		CriticalUp (Low Level)							
+															
+Use in Gear Crafting	US0830 Dozer														
+															
+Armor	No														
+Weapons	No														
+Skell Armor	No														
+Skell Weapons	Back - F-Wave (Sakuraba)	Back - F-Wave (Grenada)	Back - F-Wave (Meredith)												

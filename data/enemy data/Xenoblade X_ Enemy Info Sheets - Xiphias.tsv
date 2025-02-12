@@ -1,0 +1,50 @@
+	Xiphias							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Xiphias	1000	990	1000	1100	925	1100	1100	M
+Shatskikh	2250	1039	1050	1155	971	1155	1155	M
+Brandys	2812	1416	1050	1575	971	1155	1575	L
+								
+Resistances	Xiphias	Xiphias Tyrant						
+Physical	0	5				Shatskikh, the Flash		
+Beam	0	5						
+Ether	-25	-20						
+Thermal	0	5						
+Electric	-50	-45						
+Gravity	-25	-20						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Xiphiases above Lv. 20	Break Horn	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	IV	60 Seconds			
+	Xiphias Tyrants	Break Horn	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	V	60 Seconds			
+								
+Species Arts List	Ether Shot	Ether Bomb	Jam	Horn Charge				
+Type	Ranged	Ranged	Ranged	Melee				
+Target	Single Target	Multi Target	Nearby Enemies	Single Target		Brandys, the Spectral Light		
+No. of Hits	3	4	1	1				
+Attribute	Ether	Ether	Ether	Physical				
+Damage Scaling	85%	170%	85%	400%				
+Recast	3 Seconds	15 Seconds	15 Seconds	40 Seconds				
+Boost								
+Debuff			HP Recovery Down	Stagger II				
+Disabled by Destroying -			Horn	Horn				
+Homing		Yes						
+								
+Appendages	Main Body	Horn	Tail					
+Hardness	N/A	3	-1					
+Skell Targetable	Yes	Yes	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Rotten Meat	Fresh Fish Meat	Sapphire Horn	Emerald Horn	Xiphias Mine Egg			
+Dropped From -	All	All	Horn	Horn	Back			
+								
+Use in Augments	Evasion Drive (Low Level)	Max HP Drive (Low Level)	Ranged Appendage Damage	Appendage Crusher	N/A			
+			Crush.APPEND					
+Use in Gear Crafting	N/A				Lv. 40 Archetype Weaponry			
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

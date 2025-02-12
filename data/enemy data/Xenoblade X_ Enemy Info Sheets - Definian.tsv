@@ -1,0 +1,54 @@
+	Definian								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	
+Definian	807	1100	1000	1100	1000	1100	1200	S	WR512: Urdu
+Urdu	1815	1155	1050	1155	1050	1155	1260	S	
+									
+Resistances	Definian	Definian Tyrant							
+Physical	0	5							
+Beam	-25	-20							
+Ether	10	15							
+Thermal	0	5							
+Electric	0	5							
+Gravity	0	5							
+Debuff Immunity	Control & Time Bomb	Control & Time Bomb							
+Debuff Resistant	Topple, Control & Virus	Topple, Control & Virus							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Definians	25% Health	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 20% Damage Reduction	I	60 Seconds				
+	Definian Tyrant	25% Health	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 25% Damage Reduction	II	60 Seconds				
+									
+Aware	Definians	Art - Offensive Stance	Boosts Melee Attack, Boosts Ranged Attack, Grants Critical Power	I	60 Seconds				
+									
+Species Arts List	Energy Shot	Jam	Collider	Howl	Offensive Stance	Maximum Energy	Blade Combo	Blade Rush	
+Type	Ranged	Ranged	Ranged	Ranged	Aura	Ranged	Melee	Melee	
+Target	Single Target	Nearby Enemies	Nearby Enemies	Single Target	Self	Multi Target	Single Target	Single Target	
+No. of Hits	2	1	1	1	N/A	6	3	4	
+Attribute	Beam	Electric	Electric	Physical	N/A	Beam	Beam	Beam	
+Damage Scaling	100%	100%	200%	150%	N/A	200%	200%	500%	
+Recast	3 Seconds	15 Seconds	15 Seconds	27 Seconds	60 Seconds	15 Seconds	15 Seconds	60 Seconds	
+Boost						Aware	Critical Chance +5	Critical Chance +10	
+Debuff				Time Bomb					
+Disabled by Destroying -									
+Homing	Yes			Yes		Yes			
+									
+Appendages	Main Body								
+Hardness	N/A								
+Skell Targetable	Yes								
+Exposed by -									
+									
+Species Drops									
+Materials	Broken Buckle	Fine Black Belt							
+Dropped From -	All	All							
+									
+Use in Augments	Humanoid Slayer*	Magazine Capacity Up (Low Level)							
+	Humanoid Criticals Up*	Resist Shock*							
+	Slayer.HUMANOID*	Resist.SHOCK*							
+	CritUp.HUMANOID*								
+									
+Use in Gear Crafting	N/A								
+									
+Armor	Meredith Medium Wear								
+Weapons	Yes								
+Skell Armor	No								
+Skell Weapons	No								

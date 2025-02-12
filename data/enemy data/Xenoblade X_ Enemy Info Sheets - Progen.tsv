@@ -1,0 +1,50 @@
+	Progen											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Progen	1500	1462	1000	1425	1025	1075	1500	L				
+Progen Tyrant	3375	1535	1050	1496	1076	1128	1575	L				
+												
+Resistances	Progen	Progen Tyrant				Celestin, the Spring Storm		Ernest, the Contemplative				Blaudolch, the Chalcedony
+Physical	0	5										
+Beam	0	5										
+Ether	-25	-20										
+Thermal	-50	-45										
+Electric	0	5										
+Gravity	0	5										
+Debuff Immunity		Control										
+Debuff Resistant	Topple & Control	Topple & Control										
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Progens above Lv. 20	Break Horn	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds							
+	Progen Tyrants	Break Horn	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds							
+												
+Species Arts List	Horn Swing	Thunder Flash	Jamming Gas	Horse Kick								
+Type	Melee	Ranged	Ranged	Melee								
+Target	Nearby Enemies	Single Target	Nearby Enemies	Nearby Enemies								
+No. of Hits	1	3	1	1								
+Attribute	Physical	Electric	Ether	Electric								
+Damage Scaling	100%	200%	136%	500%								
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds								
+Boost				Critical Chance +20								
+Debuff			Sleep	Taunt & Knockback II								
+Disabled by Destroying -		Horn	Either Wing									
+Homing		Yes										
+												
+Appendages	Main Body	Horn	Left Wing	Right Wing								
+Hardness	N/A	2	0	0								
+Skell Targetable	Yes	No	No	No								
+Exposed by -												
+												
+Species Drops												
+Materials	Small Scale	Large Hoof	Golden Progen Wing	Silver Progen Wing	Blue Progen Wing	Ornate Progen Horn	Progen Hoof Seal					
+Dropped From -	All	All	Wings	Wings	Wings	Horn	All					
+												
+Use in Augments	Ranged Accuracy Drive (Low Level)	Gravity Resistance Up	Ether Attack Plus (Low Level)	Extend Overdrive (Low Level)	Extend Critcal Power (Low Level)	N/A	N/A					
+		SpecUp.GRAV.RES	AttributeDMG.ETHER (Low Level)									
+												
+Use in Gear Crafting						Regal Gear	Original/Masterstroke Melee Weaponry					
+												
+Armor	No											
+Weapons	Yes											
+Skell Armor	No											
+Skell Weapons	No											

@@ -1,0 +1,68 @@
+	Vigent								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Barnabas, the Despot
+Vigent	7800	2400	1050	1950	950	1000	2000	XL	
+Barnabas	17550	2520	1102	2047	997	1050	2100	L	
+Goliath	29238	3780	1102	3070	997	1050	3150	XXL	
+Vainamo	29238	3780	1102	3070	997	1050	3150	XL	
+Squad Mission Vigent A (The Escaped Beasts)	5265	2520	1102	2047	997	1050	2100	XL	
+Squad Mission Vigent B (The Escaped Beasts)	6318	2520	1102	2047	997	1050	2100	XL	
+									
+Resistances	Vigent	Volcannon Vigent	Vigent Tyrant	Vainamo, the Bellower	Squad Mission Vigent				
+Physical	0	0	5	5	50				
+Beam	0	-50	5	-45	-45				
+Ether	-25	-25	-20	-20	-20				
+Thermal	-50	0	-45	5	-45				
+Electric	0	0	5	5	5				
+Gravity	0	0	5	5	5				
+Debuff Immunity	Virus	Virus	Control & Virus	Control & Virus	Control & Virus				
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun	Stagger, Topple, Stun & Control	Stagger, Topple, Stun & Control	Stagger, Topple, Stun & Control				
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Red Vigents	25% Health, or Break Right Foreclaw or Head Plate	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+	Blue Vigents	25% Health, or Break Left Foreclaw or Head Plate	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+	Black Vigents	25% Health, or Break Head Plate	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+	Barnabas	25% Health, or Break Right Foreclaw or Head Plate	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds				
+	Goliath	25% Health, or Break Left Foreclaw or Head Plate	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds				
+	Vainamo	25% Health, or Break Head Plate	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds				
+									
+Species Arts List	Slash	Left Claw	Right Claw	Guard	Stone Breath	Rock Missile	Flying Claw		
+Type	Melee	Melee	Melee	Aura	Ranged	Ranged	Melee		
+Target	Single Target	Single Target	Single Target	Self	Targeted Blast	Single Target	Enemies Ahead		
+No. of Hits	1	1	1	N/A	2	1	1		
+Attribute	Physical	Physical	Physical	N/A	Physical	Physical	Thermal		
+Damage Scaling	100%	160%	160%	N/A	200%	200%	500%		
+Recast	3 Seconds	15 Seconds	15 Seconds	60 Seconds	15 Seconds	15 Seconds	60 Seconds		
+Boost				Defending			Critical Chance +10		Goliath, the Stronghold
+Debuff		HP Recovery Down	Physical Res Down		Debuff Res Down	Vs. Airborne Targets: Topple	Launch II & Virus		
+Disabled by Destroying -		Left Foreclaw	Right Foreclaw	Either Foreclaw			Either Foreclaw		
+Homing									
+									
+Appendages	Main Body	Left Foreclaw	Right Foreclaw	Left Foot	Right Foot	Head Plate	Exposed Head		
+Hardness	N/A	1	1	0	0	2	-3		
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes		
+Exposed by -							Destroying Head Plate		
+									
+Species Drops									
+Materials	Rugged Skin	Warrior Race's Seal	Quality Vigent Claw	Red Vigent Rock Scalp	Blue Vigent Rock Scalp	Black Vigent Rock Scalp	Vigent Blood		
+Dropped From -	All	All	Foreclaws, Feet	Head Plate	Head Plate	Head Plate	Exposed Head		
+									
+Use in Augments	Debuff Suppressor (High Level)	N/A	Aura Rapid Cooldown (High Level)	Arts: Gain TP (High Level)	Weather Master (High Level)	Front Attack Plus (High Level)	Extend Aura (High Level)		
+				Arts.GP (High Level)	Weather.DAMAGE-RES (High Level)	PositionDmg.FRONT (High Level)			
+									
+Use in Gear Crafting		Supercivilsation Attire							
+									
+Armor	Grenada Heavy Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	Shoulder - Chaingun	Arm - Minigun	Arm - Needlegun	Sidearm - E-Machine Gun	Sidearm - Machine Gun				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									Vainamo, the Bellower

@@ -1,0 +1,56 @@
+	Quo							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Black Quo	1100	990	1000	1017	1000	1050	1320	M
+White Quo	1100	990	1000	990	1025	1050	1320	M
+Logistaical Support Quo	2475	1039	1050	1067	1050	1102	1386	M
+Frontline Medic Quo	2475	1039	1050	1039	1076	1102	1386	M
+								
+Resistances	Quo	Quo Tyrant						Logistical Support Quo
+Physical	30	35						
+Beam	-25	-20						
+Ether	10	15						
+Thermal	10	15						
+Electric	-25	-20						
+Gravity	-50	-45						
+Debuff Immunity		Control						
+Debuff Resistant	Topple, Control & Virus	Topple, Control & Virus						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	N/A							
+								
+Species Arts List	Gatling	Hardware Jam	Reinforce	Multi Missile	Debilitating Missile	Repair		
+Type	Melee	Ranged	Buff	Ranged	Ranged	Buff		
+Target	Single Target 	Nearby Enemies	Self	Multi Target	Multi Target	Self		
+No. of Hits	6	1	N/A	8	2	N/A		
+Attribute	Physical	Physical	N/A	Thermal	Thermal	N/A		
+Damage Scaling	100%	100%	N/A	200%	150%	255 x PTL		
+Recast	3 Seconds	15 Seconds	60 Seconds	15 Seconds	15 Seconds	60 Seconds		
+Boost			Supercharge			Restores HP		Frontline Medic Quo
+Debuff		Fatigue			Beam Res Down			
+Disabled by Destroying -	Either Plunger	Ring	Ring	Pod	Pod	Ring		
+Homing				Yes	Yes			
+								
+Appendages	Main Body	Left Pod	Right Pod	Left Plunger	Right Plunger	Ring		
+Hardness	N/A	0	0	0	0	0		
+Skell Targetable	Yes	No	No	No	No	No		
+Exposed by -								
+								
+Species Drops								
+Materials	Standard Jammer	Upgraded Jammer	Quo Pod	Reinforced Plunger	Black Gyrocompass	Golden Gyrocompass		
+Dropped From -	All	All	Pod	Weapon	Ring	Ring		
+								
+Use in Augments	Debuff Suppressor	Resist Stun	Electric Attack Plus I	Thermal Attack Plus (Low Level)	Gravity Attack Plus (Low Level)	SpecUp.FUEL-BIND		
+		Resist.STUN	AttributeDMG.ELEC I	AttributeDMG.THERM (Low Level)	AttributeDMG.GRAV (Low Level)			
+			Thermal Resistance Up (Low Level)					
+			SpecUp.THERM-RES (Low Level)					
+Use in Gear Crafting	N/A							
+								
+Armor	No							
+Weapons	No							
+Skell Armor	Yes							
+Skell Weapons	Black	White						
+								
+	Spare - Cracker-BM	Back - Javelin						
+	Spare - Cracker-FL	Shoulder - E-Scythe						
+	Spare - Cracker-PD	Sidearm - Heat-Edge						

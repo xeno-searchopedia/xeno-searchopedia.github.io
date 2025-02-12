@@ -1,0 +1,56 @@
+	Coronid											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Xair, the Cerulean Walker		Ignit, the Ultimate Chaos
+Coronid	17500	4200	950	4500	975	250	3000	XXL				
+XL Coronid	10500	2797	975	2997	950	250	1998	XL				
+Xair	23625	2937	997	3147	1023	262	2098	XL				
+Ignit	39375	4410	997	4725	1023	262	3150	XXL				
+Squad Mission Coronid (Experimental Organisms)	13781	1543	747	1653	767	196	1102	XXL				
+												
+Resistances	Coronid	Coronid Tyrants	Squad Mission Coronid A (Experimental Organisms)	Squad Mission Coronid B (Experimental Organisms)								
+Physical	0	0	50	0								
+Beam	0	0	50	0								
+Ether	-25	-20	50	-25								
+Thermal	-50	-45	50	-50								
+Electric	0	0	50	0								
+Gravity	0	0	50	0								
+Debuff Immunity		Control	All 	Control								
+Debuff Resistant	Stagger, Flinch, Topple, Launch, Knockback, Stun, Sleep, Control & Virus	Stagger, Flinch, Topple, Launch, Knockback, Stun, Sleep, Control & Virus	Stagger, Flinch, Topple, Launch, Knockback, Stun, Sleep, Control & Virus	Flinch, Topple, Knockback, Launch, Stun & Control								
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Coronids	Break Head or Back	Boost Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds							
+	Ignit, the Ultimate Chaos	Break Head or Back	Boost Melee Attack, Boosts Ranged Attack, Boosts Potential	VI	60 Seconds							
+	Squad Mission Coronid	Break Head or Back	Boost Melee Attack, Boosts Ranged Attack, Boosts Potential, Boosts Critical Chance, Mobility Debuff Immunity & 50% Damage Reduction	VI	Indefinite							
+												
+Spike	Xair, the Cerulean Walker	Engagement	Ether Damage (500% of Total PTL) per Second and Inflicts Ether Res Down V	Proximity	Indefinite							
+												
+Species Arts List	Stomp (Each Foot)	Thunder Flash	Ether Mortar	Multi Ether Mortar	Tri-Laser	Laser Eye	Ether Storm					
+Type	Melee	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged					
+Target	Nearby Enemies	Multi Target	Single Target	Multi Target	Multi Target	Enemies Ahead	Nearby Enemies					
+No. of Hits	1	5	1	4	6	4	3					
+Attribute	Physical	Electric	Ether	Ether	Ether	Ether	Ether					
+Damage Scaling	100%	200%	425%	425%	170%	425%	510%					
+Recast	3 Seconds	15 Seconds	60 Seconds	60 Seconds	15 Seconds	60 Seconds	80 Seconds					
+Boost												
+Debuff	Stagger III		Launch II, Vs. Airborne Targets: Topple III	Ether Res Down		Stagger, Vs. Airborne Targets: Topple V	Slow Arts, Vs. Airborne Targets: Topple V					
+Disabled by Destroying -	Corresponding Foot		Back	Back	Back		Back					
+Homing		Yes	Yes	Yes	Yes							
+												
+Appendages	Main Body	Left Forefeet	Right Forefeet	Left Hindfoot	Right Hindfoot	Posterior	Neck	Eye	Back			
+Hardness	N/A	1	1	0	0	2	1	-1	2			
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes			
+Exposed by -								Destroying Neck	Destroying Neck			
+												
+Species Drops												
+Materials	Rugged Skin	Obsidian Fragment	Tough Tendon	Obsidian Cluster	Thick Coronid Hide	Coronid Dung	Coronid Larynx					
+Dropped From -	All	All	Legs	Back	Head	Posterior	Eye					
+												
+Use in Augments	Debuff Suppressor (High Level)	N/A	N/A	N/A	Resist Topple (High Level)	Melee: Recover HP (High Level)	Firing Range Up (High Level)					
+					Resist.TOPPLE (High Level)	M-Auto.HP-RECOV (High Level)	Custom.WP-RANGE (High Level)					
+												
+Use in Gear Crafting		Original/Masterstroke Melee Weaponry		US0860 Excavator Skell								
+												
+Armor	Six Stars Light Wear											
+Weapons	No											
+Skell Armor	No											
+Skell Weapons	Spare - Cracker-BM	Spare - Cracker-FL	Spare - Cracker-PD									

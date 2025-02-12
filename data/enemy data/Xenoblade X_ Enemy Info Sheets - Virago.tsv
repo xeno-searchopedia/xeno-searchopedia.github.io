@@ -1,0 +1,55 @@
+	Virago								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Buchwald, the Guardian
+Virago	7200	2600	1000	1950	1000	1000	2000	XL	
+Large Virago	1498	1950	1000	1463	1000	1000	1500	L	
+Buchwald	26989	4095	1050	3070	1050	1050	3150	XL	
+Behemoth	16200	2730	1050	2047	1050	1050	2100	XXL	
+									
+Resistances	Virago	Virago Tyrant							
+Physical	0	5							
+Beam	0	5							
+Ether	-25	-20							
+Thermal	-50	-45							
+Electric	0	5							
+Gravity	0	5							
+Debuff Immunity	Virus	Virus & Control							
+Debuff Resistant	Topple, Control & Stun	Stagger, Topple, Stun & Control							
+									
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Viragos	75% Health, or Break Exposed Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds				
+	Virago Tyrants	75% Health, or Break Exposed Head	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds				
+									
+Enemy Skill	Buchwald, the Guardian	Engagement	Regen (3% of Total HP) every second	V	Indefinite				
+									
+Species Arts List	Slash	Left Claw	Right Claw	Guard	Poison Breath	Lava Missile	Flying Claw		
+Type	Melee	Melee	Melee	Aura	Ranged	Ranged	Melee		
+Target	Single Target	Single Target	Single Target	Self	Frontal Arc	Single Target	Enemies Ahead		
+No. of Hits	1	1	1	N/A	2	1	1		
+Attribute	Physical	Physical	Physical	N/A	Ether	Thermal	Thermal		
+Damage Scaling	100%	160%	160%	N/A	170%	200%	500%		
+Recast	3 Seconds	15 Seconds	15 Seconds	60 Seconds	15 Seconds	15 Seconds	60 Seconds		
+Boost				Defending			Critical Chance +10		
+Debuff		HP Recovery Down	Thermal Res Down		Debuff Res Down	Vs. Airborne Targets: Topple	Launch II & Virus		
+Disabled by Destroying -		Left Foreclaw	Right Foreclaw	Either Foreclaw			Either Foreclaw		
+Homing									
+									
+Appendages	Main Body	Left Foreclaw	Right Foreclaw	Left Foot	Right Foot	Head Plate	Exposed Head		Behemoth, the Netherdweller
+Hardness	N/A	1	1	0	0	0	4		
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes		
+Exposed by -							Destroying Head Plate		
+									
+Species Drops									
+Materials	Rough Skin	Warrior Race's Seal	Ingrown Virago Claw	Virago Alloy Plate	Purple Virago Alloy Plate	Virago Blood Sweat			
+Dropped From -	All	All	Claws	Head	Head	Exposed Head			
+									
+Use in Augments	Rising Energy Mist Screen*	N/A	Side Attack Plus (High Level)	Ranged: TP Gain Up (High Level)	Back Attack Plus (High Level)	Arts: Recover HP (High Level)			
+	Weather.RISING-E-MIST-RES*		PositionDmg.SIDE (High Level)	Custom.WP-R-GP (High Level)	PositionDmg.BACK (High Level)				
+									
+									
+Use in Gear Crafting		Supercivilsation Attire							
+									
+Armor	Grenada Skell Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	Back - BB-Sword	Spare - Katar	Spare - Beamsaber	Spare - Ringedge	Spare - Falchion	Spare - Claymore			

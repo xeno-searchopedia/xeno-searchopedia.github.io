@@ -1,0 +1,55 @@
+	Balaena									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Draken, the Drifting Cloud
+Balaena	14500	3600	875	3900	1000	1000	3000	XL		
+XXL Balaena	24157	5400	875	5850	1000	1000	4500	XXL		
+Draken	54353	5670	918	6142	1050	1050	4725	XXL		
+Rajidi	32625	3780	918	4095	1050	1050	3150	XL		
+										
+Resistances	Balaena	Balaena Tyrant								
+Physical	0	5								
+Beam	-50	-45								
+Ether	-25	-20								
+Thermal	0	5								
+Electric	10	15								
+Gravity	-25	-20								
+Debuff Immunity	Control & Virus	Control & Virus								
+Debuff Resistant	Topple, Control, Stun & Virus	Topple, Control & Stun								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Balaenas	15% Health, or Break Balloons	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 30% Damage Reduction	III	60 Seconds					
+	Balaena Tyrants	15% Health, or Break Balloons	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 35% Damage Reduction	IV	60 Seconds					
+										
+Species Arts List	Tackle	Flame Bomber	Flame Missile	Inferno Mortar	Beam Gleam					
+Type	Melee	Ranged	Ranged	Ranged	Ranged					
+Target	Nearby Enemies	Multi Targeted Blasts	Single Target	Targeted Blast	Nearby Enemies					
+No. of Hits	1	9	4	1	4					
+Attribute	Physical	Thermal	Thermal	Thermal	Beam					
+Damage Scaling	100%	200%	200%	240%	500%					
+Recast	3 Seconds	15 Seconds	15 Seconds	30 Seconds	60 Seconds					
+Boost										
+Debuff	Launch on Foot			Launch V & Blaze, Vs. Airborne Target: Topple III	Thermal Res Down					
+Disabled by Destroying -			Mouth		Either Balloon					
+Homing		Yes	Yes	Yes						
+										
+Appendages	Main Body	Head	Tail	Left Whisker	Right Whisker	Left Balloon	Right Balloon			
+Hardness	N/A	0	1	2	2	0	0			
+Skell Targetable	Yes	Yes	Yes	No	No	Yes	Yes			
+Exposed by -										
+										
+Species Drops										
+Materials	Fatty Fish Belly	Tasty Fish Belly	Giant Cavity	Big Balaena Water Bag	Big Balaena Sang Bag	Lucky Rainbow Whisker	Developed Balaena Fat			
+Dropped From -	All	All	Mouth	Balloons	Balloons	Whiskers	Tail			
+										
+Use in Augments	Max TP Boost (High Level)	Overdrive: Recover HP (High Level)	Focused Evasion (High Level)	Max HP Boost (High Level)	TP Rebound (High Level)	N/A	Crush Surge (High Level)			
+		Overdrive.FRAME-HP (High Level)		Boost.MAX-HP (High Level)	Damage.GP-GAIN (High Level)					Rajidi, the Cumuliform
+										
+										
+										
+										
+Use in Gear Crafting	N/A					White Bunnyband				
+						Bunny Attire				
+Armor	Meredith Heavy Wear									
+Weapons	No									
+Skell Armor	No									
+Skell Weapons	Back - P-Cannon	Back - Lasergun	Back - Railgun	Sidearms - E-Cannon						

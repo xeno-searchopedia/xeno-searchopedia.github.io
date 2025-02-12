@@ -1,0 +1,52 @@
+	Jacul												
+													
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size					
+Jacul	1312	1462	1000	1537	1025	1050	1500	L					
+XL Jacul	6298	1949	1000	2049	1025	1050	2000	XL					
+Ja Mian	23616	3070	1050	3226	1076	1102	3150	XXL					
+Radovan	2952	1535	1050	1613	1076	1102	1575	L					
+													
+Resistances	Jacul	Jacul Tyrant					Ja Mian, the Beloved						Radovan, the Sky Baron
+Physical	0	5											
+Beam	0	5											
+Ether	-25	-20											
+Thermal	-50	-45											
+Electric	0	5											
+Gravity	-25	-20											
+Debuff Immunity		Control											
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun											
+													
+Auras	Members	Trigger	Effect	Tier	Duration								
+Enrage	Jaculs above Lv. 20	10% Health or Break Horn or Back	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 25% Damage Reduction	II	60 Seconds								
+	Jacul Tyrants	10% Health or Break Horn or Back	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 30% Damage Reduction	III	60 Seconds								
+													
+Species Arts List	Roar	Thunder Shot	Spiral Lance	Tail Twirl (Airborne Only)	Slash (Ground Only)	Acid Lance (Ground Only)							
+Type	Ranged	Ranged	Melee	Melee	Melee	Ranged							
+Target	Nearby Enemies	Single Target	Single Target	Nearby Enemies	Single Target	Nearby Enemies							
+No. of Hits	1	2 (Airborne), or 3 (Ground)	1	1	1	1							
+Attribute	Physical	Electric	Electric	Physical	Physical	Ether							
+Damage Scaling	100%	100% (Airborne), or 200% (Ground)	350%	200%	100%	204%							
+Recast	15 Seconds	3 Seconds (Airborne), or 10 Seconds (Ground)	30 Seconds	15 Seconds	3 Seconds	20 Seconds							
+Boost			Low HP = Up to 25% Damage Boost										
+Debuff	Fatigue		Stagger			Virus							
+Disabled by Destroying -			Horn	Tail		Back							
+Homing		Yes											
+													
+Appendages	Main Body	Horn	Back	Tail									
+Hardness	N/A	1	0	0									
+Skell Targetable	Yes	No	Yes	No									
+Exposed by -													
+													
+Species Drops													
+Materials	Filthy Wing	Cracked Bill	Blue Jacul Wing	Green Jacul Wing	Jacul Horn	Jacul Waterfall Orb	Fertilized Auravis Egg						
+Dropped From -	All	All	Back	Back	Horn	Tail	All						
+													
+Use in Augments	Danger Surge (Low Level)	Front Attack Plus	Soft Touch (High Level)	Ranged Atack Up (High Level)	Thermal Attack Plus (High Level)	Boosts Evasion (High Level)	Overdrive Count Up (High Level)						
+		PositionDMG.FRONT		SpecUp.R-ATK (High Level)	AttributeDmg.THERM (High Level)	SpecUp.EVA (High Level)	Overdrive.EXTEND (High Level)						
+													
+Use in Gear Crafting	N/A												
+													
+Armor	Candid Heavy Wear												
+Weapons	Yes												
+Skell Armor	No												
+Skell Weapons	No												

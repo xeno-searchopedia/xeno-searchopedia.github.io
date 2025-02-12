@@ -1,0 +1,80 @@
+	Marnuck																					
+																						
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size														
+Grey Marnuck	850	1100	1050	1000	1000	1000	1000	1														
+Brown Marnuck	892	1150	1075	1000	1000	1000	1000	1														
+White Marnuck Elite	935	1000	1000	1100	1050	1050	1000	1	Gadaf, the Pulverizer		Daril, the Eradicator		Sadar, the Unhinged		Duran, the Draconian		Ahama, the Covetous		Berserker Marnuck			
+Red Marnuck Elite	977	1000	1000	1150	1100	1050	1000	1														
+Gadaf	1912	1155	1102	1050	1050	1050	1050	1														
+Daril	2007	1207	1128	1050	1050	1050	1050	1														
+Marnuck Elite Tyrant	2103	1050	1050	1155	1102	1102	1050	1														
+Duran	2198	1050	1050	1207	1155	1102	1050	1														
+																						
+Resistances	Marnuck	Marnuck Tyrant																				
+Physical	0	5																				
+Beam	-25	-20																				
+Ether	10	15																				
+Thermal	0	5																				
+Electric	0	5																				
+Gravity	0	5																				
+Debuff		Control																				
+Debuff Resistant	Topple, Sleep & Control	Topple, Sleep, Control & Virus																				
+																						
+Auras	Members	Trigger	Effect	Tier	Duration																	
+Enrage	N/A																					
+							Marnuck utilise several varieties of firearm, and each has its own art, or arts, in addition to the common ones. Each named Marnuck variety has its own pool of possible weapons, detailed in the table below. The weapon's attribute also carries over to Shrapnel															
+							I		II		III	IV	V	VI	VII	VIII		IX	X	XI	XII	XIII
+Species Arts List	Weapon Slam	Enhancer	Self-Destruct	Shrapnel			Assault	Furious Blast	Beam Machine Gun	Furious Blast	Beam Shotgun	Debilitating Beam	Ether Rifle	Bolt Snipe	Flame Grenade	Beam Gatling	Bullet Storm	Flame Mortar	Homing Beam	Shockwave	Gravity Shell	Velocity Ray
+Type	Melee	Buff	Ranged	Ranged			Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged
+Target	Single Target	Self	Nearby Enemies	Single Target or Circle around Target (Homing Beam and Velocity Ray Only)			Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Single Target	Enemies Ahead	Single Target	Single Target	Single Target	Single Target	Single Target
+No. of Hits	1	1	1	1			4	11	6	11	3	2	2	2	1	12	4	1	4	1	3	1
+Attribute	Physical	N/A	Thermal	Weapon (Refer to righthand table)			Physical	Physical	Beam	Beam	Beam	Beam	Ether	Electric	Thermal	Beam	Beam	Thermal	Beam	Physical	Gravity	Beam
+Damage Scaling	100%	N/A	750%	200%			100%	200%	100%	200%	150%	100%	127%	144%	100%	200%	500%	100%	100%	100%	70%	144%
+Recast	3 Seconds	60 Seconds	60 Seconds	20 Seconds			3 Seconds	15 Seconds	3 Seconds	15 Seconds	5 Seconds	5 Seconds	5 Seconds	5 Seconds	4 Seconds	15 Seconds	60 Seconds	4 Seconds	3 Seconds	5 Seconds	3 Seconds	6 Seconds
+Boost		Boosts Ranged Attack																				
+Debuff				Slow Arts II (Debilitating Beam Only), Taunt (Shockwave Only), Physical Res Down (Gravity Shell Only)								Fatigue I										
+Disabled by Destroying -																						
+Homing																			Yes			Yes
+						Soldier	*															
+Appendages	Main Body	Back				Aspirer	*															
+Hardness	N/A	0				Recon	*															
+Skell Targetable	Yes	No				Commander	*															
+Exposed by -						Imperial	*															
+						Vanguard			*													
+Species Drops						Mercenary			*													
+Materials	Broken Buckle	Fine Transparent Belt	Fine White Belt	Fine Red Belt	Combat Boost Meds	Windtrooper			*													
+Dropped From -	All	All	All	All	Back	Evildoer			*													
+						Slugger					*											
+Use in Augments	Humanoid Slayer*	Bind: Refuel (Low Level)	Chimeroid Slayer (Low Level)	Extend Overdrive (High Level)	Melee Accuracy Drive (Low Level)	Ruffian					*											
+	Humanoid Criticals Up*		Slayer.CHIMEROID (Low Level)			Barrager					*											
+	Slayer.HUMANOID*		Chimeroid Criticals Up (Low Level)			Admiral					*											
+	CritUp.HUMANOID*		CritUp.CHIMEROID (Low Level)			Pawn						*										
+						Support						*										
+						Shield Trooper						*										
+Use in Gear Crafting	N/A					Guardian						*										
+						Sentinel							*									
+Armor	No					Hornet							*									
+Weapons	No					Marksman							*									
+Skell Armor	No					Cuttroat							*									
+Skell Weapons	White Elite	Red Elite		Lv. 51+ Only		Gappler								*								
+	Back - Meredith B-Gatling	Sidearm - Shotgun		FILES - Original Ranged Weapons		Damager								*								
+	Shoulder - Sakuraba B-Gatling	Sidearm - L-Cannon		FILES - Masterstroke Ranged Weapons		Jaeger								*								
+	Shoulder - Sakuraba B2-Gatling	Sidearm - Bladegun				Burster									*							
+	Shoulder - Voltstorm	Sidearm - Wiregun				Blaster									*							
+						Firetrooper									*							
+						Gatling										*						
+						Loader												*				
+						Howitzer												*				
+						Slayer													*			
+						Pulser														*		
+						Crasher														*		
+						Minor															*	
+						Dynamo															*	
+						Converger																*
+						Transitioner																*
+						Gadaf			*													
+						Daril												*				
+						Ahama	*															
+						Sadar	*															
+						Duran	*															
+						Berserker	*															

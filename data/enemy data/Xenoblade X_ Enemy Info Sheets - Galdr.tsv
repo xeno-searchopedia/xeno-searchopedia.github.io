@@ -1,0 +1,85 @@
+	Galdr																	
+												Type A		Type B		Type C		Type D
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size										
+Type A Galdr	1562	1500	1100	1650	1100	900	1500	L				Armed Recon Galdr		Armed Engineer Galdr		Air Support Galdr		Armed Destroyer Galdr
+Type B Galdr	1562	1725	1100	1575	1050	800	1500	L										
+Type C Galdr	1562	1500	1000	1800	1150	800	1500	L										
+Type D Galdr	1562	1575	1000	1725	1150	800	1500	L										
+Red Galdr	1562	1537	1100	1687	1100	900	1500	L										
+Gold Galdr	1562	1762	1125	1612	1075	900	1500	L										
+Blue Galdr	1562	1537	1025	1837	1175	900	1500	L										
+Green Galdr	1562	1612	1025	1762	1175	900	1500	L										
+Armed Recon Galdr	3514	1575	1155	1732	1155	945	1575	L										
+Armed Engineer Galdr	3514	1811	1155	1653	1102	840	1575	L										
+Air Support Galdr	3514	1575	1050	1890	1207	840	1575	L										
+Armed Destroyer Galdr	3514	1653	1050	1811	1207	840	1575	L										
+Lyla's Galdr	3514	1613	1155	1771	1155	945	1575	L										
+Chantai's Galdr	3514	1850	1181	1692	1128	945	1575	L										
+Duran's Galdr	3514	1613	1076	1928	1233	945	1575	L										
+Vendura's Galdr	3514	1692	1076	1850	1233	945	1575	L										
+Summoned Galdr (Zu Pharg) #1	625	800	1100	880	1100	900	800	L										
+Summoned Galdr (Zu Pharg) #2	625	920	1100	840	1050	800	800	L										
+Summoned Galdr (Leva'el) #1	750	1537	1100	1687	1100	900	1500	L										
+Summoned Galdr (Leva'el) #2	750	1762	1125	1612	1075	900	1500	L										
+Summoned Galdr (Leva'el) #3	750	1537	1025	1837	1175	900	1500	L										
+Summoned Galdr (Leva'el) #4	750	1612	1025	1762	1175	900	1500	L										
+																		
+Resistances	Galdr	Galdr Tyrant	Vendura's Galdr															
+Physical	30	35	100															
+Beam	-25	-20	-20															
+Ether	10	15	15															
+Thermal	10	15	15															
+Electric	-25	-20	-20															
+Gravity	-50	-45	-45															
+Debuff Immunity		Control & Virus	Control, Virus & Physical Res Down															
+Debuff Resistant	Topple, Control & Virus	Topple & Control	Topple & Control															
+																		
+Auras	Members	Trigger	Effect	Tier	Duration							Lyla's Galdr		Chantai's Galdr		Duran's Galdr		Vendura's Galdr
+Enrage	Galdrs	30% Health, Break Shoulders or Weapons	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds													
+	Galdr Tyrants	30% Health, Break Shoulders or Weapons	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds													
+	Summoned Galdrs (Leva'el)	30% Health, Break Shoulders or Weapons	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	I	60 Seconds													
+																		
+Enemy Skill	Lyla's Galdr & Summoned Galdrs (Leva'el)	Passive	Firing Range Up 25m															
+																		
+Species Arts List	Gatling	Missile	Wild Beam	Energy Bomb	Energy Cannon	Million Missile	Guard	Type A - Piercing Beam	Type B - Tornado Claw	Type C - RFB Missile	Type D - Underhander							
+Type	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Aura	Ranged	Melee	Ranged	Ranged							
+Target	Single Target	Single Target	Single Target	Multi Targeted Blasts	Single Target	Single Target	Self	Single Target	Enemies Ahead	Targeted Blast	Single Target							
+No. of Hits	4	6	2	10	2	12	N/A	4	2	2	2							
+Attribute	Beam	Thermal	Beam	Thermal	Beam	Thermal	N/A	Beam	Beam	Thermal	Beam							
+Damage Scaling	100%	100%	160%	160%	150%	200%	N/A	500%	500%	300%	400%							
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds	60 Seconds	60 Seconds	60 Seconds	60 Seconds							
+Boost							Defending	50% Appendage Damage Boost	Low HP = Up to 25% Damage Boost		10% Damage Boost per Debuff on Target							
+Debuff		Thermal Res Down		Blaze	Slow Arts			Stagger II	Launch IV / II & Taunt	Launch, Blaze & Vs. Airborne Targets: Topple	Flinch & Virus							
+Disabled by Destroying -	Either Arm	Either Shoulder Weapon	Either Shoulder Weapon			Either Shoulder Weapon	Either Arm	Either Arm Weapon	Either Arm Weapon	Either Arm Weapon	Either Arm Weapon							
+Homing	Yes	Yes	Yes	Yes	Yes	Yes		Yes		Yes	Yes							
+																		
+Appendages	Main Body	Head	Left Arm	Right Arm	Left Shoulder Weapon	Right Shoulder Weapon	Right Arm Weapon	Left Arm Weapon										
+Hardness	N/A	0	0	0	1	1	1	1										
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes										
+Exposed by -																		
+																		
+Species Drops																		
+Materials	All-Purpose Plug	Multi-Wire	Reinforced Plug	Galdr Head	O.X. Unit	R.B. Unit	T.P Unit	S.P. Unit	E.M Unit	Special Weapons								
+Dropped From -	All	All	Arms	Head	Shoulders & Weapons	Shoulders & Weapons - Tyrant Only	Shoulders & Weapons - Tyrant Only	Shoulders & Weapons - Tyrant Only	Shoulders & Weapons	Weapons								
+																		
+Use in Augments	N/A	N/A	Electric Attack Plus (High Level)	Overdrive Green Bonus	Boosts Ranged Attack (High Level)	Ranged Accuarcy Drive (High Level)	Melee Accuracy Drive (High Level)	Max GP Drive (High Level)	Mas HP Drive (High Level)	Type A - Back - V-Beam								
+			AttributeDmg.ELEC (High Level)		SpecUp.R-ATK (High Level)					Type B - Back - T-Claw								
+										Type C - Shoulder - H-Missile								
+Use in Gear Crafting	SP - Back - Hexad-Partican	US0232 Police								Type D - Shoulder - G-Revolver								
+	SP - Back - Zweihand-Q																	
+	SP - Shoulder - Electric-Flood																	
+																		
+Armor	No																	
+Weapons	No																	
+Skell Armor	Medium Armor																	
+Skell Weapons	Type A	Type B	Type C	Type D														
+																		
+	Arm - Shield	Back - W-Crusher	Back - B-Gatling (Meredith)	Shoulder - Chaingun														
+		Back - Phoenix	Back - H-Arrow	Arm - Minigun														
+		Shoulder - Heathorn	Shoulder - Widebeam	Arm - Needlegun														
+		Shoulder - G-Buster	Shoulder - HB-Missile	Sidearm - E-Machine Gun														
+		Shoulder - G2-Buster	Sidearm - B-Centipede	Sidearm - Machine Gun														
+		Sidearm - Pile-Bunker	Sidearm - B-Sniper															
+		Sidearm - B-Claw	Sidearm - B-Rifle (Sakuraba															
+		Sidearm - P-Knife	Sidearm - B-Rifle (Meredith)															
+		Spare - V-Knuckle																

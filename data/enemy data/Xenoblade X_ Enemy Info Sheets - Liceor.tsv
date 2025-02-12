@@ -1,0 +1,52 @@
+											
+											
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size			Stola, the Champion
+Liceor	1250	1127	1025	1127	1025	950	1100	M			
+Liceor Tyrant	2812	1183	1076	1183	1076	997	1155	M			
+											
+Resistances	Liceor	Liceor Tyrant									
+Physical	0	5									
+Beam	0	5									
+Ether	-25	-20									
+Thermal	-50	-45									
+Electric	0	5									
+Gravity	0	5									
+Debuff Immunity		Control									
+Debuff Resistant	Topple & Control	Topple & Control									
+											
+Auras	Members	Trigger	Effect	Tier							
+Enrage	Liceor	70% Health, or Break Jewel	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	IV							
+	Liceor Tyrant	70% Health, or Break Jewel	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	V							
+											
+	Open Palm Stance					Switch Hit Stance					
+Species Arts List	Ether Sphere	Rallying Roar	Dance Dance Dance	Flash	Guard	Avian Combo	Rising Bird	Mach Punch	Flying Megaton		Stola, the Unchained
+Type	Ranged	Ranged	Buff	Ranged	Aura	Melee	Melee	Melee	Melee		
+Target	Single Target	Nearby Enemies	Self	Nearby Enemies	Self	Single Target	Nearby Enemies	Single Target	Nearby Enemies		
+No. of Hits	4	1	N/A	1	N/A	3	3	1	1		
+Attribute	Ether	Physical	N/A	Ether	N/A	Physical	Physical	Electric	Gravity		
+Damage Scaling	85%	200%	N/A	160%	N/A	100%	500%	160%	140%		
+Recast	3 Seconds	15 Seconds	40 Seconds	60 Seconds	60 Seconds	3 Seconds	60 Seconds	15 Seconds	15 Seconds		
+Boost			Boosts Ranged Attack		Defending		Critical Chance +10				
+Debuff		Physical Res Down		Blackout			Stagger	Vs. Airborne Target: Topple	Flinch		
+Disabled by Destroying -							Jewel				
+Homing											
+											
+Appendages	Main Body	Left Wing	Right WIng	Jewel							
+Hardness	N/A	0	0	0							
+Skell Targetable	Yes	No	No	No							
+Exposed by -											
+											
+Species Drops											
+Materials	Small Scale	Dull Stone	Liceor Sun Bead	Giant Blue Pearl	Giant Jade Pearl	Liceor Horn					
+Dropped From -	All	All	Wing	Jewel	Jewel	All					
+											
+Use in Augments	Ranged Accuracy Drive (Low Level)	Resist Blackout*	Secondary Cooldown Reducer (High Level)	Vehicle.FRAME-DEF*	EXP Boost (High Level)	Melee: Recover HP (Low Level)					
+		Resist.BLACKOUT*				M-Auto.HP-RECOV (Low Level)					
+		Treasure Sensor (Low Level)									
+											
+Use in Gear Crafting	N/A										
+											
+Armor	Candid Heavy Wear		Stola, the Unchained Only								
+Weapons	Yes		Bewitched Glaive: Blood Dance								
+Skell Armor	No										
+Skell Weapons	No										

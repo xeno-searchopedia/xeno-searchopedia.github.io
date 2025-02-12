@@ -1,0 +1,57 @@
+	Duoguill									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Duoguill	6300	1950	1200	2200	1200	1050	2000	XL		
+Large Duoguill	1310	1462	1200	1650	1200	1050	1500	L		
+Duoguill Tyrant	14175	2047	1260	2310	1260	1102	2100	XL		
+										
+Resistances	Duoguill	Hephaestus	Valeriano			Hephaestus, the Absconder				Valeriano, the Rolling Thunder
+Physical	0	5	5							
+Beam	-50	-45	-45							
+Ether	-25	-20	-20							
+Thermal	0	5	5							
+Electric	10	15	100							
+Gravity	-25	-20	-20							
+Debuff Immunity	Shock 	Shock & Control	Shock, Control & Electric Res Down							
+Debuff Resistant	Topple, Control & Stun	Topple, Control & Stun	Topple, Control & Stun							
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Duoguills above Lv. 20	50% Health, or Break Either Tentacle	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds					
+	Duoguill Tyrants	50% Health, or Break Either Tentacle	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds					
+										
+Calm	All	Art - Thunder Spike	Enables Proximity Spike Damage	III (Tier Increases past Lv. 21)	80 Seconds					
+Spike	All	Calm Active	Electric Damage Every 2 Seconds - 20% 	Proximity						
+										
+Species Arts List	Tackle	Collider	Lightning Spear	Thunder Flash	Thunder Spike					
+Type	Melee	Ranged	Melee	Ranged	Aura/Potential					
+Target	Single Target	Nearby Enemies	Single Target	Multi Target	Self					
+No. of Hits	1	1	2	4	N/A					
+Attribute	Electric	Electric	Electric	Electric	N/A					
+Damage Scaling	100%	200%	160%	200%	N/A					
+Recast	3 Seconds	15 Seconds	15 Seconds	60 Seconds	100 Seconds					
+Boost			Critical Chance +10		Calm (See above)					
+Debuff			Stun & Stagger II	Shock						
+Disabled by Destroying -			Either Tentacle	Either Tentacle						
+Homing										
+										
+Appendages	Main Body	Head	Tail	Left Tentacle	Right Tentacle					
+Hardness	N/A	1	2	0	0					
+Skell Targetable	Yes	Yes	Yes	No	No					
+Exposed by -										
+										
+Species Drops										
+Materials	Small Dorsal Fin	Pristine Spicule	Fine Duoguill Fishmeal	Blue Electrical Tentacle	Black Electrical Tentacle	Duoguill Broth				
+Dropped From -	All	All	Head, Tail, Tentacle	Tentacle	Tentacle	Tail, Head, Tentacle				
+										
+Use in Augments	Piscinoid Slayer*	N/A	Rain Screen*	Resist Electric Res Down*	Ultrafauna Slayer (Low Level)	Resist Beam Res Down*				
+	Slayer.PISCINOID*			Resist.ELEC-DOWN*	Slayer.Ultrafauna (Low Level)	Resist.BEAM-DOWN*				
+	Piscinoid Criticals Up*				Ultrafauna Criticals Up (Low Level)					
+	CritUp.PISCINOID*				CritUp.ULTRAFAUNA (Low Level)					
+										
+										
+Use in Gear Crafting	N/A									
+										
+Armor	Candid Medium									
+Weapons	No									
+Skell Armor	No									
+Skell Weapons	No									

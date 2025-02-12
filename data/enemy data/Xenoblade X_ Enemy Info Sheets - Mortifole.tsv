@@ -1,0 +1,62 @@
+	Mortifole									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		
+Small Golden and Green Mortifole	786	1045	1000	1155	1050	1000	1100	S		
+Small Red Mortifole	786	1045	1000	1210	1100	900	1100	S		
+Small White Mortifole	786	1045	1000	1237	1100	875	1100	S		
+Golden & Green Mortifole	925	1045	1000	1155	1050	1000	1100	M		
+Red Mortifole	925	1045	1000	1210	1100	900	1100	M		
+White Mortifole	925	1045	1000	1237	1100	875	1100	M		
+Yessenia & Jindriska	2081	1097	1050	1212	1102	1050	1155	M		
+Eliane	2081	1097	1050	1270	1155	945	1155	M		
+Katarina	2081	1097	1050	1298	1155	918	1155	M		
+										
+Resistances	Mortifole	Mortifole Tyrant								
+Physical	35	40								
+Beam	0	5								
+Ether	-25	-20								
+Thermal	-25	-20								
+Electric	0	5					Yessenia, the Husky-Voiced			Eliane, the Unmoved
+Gravity	-25	-20								
+Debuff Immunity		Control								
+Debuff Resistant	Topple & Control	Topple & Control								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Mortifole above Lv. 20	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds					
+	Tyrant Mortifole	50% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds					
+										
+Species Arts List	Acid Shot	Jamming Pollen	Seed Shot	Spin Tackle	Self-Destruct (White and Red Only)	Reinforce (Follow the Leader Squad Mission Only)				
+Type	Ranged	Ranged	Ranged	Melee	Ranged	Aura				
+Target	Single Target	Nearby Enemies	Single Target	Nearby Enemies	Nearby Enemies	Ally Simius				
+No. of Hits	3	1	5	1	1	N/A				
+Attribute	Ether	Ether	Physical	Physical	Thermal	Ether				
+Damage Scaling	170%	85%	100%	100%	750%	N/A	Jindriska, the Serene			Katarina, the Cliffhanger
+Recast	15 Seconds	15 Seconds	3 Seconds	3 Seconds	60 Seconds	60 Seconds				
+Boost						Calm VI (Barrier VI)				
+Debuff	Physical Res Down 	Flinch II & Fatigue 			Launch III & Destroys Self					
+Disabled by Destroying -	Head Feathers									
+Homing										
+										
+Appendages	Main Body	Head (First Pair of Feathers)	Head (Second Pair of Feathers)							
+Hardness	N/A	0	0							
+Skell Targetable	Yes	Yes	Yes							
+Exposed by -			Breaking First Pair of Feathers							
+										
+Species Drops										
+Materials	Broken Antenna	Fluffy Tuft	Golden Mortifole Feather	Green Mortifole Feather	Red Mortifole Feather	White Mortifole Feather	Mortifole Pollen	Shiny Mortifole Seed		
+Dropped From -	All	All	Head (Both)	Head (Both)	Head (Both)	Head (Both)	Head (Second Pair of Feathers)	All		
+										
+Use in Augments	Art Draw Surge (I-X)	Terrain Damage Reducer*	N/A	Focused Evasion	Overdrive: Gain TP (Low Level)	Arts: Gain TP	Aura Surge	EXP Boost (Low Level)		
+						Arts.GP	Appendage Crusher			
+										
+										
+										
+										
+Use in Gear Crafting	N/A									
+										
+										
+Armor	Grenada Medium Wear (Low Level)									
+	Meredith Heavy Wear 									
+Weapons	Yes									
+Skell Armor	No									
+Skell Weapons	No									

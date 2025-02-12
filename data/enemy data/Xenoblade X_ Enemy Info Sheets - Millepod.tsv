@@ -1,0 +1,59 @@
+	Millepod													
+														
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				Shuravas, the Enraged		Hartmut, the Calamity
+Millepod	13000	3750	1050	3750	1050	1050	3000	XXL						
+Squad Mission Millepod (The Vicious Millepod)	2632	2622	1102	2622	1102	1102	2097	XL						
+Shuravas	32175	3750	1050	3750	1050	1050	3000	XXL						
+Hartmut	29250	3937	1102	3937	1102	1102	3150	XXL						
+														
+Resistances	Millepod	Squad Mission Millepod	Shuravas, the Enraged	Hartmut, the Calamity										
+Physical	35	40	50	40										
+Beam	0	5	15	100										
+Ether	-25	-20	-10	-20										
+Thermal	-25	-20	-10	-20										
+Electric	0	5	15	5										
+Gravity	-25	-20	-10	-20										
+Debuff Immunity		Control	Slow Arts, Virus, Sleep, Control, Time Bomb	Beam Res Down, Virus, Control										
+Debuff Resistant	Stagger, Topple, Launch, Knockback, Stun, Control, Virus, Blackout & Fatigue	Stagger, Topple, Launch, Knockback, Stun, Control, Virus, Blackout & Fatigue	Stagger, Topple, Launch, Knockback, Stun, Control, Blackout & Fatigue	Stagger, Topple, Launch, Knockback, Stun, Control, Blackout & Fatigue										
+														
+Auras	Members	Trigger	Effect	Tier	Duration									
+Enrage	Millepods & Hartmut, the Calamity	30% Health, Break Tail or Break Reverse Fin	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 35% Damage Reduction	IV	60 Seconds									
+	Shuravas, the Enraged	Damage Reverse Fin	Boosts Melee & Ranged Attack, Boosts Potential, Mobility Debuff Immunity & 40% Damage Reduction	V	Until Reverse Fin is Destroyed									
+														
+Spike	Shuravas, the Enraged	"It's weak fin destroyed, Shuravas's temper has climaxed"	Beam Damage (25% of Total PTL) every 2 Seconds	Proximity										
+														
+Enemy Skill	Shuravas, the Enraged	Low HP	Up to 10% Damage Boost											
+	Shuravas, the Enraged	Break Reverse Fin	Regen (0.5% of Base HP) every 10 Seconds, and Enables Proximity Spike Damage											
+														
+						Shuravas Only								
+Species Arts List	Beam Rush	Massive Tornado	Acid Bite	Random Beam	Beam Needle	Beam Rush II	Massive Tornado II	Acid Bite II	Random Beam II	Beam Needle II				
+Type	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged				
+Target	Single Target	Nearby Enemies	Enemies Ahead	Nearby Enemies	Single Target	Single Target	Nearby Enemies	Enemies Ahead	Nearby Enemies	Multi Target				
+No. of Hits	16	1	1	4	3	32	1	1	4	12				
+Attribute	Beam	Ether	Ether	Beam	Beam	Beam	Ether	Ether	Beam	Beam				
+Damage Scaling	200%	204%	340%	200%	500%	240%	204%	340%	200%	550%				
+Recast	15 Seconds	15 Seconds	40 Seconds	15 Seconds	60 Seconds	0 Seconds	0 Seconds	0 Seconds	0 Seconds	0 Seconds				
+Boost			Critical Chance +20		Low HP = Up to 50% Damage Boost									
+Debuff		Launch V			Stagger III & Virus		Topple V & Slow Arts V	Debuff Res Down IV & HP Recovery Down V	Beam Res Down V	Stagger III, Virus V & Time Bomb II				
+Disabled by Destroying -					Tail					Tail				
+Homing	Yes				Yes									
+														
+Appendages	Main Body	Head	Inverse Fin	Weak Point	Tail									
+Hardness	N/A	1	3 (Hartmut and Regular Millepods) / 0 (Shuravas)	-3 (Hartmut and Regular Millepods) / 2 (Shuravas)	2									
+Skell Targetable	Yes	Yes	Yes	Yes	Yes									
+Exposed by -				Breaking Reverse Fin										
+														
+Species Drops														
+Materials	Sturdy Drakebone	Fossilized Bone	Decrepit Wing	Yellow Millepod Rock	Millepod Ice Rock	Reverse Millepod Fin								
+Dropped From -	All	All	0	Tail	Tail	Inverse Fin								
+														
+Use in Augments	Magazine Capacity Up (High Level)	N/A	Treasure Sensor (High Level)	Chimeroid Slayer (High Level)	Chimeroid Slayer (High Level)	Ultrafauna Slayer (High Level)								
+				Slayer.CHIMEROID (High Level)	Slayer.CHIMEROID (High Level)	Slayer.ULTRAFAUNA (High Level)								
+														
+Use in Gear Crafting	N/A	Infinite Gear												
+		True Gear												
+														
+Armor	Orphean Heavy Wear		Shuravas Only											
+Weapons	No		Signature Glaive: Allegiance											
+Skell Armor	No													
+Skell Weapons	Back - Backbomb	Shoulder - F-Grenade	Sidearm - Short-Rifle	Sidearm - E-Sniper										

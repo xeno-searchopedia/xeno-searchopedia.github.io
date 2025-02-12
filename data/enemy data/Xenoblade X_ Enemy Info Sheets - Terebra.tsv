@@ -1,0 +1,53 @@
+	Terebra							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Terebra	1150	1155	1000	990	1000	1075	1100	M
+Terebra Tyrant	2587	1212	1050	1039	1050	1128	1155	M
+								
+Resistances	Terebra	Terebra Tyrant						
+Physical	0	5						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-50	-45						
+Electric	0	5			Shinhwa, the Sagacious	Archibolt, the Revolutionary		
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier				
+Enrage	N/A							
+								
+Species Arts List	Tail Swing	Odd Wave	Drill Attack					
+Type	Melee	Ranged	Melee					
+Target	Floor Around Caster	Nearby Enemies	Single Target					
+No. of Hits	1	1	1					
+Attribute	Physical	Physical	Physical					
+Damage Scaling	125%	200%	350%					
+Recast	3 seconds	15 seconds	30 seconds					
+Boost	Critical Chance +10							
+Debuff		Fatigue	Stagger					
+Disabled by Destroying -			Either Ear					
+Homing								
+								
+Appendages	Main Body	Left Ear	Right Ear	Tail				
+Hardness	N/A	0	0	0				
+Skell Targetable	Yes	No	No	No				
+Exposed by -								
+								
+Species Drops								
+Materials	Taut Leather	Perforated Oar	Sharp Ear	Terebra Water Grease	Terebra Oil Grease	Terebra Paw Stamp		
+Dropped From -	All	All	Ears	Tail	Tail	All		
+								
+Use in Augments	Resist Flinch*	Melee: Ether Res Down*	Overdrive: Gain TP (Low Level)	TP Rebound (Low Level)	Aura Rapid Cooldown (Low Level)	Soft Touch (Low Level)*		
+	Resist.FLINCH*	M-Auto.ETHER-DOWN*		Damage.GP-GAIN (Low Level)		Extend Overdrive (Low Level)		
+	Extend Control*	Nullify Ether Reflect*		Untouchable Dash*				
+		Reflect.NEG-ETHER*						
+		Extend Ether Res Down*						
+		TimeEX.ETHER-DOWN*						
+								
+Use in Gear Crafting			Black Bunnyhood					
+								
+Armor	No							
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

@@ -1,0 +1,71 @@
+	Rexoskell																									
+																										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Rexoskell																	
+Rexoskell (Definian Downfall)	7500	1200	1300	1300	1300	1050	1000	XL																		
+Rexoskell (Gone Berserk)	10500	2160	2160	2160	2160	1440	1440	XL																		
+Rexoskell (Corporate Espionage)	5250	1440	1440	1440	1440	960	960	XL																		
+																										
+Resistances	Rexoskell (Definian Downfall)	Rexoskell																								
+Physical	30	30																								
+Beam	-25	-25																								
+Ether	10	10																								
+Thermal	10	10																								
+Electric	-25	-25																								
+Gravity	-50	-50																								
+Debuff Immunity	Control & Virus	Control & Virus																								
+Debuff Resistant	Stagger, Topple, Stun & Control	Stagger, Topple, Stun, Control & Virus																								
+																										
+Auras	Members	Trigger	Effect	Tier	Duration																					
+Enrage	Rexoskell	Break Pelvis	Boosts Melee Attack, Boosts Ranged, Boosts Potential	III	60 Seconds																					
+	Rexoskell (Definian Downfall Second Phase)	75% Health	Boosts Melee Attack, Boosts Ranged, Boosts Potential	III	60 Seconds																					
+																										
+Calm	Rexoskell (Definian Downfall)	Art - Decoy Squid	Grants Decoy	II	600 Seconds																					
+	Rexoskell (Gone Berserk and Corporate Espionge)	Art - Decoy Squid	Grants Decoy	V	600 Seconds																					
+	Rexoskell (Gone Berserk and Corporate Espionge)	Art - Guard	Boosts Attribute Resistances, Regen (3% of base HP), 60% Damage Reduction	III	60 Seconds																					
+	Rexoskell (Gone Berserk and Corporate Espionge)	Art - Guard	Enables Attribute Reflect, Regen (0.5% of base HP), 70% Damage Reduction	V	60 Seconds																					
+																										
+Aware	Rexoskell (Definian Downfall)	Art - Counter Guard	70% Damage Reduction & Enables Counter Spike Damage	V	30 Seconds																					
+																										
+Spike	Rexoskell (Definian Downfall)	Aware Active	Electric Damage (10% pf Total PTL)	Counter																						
+																										
+Reflect	Rexoskell (Gone Berserk and Corporate Espionge)	Calm Active	All Attributes																							
+																										
+Enemy Skill	Rexoskell (Definian Downfall)	Receiving Damage	5% Chance of Beam Res Up III																							
+	Rexoskell (Definian Downfall)	Receiving Damage	5% Chance of Electric Res Up III																							
+	Rexoskell (Definian Downfall)	Low HP	Up to 50% Damage Boost																							
+													Definian Downfall Only	Gone Berserk & Corporate Espionage Only							Definian Downfall Only	Gone Berserk & Corporate Espionage Only			Gone Berserk & Corporate Espionage Only	
+Arts List	Cyclops Beam		Homing Bolt		Bubble Shot		Bubble Shower		Tentacle Blade		Ether Egg 		Shell Drone	Funnel Shell	Squid Bomb		Energy Drain		Decoy Squid		Counter Guard	Guard	Serpent Beam		Repair	Advanced Repair
+Type	Ranged		Ranged		Ranged		Ranged		Melee		Ranged		Ranged	Ranged	Ranged		Ranged		Aura		Aura	Aura	Ranged		Buff	Buff
+Target	Enemies Ahead		Single Target		Single Target		Single Target		Floor Around Caster		Multi Target		Multi Target	Single Target	Targeted Blast		Frontal Arc		Self		Self	Self	Single Target		Self	Self
+No. of Hits	3		4		4		4		1		6		2	2	2		1		N/A		N/A	N/A	1		N/A	N/A
+Attribute	Beam		Electric		Ether		Ether		Electric		Ether		Beam	Beam	Thermal		Ether		N/A		N/A	N/A	Beam		N/A	N/A
+Damage Scaling	200%		100%		136%		170%	85%	200%	350%	170%		240%	240%	300%		2550 TP	1275 TP	N/A		N/A	N/A	500%		N/A	N/A
+Recast	5 Seconds	15 Seconds	3 Seconds		15 Seconds		15 Seconds	3 Seconds	15 Seconds		30 Seconds		40 Seconds	40 Seconds	40 Seconds		40 Seconds		200 Seconds		60 Seconds	50 Seconds	60 Seconds		100 Seconds	100 Seconds
+Boost																			Calm II	Calm V	Aware V	Calm III			Recovers 15% of HP	Recovers 25% of HP
+Debuff	Taunt V				Blackout V	Stun	HP Recovery Down V, Vs. Airborne Targets: Topple III	HP Recovery Down III	Topple II, Vs. Skells: Drains 50 Fuel		Slow Arts V & Fatigue III	Flinch on foot & Electric Res Down IV			Launch IV & Blaze V	Launch IV & Blaze III	Pull III							Stagger V		
+Disabled by Destroying -			Back								Right Shoulder Weapon		Either Pod	Either Pod	Either Pod								Left Shoulder Weapon			
+Homing			Yes		Yes		Yes				Yes		Yes	Yes	Yes								Yes			
+																										
+Appendages	Main Body	Head	Back	Pelvis	Inner Pelvis	Left Pod	Right Pod	Left Shoulder	Right Shoulder																	
+Hardness	N/A	1	1	2	0	1	1	1	1																	
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes																	
+Exposed by -					Breaking Pelvis																					
+																										
+Species Drops																										
+Materials	Eerie Lightning Tentacle	Creare Glyph	Rexoskell Sucker																							
+Dropped From -	All	All	All																							
+																										
+Use in Augments	N/A	Ether Attack Plus (High Level)	N/A																							
+		AttributeDmg.ETHER (High Level)																								
+																										
+Use in Gear Crafting	SP - Back - Hexad-Partican	N/A	Lv. 60 Skell Frames																							
+	SP - Back - Zenith-Cannon																									
+	SP - Back - Zweihand-Q																									
+	SP - Back - Trident-Anchor																									
+	SP - Shoulder - Electric-Flood																									
+	SP - Shoulder - Voltaic-Tusk																									
+																										
+Armor	No																									
+Weapons	No																									
+Skell Armor	No																									
+Skell Weapons	No																									

@@ -1,0 +1,60 @@
+Cinicula																							
+																							
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size															
+Cinicula	6150	2400	950	2400	950	650	2000	XL															
+Black Cinicula	10246	3600	950	3600	950	650	3000	XXL															
+Large Cinicula	1279	1800	950	1800	950	650	1500	L															
+Star Cinicula	1020	1320	950	1320	950	650	1100	M															
+Tyrant	13837	2520	997	2520	997	682	2100	XL															
+Volkampf	2297	1386	997	1386	997	682	1155	XL															
+Eckhart & Thaddeus	23052	3780	997	3780	997	682	3150	XXL															
+																							
+							Volkampf, the Pursuer																
+Resistances	Cinicula	Black Cinicula	Cinicula Tyrant	Calore			Eckhart, the Indestructable					Calore, the Lava Walker								Thaddeus, the Ultramafic			Falchion, the Vibrant
+Physical	35	35	40	40																			
+Beam	0	-25	5	-20																			
+Ether	-25	-25	-20	-20																			
+Thermal	-25	0	-20	0																			
+Electric	0	0	5	0																			
+Gravity	0	0	5	0																			
+Debuff Immunity			Control & Virus	Control & Virus																			
+Debuff Resistant	Topple, Control & Virus	Topple, Control & Virus	Stagger, Topple & Control	Stagger, Topple & Control																			
+																							
+Auras	Members	Trigger	Effect	Tier	Duration																		
+Enrage	Cinicula	10% Health, or Break Horn	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity, 25% Damage Reduction	II	60 Seconds																		
+	Cinicula Tyrant	10% Health, or Break Horn	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity, 30% Damage Reduction	III	60 Seconds																		
+																							
+Enemy Skill	Calore, the Lava Walker	Taking Damage 	5% Chance of gaining Boosts Melee Attack III or Boosts Ranged Attack III	Counter																			
+																							
+Species Arts List	Stomp (Each Leg)	Roar	Ether Shot	Needle Bomb	Guard	Ether Laser																	
+Type	Melee	Ranged	Ranged	Ranged	Aura	Ranged																	
+Target	Nearby Enemies	Nearby Enemies	Single	Multi Targeted Blasts	Self	Enemies Ahead																	
+No. of Hits	1	1	4	8	N/A	3																	
+Attribute	Physical	Physical	Ether	Thermal	N/A	Ether																	
+Damage Scaling	150%	100%	85%	200%	N/A	425%																	
+Recast	3 Seconds	15 Seconds	3 Seconds	15 Seconds	40 Seconds	60 Seconds																	
+Boost					Defending 	50% Appendage Damage Boost																	
+Debuff	Stagger 	Ether Res Down 																					
+Disabled by Destroying -	Corresponding Leg					Head																	
+Homing				Yes																			
+																							
+Appendages	Main Body	Head	Left Foreleg	Right Foreleg	Left Hindleg	Right Hindleg	Abdomen	Left Back Spine	Right Back Spine	Horn	Weak Point												
+Hardness	N/A	0	1	1	1	1	0	0	0	2	-2												
+Skell Targetable	Yes	Yes	No	No	No	No	Yes	No	No	Yes	Yes												
+Exposed by -											Breaking Horn												
+																							
+Species Drops																							
+Materials	Gooey Gunge	Refined Horn	Cinicula Shell	Giant Cinicula Jaw	Thick Cinicula Horn	Honey Oil	Maple Oil	Coconut Oil	Melon Oil														
+Dropped From -	All	All	Abdomen, Tail	Head	Horn, Back Spines	Head, Weak Point	Head, Weak Point	Head, Weak Point	Head, Weak Point														
+																							
+Use in Augments	Max GP Drive (Low Level)	Melee Accuracy Boost	Physical Resistance Up		Ultrafauna Criticals Up	HP Rebound	Overdrive Count Up (High Level)	Secondary Cooldown Reducer (High Level)	Arts: Recover HP														
+		Boost.M-ACC	SpecUp.PHYS.RES		CritUp.ULTRAFAUNA		Overdrive.EXTEND (High Level)																
+		Weapon Attack Power Up (Low Level)																					
+		Custom.WP-ATK (Low Level)																					
+																							
+Use in Gear Crafting				Original/Masterstroke Weapons	Lv. 40 Archetype Weapons																		
+																							
+Armor	Sakuraba Medium Wear																						
+Weapons	No																						
+Skell Armor	No																						
+Skell Weapons	Shoulder - Drone	Shoulder - F-Rifle	Shoulder - F2-Rifle	Shoulder - M-Sniper																			

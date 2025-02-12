@@ -1,0 +1,51 @@
+	Shrad							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Shrad	1000	1100	1100	1100	1100	1250	1250	M
+Shrad Tyrant	2250	1155	1155	1155	1155	1312	1312	M
+								
+Resistances	Shrad	Shrad Tyrants				Sector Security Shrad	Experimental Flight Shrad	
+Physical	30	35						
+Beam	-25	-20						
+Ether	10	15						
+Thermal	10	15						
+Electric	-25	-20						
+Gravity	-50	-45						
+Debuff Immunity		Control 						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Shrads	50%, or Break Any Appendage	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	V	60 Seconds			
+	Shrad Tyrants	50%, or Break Any Appendage	Boosts Melee Accuracy, Boosts Ranged Accuracy, Boosts Evasion	VI	60 Seconds			
+								
+Species Arts List	Blade Arm (Both Arms)	Energy Shot	Cyclone Edge	Hyper Beam	Reinforce	Blade Tackle	Self-Destruct	
+Type	Melee	Ranged	Melee	Ranged	Buff	Melee	Ranged	
+Target	Single Target	Single Target	Floor Around Caster	Single Target	Self	Nearby Enemies	Nearby Enemies	
+No. of Hits	1	4	3	1	N/A	3	1	
+Attribute	Physical	Beam	Physical	Beam	N/A	Physical	Thermal	
+Damage Scaling	3 Seconds	3 Seconds	15 Seconds	15 Seconds / 5 Seconds (Summoned)	60 Seconds	60 Seconds	60 Seconds / 90 Seconds (Summoned)	
+Recast	100%	100%	200%	200% / 150% (Summoned)	N/A	500%	750%	
+Boost					Boosts Evasion			
+Debuff						Knockback	Launch IV & Destroys Self	
+Disabled by Destroying -	Corresponding Arm		Either Arm					
+Homing		Yes		Yes				
+								
+Appendages	Main Body	Left Arm	Right Arm	Eye				
+Hardness	N/A	1	1	-1				
+Skell Targetable	Yes	No	No	No				
+Exposed by -				Destroying Both Arms				
+								
+Species Drops								
+Materials	Reinforced Crank	Multi-Wire	Standard Blade Module	Tempered Blade Module	Shrad Eye	Upgraded Spindle Part		
+Dropped From -	All	All	Arm	Arm	Eye	All		
+								
+Use in Augments	N/A	N/A	Melee Attack Boost (High Level)	N/A	Treasure Sensor (High Level)	Ranged Accuracy Boost (High Level)		
+			Boost.M-ATK (High Level)			Boost.R-ACC (High Level)		
+								
+Use in Gear Crafting	US0860 Excavator	US0232 Police		SP - Back - Zenith-Cannon				
+				SP - Back - Trident-Anchor				
+				SP - Shoulder - Voltaic-Tusk				
+Armor	No							
+Weapons	No							
+Skell Armor	No							
+Skell Weapons	Back - Buster	Sidearm - E-Sword	Sidearm - Sword					

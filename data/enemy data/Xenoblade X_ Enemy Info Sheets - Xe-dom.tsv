@@ -1,0 +1,65 @@
+	Xe-dom																		
+																			
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Du-rha, the Imprisoned			Nu-rhor, the Dark Deity			Gi-zho, the Iron Deity			Go-rha, the Guardian Deity
+Xe-dom	6600	2400	900	2400	1000	800	2400	XL											
+Golden Xe-dom	6600	2450	900	2450	1000	700	2400	XL											
+Silver Xe-dom	6600	2400	1000	2400	1000	700	2400	XL											
+XXL Xe-dom	10996	3600	900	3600	1000	800	3600	XXL											
+XXL Golden Xe-dom	10996	3675	900	3675	1000	800	3600	XXL											
+XXL Silver Xe-dom	10996	3600	1000	3600	1000	700	3600	XXL											
+Xe-dom Tyrant	14850	2520	945	2520	1050	840	2520	XL											
+Gi-zho	24740	3858	945	3858	1050	735	3780	XXL											
+Go-rha	24740	3780	1050	3780	1050	735	3780	XXL											
+																			
+Resistances	Xe-dom	Xe-dom Tyrant	Du-rha																
+Physical	30	35	35																
+Beam	-25	-20	-20																
+Ether	10	15	15																
+Thermal	10	15	15																
+Electric	-25	-20	-20																
+Gravity	-50	-45	-45																
+Debuff Immunity		Control	Control																
+Debuff Resistant	Topple, Control & Stun	Stagger, Topple, Stun, Control & Virus	Topple, Control, Stun & Virus																
+																			
+Auras	Members	Trigger	Effect	Tier	Duration														
+Enrage	Xe-dom	Break Either Arm or Break Mantle	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 30% Damage Reduction	III	60 Seconds														
+	Xe-dom Tyrants	Break Either Arm or Break Mantle	Boosts Melee Attack, Boosts Ranged Attack, Moblity Debuff Immunity & 35% Damage Reduction	IV	60 Seconds														
+																			
+Reflect	Go-rha	Passive	All Attributes																
+																			
+Species Arts List	Arm Swing	Piercing Claw	Gravity Shell	Multi Beam	Mega Collider	Guard	Mega Graviton	Mega Gravity											
+Type	Melee	Melee	Ranged	Ranged	Ranged	Aura	Ranged	Ranged											
+Target	Enemies Ahead	Single Target	Single Target	Multi Target	Nearby Enemies	Self	Nearby Enemies	Targeted Blast											
+No. of Hits	1	1	4	8	1	N/A	1	1											
+Attribute	Physical	Electric	Gravity	Beam	Electric	N/A	Gravity	Gravity											
+Damage Scaling	100%	150%	112%	160%	160%	N/A	168%	350%											
+Recast	6 Seconds	6 Seconds	15 Seconds	15 Seconds	15 Seconds	40 Seconds	30 Seconds	60 Seconds											
+Boost		Removes Buff from Target				Defending	Removes Buff From Target												
+Debuff		Knockback			Shock		Knockback III & Fatigue	Launch V & Gravity Res Down, Vs. Airborne Targets: Topple III											
+Disabled by Destroying -	Right Arm	Left Arm	Either Cannon			Either Arm	Mantle												
+Homing		Yes	Yes	Yes				Yes											
+																			
+Appendages	Main Body	Left Arm	Right Arm	Left Cannon	Right Cannon	Mantle													
+Hardness	N/A	1	1	0	0	2													
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes													
+Exposed by -																			
+																			
+Species Drops																			
+Materials	Quality Core	Octopus Board	Ancient Armor	Xe-dom Hand	Advanced Core	Xe-dom Crimson Crest	Xe-dom Jet Black Crest	Xe-dom Golden Crest	Xe-dom Silver Crest										
+Dropped From -	All	All	Mantle	Hands	Cannon	All	All	All	All										
+																			
+Use in Augments	Debuff Suppressor (High Level)	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A										
+																			
+Use in Gear Crafting	N/A	SP - Back - Antimatter-R	Lv. 60 Skell Frames	Lv. 60 Skell Frames	Ares 70	Formula Zero	Urban Lincoln	Verus Cain	Lailah Queen										
+		SP - Back - G-Piledriver			Ares 90	Inferno Skydon	Mastema White Reaper	Admusias Hades	Ares 70										
+		SP - Back - Dragoon-Lance																	
+		SP - Back - Drone-Storm																	
+		SP - Shoulder - Deus-Crusher																	
+		SP - Shoulder - Barrage-Cloak																	
+		SP - Back - Detonation-F																	
+		SP - Shoulder - Megaflame-B																	
+																			
+Armor	No																		
+Weapons	No																		
+Skell Armor	Heavy Armor																		
+Skell Weapons	Shoulder - Drone	Shoulder - F-Rifle	Shoulder - F2-Rifle	Shoulder - M-Sniper															

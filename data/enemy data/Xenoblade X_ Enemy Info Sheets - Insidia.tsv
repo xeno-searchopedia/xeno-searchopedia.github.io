@@ -1,0 +1,51 @@
+Insidia								
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Insidia	1150	1155	1025	1072	1000	925	1100	2
+Lambert	3450	2310	1076	2144	1050	971	2200	2
+Griffus	2587	1212	1076	1125	1050	971	1155	2
+								
+Resistances	Insidia	Insidia Tyrant				Lambert, the Divine Wind		
+Physical	0	5						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-50	-45						
+Electric	0	5						
+Gravity	0	5						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Insidia	10% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	III	60 Seconds			
+	Insidia Tyrant	10% Health	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	IV	60 Seconds			
+								
+Species Arts List	Peck	Rock Shot	Hyper Charge	Drop Kick				
+Type	Melee	Ranged	Melee	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Single Target		Griffus, the Tartarean		
+No. of Hits	1	1	1	1				
+Attribute	Physical	Physical	Physical	Physical				
+Damage Scaling	100%	100%	200%	500%				
+Recast	3 Seconds	3 Seconds	15 Seconds	60 Seconds				
+Boost								
+Debuff		Blackout or Fatigue	Stagger	Knockback II				
+Disabled by Destroying -			Head					
+Homing		Yes						
+								
+Appendages	Main Body	Head	Posterior					
+Hardness	N/A	1	0					
+Skell Targetable	Yes	No	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Stiff Hair	Chipped Talon	Bone-in-Thigh Meat	Insidia Mohawk	Evolved Insidia Claw	Ornate Insidia Claw		
+Dropped From -	All	All	Posterior	Head	All	All		
+								
+Use in Augments	N/A	Art Draw Surge	Artful Execution Surge	Crush Surge (Low Level)	Aural Cloaking (Low Level)	Arts: Gain TP (Low Level)		
+					Cloak.SOUND (Low Level)	Arts.GP (Low Level)		
+								
+								
+Use in Gear Crafting								
+Armor	Sakuraba Light Wear							
+Weapons	No							
+Skell Armor	No							
+Skell Weapons	No							

@@ -1,0 +1,55 @@
+	Sphinx											
+												
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Sphinx	3000	1100	1200	1050	1000	1100	900	XL				
+Tainted Sphinx (The Infernal Beast)	2750	1000	1050	1000	950	1050	900	XL				
+Feliciano	7200	1155	1260	1102	1050	1155	945	XL				
+Durvin	9000	1430	1560	1365	1300	1320	1170	XL				
+												
+Resistances	Sphinx	Feliciano	Durvin	Tainted Sphinx								
+Physical	10	15	20	10								
+Beam	10	15	20	10								
+Ether	-15	-10	0	-15								
+Thermal	0	5	10	0								
+Electric	10	15	20	10								
+Gravity	0	5	10	0								
+Debuff Immunity	Control & Blaze	Control & Blaze	Control & Blaze	Control & Blaze								
+Debuff Resistant	Stagger, Topple, Stun, Control, Virus, Blackout & Fatigue	Stagger, Topple, Stun, Control, Virus, Blackout & Fatigue	Stagger, Topple, Stun, Control, Virus, Blackout & Fatigue	Stagger, Topple Stun, Control, Blackout & Fatigue								
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Sphinxes	30% Health	Critical Chance +30, Boosts Evasion, Mobility Debuff Immunity, 20% Damage Reduction	I	100 Seconds							
+	Durvin, the Perceptive	30% Health	Critical Chance +35, Boosts Evasion, Mobility Debuff Immunity, 25% Damage Reduction	II	100 Seconds							
+												
+Spike	Felliciano, the All-Seeing	Engagement	Physical Damage (500% of Total PTL) & Physical Res Down VI	Counter								
+												
+Species Arts List	Slash	Slash (Alternate)	Bone Charge	Tail Swing	Roar	Fire Breath	Double Claw	Flame Mortar	Flash	Explosion	Sharpen Claw	Sky Savage
+Type	Melee	Melee	Melee	Melee	Ranged	Ranged	Melee	Ranged	Ranged	Ranged	Buff	Melee
+Target	Single Target	Single Target	Nearby Enemies	Floor Around Caster	Nearby Enemies	Frontal Arc	Enemies Ahead	Multi Target	Nearby Enemies	Nearby Enemies	Self	Enemies Ahead
+No. of Hits	1	1	1	1	1	3	2	6	1	1	N/A	3
+Attribute	Physical	Physical	Physical	Physical	Physical	Thermal	Electric	Thermal	Ether	Thermal	N/A	Electric
+Damage Scaling	100%	500%	200%	200%	100%	200%%	350%	200%	63%	200%	N/A	500%
+Recast	3 Seconds	60 Seconds	20 Seconds	15 Seconds	15 Seconds	15 Seconds	40 Seconds	15 Seconds	15 Seconds	20 Seconds	40 Seconds	60 Seconds
+Boost							25% Damage Boost on Toppled Targets				Boosts Melee Attack	50% Damage Boost on Toppled Targets
+Debuff		Stagger V	Topple III on Enemies Inflicted with Blackout	Knockback II	Fatigue	Blaze		Topple III on Airborne Targets	Blackout	Launch II		Stagger II
+Disabled by Destroying -				Tail		Both Whiskers	Either Foreclaw		Tail	Belly		Either Foreclaw
+Homing								Yes				
+												
+Appendages	Main Body	Left Whisker	Right Whisker	Left Foreleg	Right Foreleg	Left Back Leg	Right Back Leg	Tail	Belly			
+Hardness	N/A	0	0	2	2	1	1	0	-1			
+Skell Targetable	Yes	Yes	Yes	No	No	No	No	Yes	Yes			
+Exposed by -			Left Whisker						Breaking Tail			
+												
+Species Drops								Durvin, the Perceptive				
+Materials	Pristine Bristle	Blazing Gas Sac	Imperial Sphinx Fang
+	Tainted Sphinx				Feliciano, the All-Seeing				
+Dropped From -	All	All	All									
+												
+Use in Augments	Melee Attack Drive (High Level)	Boosts Potential (High Level)	Melee: Blaze (High Level)									
+		SpecUp.PTL (High Level)	M-Auto.BLAZE (High Level)									
+												
+Use in Gear Crafting	N/A											
+												
+Armor	No											
+Weapons	Yes											
+Skell Armor	No											
+Skell Weapons	No											

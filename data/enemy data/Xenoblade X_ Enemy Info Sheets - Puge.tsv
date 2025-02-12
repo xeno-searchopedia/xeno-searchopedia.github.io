@@ -1,0 +1,63 @@
+	Puge							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Silver Puge	892	1000	1050	1000	1050	1050	1000	S
+Black Puge	892	1025	1050	1025	1050	1050	1000	S
+Prototype	2007	1050	1102	1050	1102	1102	1050	S
+Night Combat	2007	1076	1102	1076	1102	1102	1050	S
+								
+Resistances	Puge	Puge Tyrant				Prototype Puge		
+Physical	30	35						
+Beam	-25	-20						
+Ether	10	15						
+Thermal	10	15						
+Electric	-25	-20						
+Gravity	-50	-45						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	N/A							
+								
+Species Arts List	Blade	Beam Gun	Debilitating Beam	Double Blade	Self-Destruct			
+Type	Melee	Ranged	Ranged	Melee	Ranged	Night Combat Puge		
+Target	Single Target	Single Target	Single Target	Single Target	Nearby Enemies			
+No. of Hits	1	3	1	3	1			
+Attribute	Beam	Beam	Beam	Beam	Thermal			
+Damage Scaling	100%	100%	100%	200%	750%			
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds	60 Seconds			
+Boost								
+Debuff			Beam Res Down		Destroys Self, Launch III			
+Disabled by Destroying -	Right Arm	Right Gun	Left Arm	Left Arm	Head			
+Homing			Yes					
+								
+Appendages	Main Body	Left Arm	Right Arm	Head				
+Hardness	N/A	0	0	0				
+Skell Targetable	Yes	No	No	No				
+Exposed by -			Destroying Left Arm	Destroying Right Arm				
+								
+Species Drops								
+Materials	Standard Crank	Energy Tube	Reinforced Thruster	Advanced Thruster	Puge Counter	Puge Self-Destruct Mechanism		
+Dropped From -	All	All	Arms	Arms	Head	All		
+								
+Use in Augments	Mechanoid Slayer*	Aura: Refuel*	Reinvigorate*		Resist Time Bomb*	Resist Taunt*		
+	Slayer.MECHANOID*		Opening Art: Damage Up (Low Level)		Resist.TIME-BOMB*	Resist.TAUNT*		
+	Mechanoid Criticals Up*		Draw.OPENING-DMG (Low Level)		Overdrive Count Up (Low Level)			
+	CritUp.MECHANOID*				Overdrive.EXTEND (Low Level)			
+								
+Use in Gear Crafting				USO830 Dozer Frame				
+								
+Armor	Grenada Medium Wear (Below Lv. 10)							
+Weapons	No							
+Skell Armor	No							
+Skell Weapons	Silver	Black						
+								
+	Back - BB-Sword	Back - W-Crusher						
+	Spare - Katar	Back - Phoenix						
+	Spare - Beamsaber	Shoulder - Heathorn						
+	Spare - Ringedge	Shoulder - G-Buster						
+	Spare - Falchion	Shoulder - G2-Buster						
+	Spare - Claymore	Sidearm - Pile-Bunker						
+		Sidearm - B-Claw						
+		Sidearm - P-Knife						
+		Spare - V-Knuckle						

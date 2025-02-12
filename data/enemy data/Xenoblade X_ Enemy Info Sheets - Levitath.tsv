@@ -1,0 +1,53 @@
+	Levitath													
+														
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size						
+Levitath	6900	1900	950	2300	1000	1000	2000	XL						
+Levitath Tyrant	15525	1995	997	2415	1050	1050	2100	XL						
+Frajeel	25865	2993	997	3623	1050	1050	3150	XXL						
+Squad Mission Levitath (Odd Symbiosis)	6210	1995	997	2415	1050	1050	2100	XL						
+														
+Resistances	Levitath	Levitath Tyrant				Eutropio, the Sea Rumble					Silvestre, the Morning Light			Frajeel, the Purgatorial
+Physical	40	45												
+Beam	0	5												
+Ether	-25	-20												
+Thermal	-25	-20												
+Electric	0	5												
+Gravity	-25	-20												
+Debuff		Control Immunity												
+Debuff Resistant	Topple, Control & Stun	Topple, Control, Stun & Virus												
+														
+Auras	Members	Trigger	Effect	Tier	Duration									
+Enrage	Blue Levitaths	30% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 20% Damage Reduction	II	60 Seconds									
+	Levitath Tyrants	30% Health, or Break Tail	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 25% Damage Reduction	III	60 Seconds									
+	Squad Mission Levitath	10% Health	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 20% Damage Reduction	II	60 Seconds									
+														
+Species Arts List	Ether Shot	Tail Twirl	Ether Wing	Ether Bomber	Ether Laser									
+Type	Ranged	Melee	Ranged	Ranged	Ranged									
+Target	Single Target	Nearby Enemies	Multi Target	Nearby Enemies	Single Target									
+No. of Hits	4	1	4	1	1									
+Attribute	Ether	Physical	Ether	Ether	Ether									
+Damage Scaling	85%	160%	136%	170%	425%									
+Recast	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds									
+Boost				Critical Chance +10	Low HP = Up to 25% Damage Boost									
+Debuff			Slow Arts	Launch II										
+Disabled by Destroying -		Tail	Back											
+Homing	Yes		Yes											
+														
+Appendages	Main Body	Head	Back	Tail										
+Hardness	N/A	0	1	0										
+Skell Targetable	Yes	Yes	Yes	Yes										
+Exposed by -														
+														
+Species Drops														
+Materials	Sturdy Drakebone	Nutritious Microbes	Levitath Feather	Levitath Sun Bead	Sparkling Blue Gem	Sparkling Purple Gem	Sparkling Red Gem							
+Dropped From -	All	All	Back, Tail	Head	Tail	Tail	Tail							
+														
+Use in Augments	Magazine Capacity Up (High Level)	Potential Boost	N/A	N/A	Artful Execution Surge (High Level)	Incapacitation Surge (High Level)	High Danger Surge (High Level)							
+		Boost.PTL												
+														
+Use in Gear Crafting	N/A		Red Bunnyband	Lv. 60 Archetype Weaponry										
+														
+Armor	Orphean Medium Wear													
+Weapons	No													
+Skell Armor	No													
+Skell Weapons	No													

@@ -1,0 +1,57 @@
+	Forfex								
+									
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Sven, the Sturdy
+Forfex	1031	1650	1050	1350	1050	900	1500	L	
+Medium Forfex	825	1209	1050	990	1050	900	1100	M	
+Tyrant	1855	1270	1102	1039	1102	945	1154	M	
+Sven	2000	1732	1102	1417	1102	945	1575	L	
+									
+Resistances	Forfex	Forfex Tyrant	Sven						
+Physical	40	45	100						
+Beam	0	0	100						
+Ether	-25	-20	100						
+Thermal	-25	-20	100						
+Electric	0	0	100						
+Gravity	0	0	100						
+Debuff Immunity		Control	Control						
+Debuff Resistant	Topple & Control	Topple & Control	Topple & Control						
+									Tourteau, the Delectable
+Auras	Members	Trigger	Effect	Tier	Duration				
+Enrage	Forfexes above Lv. 20	15% Health or Break Right Pincer	Mobility Debuff Immunity, 30% Damage Reduction	III	60 Seconds				
+	Tyrant Forfexes	15% Health or Break Right Pincer	Mobility Debuff Immunity, 35% Damage Reduction	IV	60 Seconds				
+	Schneider, the Cliffpercher	15% Health or Break Right Pincer	Art Cooldown Reducer	50%					
+									
+Species Arts List	Slash (Left Pincer)	Slash (Right Pincer)	Ether Bubble	Guard					
+Type	Melee	Melee	Ranged	None					
+Target	Single Target	Single Target	Single Target	Self					
+No. of Hits	1	1	6	0					
+Attribute	Physical	Physical	Ether	None					
+Damage Scaling	150%	150%	255%	-					
+Recast	3 Seconds (Shared Cooldown Timer?)		12 Seconds	40 Seconds					
+Boost				Defending 					
+Debuff			Physical Res Down 						Schneider, the Cliffpercher
+Disabled by Destroying -	Left Pincer	Right Pincer		Either Pincer					
+Homing									
+									
+Appendages	Main Body	Right Claw	Left Claw	Head Shell	Exposed Head				
+Hardness	N/A	2	2	2	0				
+Skell Targetable	Yes	No	No	Yes	Yes				
+Exposed by -					Breaking Head Shell				
+			Missing on Sven the Sturdy						
+									
+Species Drops									
+Materials	Broken Pincer	Small Shell	Pristine Pincer	Red Forfex Shell	White Forfex Shell	Blue Forfex Shell	Forfex Miso		
+Dropped From -	All	All	Claws	Head Shell	Head Shell	Head Shell	Exposed Head		
+									
+Use in Augments	Destabiliser*	Taunt: Barrier*	Extend Critical Power (Low Level)	Melee: Thermal Res Down*	Ultrafauna Slayer	Weather Master*	Critical Chance Up (Low Level)		
+	Custom.WP-DESTABLE*	Stun: Barrier*		M-Auto.THERM-DOWN*	Slayer.ULTRAFAUNA	Weather.DAMAGE-RES*	CriticalUp (Low Level)		
+	Extend Fatigue*	Topple: Barrier*		Nullify Thermal Reflect*			Resist Debuff Res Down*		
+	TimeEx.FATIGUE*			Reflect.NEG-THERM*			Resist.DEBUFF-DOWN*		
+				Extend Thermal Res Down*					
+				TimeEx.THERM-DOWN*					
+Use in Gear Crafting	Reginal Gear								
+									
+Armor	Grenada Medium Wear								
+Weapons	No								
+Skell Armor	No								
+Skell Weapons	No								

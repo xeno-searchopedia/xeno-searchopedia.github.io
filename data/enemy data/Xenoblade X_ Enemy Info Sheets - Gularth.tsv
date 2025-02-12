@@ -1,0 +1,51 @@
+	Gularth											
+										Ilitios, the Enlightened		Alithios, the Indignant
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size				
+Gularth	8400	2500	2400	2000	500	925	925	XL				
+XXL Gularth	13994	3750	3600	3000	500	925	925	XXL				
+Gularth Tyrant	31487	3938	3780	3150	525	971	971	XXL				
+												
+Resistances	Gularth	Ilithios	Alithios	Mission Gularths								
+Physical	0	5	5	0								
+Beam	-25	-20	-20	-25								
+Ether	10	15	15	10								
+Thermal	50	55	100	50								
+Electric	-25	-20	-20	-25								
+Gravity	-25	-20	-20	-25								
+Debuff Immunity	Blaze	Control & Blaze	Control, Blaze & Thermal Res Down	Blaze								
+Debuff Resistant	Stagger, Topple, Stun & Control	Stagger, Topple, Stun & Control	Stagger, Topple, Stun & Control	Topple, Control & Stun								
+												
+Auras	Members	Trigger	Effect	Tier	Duration							
+Enrage	Gularths	40% Health, or Break Back	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 30% Damage Reduction	III	60 Seconds							
+	Gularth Tyrants	40% Health, or Break Back	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 35% Damage Reduction	IV	60 Seconds							
+												
+Species Arts List	Punch	Roar	Thermal Ray	Lava Toss	Guard	Flame Bomber	Flame Volcano	Flying Body Press				
+Type	Melee	Ranged	Ranged	Ranged	Aura	Melee	Ranged	Melee				
+Target	Single Target	Nearby Enemies	Single Target	Targeted Blast	Self	Nearby Enemies	Nearby Enemies	Floor Around Caster				
+No. of Hits	1	1	3	1	N/A	1	1	1				
+Attribute	Physical	Physical	Thermal	Thermal	N/A	Thermal	Thermal	Physical				
+Damage Scaling	100%	100%	160%	160%	N/A	200%	400%	999%				
+Recast	3 Seconds	15 Seconds	15 Seconds	20 Seconds	60 Seconds	20 Seconds	60 Seconds	120 Seconds				
+Boost					Defending 			Critical Chance +20				
+Debuff	Stagger 	Flinch & Thermal Res Down		Knockback II		Launch & Blaze	Launch III & Blaze	Launch V				
+Disabled by Destroying -			Head				Back					
+Homing			Yes									
+												
+Appendages	Main Body	Head	Left Arm	Right Arm	Left Leg	Right Leg	Hip	Back	Exposed Back			
+Hardness	N/A	0	0	0	0	0	0	1	-3			
+Skell Targetable	Yes	No	No	No	Yes	Yes	Yes	Yes	Yes			
+Exposed by -									Destroying Back			
+												
+Species Drops												
+Materials	Flaming Rock	Lava Crystal	Scorching Giant Cells	Gularthian Flint	Gularthian Everflame							
+Dropped From -	All	All	Back	Legs	Weak Point							
+												
+Use in Augments	Melee: TP Gain Up	Antispike (High Level)	Thermal Resistance Up (High Level)	Antispike (High Level)	Potential Boost (High Level)							
+	Custom.WP-GP	Spike.EVA (High Level)	SpecUp.THERM-RES (High Level)	Spike.EVA (High Level)	Boost.PTL (High Level)							
+												
+Use in Gear Crafting	N/A											
+												
+Armor	Six Stars Heavy Wear											
+Weapons	No											
+Skell Armor	No											
+Skell Weapons	Back - B-Gatling (Meredith)	Back - H-Arrow	Shoulder - Widebeam	Shoulder - HB-Missile	Sidearm - B-Centipede	Sidearm - B-Sniper	Sidearm - B-Rifle (Sakuraba)	Sidearm - B-Rifle (Meredith)				

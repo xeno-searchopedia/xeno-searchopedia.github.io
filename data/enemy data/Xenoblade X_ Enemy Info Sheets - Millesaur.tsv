@@ -1,0 +1,61 @@
+	Millesaur															
+																
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size								
+Millesaur	17500	4500	975	4200	950	250	3000	XXL	5							
+XL Millesaur	10500	2997	975	2797	950	250	1998	XL	4							
+Millesaur Tyrant	39375	4725	1023	4410	997	262	3150	XXL	5							
+Gradivus	1092419	4500	975	4200	950	250	3000	XXL	5							
+Greedy Millesaur (Hunting the Headless)	9450	2997	975	2797	950	250	1998	XL	4							
+Millesaur Leader	4725	2248	975	2098	950	250	1998	XL	4							
+																
+Resistances	Millesaur	Millesaur Tyrant	Mission Exclusive Millesaur	Gradivus												
+Physical	0	0	0	50												
+Beam	0	0	0	25												
+Ether	-25	-20	-20	0												
+Thermal	-50	-45	-45	-25												
+Electric	0	0	0	25												
+Gravity	0	0	0	25												
+Debuff Immunity		Control 	Control & Virus	Flinch, Launch, Knockback, Control, Virus, Blaze, Shock & Time Bomb												
+Debuff Resistant	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control & Virus	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control & Virus	Stagger, Flinch, Topple, Launch, Knockback, Stun & Control	Stagger, Topple, Stun, Control, Sleep & Debuff Res Down												
+																
+Auras	Members	Trigger	Effect	Tier	Duration											
+Enrage	Millesaurs	Break Neck, Back or Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	V	60 Seconds											
+	Millesaur Tyrants	Break Neck, Back or Tail	Boosts Melee Attack, Boosts Ranged Attack, Boosts Potential	VI	60 Seconds											
+	Gradivus, the Headless Emperor	60% Health	Boosts Melee Attack, Boosts Ranged Attack, Mobility Debuff Immunity & 50% Damage Reduction	VI	60 Seconds											
+																
+Enemy Skill	Luciel, the Eternal	Inflicting Damage	Topple V													
+	Gradivus, the Headless Emperor	Low HP	Up to 25% Damage Boost													
+	Gradivus, the Headless Emperor	Receiving Damage	50% Topple Suppression													
+								Gradivus Only								
+Species Arts List	Stomp (Each Foot)	Tail Swing	Drill Stomp	Dino Mortar	Multi Dino Mortar	Roar	Inferno Missile	Energy Drain	Sand Breath	Eject Parasite	Thunder Flash	Thunder Mortar	Multi Thunder Mortar	Ether Laser	Ether Mortar	Multi Ether Mortar
+Type	Melee	Melee	Melee	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Summon	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged
+Target	Nearby Enemies	Floor Around Caster	Enemies Ahead	Targeted Blast	Multi Targeted Blasts	Nearby Enemies	Multi Target	Enemies Ahead	Frontal Arc	Self	Multi Target	Targeted Blast	Multi Targeted Blasts	Multi Targeted	Targeted Blast	Multi Targeted Blasts
+No. of Hits	1	1	1	1	4	1	6	1	4	N/A	4	1	4	6	1	4
+Attribute	Physical	Physical	Gravity	Thermal	Thermal	Physical	Thermal	Ether	Physical	N/A	Electric	Electric	Electric	Ether	Ether	Ether
+Damage Scaling	100%	160%	140%	500% / 100% (Millesaur Leader Only)	500%	100% / 200% (Greedy Millesaur Only)	500% / 200%	Drains 5100 TP	500%	N/A	200%	500%	500%	170%	425%	425%
+Recast	3 Seconds	15 Seconds	15 Seconds / 12 Seconds (Greedy Millesaur Only)	60 Seconds / 35 Seconds (Greedy Millesaur Only)	60 Seconds / 40 Seconds / 35 Seconds (Greedy Millesaur Only)	15 Seconds / 60 Seconds	60 Seconds / 15 Seconds / 40 Seconds (Greedy Millesaur Only)	120 Seconds	60 Seconds	N/A	15 Seconds	60 Seconds	40 Seconds	15 Seconds	60 Seconds	40 Seconds
+Boost			Critical Chance +20 / Vs. Toppled Targets: 100% Damage Boost						Critical Chance +50	Summons Parasite Gerrid, and switches to Thermal, Electric or Ether Attribute Damage arts						
+Debuff	Stagger / Stagger III, Vs. Staggered Targets: Topple V	Launch on foot, Stagger II in Skells / Topple V	Launch III	Launch II on Foot, Stagger III in Skell, Vs. Airborne Targets: Topple III / Launch III & Blaze, Vs. Skell: Removes 250 Fuel	Blaze, Vs. Skells: Removes 50 Fuel	Thermal Res Down / Flinch II, Debuff Res Down V & Slow Arts V / Stun V (Greedy Millesaur Only)	Blaze	Flinch V, Vs. Skells: Removes 500 Fuel	Stagger V & Blackout V		Fatigue V	Flinch V & Shock, 25% of Stun V	Shock, 10% of Stun V	Physical Res Down III	Launch I on Foot, Stagger III in Skell, Ether Res Down V, 25% of HP Recovery Down V	Ether Res Down III, 10% of HP Recovery Down V
+Disabled by Destroying -	Corresponding Foot	Tail	Either Forefoot	Head (Greedy Millesaur Only)			Head (Greedy Millesaur Only)					Back	Back		Back	Back
+Homing				Yes	Yes		Yes				Yes	Yes	Yes	Yes	Yes	Yes
+																
+Appendages	Main Body	Left Forefeet	Right Forefeet	Left Hindfoot	Right Hindfoot	Tail	Back	Neck	True Head							
+Hardness	N/A	1	1	0	0	0	2	0	1							
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes							
+Exposed by -									Destroying Neck							
+																
+Species Drops																
+Materials	Rugged Skin	Obsidian Fragment	Tough Tendon	Obsidian Cluster	Thick Millesaur Hide	Millesaur Dung	Millesaur Larynx		Gradivus Only							
+Dropped From -	All	All	Legs	Back	Neck	Tail	True Head									
+									Reflect.ADD-PHYS							
+Use in Augments	Debuff Suppressor (High Level)	N/A	N/A	N/A	Resistance Reducer (High Level)	Melee: Recover HP (High Level)	Aura Rapid Cooldown (High Level)		Reflect.ADD-THERM							
+						M-Auto.HP-RECOV (HIgh Level)										
+																
+Use in Gear Crafting		Original/Masterstroke Melee Weaponry		US0860 Excavator Skell												
+																
+Armor	Orphean Heavy Wear															
+Weapons	No															
+Skell Armor	No															
+Skell Weapons	Back - Javelin	Shoulder - E-Scythe	Sidearm - Heat-Edge													
+																
+	Fernando, the Immovable			Luciel, the Eternal		Gradivus, the Headless Emperor										

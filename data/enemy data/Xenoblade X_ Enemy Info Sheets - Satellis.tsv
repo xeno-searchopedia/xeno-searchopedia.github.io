@@ -1,0 +1,95 @@
+	Vita & Satellis																		
+																			
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size	Vita										
+Armored Vita 	10800	1200	1000	1100	1000	800	1000	XL											
+Vita	7000	1100	1000	1100	1000	1000	1100	XL											
+Shield Satellis / Pusuit Satellis Alpha	1700	1000	1000	1000	1000	500	1100	M											
+Strike Satellis	500	1000	1000	1000	1200	1000	1000	M											
+Link Satellis	10	1000	1000	1100	1200	1000	1000	M											
+Enhancer Satellis / Pusuit Satellis Gamma	750	1000	1000	1000	1000	1000	1000	M											
+Pursuit Satellis Beta	2000	1000	1000	1000	1000	1000	1000	M											
+																			
+Resistances	Vita 	Armored Vita	Satellis	Shield Satellis	Sentinel Satellis	Link Satellis													
+Physical	30	50	15	20	15	100													
+Beam	-5	-10	-15	-10	-15	100													
+Ether	40	40	15	20	15	100													
+Thermal	30	40	15	20	15	100													
+Electric	-10	-5	-15	-10	-15	100													
+Gravity	-20	-20	-25	-20	-25	100													
+Debuff Immunity	Control, Sleep & Time Bomb	Control, Sleep & Time Bomb		All	Mobility Debuffs, Sleep, Taunt, Virus, Control, Debuff Res Down, Time Bomb, Flight Down & Max TP Down														
+Debuff Resistant	Stagger, Flinch, Topple, Launch, Knockback, Stun, Control, Virus, Fatigue, Blackout, Slow Arts, Physical/Beam/Ether/Thermal/Electric/Gravity Res Down, Debuff Res Down, Time Bomb, Max TP Down, Flight Down, HP Recovery Down, Blaze & Shock		Topple & Control	Topple & Control	Topple & Control	Topple & Control													
+																			
+Auras	Members	Trigger	Effect	Tier	Duration														
+Enrage	Vita	Shield Satellis Defeated	Boosts Critical Chance, Raises Critical Power Tier, Mobility Debuff Immunity & 25% Damage Reduction	II	Indefinite														
+																			
+Calm	Vita 	25% Health	Invincibility & Regen (3% of Base HP) every 10 Seconds	III	Shield Satellis Active														
+	Armored Vita 	Art - Reflect All	Enables Damage Reflect & 70% Damage Reduction	V	6 Seconds														
+	Shield Satellis	Passive	Invincibility	I	Until Vita reaches 25% Health														
+																			
+Aware	Armored Vita	Art - Combat Aura	Boosts Melee Attack, Ranged Attack & Potential, Reduces Physical Resistance & Thermal Resistance by 20 	II	70 Seconds														
+	Pursuit Satellis Alpha	Passive	Enables Proximity Spike Damage/Debuff	I															
+	Pursuit Satellis Beta	Passive	Enables Counter Spike Damage/Debuff	II															
+																			
+Spike	Pursuit Satellis Alpha	Aware Active	Ether Damage (15% of Total PTL) every 1.5 Seconds and Inflicts Ether Res Down II																
+	Pursuit Satellis Beta	Aware Active	Ether Damage (15% of Total PTL) and Inflicts Ether Res Down II																
+																			
+Reflect	Vita	Calm Active	All Attribute Damage																
+																			
+Enemy Skill	Armored Vita	Inflicting Damage on Skells	10% Damage Boost																
+	Armored Vita	Inflicting Damage on Airborne Targets	10% Damage Boost																
+	Armored Vita	Phase Change	Resets Health																
+	Vita	Inflicting Damage on Humans	10% Damage Boost																
+	Vita	Inflicting Damage	Critical Chance +10																
+					Enhancer Only	Shield Only													
+Species Arts List (Satellis)	Ether Laser	Multi Ether	Jam	Repair	Reinforce	Barrier Change	Self-Destruct												
+Type	Ranged	Ranged	Ranged	Buff	Aura	Aura	Ranged												
+Target	Single Target	Multi Target	Nearby Enemies	Self	Nearby Allies	Self	Nearby Enemies												
+No. of Hits	1	4	1	N/A	N/A	N/A	1												
+Attribute	Ether	Ether	Physical	N/A	Ether	N/A	Thermal												
+Damage Scaling	170%	136%	75%	255 x PTL	N/A	N/A	400%												
+Recast	30 Seconds	15 Seconds	40 Seconds	60 Seconds	60 Seconds	N/A	60 Seconds												
+Boost				Restores HP	Evasion Up IV & Gravity Res Up III	Passes Calm Aura to Vita													
+Debuff			Ether Res Down IV				Blaze, Destroys Self												
+Disabled by Destroying -																			
+Homing	Yes	Yes																	
+																			
+											Armored Vita Only								
+Species Arts List (Vita)	Generate Satellis	Kick	Ether Shot	Hyper Jam	Multi Cannon	Palm Laser	Satellis Laser	Energy Drain	Cataclysm Kick	Lethal Plane	Rush	Finger Laser	Crushing Punch	Combat Aura	Reflect All	Ether Megacannon	Terminal Meteor	Terminal Break	Astroblade
+Type	Summon	Melee	Ranged	Ranged	Ranged	Ranged	Ranged	Ranged	Melee	Melee	Melee	Ranged	Melee	Aura	Aura	Ranged	Ranged	Ranged	Melee
+Target	N/A	Single Target	Single Target	Nearby Enemies	Multi Target	Single Target	Multi Target	Nearby Enemies	Nearby Enemies	Enemies Ahead	Single Target	Single Target	Nearby Enemies	Self	Self	Single Target	Multi Targeted Blasts	Nearby Enemies	Floor Around Caster
+No. of Hits	N/A	1	4	1	8	4	16	1	1	3	3	12	1	N/A	N/A	2	6	1	1
+Attribute	N/A	Physical	Ether	Ether	Ether	Ether	Ether	Ether	Ether	Ether	Physical	Ether	Gravity	N/A	N/A	Ether	Thermal	Thermal	Ether
+Damage Scaling	N/A	100%	127%	63%	136%	170%	170%	N/A	255%	425%	100%	85%	140%	N/A	N/A	255%	300%	350%	425%
+Recast	60 Seconds	3 Seconds	3 Seconds	60 Seconds	15 Seconds	15 Seconds	20 Seconds	30 Seconds	47 Seconds	60 Seconds	3 Seconds	3 Seconds	15 Seconds	120 Seconds	90 Seconds	47 Seconds	47 Seconds	60 Seconds	60 Seconds
+Boost	Summons 3-5 Satellises of varying types								Low HP = Critical Chance +5					Aware II	Calm V				Vs. Toppled Target: 25% Damage Boost
+Debuff		Vs. Staggered Target: Topple IV		Fatigue V, 25% Chance of Slow Arts IV	Blackout V	20% Chance of Stagger IV	5% Chance of Virus IV	Drains 1700 TP	Launch V	Stagger IV & HP Recovery Down V, Vs. Staggered Target: Topple IV	40% Chance of Stagger V	Vs. Skell: Drains 15 Fuel	Vs. Staggered Target: Topple III			Knockback IV & Ether Res Down V	Flinch, Vs. Airborne Target: Topple V	Launch IV & Blaze V, Vs. Skell: Drains 200 Fuel	Launch III & HP Recovery Down V
+Disabled by Destroying -					Either Shoulder Beam / Beam							Either Hand	Right Hand		Either Shoulder	Either Leg	Right Hand	Left Hand	
+Homing			Yes		Yes	Yes	Yes		Yes			Yes				Yes	Yes		
+																			
+Appendages (Armored Vita)	Main Body	Head	Beam	Torso	Inner Torso	Left Shoulder 	Right Shoulder	Left Leg	Right Leg	Left Hand	Right Hand								
+Hardness	N/A	1	1	2	2	2	2	2	2	2	2								
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes								
+Exposed by -			Breaking Head		Breaking Torso														
+																			
+Appendages (Vita)	Main Body	Head	Torso	Left Shoulder Beam	Right Shoulder Beam	Left Back Armor	Right Back Armor												
+Hardness	N/A	0	0	0	0	4	4												
+Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes												
+Exposed by -																			
+																			
+Appendages (Satellis)	Main Body																		
+Hardness	N/A																		
+Skell Targetable	Yes																		
+Exposed by -																			
+																			
+Species Drops																			
+Materials	Golden Armor	Libertas Glyph	Silver Vita Core																
+Dropped From -	All	All	All																
+																			
+Use in Augments	N/A	N/A	N/A																
+																			
+Use in Gear Crafting	N/A	Lv. 60 Superweapons	Ares 90																
+		Ares 70																	
+Armor	No																		
+Weapons	No																		
+Skell Armor	No																		
+Skell Weapons	Shoulder - DARKGOD																		

@@ -1,0 +1,59 @@
+	Adsecula							
+								
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size
+Adsecula	850	1045	1000	1045	1000	1050	1100	M
+Small Adsecula	722	1045	1000	1045	1000	1050	1100	S
+Large Adsecula	1062	1363	1000	1363	1000	1000	1363	L
+Bertrand	1912	1097	1050	1097	1050	1102	1155	M
+Etutanne	2390	1495	1050	1495	1050	1102	1574	L
+								
+Resistances	Adsecula	Adsecula Tyrant				Etutanne, the Bloodthirsty		
+Physical	35	40						
+Beam	0	5						
+Ether	-25	-20						
+Thermal	-25	-20						
+Electric	0	5						
+Gravity	-25	-20						
+Debuff Immunity		Control						
+Debuff Resistant	Topple & Control	Topple & Control						
+								
+Auras	Members	Trigger	Effect	Tier	Duration			
+Enrage	Adsecula above Level 20	Destroy Stinger	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	IV	60 Seconds			
+	Adsecula Tyrants	Destroy Stinger	Boosts Evasion, Boosts Melee Accuracy, Boosts Ranged Accuracy	V	60 Seconds			
+								
+Species Arts List	Tackle	Acid Bolt	Flash	Bolt Strike		Bertrand, the Gorge Scrourge		
+Type	Melee	Ranged	Ranged	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Single Target				
+No. of Hits	1	2	1	1				
+Attribute	Physical	Electric	Ether	Electric				
+Damage Scaling	100%	150%	85%	200%				
+Recast	3 seconds	6 seconds	15 seconds	15 seconds				
+Boost								
+Debuff			Flinch II, Blackout 	Stun 				
+Disabled by Destroying -		Mouth		Stinger				
+Homing								
+								
+Appendages	Main Body	Mouth	Stinger					
+Hardness	N/A	0	1					
+Skell Targetable	Yes	No	No					
+Exposed by -								
+								
+Species Drops								
+Materials	Tatty Insect Wing	Small Insect Leg	Poisonous Needle	Adsecula Straw	Adsecula Gold Nugget	Adsecula Oil Drop		
+Dropped From -	All	All	Stinger	Mouth	All	All		
+								
+Use in Augments	Insectoid Criticals Up*	Extend Taunt*	Stabiliser*	Melee: Beam Res Down*	Beam Resistance Up (Low Level)	Antispike		
+	CritUp.INSECTOID*	TimeEX.TAUNT*	Custom.WP-STABLE*	M-AUTO.BEAM-DOWN*	SpecUp.BEAM.RES (Low Level)	Spike.EVA		
+	Insectoid Slayer*	Extend Virus*	Extend Blaze*	Nullify Beam Reflect*				
+	Slayer.INSECTOID*	TimeEX.VIRUS*	TimeEX.BLAZE*	Reflect.NEG-BEAM*				
+	Taunt: Supercharge*			Extend Beam Res Down*				
+				TimeEX.BEAM-DOWN*				
+Use in Gear Crafting			Lv. 20 Archetype Weaponry					
+								
+	Below Lv. 25	Above Lv. 25						
+Armor	Sakuraba Medium Wear	Orpheon Heavy Wear						
+	Sakuraba Heavy Wear							
+								
+Weapons	Yes							
+Skell Armor	No							
+Skell Weapons	No							

@@ -1,0 +1,62 @@
+	Ictus									
+										
+Base Stats By Species Members	HP	Melee Attack	Melee Accuracy	Ranged Attack	Ranged Accuracy	Evasion	Potential	Size		Valyrian, the Iron Cleaver
+Ictus	1375	1800	1200	1650	1000	1000	1575	L		
+XL Ictus	6600	2400	1200	2200	1000	1000	2100	XL		
+Ictus Tyrant	3093	1890	1260	1732	1050	1050	1653	L		
+Terenty	24744	3780	1260	3464	1050	1050	3306	XXL		
+										
+Resistances	Ictus	Ictus Tyrant								
+Physical	35	40								
+Beam	0	5								
+Ether	-25	-20								
+Thermal	-25	-20								
+Electric	0	5								
+Gravity	0	5								
+Debuff Immunity		Control								
+Debuff Resistant	Topple & Control	Topple & Control								
+										
+Auras	Members	Trigger	Effect	Tier	Duration					
+Enrage	Ictuses	45% Health, or Break Either Stinger	Boosts Melee & Ranged Attack, Boosts Potential, Lowers Melee & Ranged Accuracy	III	60 Seconds					
+	Ictus Tyrants	45% Health, or Break Either Stinger	Boosts Melee & Ranged Attack, Boosts Potential, Lowers Melee & Ranged Accuracy	IV	60 Seconds					
+										
+Species Arts List	Strike (Each Arm)	Ether Shot	Roar	Acid Breath	Flying Stomp	Pilebunker				
+Type	Melee	Ranged	Ranged	Ranged	Melee	Melee				
+Target	Single Target	Single Target	Nearby Enemies	Frontal Arc	Floor Around Caster	Single Target				
+No. of Hits	1	4	1	3	1	1				
+Attribute	Physical	Ether	Physical	Ether	Physical	Physical				
+Damage Scaling	100%	85%	100%	136%	200%	500%				
+Recast	3 Seconds	3 Seconds	15 Seconds	15 Seconds	15 Seconds	60 Seconds				
+Boost						Critical Chance +10				
+Debuff			Taunt	Physical Res Down		Stagger III				
+Disabled by Destroying -	Corresponding Arm			Head		Either Arm				
+Homing		Yes								Belenguar, the Gunhammer
+										
+Appendages	Main Body	Head	Left Arm	Right Arm	Tail					
+Hardness	N/A	0	2	2	0					
+Skell Targetable	Yes	Yes	Yes	Yes	Yes					
+Exposed by -										
+										
+Species Drops										
+Materials	Lead Carapace	Pristine Insect Jaw	Ictus Shell	Lone White Ictus Stinger	Lone Purple Ictus Stinger	Lone Red Ictus Stinger				
+Dropped From -	All	All	Head, Tail	Stingers	Stingers	Stingers				
+										
+Use in Augments	Beam Resistance Up	Arts: Recover HP (Low Level)	Physical Resistance Up (High level)	Melee Attack Boost (High Level)	Ranged Attack Boost (High Level)	Critical Chance Up (High Level)				
+	SpecUp.BEAM-RES	Crush: Gain TP	SpecUp.PHYS-RES (High Level)	Boost.M-ATK (High Level)	Boost.R-ATK (High Level)	CriticalUp (High Level)				
+		Crush.GP								
+										
+										
+Use in Gear Crafting	N/A									
+										
+Armor	Sakuraba Light Wear									
+Weapons	Yes									
+Skell Armor	No									
+Skell Weapons	No									
+										
+										
+										
+										
+										
+										
+										
+										Terenty, the Blademaster

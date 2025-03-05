@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/xeno-searchopedia/xeno-searchopedia.github.io/issues"
   },
-  "homepage": "https://github.com/xeno-searchopedia/xeno-searchopedia.github.io#readme"
+  "homepage": "https://github.com/xeno-searchopedia/xeno-searchopedia.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }

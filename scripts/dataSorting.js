@@ -4,7 +4,14 @@ import {
   COLLECTIBLES_URL,
   FN_URL,
   FN_RESOURCES_URL,
+  FORMATTED_ARRAY_DATABASE_URL,
   FORMATTED_DATABASE_URL,
+  SHEETS_PATH,  
+  SPECIES_SAVE_URL,
+  ENEMY_TYPE,
+  COLLECTIBLE_TYPE,
+  RESOURCE_TYPE,
+  MATERIAL_TYPE,
 } from "../utils/constants.js";
 import {
   extractCollectibleAreaContainsCollectible,
@@ -15,7 +22,6 @@ import {
   trimString,
 } from "../utils/conversions.js";
 import { loadData, saveData } from "../utils/fileManagement.js";
-import { SPECIES_SAVE_URL } from "../utils/constants.js";
 
 async function fnDataSorting() {
   const fnData = JSON.parse((await loadData(FN_URL)).toString());
@@ -67,7 +73,7 @@ async function fnDataSorting() {
 }
 
 async function sheetsDataSorting() {
-  const enemyDataPath = "./data/enemy data/";
+  const enemyDataPath = SHEETS_PATH;
   const sheetsData = [];
   readdirSync(enemyDataPath).forEach(async file => {
     const enemyData = {
@@ -87,14 +93,14 @@ async function sheetsDataSorting() {
       if (enemyInfoElements[0] === "Materials") {
         for (let j = 1; j < enemyInfoElements.length; j++) {
           if (enemyInfoElements[j] === '\t' || enemyInfoElements[j] === '\r' || enemyInfoElements[j].length === 0) break;
-          enemyData.materials.push(enemyInfoElements[j]);
+          enemyData.materials.push(trimString(enemyInfoElements[j]));
         }
       }
 
       if (enemyInfoElements[0] === "Dropped From -") {
         for (let j = 1; j < enemyInfoElements.length; j++) {
           if (enemyInfoElements[j] === '\t' || enemyInfoElements[j] === '\r' || enemyInfoElements[j].length === 0) break;
-          enemyData.droppedSource.push(enemyInfoElements[j]);
+          enemyData.droppedSource.push(trimString(enemyInfoElements[j]));
         }
       }
 
@@ -140,6 +146,7 @@ async function bestiaryDataSorting() {
 
       bestiaryData.push({
         name: rowArray[0],
+        type: ENEMY_TYPE,
         species: rowArray[1],
         continent: rowArray[3],
         location: locations,
@@ -190,6 +197,7 @@ async function collectiblesDataSorting() {
 
           collectibleData.push({
             name: trimString(collectible[0]),
+            type: COLLECTIBLE_TYPE,
             location: locations,
             continent: continent,
           });
@@ -219,6 +227,7 @@ async function fnResourcesDataSorting() {
         } else {
           resourceData.push({
             name: resourceArray[j].trim(),
+            type: RESOURCE_TYPE,
             sites: [rowArray[0]],
           });
         }
@@ -229,7 +238,35 @@ async function fnResourcesDataSorting() {
   return resourceData;
 }
 
-async function buildDatabase() {
+async function materialsDataSorting(enemyData) {
+  const materialData = [];
+
+  for (let i = 0; i < enemyData.length; i++) {
+    const materials = enemyData[i].materials;
+    if (materials !== undefined) {
+      for (let j = 0; j < materials.length; j++) {
+        const material = trimString(materials[j]);
+        const foundMaterial = materialData.find((itmInner) => itmInner.name === material);
+        if (!!foundMaterial) {
+          if (!foundMaterial.species.includes(enemyData[i].species)) {
+            foundMaterial.species.push(enemyData[i].species);
+          }
+        } else {
+          materialData.push({
+            name: material,
+            type: MATERIAL_TYPE,
+            species: [enemyData[i].species],
+            appendage: trimString(enemyData[i].droppedSource[j]),
+          });
+        }
+      }
+    }
+  }
+
+  return materialData;
+}
+
+async function buildObjectDatabase() {
   // const fnData = await fnDataSorting();
   const sheetsData = await sheetsDataSorting();
   const bestiaryData = await bestiaryDataSorting();
@@ -254,6 +291,32 @@ async function buildDatabase() {
   saveData(FORMATTED_DATABASE_URL, collectedData);
 }
 
+async function buildArrayDatabase() {
+  const sheetsData = await sheetsDataSorting();
+  const bestiaryData = await bestiaryDataSorting();
+  const collectiblesData = await collectiblesDataSorting();
+  const fnResourcesData = await fnResourcesDataSorting();
+  const mergedEnemyData = [];
+
+  for (let i = 0; i < bestiaryData.length; i++) {
+    const bestiaryDatum = bestiaryData[i];
+    mergedEnemyData.push({
+      ...bestiaryDatum, 
+      ...(sheetsData.find((itmInner) => itmInner.species === bestiaryDatum.species))}
+    );
+  }
+
+  const materialsData = await materialsDataSorting(mergedEnemyData);
+
+  const mergedData = mergedEnemyData
+    .concat(mergedEnemyData)
+    .concat(collectiblesData)
+    .concat(fnResourcesData)
+    .concat(materialsData);
+
+  saveData(FORMATTED_ARRAY_DATABASE_URL, mergedData);
+}
+
 async function buildSpecies() {
   const bestiaryData = await bestiaryDataSorting();
 
@@ -267,4 +330,4 @@ async function buildSpecies() {
   await saveData(SPECIES_SAVE_URL, mergedEnemyData);
 }
 
-export { buildDatabase, buildSpecies };
+export { buildArrayDatabase, buildObjectDatabase, buildSpecies };

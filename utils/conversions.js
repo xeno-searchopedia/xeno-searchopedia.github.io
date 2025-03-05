@@ -1,3 +1,9 @@
+function sortByName(data) {
+  return data.sort((e1, e2) => {
+    return e1.name - e2.name;
+  });
+}
+
 function extractCollectibleAreaContainsCollectible(obj) {
   const array = [];
   Object.keys(obj).forEach(function eachKey(key) { 
@@ -123,6 +129,7 @@ function trimString(string) {
 } 
 
 export {
+  sortByName as alphabetize,
   extractCollectibleAreaContainsCollectible,
   extractRarity,
   extractRegion,

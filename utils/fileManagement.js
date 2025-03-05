@@ -5,7 +5,7 @@ async function loadData(url) {
     if (err) {
       throw err;
     }
-
+    
     processedData = data;
   });
 }

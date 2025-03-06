@@ -1,16 +1,24 @@
 import { renderCells } from "../components/cell.js";
 import { FORMATTED_ARRAY_DATABASE_URL } from "../utils/constants.js";
 import { sortByName } from "../utils/conversions.js"
-import { loadData } from "../utils/fileManagement.js";
-// import data from "../data/formattedDatabase.json" with { type: "json" };
 
-// SEARCH BAR
-// ABOUT/CREDITS PAGE
-// PINNED LIST
-// LOCAL STORAGE
-// SORT BY NAME, TYPE
-const data = sortByName(await loadData(FORMATTED_ARRAY_DATABASE_URL));
+function loadSiteData(url) {
+  const searchBar = document.getElementById('searchBar');
+  searchBar.value = "";
 
-renderCells(data);
+  return new Promise(() => {
+    fetch(url).then(rep => rep.json())
+    .then(data => {
+      // data = sortByName(data, -1);
+      document.getElementById('enemy-tab-pane').innerHTML = renderCells(data);
+    });
+  });
+}
 
-document.getElementById('enemy-tab-pane').innerHTML = contentStr;
+function loadPage() {
+  loadSiteData(FORMATTED_ARRAY_DATABASE_URL);
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+  loadPage();
+});

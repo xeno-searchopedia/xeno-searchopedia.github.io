@@ -154,6 +154,7 @@ async function bestiaryDataSorting() {
         maxLevel: levels[1],
         weaponBrand: trimString(weaponDrops[0]),
         weaponWeight: trimString(weaponDrops[1]),
+        isTyrant: trimString(rowArray[rowArray.length - 1]) === "Y",
       });
     }
   }
@@ -200,6 +201,7 @@ async function collectiblesDataSorting() {
             type: COLLECTIBLE_TYPE,
             location: locations,
             continent: continent,
+            category: rowArray[0],
           });
         }
       }
@@ -309,7 +311,6 @@ async function buildArrayDatabase() {
   const materialsData = await materialsDataSorting(mergedEnemyData);
 
   const mergedData = mergedEnemyData
-    .concat(mergedEnemyData)
     .concat(collectiblesData)
     .concat(fnResourcesData)
     .concat(materialsData);

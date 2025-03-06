@@ -1,7 +1,4 @@
-// import { Enemies } from "../data/formattedDatabase.json" with { type: "json" };
-
-const CARD_BODY = "<div class=\"card card-body\">";
-const LIST_GROUP_OPEN = "<ul class=\"list-group\">";
+const LIST_GROUP_OPEN = "<ul id=\"list\" class=\"list-group\">";
 const LIST_GROUP_CLOSED = "</ul>";
 
 // const ENEMY_DATA = Enemies;
@@ -27847,7 +27844,6 @@ const RESOURCES_DATA = [
 ];
 
 export {
-  CARD_BODY,
   LIST_GROUP_OPEN,
   LIST_GROUP_CLOSED,
   ENEMY_DATA,

@@ -1,9 +1,3 @@
-function sortByName(data) {
-  return data.sort((e1, e2) => {
-    return e1.name - e2.name;
-  });
-}
-
 function extractCollectibleAreaContainsCollectible(obj) {
   const array = [];
   Object.keys(obj).forEach(function eachKey(key) { 
@@ -121,6 +115,12 @@ function extractWeather(obj) {
   return "Any";
 }
 
+function sortByName(data, toggle) {
+  return data.sort((e1, e2) => {
+    return toggle * e1.name.localeCompare(e2.name);
+  });
+}
+
 function trimString(string) {
   if (string !== undefined && string !== null && string.length > 0) {
     return string.trim();
@@ -129,12 +129,12 @@ function trimString(string) {
 } 
 
 export {
-  sortByName as alphabetize,
   extractCollectibleAreaContainsCollectible,
   extractRarity,
   extractRegion,
   extractSpecies,
   extractTime,
   extractWeather,
+  sortByName,
   trimString,
 };

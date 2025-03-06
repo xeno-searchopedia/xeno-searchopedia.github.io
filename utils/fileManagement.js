@@ -1,5 +1,14 @@
 import { readFile, writeFile } from "fs/promises";
 
+function loadSiteData(url) {
+  return new Promise(() => {
+    fetch(url).then(rep => rep.json())
+    .then(data => {
+      currentDataState = data;
+    });
+  });
+}
+
 async function loadData(url) {
   return await readFile(url, function (err, data) {
     if (err) {
@@ -23,4 +32,4 @@ async function saveData(fileName, json) {
   });
 }
 
-export { loadData, saveData };
+export { loadData, loadSiteData, saveData };

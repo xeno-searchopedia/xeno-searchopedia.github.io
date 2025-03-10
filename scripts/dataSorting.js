@@ -12,6 +12,7 @@ import {
   COLLECTIBLE_TYPE,
   RESOURCE_TYPE,
   MATERIAL_TYPE,
+  RECOMMENDATIONS_URL,
 } from "../utils/constants.js";
 import {
   extractCollectibleAreaContainsCollectible,
@@ -309,11 +310,21 @@ async function buildArrayDatabase() {
   }
 
   const materialsData = await materialsDataSorting(mergedEnemyData);
+  const recommendationsData = JSON.parse((await loadData(RECOMMENDATIONS_URL)).toString());
+  const mergedMaterialsData = [];
+
+  for (let i = 0; i < materialsData.length; i++) {
+    const materialsDatum = materialsData[i];
+    mergedMaterialsData.push({
+      ...materialsDatum, 
+      ...(recommendationsData.find((itmInner) => itmInner.name === materialsDatum.name))}
+    );
+  }
 
   const mergedData = mergedEnemyData
     .concat(collectiblesData)
     .concat(fnResourcesData)
-    .concat(materialsData);
+    .concat(mergedMaterialsData);
 
   saveData(FORMATTED_ARRAY_DATABASE_URL, mergedData);
 }

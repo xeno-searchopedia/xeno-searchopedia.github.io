@@ -6,6 +6,7 @@ const FN_RESOURCES_URL = "./data/fnResources.tsv";
 const SPECIES_SAVE_URL = "./data/species.json";
 const FORMATTED_DATABASE_URL = "./data/formattedDatabase.json";
 const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
+const RECOMMENDATIONS_URL = "./data/recommendations.json";
 
 const ENEMY_TYPE = "Enemy";
 const COLLECTIBLE_TYPE = "Collectible";
@@ -21,6 +22,7 @@ export {
   SPECIES_SAVE_URL,
   FORMATTED_ARRAY_DATABASE_URL,
   FORMATTED_DATABASE_URL,
+  RECOMMENDATIONS_URL,
   ENEMY_TYPE,
   COLLECTIBLE_TYPE,
   RESOURCE_TYPE,

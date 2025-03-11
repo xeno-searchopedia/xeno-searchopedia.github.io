@@ -3,6 +3,7 @@
 - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!
 - Clicking on the ▼ will extend the cell and show more information for any entity available.
 - Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!
+- Clicking on searchable elements within a cell will automatically search for that element. This will allow for quicker access to information. For example, you need specific drop information from Simius. You search "Simius", you open "Iron Simius". You click into "Green Simius Mane" and pin it. You click "Demetrio, the Tempestuous". You click "Simius" and repeat!
 - Links on the cell title will open a new tab to the Xeno Series Wiki entry for that entity.
 - Links on FN sites will open a new tab to the same site on the interactive map on FrontierNav, the Interactive Video Game Wiki.
 - Listed in dropped materials data are recommendations. These are opinion based and hand picked suggestions for which enemy is the best to fight to grind for each specific drop. These may not be the truly optimal enemies to fight as there are over 500 dropped materials (and counting) in the game. If you know of a recommendation that is better than what is displayed on the site, please reach out with information! These were all hand picked over the course of two days and therefore there is potential for mistakes. However, do keep in mind that the recommendations are based on a layman's experience with the game and anything that would be more optimal with specific builds goes against that experience.
@@ -26,7 +27,7 @@ The Xenoblade Chronicles X Searchopedia site was conceptualized after I complete
 # Privacy and Cookies
 No user data is collected through the site. No analytics will be implemented and any data collected about the user experience will be through user-submitted feedback.
 
-Cookies are implemented to allow pinned elements to persist when the site is left or refreshed. Cookies are deleted when a pinned element is un-pinned.
+Cookies are implemented to allow pinned elements to persist when the site is left or refreshed. They contain no session data or user data.  Cookies are deleted when a pinned element is un-pinned.
 
 # Credits:
 [FourthStrongest](https://fourthstrongest.github.io/): Concept, Web Development, Data Manipulation, Data Collection

@@ -4,8 +4,8 @@ const ENEMY_TYPE = "Enemy";
 const COLLECTIBLE_TYPE = "Collectible";
 const RESOURCE_TYPE = "Resource";
 const MATERIAL_TYPE = "Material";
-const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
 const FN_MAP_URL = "https://frontiernav.net/wiki/xenoblade-chronicles-x/visualisations/maps/entities/site";
+const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
 const WIKI_URL = "https://www.xenoserieswiki.org/wiki/";
 
 let siteData = [];
@@ -21,6 +21,7 @@ function loadPage() {
   loadSiteData(FORMATTED_ARRAY_DATABASE_URL);
   loadPinData();
   loadAboutTab();
+  loadEventHandlers();
 }
 
 function loadSiteData(url) {
@@ -46,15 +47,12 @@ function loadPinData() {
 }
 
 function loadAboutTab() {
-  // TODO: MOVE TO CHANGE TAB FUNCTION
-  // const searchBar = document.getElementById("searchBar");
-  // searchBar.style.display = "none";
-
   document.getElementById("about-tab-pane").innerHTML = `
     How to use:<br />
     - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!<br />
     - Clicking on the ▼ will extend the cell and show more information for any entity available.<br />
     - Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!<br />
+    - Clicking on searchable elements within a cell will automatically search for that element. This will allow for quicker access to information. For example, you need specific drop information from Simius. You search "Simius", you open "Iron Simius". You click into "Green Simius Mane" and pin it. You click "Demetrio, the Tempestuous". You click "Simius" and repeat!<br />
     - Links on the cell title will open a new tab to the Xeno Series Wiki entry for that entity.<br />
     - Links on FN sites will open a new tab to the same site on the interactive map on FrontierNav, the Interactive Video Game Wiki.<br />
     - Listed in dropped materials data are recommendations. These are opinion based and hand picked suggestions for which enemy is the best to fight to grind for each specific drop. These may not be the truly optimal enemies to fight as there are over 500 dropped materials (and counting) in the game. If you know of a recommendation that is better than what is displayed on the site, please reach out with information! These were all hand picked over the course of two days and therefore there is potential for mistakes. However, do keep in mind that the recommendations are based on a layman's experience with the game and anything that would be more optimal with specific builds goes against that experience.
@@ -78,7 +76,7 @@ function loadAboutTab() {
     <br />
     No user data is collected through the site. No analytics will be implemented and any data collected about the user experience will be through user-submitted feedback.<br />
     <br />
-    Cookies are implemented to allow pinned elements to persist when the site is left or refreshed. Cookies are deleted when a pinned element is un-pinned.<br />
+    Cookies are implemented to allow pinned elements to persist when the site is left or refreshed. They contain no session data or user data. Cookies are deleted when a pinned element is un-pinned.<br />
     <br />
     Credits:<br />
     <a href="https://fourthstrongest.github.io/" target="_blank">FourthStrongest</a> (they/them): Concept, Web Development, Data Manipulation, Data Collection<br />
@@ -92,6 +90,20 @@ function loadAboutTab() {
     Thank you all so much!<br />
   `;
 }
+
+function loadEventHandlers() {
+  var tabs = document.querySelectorAll("button[data-bs-toggle='tab']");
+  for (let i = 0; i < tabs.length; i++) {
+    tabs[i].addEventListener("shown.bs.tab", function (event) {
+      if (event.target.id === "about-tab-button") {
+        document.getElementById("searchBar").style.display = "none";
+      } else {
+        document.getElementById("searchBar").style.display = "block";
+      }
+    });
+  }
+}
+
 // --- CELL FUNCTIONS
 
 function renderCells(data, listId) {
@@ -103,7 +115,7 @@ function renderCells(data, listId) {
         + `<a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
         + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a>`
         + `<a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`
-        // + `<input type="checkbox" id="${filteredName}-checked" data-name="${datum.name}" onclick="checkedToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
+        // + `Complete: <input type="checkbox" id="${filteredName}-checked" data-name="${datum.name}" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
         + `</p><div class="collapse text-dark" id="${filteredName}">`;
       contentStr += renderRow(datum) + `</div></li>`;
     }
@@ -115,19 +127,24 @@ function renderCells(data, listId) {
 
 // -- ROW FUNCTIONS
 
-function printList(label, locations) {
+function printList(label, list) {
   let returnString = `<span>${label}`;
-  if (locations.length > 1 && label[label.length - 1] !== "s") {
+  if (list.length > 1 && label[label.length - 1] !== "s") {
     returnString += "s";
   }
   returnString += ": "
-  for (let i = 0; i < locations.length; i++) {
-    if (isNaN(locations[i])) {
-      returnString += locations[i];
+  for (let i = 0; i < list.length; i++) {
+    if (isNaN(list[i][0])) {
+      if (label === "Species") {
+        returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
+      } else {
+        returnString += list[i];
+      }
     } else {
-      returnString += `<a href="${FN_MAP_URL}${locations[i]}" target="_blank">${locations[i]}</a>`;
+      const site = list[i].slice(0, 3);
+      returnString += `<a href="${FN_MAP_URL}${site}" target="_blank">${list[i]}</a>`;
     }
-    if (i !== locations.length - 1) {
+    if (i !== list.length - 1) {
       returnString += ", ";
     }
   }
@@ -135,9 +152,9 @@ function printList(label, locations) {
 }
 
 function printMaterialSourcePairs(materials, sources) {
-  let returnString = "Drops:<br />";
+  let returnString = "<p>Drops:<br />";
   for (let i = 0; i < materials.length; i++) {
-    returnString += `- ${materials[i]} from `;
+    returnString += `- <span data-name="${materials[i]}" onclick="search(this.dataset.name)">${materials[i]}</span> from `;
     if (sources[i] === "All") {
       returnString += "Main Body";
     } else {
@@ -150,7 +167,7 @@ function printMaterialSourcePairs(materials, sources) {
       returnString += "<br />";
     }
   }
-  return returnString;
+  return `${returnString}</p>`;
 }
 
 function renderRow(datum) {
@@ -159,7 +176,7 @@ function renderRow(datum) {
     case ENEMY_TYPE: {
       // TODO: ADD WEAPON BRAND AND WEIGHT LOGIC
       rowString += `<div class="card card-body" data-species=${datum.species}>`
-        + `Species: ${datum.species} <br />`
+        + `Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)">${datum.species}</span> <br />`
         + `Continent: ${datum.continent} <br />`
         + `${printList("Location", datum.location)} <br />`;
       if (datum.minLevel === datum.maxLevel) {
@@ -185,7 +202,7 @@ function renderRow(datum) {
       rowString += `<div class="card card-body">`
         + `${printList("Species", datum.species)} <br />`
         + `Appendage: ${datum.appendage === "All" ? "Main Body" : datum.appendage} <br />`
-        + `Recommended Source: ${datum.enemy}`;
+        + `<p>Recommended Source: <span data-name="${datum.enemy}" onclick="search(this.dataset.name)">${datum.enemy}</span></p>`;
       break;
     }
   }
@@ -230,9 +247,14 @@ function renderPinnedList() {
   pinnedList.innerHTML = renderCells(pinnedData, "pinList");
 }
 
-function search() {
+function search(input) {
   const searchBar = document.getElementById("searchBar");
-  const input = searchBar.value.toUpperCase();
+  if (input === null || input === undefined || input.length === 0) {
+    input = searchBar.value.toUpperCase();
+  } else {
+    searchBar.value = input;
+  }
+  // const input = searchBar.value.toUpperCase();
   // TODO: apply to both tabs
   const ul = document.getElementById("mainList");
   const li = ul.getElementsByTagName("li");
@@ -241,7 +263,7 @@ function search() {
     let a = li[i].getElementsByTagName("a")[0];
     let species = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.species;
     txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(input) > -1 || (species !== undefined && species.toUpperCase().indexOf(input) > -1)) {
+    if (txtValue.toUpperCase().indexOf(input.toUpperCase()) > -1 || (species !== undefined && species.toUpperCase().indexOf(input.toUpperCase()) > -1)) {
       li[i].style.display = "";
     } else {
       li[i].style.display = "none";

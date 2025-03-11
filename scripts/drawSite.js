@@ -5,6 +5,8 @@ const COLLECTIBLE_TYPE = "Collectible";
 const RESOURCE_TYPE = "Resource";
 const MATERIAL_TYPE = "Material";
 const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
+const FN_MAP_URL = "https://frontiernav.net/wiki/xenoblade-chronicles-x/visualisations/maps/entities/site";
+const WIKI_URL = "https://www.xenoserieswiki.org/wiki/";
 
 let siteData = [];
 let pinnedData = [];
@@ -18,6 +20,7 @@ window.addEventListener("DOMContentLoaded", () => {
 function loadPage() {
   loadSiteData(FORMATTED_ARRAY_DATABASE_URL);
   loadPinData();
+  loadAboutTab();
 }
 
 function loadSiteData(url) {
@@ -42,18 +45,65 @@ function loadPinData() {
   }
 }
 
+function loadAboutTab() {
+  // TODO: MOVE TO CHANGE TAB FUNCTION
+  // const searchBar = document.getElementById("searchBar");
+  // searchBar.style.display = "none";
+
+  document.getElementById("about-tab-pane").innerHTML = `
+    How to use:<br />
+    - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!<br />
+    - Clicking on the ▼ will extend the cell and show more information for any entity available.<br />
+    - Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!<br />
+    - Links on the cell title will open a new tab to the Xeno Series Wiki entry for that entity.<br />
+    - Links on FN sites will open a new tab to the same site on the interactive map on FrontierNav, the Interactive Video Game Wiki.<br />
+    - Listed in dropped materials data are recommendations. These are opinion based and hand picked suggestions for which enemy is the best to fight to grind for each specific drop. These may not be the truly optimal enemies to fight as there are over 500 dropped materials (and counting) in the game. If you know of a recommendation that is better than what is displayed on the site, please reach out with information! These were all hand picked over the course of two days and therefore there is potential for mistakes. However, do keep in mind that the recommendations are based on a layman's experience with the game and anything that would be more optimal with specific builds goes against that experience.
+    <br /><br />
+    TODO:<br />
+    - Dark Mode<br />
+    - Sorting<br />
+    - Filters<br />
+    - More elements to search by<br />
+    - Skell data<br />
+    - Crafting data<br />
+    - Quest and heart-to-heart data<br />
+    - FN Site data<br />
+    - Completion tracking<br />
+    - Add Xenoblade Chronicles X: Definitive Edition data<br />
+    - Feedback form<br />
+    <br /><br />
+    ---<br />
+    <br /><br />
+    The Xenoblade Chronicles X Searchopedia site was conceptualized after I completed a grueling 100% run of Xenoblade Chronicles X on the Wii U in 2022. While I loved the experience and the game, keeping track of all the things I needed to grind in order to beat the hardest fights in the game was quite a pain. This frustration mostly came from having to go back and forth through a handful of sources to research enemies and materials. The goal of this website is to be a (mostly) one-stop shop to get the main information needed for those grinds, while also supplying FrontierNav and wiki links for further, deeper information. At the very least, even if these links are necessary, at least users should be able to just come to this site, quickly search for what they need, and move on to a source that is more helpful for them. Additionally, I hope to keep open communication with the community so that requests and ideas can be integrated into the site without having to worry about navigating and modifying these other heavily-structured resources. The website is built with simple HTML, CSS, and Javascript and utilizes the flexibilty of JSON objects and arrays to easily modify and structure data.<br />
+    <br />
+    No user data is collected through the site. No analytics will be implemented and any data collected about the user experience will be through user-submitted feedback.<br />
+    <br />
+    Cookies are implemented to allow pinned elements to persist when the site is left or refreshed. Cookies are deleted when a pinned element is un-pinned.<br />
+    <br />
+    Credits:<br />
+    <a href="https://fourthstrongest.github.io/" target="_blank">FourthStrongest</a> (they/them): Concept, Web Development, Data Manipulation, Data Collection<br />
+    Addam Kosmos: UI, Rubber Ducking, and Moral Support<br />
+    <a href="https://www.xenoserieswiki.org/wiki/Main_Page" target="_blank">Xeno Series Wiki</a> and related Discord Server: Consultation understanding the raw data and Wiki Templates, Additional Data<br />
+    Jahed from <a href="https://frontiernav.net/wiki/xenoblade-chronicles-x" target="_blank">FrontierNav</a>: Suppling Core Data and just being an awesome site<br />
+    <a href="https://www.reddit.com/r/XenobladeChroniclesX/comments/s70gjt/xcx_player_guides_complete_enemy_information_and/" target="_blank">u/ExpressPumpkin7736</a>: <a href="https://docs.google.com/spreadsheets/d/1m5kKS_69chohllO4r5xaP3_aMKbwmxeOMQq7CMhVyLc/edit?gid=0#gid=0" target="_blank">Well Concentrated Enemy Data</a><br />
+    <br />
+    Special shout out to <a href="https://www.reddit.com/r/XenobladeChroniclesX/comments/104yfgw/the_ultimate_100_guide/" target="_blank">u/Vapor0907</a> for their incredible work on the <a href="https://docs.google.com/spreadsheets/d/12WOSrIc5NIFiywWcukl1ADoXuTuboEXEJe8CNi9Jlr4/edit?gid=1284138622#gid=1284138622" target="_blank">Google Sheets 100% Completion Guide</a>. This guide heavily carried me through my own 100% playthrough and inspired me more than any other resource to make this site.<br />
+    <br />
+    Thank you all so much!<br />
+  `;
+}
 // --- CELL FUNCTIONS
 
 function renderCells(data, listId) {
   let contentStr = `<ul id="${listId}" class="list-group">`;
   data.forEach((datum) => {
-    if (!(datum.type === ENEMY_TYPE && datum.materials === undefined)) {
+    if (!(datum.type === ENEMY_TYPE && (datum.materials === undefined || datum.materials.length === 0))) {
       let filteredName = datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "");
       contentStr += `<li class="list-group-item"><p>`
-        + `<a href="https://www.xenoserieswiki.org/wiki/${datum.name}" target="_blank">${datum.name}</a>`
+        + `<a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
         + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a>`
-        // + `<input type="checkbox" id="${filteredName}-pin" data-name="${datum.name}" onclick="pinToggle(this)" ${localStorage.getItem(filteredName + "-pin") ? 'checked' : ''}>`
         + `<a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`
+        // + `<input type="checkbox" id="${filteredName}-checked" data-name="${datum.name}" onclick="checkedToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
         + `</p><div class="collapse text-dark" id="${filteredName}">`;
       contentStr += renderRow(datum) + `</div></li>`;
     }
@@ -66,18 +116,22 @@ function renderCells(data, listId) {
 // -- ROW FUNCTIONS
 
 function printList(label, locations) {
-  let returnString = label;
+  let returnString = `<span>${label}`;
   if (locations.length > 1 && label[label.length - 1] !== "s") {
     returnString += "s";
   }
   returnString += ": "
   for (let i = 0; i < locations.length; i++) {
-    returnString += locations[i];
+    if (isNaN(locations[i])) {
+      returnString += locations[i];
+    } else {
+      returnString += `<a href="${FN_MAP_URL}${locations[i]}" target="_blank">${locations[i]}</a>`;
+    }
     if (i !== locations.length - 1) {
       returnString += ", ";
     }
   }
-  return returnString;
+  return returnString + "</span>";
 }
 
 function printMaterialSourcePairs(materials, sources) {

@@ -112,9 +112,10 @@ function renderCells(data, listId) {
       const filteredName = datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "");
       const id = `${filteredName}${listId === "pinList" ? "-clone" : ""}`;
       contentStr += `<li class="list-group-item"><div class="d-flex justify-content-between">`
-        + `<div> <a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
-        + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a> </div>`
-        + `<div > <a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`;
+        + `<div><a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
+        + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
+        + `<div><a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">`
+        + `<img src="/assets/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
       if (datum.isCompletable) {
         contentStr += `Complete: <input type="checkbox" id="${id}-checked" data-name="${datum.name}" data-parent-id="${id}" onchange="checkboxToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
       }
@@ -230,7 +231,8 @@ function addPin(pin) {
   localStorage.setItem(pin.id, pin.dataset.pinned);
   if (!pinnedData.includes(pin)) {
     const newPin = siteData.find((itmInner) => itmInner.name === pin.dataset.name);
-    pin.innerText = "Pinned";
+    const icon = pin.getElementsByTagName("img")[0];
+    icon.src = "/assets/icons/pin-angle-fill.svg";
     pinnedData.push(newPin);
   }
 }
@@ -239,8 +241,10 @@ function removePin(pin) {
   const pinnedPair = document.getElementById(pin.id);
   localStorage.removeItem(pin.id);
   pinnedData = pinnedData.filter((element) => element.name !== pin.dataset.name);
-  pin.innerText = "Pin";
-  pinnedPair.innerText = "Pin";
+  const icon = pin.getElementsByTagName("img")[0];
+  icon.src = "/assets/icons/pin-angle.svg";
+  const iconPair = pinnedPair.getElementsByTagName("img")[0];
+  iconPair.src = "/assets/icons/pin-angle.svg";
   pinnedPair.setAttribute("data-pinned", pin.dataset.pinned);
 }
 

@@ -34,7 +34,7 @@ function loadSiteData(url) {
       // data = sortByName(data, -1);
       siteData = data;
       document.getElementById("main-tab-pane").innerHTML = renderCells(data, "mainList");
-    });
+    })
   });
 }
 
@@ -66,7 +66,6 @@ function loadAboutTab() {
     - Crafting data<br />
     - Quest and heart-to-heart data<br />
     - FN Site data<br />
-    - Completion tracking<br />
     - Add Xenoblade Chronicles X: Definitive Edition data<br />
     - Feedback form<br />
     <br /><br />
@@ -110,13 +109,16 @@ function renderCells(data, listId) {
   let contentStr = `<ul id="${listId}" class="list-group">`;
   data.forEach((datum) => {
     if (!(datum.type === ENEMY_TYPE && (datum.materials === undefined || datum.materials.length === 0))) {
-      let filteredName = datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "");
+      const filteredName = datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "");
+      const id = `${filteredName}${listId === "pinList" ? "-clone" : ""}`;
       contentStr += `<li class="list-group-item"><p>`
         + `<a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
         + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a>`
-        + `<a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`
-        // + `Complete: <input type="checkbox" id="${filteredName}-checked" data-name="${datum.name}" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
-        + `</p><div class="collapse text-dark" id="${filteredName}">`;
+        + `<a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`;
+      if (datum.isCompletable) {
+        contentStr += `Complete: <input type="checkbox" id="${id}-checked" data-name="${datum.name}" data-parent-id="${id}" onchange="checkboxToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
+      }
+      contentStr += `</p><div class="collapse text-dark" id="${id}">`;
       contentStr += renderRow(datum) + `</div></li>`;
     }
   });
@@ -175,7 +177,7 @@ function renderRow(datum) {
   switch (datum.type) {
     case ENEMY_TYPE: {
       // TODO: ADD WEAPON BRAND AND WEIGHT LOGIC
-      rowString += `<div class="card card-body" data-species=${datum.species}>`
+      rowString += `<div class="card card-body" data-species=${datum.species} data-is-tyrant=${datum.isTyrant}>`
         + `Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)">${datum.species}</span> <br />`
         + `Continent: ${datum.continent} <br />`
         + `${printList("Location", datum.location)} <br />`;
@@ -226,9 +228,9 @@ function pinToggle(pin) {
 function addPin(pin) {
   localStorage.setItem(pin.id, pin.dataset.pinned);
   if (!pinnedData.includes(pin)) {
-    const datum = siteData.find((itmInner) => itmInner.name === pin.dataset.name);
-    pinnedData.push(datum);
+    const newPin = siteData.find((itmInner) => itmInner.name === pin.dataset.name);
     pin.innerText = "Pinned";
+    pinnedData.push(newPin);
   }
 }
 
@@ -247,6 +249,43 @@ function renderPinnedList() {
   pinnedList.innerHTML = renderCells(pinnedData, "pinList");
 }
 
+// --- CHECKBOX FUNCTIONS
+
+function checkboxToggle(checkbox) {
+  if (checkbox.checked) {
+    localStorage.setItem(checkbox.id, checkbox.checked);
+  } else {
+    localStorage.removeItem(checkbox.id);
+  }
+  const cell = siteData.find((itmInner) => itmInner.name === checkbox.dataset.name);
+  const clonedCell = pinnedData.find((itmInner) => itmInner.name === checkbox.dataset.name);
+  if (clonedCell !== undefined && cell.name === clonedCell.name) {
+    let originalCheck;
+    let clonedCheck;
+    if (!checkbox.dataset.parentId.includes("-clone")) {
+      originalCheck = document.getElementById(checkbox.id);
+      clonedCheck = document.getElementById(`${checkbox.id.split("-")[0]}-clone-checked`);
+      clonedCheck.checked = originalCheck.checked;
+      if (checkbox.checked) {
+        localStorage.setItem(`${checkbox.id.split("-")[0]}-clone-checked`, checkbox.checked);
+      } else {
+        localStorage.removeItem(`${checkbox.id.split("-")[0]}-clone-checked`);
+      }
+    } else {
+      originalCheck = document.getElementById(`${checkbox.id.split("-")[0]}-checked`);
+      clonedCheck = document.getElementById(checkbox.id);
+      originalCheck.checked = clonedCheck.checked;
+      if (checkbox.checked) {
+        localStorage.setItem(`${checkbox.id.split("-")[0]}-checked`, checkbox.checked);
+      } else {
+        localStorage.removeItem(`${checkbox.id.split("-")[0]}-checked`);
+      }
+    }
+  }
+}
+
+// --- SEARCH FUNCTIONS
+
 function search(input) {
   const searchBar = document.getElementById("searchBar");
   if (input === null || input === undefined || input.length === 0) {
@@ -254,6 +293,7 @@ function search(input) {
   } else {
     searchBar.value = input;
   }
+  input = input.toUpperCase();
   // const input = searchBar.value.toUpperCase();
   // TODO: apply to both tabs
   const ul = document.getElementById("mainList");
@@ -262,11 +302,17 @@ function search(input) {
   for (let i = 0; i < li.length; i++) {
     let a = li[i].getElementsByTagName("a")[0];
     let species = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.species;
+    let isTyrant = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.isTyrant === "true";
     txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(input.toUpperCase()) > -1 || (species !== undefined && species.toUpperCase().indexOf(input.toUpperCase()) > -1)) {
+    if (txtValue.toUpperCase().indexOf(input) > -1 || (species !== undefined && species.toUpperCase().indexOf(input) > -1) || (input.includes("TYRANT") && isTyrant)) {
       li[i].style.display = "";
     } else {
       li[i].style.display = "none";
     }
   }
 }
+
+// TODO
+// function filter() {
+
+// }

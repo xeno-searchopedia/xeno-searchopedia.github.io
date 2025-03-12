@@ -156,6 +156,7 @@ async function bestiaryDataSorting() {
         weaponBrand: trimString(weaponDrops[0]),
         weaponWeight: trimString(weaponDrops[1]),
         isTyrant: trimString(rowArray[rowArray.length - 1]) === "Y",
+        isCompletable: trimString(rowArray[rowArray.length - 1]) === "Y",
       });
     }
   }

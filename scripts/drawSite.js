@@ -111,18 +111,19 @@ function renderCells(data, listId) {
     if (!(datum.type === ENEMY_TYPE && (datum.materials === undefined || datum.materials.length === 0))) {
       const filteredName = datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "");
       const id = `${filteredName}${listId === "pinList" ? "-clone" : ""}`;
-      contentStr += `<li class="list-group-item"><p>`
-        + `<a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
-        + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a>`
-        + `<a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`;
+      contentStr += `<li class="list-group-item"><div class="d-flex justify-content-between">`
+        + `<div> <a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
+        + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a> </div>`
+        + `<div > <a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">${localStorage.getItem(filteredName + "-pin") ? "Pinned" : "Pin"}</a>`;
       if (datum.isCompletable) {
         contentStr += `Complete: <input type="checkbox" id="${id}-checked" data-name="${datum.name}" data-parent-id="${id}" onchange="checkboxToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
       }
-      contentStr += `</p><div class="collapse text-dark" id="${id}">`;
+      contentStr += `</div></div><div class="collapse text-dark" id="${id}">`;
       contentStr += renderRow(datum) + `</div></li>`;
     }
   });
   contentStr += `</ul>`;
+  
 
   return contentStr;
 }

@@ -61,7 +61,7 @@ function loadAboutTab() {
     <br /><br />
     <h3>How to use:</h3>
     <ul>
-      <li>Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!</li>
+      <li>Simply search for whatever enemy, collectible, drop, FrontierNav resource, species, mission, augment, craftable ground armor, Skell frame, and superweapon needed!</li>
       <li>Clicking on the ▼ will extend the cell and show more information for any entity available.</li>
       <li>Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!</li>
       <li>Clicking on searchable elements within a cell will automatically search for that element.</li>

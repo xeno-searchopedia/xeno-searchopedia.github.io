@@ -1,3 +1,7 @@
+# Feedback/Bug Reports
+[Leave feedback or bug reports here!](https://form.jotform.com/250710695236154)
+
+
 # How to use:
 - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!
 - Clicking on the ▼ will extend the cell and show more information for any entity available.
@@ -33,7 +37,8 @@ Addam Kosmos: UI, Rubber Ducking, and Moral Support
 [Xeno Series Wiki](https://www.xenoserieswiki.org/wiki/Main_Page) and related Discord Server: Consultation understanding the raw data and Wiki Templates, Additional Data
 Jahed from [FrontierNav](https://frontiernav.net/wiki/xenoblade-chronicles-x): Suppling Core Data and just being an awesome site
 [u/ExpressPumpkin7736](https://www.reddit.com/r/XenobladeChroniclesX/comments/s70gjt/xcx_player_guides_complete_enemy_information_and/): [Well Concentrated Enemy Data](https://docs.google.com/spreadsheets/d/1m5kKS_69chohllO4r5xaP3_aMKbwmxeOMQq7CMhVyLc/edit?gid=0#gid=0)
+[u/damafan](https://www.reddit.com/r/Xenoblade_Chronicles/comments/3vxesl/the_ultimate_spreadsheet_data_of_xcx/): [Collectopedia, Mission, Crafting Data](https://docs.google.com/spreadsheets/d/1g0YR4M8RAHiRhCbAvV4tjXXHLEhRMrARzZMYAUGmyZ4/htmlview#)
 
-Special shout out to [u/Vapor0907](https://www.reddit.com/r/XenobladeChroniclesX/comments/104yfgw/the_ultimate_100_guide/) for their incredible work on the [Google Sheets 100% Completion Guide](https://docs.google.com/spreadsheets/d/12WOSrIc5NIFiywWcukl1ADoXuTuboEXEJe8CNi9Jlr4/edit?gid=1284138622#gid=1284138622). This guide heavily carried me through my own 100% playthrough and inspired me more than any other resource to make this site.
+Special shout out to [u/Vapor0907](https://www.reddit.com/r/XenobladeChroniclesX/comments/104yfgw/the_ultimate_100_guide/) for their incredible work on the [Google Sheets 100% Completion Guide](https://docs.google.com/spreadsheets/d/1g0YR4M8RAHiRhCbAvV4tjXXHLEhRMrARzZMYAUGmyZ4/htmlview#). This guide heavily carried me through my own 100% playthrough and inspired me more than any other resource to make this site.
 
 Thank you all so much!

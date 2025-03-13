@@ -1,12 +1,21 @@
 // --- CONSTANTS ---
 
+const AFFINITY_MISSION_TYPE = "Affinity";
+const AUGMENT_TYPE = "Augment";
+const BASIC_MISSION_TYPE = "Basic";
 const ENEMY_TYPE = "Enemy";
 const COLLECTIBLE_TYPE = "Collectible";
-const RESOURCE_TYPE = "Resource";
+const GROUND_ARMOR_TYPE = "Ground";
 const MATERIAL_TYPE = "Material";
+const NORMAL_MISSION_TYPE = "Normal";
+const RESOURCE_TYPE = "Resource";
+const SKELL_FRAME_TYPE = "Frame";
+const SUPERWEAPON_TYPE = "Superweapon";
 const FN_MAP_URL = "https://frontiernav.net/wiki/xenoblade-chronicles-x/visualisations/maps/entities/site";
 const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
 const WIKI_URL = "https://www.xenoserieswiki.org/wiki/";
+
+const FEEDBACK_FORM_URL = "https://form.jotform.com/250710695236154";
 
 let siteData = [];
 let pinnedData = [];
@@ -48,6 +57,8 @@ function loadPinData() {
 
 function loadAboutTab() {
   document.getElementById("about-tab-pane").innerHTML = `
+    <a href="${FEEDBACK_FORM_URL}">Leave feedback or bug reports here!</a><br />
+    <br /><br />
     How to use:<br />
     - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!<br />
     - Clicking on the ▼ will extend the cell and show more information for any entity available.<br />
@@ -67,7 +78,6 @@ function loadAboutTab() {
     - Quest and heart-to-heart data<br />
     - FN Site data<br />
     - Add Xenoblade Chronicles X: Definitive Edition data<br />
-    - Feedback form<br />
     <br /><br />
     ---<br />
     <br /><br />

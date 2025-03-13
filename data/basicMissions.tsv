@@ -1,8 +1,8 @@
 	S=Social, G=Gather, B=Bounty			[NM]/are Normal/Affinity Missions, see their respective tabs for details						
 Name	Type	Client	Location	BL	Story	Prereqs	Gold	Exp	Reward	Objectives
-Suid Sweep	B☆	Pathfinders	Primordia	1	-	-	1500	10	Melee Accuracy Up II	Kill 4 Brass Suids
+Suid Sweep (Brass)	B☆	Pathfinders	Primordia	1	-	-	1500	10	Melee Accuracy Up II	Kill 4 Brass Suids
 Archibolt, the Revolutionary	B☆	Harriers	Primordia	1	-	-	1500	10	Bargain Jacket	Kill Archibolt, the Revolutionary
-Arms Testers Wanted	B☆	Outfitters	Primordia	1	-	-	1500	10	Prototype Trekware	Kill 4 Creeping Blatta with a Titanium Knife II
+Arms Testers Wanted (Titanium Knife II)	B☆	Outfitters	Primordia	1	-	-	1500	10	Prototype Trekware	Kill 4 Creeping Blatta with a Titanium Knife II
 Sirene, the Lost	B☆☆	Pathfinders	Primordia	1	-	-	1500	10	Bargain Sunglasses	Kill Sirene, the Lost
 Mortifole Mulching	B☆	Interceptors	Noctilum	1	3	-	1500	10	Bargain Tank Top (Green)	Kill 5 Lake Mortifole
 Blatta Splatter	B☆	Prospectors	Oblivia	1	3	-	1500	10	Potential Up II	Kill 3 Zeppelin Blattas
@@ -14,7 +14,7 @@ Melanya, the Sound Sleeper	B☆☆	Pathfinders	Oblivia	1	3	-	1500	10	Prototype S
 Offing Ovis	B☆☆☆☆	Pathfinders	Sylvalum	1	3	-	25000	100	Stabilizer II	Kill 5 White Owis
 Germivores No More	B☆☆☆☆☆	Interceptors	Sylvalum	1	3	-	25000	100	Prototype BLADE Wear	Kill 8 Echo Germivores
 Blatta Splatter	B☆☆☆☆☆	Curators	Cauldros	1	3	-	30000	150	Bargain Turtleneck	Kill 4 Rust Blatta
-Arms Testers Wanted	B☆☆	Outfitters	Primordia	2	-	-	2500	10	Scouter	Kill 4 Night Vespers with a Soldier Avagar
+Arms Testers Wanted (Soldier Avagar)	B☆☆	Outfitters	Primordia	2	-	-	2500	10	Scouter	Kill 4 Night Vespers with a Soldier Avagar
 Tourteau, the Delectable	B☆☆	Harriers	Primordia	2	-	-	2500	10	Melee Attack Up II	Kill Tourteau, the Delectable
 Roderick, the Fleet-Footed	B☆☆	Curators	Primordia	2	-	-	2500	10	Tank Top (Red)	Kill Roderick, the Fleet-Footed
 Adsecula Extermination	B☆☆☆	Interceptors	Primordia	2	-	-	2500	10	BLADE Pants	Kill 6 Shadow Adsecula
@@ -29,14 +29,14 @@ Hephaestus, the Absconder	B☆☆☆	Harriers	Primordia	3	-	-	3000	20	Theroid Sl
 The Fearsome Placid Duoguill	B☆☆☆☆	Pathfinders	Primordia	3	-	-	3000	20	Limited Workwear	Kill 2 Placid Duoguills
 Mesgen, the Fairweathered	B☆☆☆☆	Prospectors	Primordia	3	-	-	3000	20	Limited Turtleneck	Kill Mesgen, the Fairweathered
 Casper, the Unhealthy Eater	B☆☆☆☆	Curators	Primordia	3	-	-	3000	20	Max HP Up IV	Kill Casper, the Unhealthy Eater
-Arms Testers Wanted	B☆☆☆	Outfitters	Noctilum	3	3	-	3000	20	Insectoid Slayer II	Kill 2 Raging Simius with a Warrior Raygun
+Arms Testers Wanted (Warrior Raygun)	B☆☆☆	Outfitters	Noctilum	3	3	-	3000	20	Insectoid Slayer II	Kill 2 Raging Simius with a Warrior Raygun
 Pounding Puges	B☆☆☆☆	Pathfinders	Cauldros	3	3	-	25000	250	Insectoid Criticals Up II	Kill 3 Porter Puges
 Oskar, the Summer Squall	B☆☆☆☆	Pathfinders	Noctilum	3	3	-	3000	20	Limited Shorts	Kill Oskar, the Summer Squall
 Elian, the Unmoved	B☆☆☆☆	Harriers	Oblivia	3	3	-	3000	20	Limited Hoodie	Kill Elian, the Unmoved
-Arms Testers Wanted	B☆☆☆☆	Outfitters	Noctilum	3	3	-	3000	20	Redesigned Tank Top (Gray)	Kill 5 Spring Unafulges with a Chrome Shield
+Arms Testers Wanted (Chrome Shield)	B☆☆☆☆	Outfitters	Noctilum	3	3	-	3000	20	Redesigned Tank Top (Gray)	Kill 5 Spring Unafulges with a Chrome Shield
 Taming Tectinsulas	B☆☆☆☆	Prospectors	Oblivia	3	3	-	3000	20	Max TP Up IV	Kill 7 Clay Tectinsula
 Papil Punisher	B☆☆☆☆☆	Interceptors	Sylvalum	3	3	-	20000	150	Resist Topple II	Kill 5 Sorceror Papils
-Arms Testers Wanted	B☆☆☆☆☆	Outfitters	Cauldros	3	3	-	30000	250	Limited Tank Top (Pink)	Kill 4 Thulium Petramand with a Warrior Dual Guns
+Arms Testers Wanted (Warrior Dual Guns)	B☆☆☆☆☆	Outfitters	Cauldros	3	3	-	30000	250	Limited Tank Top (Pink)	Kill 4 Thulium Petramand with a Warrior Dual Guns
 Squashing Scirpos	B☆☆☆☆☆	Interceptors	Primordia	4	-	-	3500	20	Limited Workpants	Kill 5 Jade Scirpos
 Papil Punisher	B★☆	Interceptors	Primordia	4	-	-	3500	20	Limited BLADE Trousers	Kill 7 Lake Papils
 Yessenia, the Husky-Voiced	B☆☆☆☆	Harriers	Noctilum	4	3	-	3500	20	Boost.R-ATK IV	Kill Yessenia, the Husky-Voiced
@@ -55,7 +55,7 @@ Mikulas, the Keystone	B☆☆☆☆☆	Pathfinders	Sylvalum	5	3	-	5000	50	Boost.
 Axing Falsaxum	B☆☆☆☆☆	Interceptors	Oblivia	5	3	-	5000	30	Redesigned Sunglasses	Kill 6 Lake Falsaxum
 Ludvik, the Picky Eater	B☆☆☆☆☆	Curators	Oblivia	5	3	-	5000	30	Potential IV	Kill Ludvik, the Picky Eater
 Laying Lophids Low	B☆☆☆☆☆	Interceptors	Cauldros	5	3	-	5000	100	Redesigned Turtleneck	Kill 5 Blazing Lophids
-Arms Testers Wanted	B★☆	Outfitters	Noctilum	5	3	-	5000	30	Upgraded Workwear	Kill 3 Spear Insida with Ophidian Psylans
+Arms Testers Wanted (Ophidian Psylans)	B★☆	Outfitters	Noctilum	5	3	-	5000	30	Upgraded Workwear	Kill 3 Spear Insida with Ophidian Psylans
 Aria, the Zauberflöte	B★☆	Curators	Noctilum	5	3	-	5000	30	Upgraded BLADE Pants	Kill Aria, the Zauberflöte
 Laying Lophids Low	B☆☆☆☆☆	Reclaimers	Primordia	6	-	-	7500	40	PositionDmg.FRONT VI	Kill 3 Ocean Lophids
 Ictus Infestation	B☆☆☆☆☆	Prospectors	Primordia	6	-	-	7500	40	Prime Tank Top (White)	Kill 3 Inferno Ictuses
@@ -64,7 +64,7 @@ Mortifole Mulching	B★☆☆☆	Prospectors	Primordia	6	-	-	7500	40	Prime Workw
 Bogdan, the Dense	B★☆☆☆	Reclaimers	Primordia	7	-	-	10000	50	Upgraded BLADE Wear II	Kill Bogdan, the Dense
 Aprica Assault	B★★	Prospectors	Primordia	6	-	-	7500	40	Prime Shorts	Kill 2 Daylight Aprica
 Nixing Lepyxes	B☆☆☆	Dopang Caravan	Sylvalum	6	3	BFFs	7500	40	SpecUp.ELEC-RES VI	Kill 3 Pollen Lepyxes
-Suid Sweep	B☆☆☆☆	Interceptors	Noctilum	6	3	-	7500	40	Mechanoid Criticals Up VI	Kill 5 Forest Suid
+Suid Sweep (Forest)	B☆☆☆☆	Interceptors	Noctilum	6	3	-	7500	40	Mechanoid Criticals Up VI	Kill 5 Forest Suid
 Marnuck Masher	B☆☆☆☆	Interceptors	Cauldros	6	3	-	7500	50	Max HP Up VI	Kill 4 Marnuk Soldiers
 Pounding Puges	B☆☆☆☆☆	Prospectors	Sylvalum	6	3	-	7500	40	Prime Tank Top (Navy)	Kill 6 Knight Puges
 Shrad Shredder	B☆☆☆☆☆	Curators	Cauldros	6	3	-	7500	50	Prime Tank Top (Red)	Kill 5 Fleet Shrad
@@ -91,7 +91,7 @@ Dobromila, the Alluring	B★☆	Prospectors	Sylvalum	7	3	-	10000	50	Melee: Beam 
 Jacul Jaunt	B★☆	Interceptors	Sylvalum	7	3	-	10000	50	Physical Attack Plus VIII	Kill 4 Rocket Jaculs
 Eddy, the Electric Heat	B★☆	Pathfinders	Cauldros	7	3	-	10000	50	Ruthless Uniform	Kill Eddy, the Electric Heat
 Dawid, the Destrier	B★☆	Harriers	Cauldros	7	3	-	10000	50	Ultra Limited Sunglasses	Kill Dawid, the Destrier
-Arms Testers Wanted	B★☆☆	Outfitters	Oblivia	7	3	-	10000	50	Upgraded Workwear II	Kil 4 Ancient Progens with a Chromoly Parce
+Arms Testers Wanted (Chromoly Parce)	B★☆☆	Outfitters	Oblivia	7	3	-	10000	50	Upgraded Workwear II	Kil 4 Ancient Progens with a Chromoly Parce
 Vittorio, the Battle-Scarred	B★☆☆	Reclaimers	Oblivia	7	3	-	10000	50	Ultra Limited Sport Glasses	Kill Vittorio, the Battle-Scarred
 Germivores No More	B★☆☆☆	Interceptors	Noctilum	7	3	-	10000	50	Upgraded BLADE Pants II	Kill 5 Terrible Germivores
 Si-el, the Vacuous	B★☆☆☆	Prospectors	Noctilum	7	3	-	10000	50	Ultra Limited Jacket	Kill Si-el, the Vacuous
@@ -101,11 +101,11 @@ Hayreddin, the Territorial	B★☆☆☆☆	Pathfinders	Primordia	8	-	-	15000	60
 Turba Tracker	B★☆☆	Interceptors	Sylvalum	8	3	-	15000	60	Supreme Tank Top (Red)	Kill 6 Gloam Turba
 Andrei, the Cunning	B★☆☆	Curators	Sylvalum	8	3	-	15000	60	Supreme Tank Top (Yellow)	Kill Andrei, the Cunning
 Ictus Infestation	B★☆☆	Prospectors	Cauldros	8	3	-	15000	60	Supreme Tank Top (White)	Kill 6 Warlord Ictuses
-Arms Testers Wanted	B★☆☆	Outfitters	Cauldros	8	3	-	15000	60	Supreme Tank Top (Gray)	Kill 5 Erbium Petramands with a Cermet Slair
+Arms Testers Wanted (Cermet Slair)	B★☆☆	Outfitters	Cauldros	8	3	-	15000	60	Supreme Tank Top (Gray)	Kill 5 Erbium Petramands with a Cermet Slair
 Prinsipe, the Ravenous	B★☆☆	Prospectors	Cauldros	8	3	-	15000	60	Supreme Trekware	Kill Prinsipe, the Ravenous
 Izgnanie, the Smoldering	B★☆☆	Harriers	Cauldros	8	3	-	15000	60	Supreme Workwear	Kill Izgnanie, the Smoldering
 Ernest, the Contemplative	B★☆☆☆	Harriers	Oblivia	8	3	-	15000	60	Supreme BLADE Wear	Kill Ernest, the Contemplative
-Arms Testers Wanted	B★☆☆☆	Outfitters	Oblivia	8	3	-	15000	60	Supreme BLADE Pants	Kill 5 Fearsome Ictus with Cermet Blades
+Arms Testers Wanted (Cermet Blades)	B★☆☆☆	Outfitters	Oblivia	8	3	-	15000	60	Supreme BLADE Pants	Kill 5 Fearsome Ictus with Cermet Blades
 Pugilith Pounder	B★☆☆☆	Reclaimers	Cauldros	8	3	-	15000	60	Supreme Jacket	Kill 5 Broadsword Pugilith
 Dilus Destroyer	B★☆☆☆☆	Curators	Noctilum	8	3	-	15000	60	Supreme Sport Glasses	Kill 3 Merciful Dilus
 Ramus, the Supersonic	B★☆☆	Dobarn Caravan	Sylvalum	8	9	BFFs,A Girl's Wings	15000	60	Supreme Tank Top (Navy)	Kill Ramus, the Supersonic
@@ -116,11 +116,11 @@ Eisen, the Ebon Rock	B★☆☆☆	Harriers	Cauldros	9	3	-	20000	70	Supreme Glas
 Coil, the Neverending	B★☆☆☆	Harriers	Cauldros	9	3	-	20000	70	Supreme Search Scope	Kill Coil, the Neverending
 Silvestre, the Morning Light	B★☆☆☆☆	Harriers	Oblivia	9	3	-	20000	70	Custom Tank Top (Black Camo)	Kill Silvestre, the Morning Light
 Barnabas, the Despot	B★☆☆☆☆	Reclaimers	Oblivia	9	3	-	20000	70	Disguise	Kill Barnabas, the Despot
-Arms Testers Wanted	B★☆☆☆☆	Outfitters	Sylvalum	9	3	-	20000	70	Custom Search Scope	Kill an Assault Launcher Zig with a Carbide Saber
+Arms Testers Wanted (Carbide Saber)	B★☆☆☆☆	Outfitters	Sylvalum	9	3	-	20000	70	Custom Search Scope	Kill an Assault Launcher Zig with a Carbide Saber
 Tersqual Takedoen	B★☆☆☆☆	Interceptors	Sylvalum	9	3	-	20000	70	Custom Glasses	Kill 5 Lively Tersquals
-Arms Testers Wanted	B☆☆☆☆☆	Outfitters	Cauldros	9	3	-	20000	70	Supreme Tank Top (Army Green)	Kill 3 Barbed Rook Qmoevas with a Delta Retic
+Arms Testers Wanted (Delta Retic)	B☆☆☆☆☆	Outfitters	Cauldros	9	3	-	20000	70	Supreme Tank Top (Army Green)	Kill 3 Barbed Rook Qmoevas with a Delta Retic
 Sarcosuchus, the Iron-Eater	B★★	Harriers	Noctilum	9	3	-	20000	70	Supreme Tank Top (Black Camo)	Kill Sarcosuchus, the Iron-Eater
-Arms Testers Wanted	B★★	Outfitters	Noctilum	9	3	-	20000	70	Supreme Tank Top (Pink Camo)	Kill 3 Fiendish Virago with a Delta Machine
+Arms Testers Wanted (Delta Machine)	B★★	Outfitters	Noctilum	9	3	-	20000	70	Supreme Tank Top (Pink Camo)	Kill 3 Fiendish Virago with a Delta Machine
 Aeviter Ace	B★☆☆☆	Dopang Caravan	Sylvalum	9	5	BFFs	20000	70	Custom Tank Top (Yellow Camo)	Kill 4 Sand Aeviters
 Squashing Scirpos	B★★	Interceptors	Primordia	10	-	-	25000	80	Rare Tank Top (Yellow Camo)	Kill 5 Native Scirpo
 Anselm, the Triumphant	B★☆☆☆☆	Harriers	Sylvalum	10	3	-	25000	80	Rare Tank Top (Green Camo)	Kill Anselm, the Triumphant

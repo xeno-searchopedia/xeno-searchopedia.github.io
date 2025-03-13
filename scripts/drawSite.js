@@ -120,10 +120,30 @@ function renderCells(data, listId) {
   let contentStr = `<ul id="${listId}" class="list-group">`;
   data.forEach((datum) => {
     if (!(datum.type === ENEMY_TYPE && (datum.materials === undefined || datum.materials.length === 0))) {
-      const filteredName = datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "");
+      const filteredName = `${datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "")}${datum.type === BASIC_MISSION_TYPE && datum.isTyrant ? "Mission" : ""}`;
       const id = `${filteredName}${listId === "pinList" ? "-clone" : ""}`;
+      let urlFragment = "";
+      if (datum.type === BASIC_MISSION_TYPE && datum.isTyrant) {
+        urlFragment = `${datum.name}_(mission)`;
+      } else if (datum.type === AUGMENT_TYPE) {
+        const splitName = datum.name.split(" ");
+        if (splitName[splitName.length - 1] === "I"
+          || splitName[splitName.length - 1] === "V"
+          || splitName[splitName.length - 1] === "X"
+          || splitName[splitName.length - 1] === "XV"
+          || splitName[splitName.length - 1] === "XX") {
+          for (let i = 0; i < splitName.length - 1; i++) {
+            urlFragment += `${splitName[i]} `;
+          }
+          urlFragment = urlFragment.trim();
+        } else {
+          urlFragment = datum.name;
+        }   
+      } else {
+        urlFragment = datum.name;
+      }
       contentStr += `<li class="list-group-item"><div class="d-flex justify-content-between">`
-        + `<div><a href="${WIKI_URL}${datum.name}" target="_blank">${datum.name}</a>`
+        + `<div><a href="${WIKI_URL}${urlFragment}" target="_blank">${datum.name}</a>`
         + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
         + `<div><a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">`
         + `<img src="/assets/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
@@ -141,49 +161,6 @@ function renderCells(data, listId) {
 }
 
 // -- ROW FUNCTIONS
-
-function printList(label, list) {
-  let returnString = `<span>${label}`;
-  if (list.length > 1 && label[label.length - 1] !== "s") {
-    returnString += "s";
-  }
-  returnString += ": "
-  for (let i = 0; i < list.length; i++) {
-    if (isNaN(list[i][0])) {
-      if (label === "Species") {
-        returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
-      } else {
-        returnString += list[i];
-      }
-    } else {
-      const site = list[i].slice(0, 3);
-      returnString += `<a href="${FN_MAP_URL}${site}" target="_blank">${list[i]}</a>`;
-    }
-    if (i !== list.length - 1) {
-      returnString += ", ";
-    }
-  }
-  return returnString + "</span>";
-}
-
-function printMaterialSourcePairs(materials, sources) {
-  let returnString = "<p>Drops:<br />";
-  for (let i = 0; i < materials.length; i++) {
-    returnString += `- <span data-name="${materials[i]}" onclick="search(this.dataset.name)">${materials[i]}</span> from `;
-    if (sources[i] === "All") {
-      returnString += "Main Body";
-    } else {
-       returnString += `${sources[i]} Appendage`;
-    }
-    if (sources[i].includes("&")) {
-      returnString += `s`;
-    }
-    if (i !== materials.length - 1) {
-      returnString += "<br />";
-    }
-  }
-  return `${returnString}</p>`;
-}
 
 function renderRow(datum) {
   let rowString = "";
@@ -220,10 +197,139 @@ function renderRow(datum) {
         + `<div>Recommended Source: <span data-name="${datum.enemy}" onclick="search(this.dataset.name)">${datum.enemy}</span></div>`;
       break;
     }
+    case AFFINITY_MISSION_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Mission Type: ${datum.type}</div><br />`
+        + `<div>Location: ${datum.location}</div><br />`
+        + `<div>${printList("Required", datum.requiredMembers)}</div>`;
+      if (datum.prohibitedMembers.length > 0) {
+        rowString += `<br /><div>${printList("Prohibited", datum.prohibitedMembers)}</div>`;
+      }
+      if (datum.prereq.length > 0) {
+        rowString += `<br /><div>${printList("Prerequisite", datum.prereq)}</div>`;
+      }
+      rowString += `<br /><div>${printList("Reward", datum.rewards)}</div>`;
+      break;
+    }
+    case BASIC_MISSION_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Mission Type: ${datum.type}</div><br />`
+        + `<div>Rank: ${datum.rank}</div><br />`
+        + `<div>Continent: ${datum.location}</div>`;
+      if (datum.storyReq !== "-") {
+        rowString += `<br /><div>Chapter Prerequistie: Chapter ${datum.storyReq}</div>`;
+      }
+      if (datum.prereq.length > 0) {
+        rowString += `<br /><div>${printList("Prerequisite", datum.prereq)}</div>`;
+      }
+      if (datum.rewards !== "-") {
+        rowString += `<br /><div>Reward: ${datum.rewards}</div>`;
+      }
+      break;
+    }
+    case NORMAL_MISSION_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Mission Type: ${datum.type}</div><br />`
+        + `<div>Client: ${datum.client}</div>`;
+      if (datum.location !== "-") {
+        rowString += `<br /><div>Location: ${datum.location}</div>`;
+      }
+      if (datum.storyReq !== "-") {
+        rowString += `<br /><div>Chapter Prerequistie: Chapter ${datum.storyReq}</div>`;
+      }
+      if (datum.prereq.length > 0) {
+        rowString += `<br /><div>${printList("Prerequisite", datum.prereq)}</div>`;
+      }
+      if (datum.rewards.length > 0) {
+        rowString += `<br /><div>${printList("Reward", datum.rewards)}</div>`;
+      }
+      break;
+    }
+    case AUGMENT_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Effect: ${datum.effect}</div><br />`
+        + `<div>${printList("Material", datum.materials)}</div>`;
+      break;
+    }
+    case GROUND_ARMOR_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Equip Slot: ${datum.slot}</div><br />`
+        + `<div>Maker: ${datum.maker}</div><br />`
+        + `<div>${printList("Trait", datum.traits)}</div>`;
+        + `<div>${printList("Material", datum.materials)}</div>`;
+      break;
+    }
+    case SKELL_FRAME_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Frame Type: ${datum.frameType}</div><br />`
+        + `<div>Miranium Cost: ${datum.cost}</div><br />`
+        + `<div>Level: ${datum.level}</div><br />`
+        + `<div>${printList("Material", datum.materials)}</div>`;
+      break;
+    }
+    case SUPERWEAPON_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>Recipe Source: ${datum.location}</div><br />`
+        + `<div>Equip Slot: ${datum.slot}</div><br />`
+        + `<div>Level: ${datum.level}</div><br />`
+        + `<div>Attribute: ${datum.attribute}</div><br />`
+        + `<div>${printList("Trait", datum.traits)}</div><br />`
+        + `<div>${printList("Material", datum.materials)}</div>`;
+      break;
+    }
   }
-
   rowString += "</div>";
   return rowString;
+}
+
+function printList(label, list) {
+  let returnString = `<span>${label}`;
+  if (list.length > 1 && label[label.length - 1] !== "s") {
+    returnString += "s";
+  }
+  returnString += ": "
+  for (let i = 0; i < list.length; i++) {
+    const numCheck = list[i].split(" ");
+    if (isNaN(numCheck[0])) {
+      if (label === "Species") {
+        returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
+      } else {
+        returnString += list[i];
+      }
+    } else if (parseInt(numCheck[0]) < 100) {
+      let rebuildMaterial = "";
+      for (let j = 1; j < numCheck.length; j++) {
+        rebuildMaterial += `${numCheck[j]} `;
+      }
+      returnString += `<span data-name="${rebuildMaterial.trim()}" onclick="search(this.dataset.name)">${list[i]}</span>`; 
+    } else {
+      const site = list[i].slice(0, 3);
+      returnString += `<a href="${FN_MAP_URL}${site}" target="_blank">${list[i]}</a>`;
+    }
+    if (i !== list.length - 1) {
+      returnString += ", ";
+    }
+  }
+  return returnString + "</span>";
+}
+
+function printMaterialSourcePairs(materials, sources) {
+  let returnString = "<p>Drops:<br />";
+  for (let i = 0; i < materials.length; i++) {
+    returnString += `- <span data-name="${materials[i]}" onclick="search(this.dataset.name)">${materials[i]}</span> from `;
+    if (sources[i] === "All") {
+      returnString += "Main Body";
+    } else {
+       returnString += `${sources[i]} Appendage`;
+    }
+    if (sources[i].includes("&")) {
+      returnString += `s`;
+    }
+    if (i !== materials.length - 1) {
+      returnString += "<br />";
+    }
+  }
+  return `${returnString}</p>`;
 }
 
 // --- PIN FUNCTIONS
@@ -310,20 +416,21 @@ function search(input) {
     searchBar.value = input;
   }
   input = input.toUpperCase();
-  // const input = searchBar.value.toUpperCase();
-  // TODO: apply to both tabs
-  const ul = document.getElementById("mainList");
-  const li = ul.getElementsByTagName("li");
+  const lists = ["mainList", "pinList"];
+  for (let j = 0; j < lists.length; j++) {
+    const ul = document.getElementById(lists[j]);
+    const li = ul.getElementsByTagName("li");
 
-  for (let i = 0; i < li.length; i++) {
-    let a = li[i].getElementsByTagName("a")[0];
-    let species = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.species;
-    let isTyrant = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.isTyrant === "true";
-    txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(input) > -1 || (species !== undefined && species.toUpperCase().indexOf(input) > -1) || (input.includes("TYRANT") && isTyrant)) {
-      li[i].style.display = "";
-    } else {
-      li[i].style.display = "none";
+    for (let i = 0; i < li.length; i++) {
+      let a = li[i].getElementsByTagName("a")[0];
+      let species = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.species;
+      let isTyrant = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.isTyrant === "true";
+      txtValue = a.textContent || a.innerText;
+      if (txtValue.toUpperCase().indexOf(input) > -1 || (species !== undefined && species.toUpperCase().indexOf(input) > -1) || (input.includes("TYRANT") && isTyrant)) {
+        li[i].style.display = "";
+      } else {
+        li[i].style.display = "none";
+      }
     }
   }
 }

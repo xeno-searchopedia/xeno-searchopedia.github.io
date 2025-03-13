@@ -152,11 +152,11 @@ Ultrafauna Slayer V	Dmg vs Ultrafauna +18%	2 White Forfex Shell	2 Black Electric
 Ultrafauna Slayer X	Dmg vs Ultrafauna +28%	3 White Forfex Shell	3 Reverse Millepod Fin	3 Deva Caladar's Red Ear	1 Everfreeze Ore																				
 Ultrafauna Slayer XV	Dmg vs Ultrafauna +40%	4 White Forfex Shell	4 Reverse Millepod Fin	4 Deva Caladar's Red Ear	1 Foucaultium																				
 Ultrafauna Slayer XX	Dmg vs Ultrafauna +50%	5 White Forfex Shell	5 Reverse Millepod Fin	5 Deva Caladar's Red Ear	1 Bonjelium																				
-Phys Attack Plus I	Phys dmg +10%	1 Sharp Germivore Jaw	1 Giant Falsaxum Jaw	-	1 Aurorite																				
-Phys Attack Plus V	Phys dmg +18%	2 Sharp Germivore Jaw	2 Giant Falsaxum Jaw	-	1 Infernium																				
-Phys Attack Plus X	Phys dmg +28%	3 Experia Glyph	3 Reinforced Frame	-	1 Cimmerian Cinnabar																				
-Phys Attack Plus XV	Phys dmg +40%	4 Experia Glyph	4 Reinforced Frame	-	1 Ouroboros Crystal																				
-Phys Attack Plus XX	Phys dmg +50%	5 Experia Glyph	5 Reinforced Frame	-	1 Parhelion Platinum																				
+Physical Attack Plus I	Physical dmg +10%	1 Sharp Germivore Jaw	1 Giant Falsaxum Jaw	-	1 Aurorite																				
+Physical Attack Plus V	Physical dmg +18%	2 Sharp Germivore Jaw	2 Giant Falsaxum Jaw	-	1 Infernium																				
+Physical Attack Plus X	Physical dmg +28%	3 Experia Glyph	3 Reinforced Frame	-	1 Cimmerian Cinnabar																				
+Physical Attack Plus XV	Physical dmg +40%	4 Experia Glyph	4 Reinforced Frame	-	1 Ouroboros Crystal																				
+Physical Attack Plus XX	Physical dmg +50%	5 Experia Glyph	5 Reinforced Frame	-	1 Parhelion Platinum																				
 Beam Attack Plus I	Beam dmg +10%	1 Quirky Liver	1 Gold Monoceros Horn	-	1 Aurorite																				
 Beam Attack Plus V	Beam dmg +18%	2 Quirky Liver	2 Gold Monoceros Horn	-	1 Infernium																				
 Beam Attack Plus X	Beam dmg +28%	3 Esse Glyph	3 Advanced Lens	-	1 Cimmerian Cinnabar																				
@@ -212,11 +212,11 @@ Melee: Fatigue V	Melee AA may inflict Fatigue I	2 Muscled Suid Bulge	-	-	1 Lionb
 Melee: Fatigue X	Melee AA may inflict Fatigue II	3 Muscled Suid Bulge	-	-	1 Enduron Lead																				
 Melee: Fatigue XV	Melee AA may inflict Fatigue III	4 Muscled Suid Bulge	-	-	1 Boiled-Egg Ore																				
 Melee: Fatigue XX	Melee AA may inflict Fatigue IV	5 Muscled Suid Bulge	-	-	1 Marine Rutile																				
-Melee: Phys Res Down I	Melee AA may inflict Phys Res Down I	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
-Melee: Phys Res Down V	Melee AA may inflict Phys Res Down I	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
-Melee: Phys Res Down X	Melee AA may inflict Phys Res Down II	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
-Melee: Phys Res Down XV	Melee AA may inflict Phys Res Down III	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
-Melee: Phys Res Down XX	Melee AA may inflict Phys Res Down IV	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Melee: Physical Res Down I	Melee AA may inflict Physical Res Down I	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Melee: Physical Res Down V	Melee AA may inflict Physical Res Down I	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Melee: Physical Res Down X	Melee AA may inflict Physical Res Down II	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Melee: Physical Res Down XV	Melee AA may inflict Physical Res Down III	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Melee: Physical Res Down XX	Melee AA may inflict Physical Res Down IV	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
 Melee: Beam Res Down I	Melee AA may inflict Beam Res Down I	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
 Melee: Beam Res Down V	Melee AA may inflict Beam Res Down I	2 Adsecula Straw	-	-	1 Lionbone Bort																				
 Melee: Beam Res Down X	Melee AA may inflict Beam Res Down II	3 Adsecula Straw	-	-	1 Enduron Lead																				
@@ -262,11 +262,11 @@ Soft Touch V	Attacks have 18% chance to not break Sleep	2 Terebra Paw Stamp	-	-	
 Soft Touch X	Attacks have 28% chance to not break Sleep	8 Arenatect Shell	8 Blue Jacul Wing	8 Gerrid Navel	2 Everfreeze Ore																				
 Soft Touch XV	Attacks have 38% chance to not break Sleep	16 Arenatect Shell	16 Blue Jacul Wing	16 Gerrid Navel	4 Foucaultium																				
 Soft Touch XX	Attacks have 50% chance to not break Sleep	32 Arenatect Shell	32 Blue Jacul Wing	32 Gerrid Navel	8 Bonjelium																				
-Nullify Phys Reflect I	5% chance to nullify Phys Reflect	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
-Nullify Phys Reflect V	25% chance to nullify Phys Reflect	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
-Nullify Phys Reflect X	50% chance to nullify Phys Reflect	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
-Nullify Phys Reflect XV	75% chance to nullify Phys Reflect	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
-Nullify Phys Reflect XX	100% chance to nullify Phys Reflect	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Nullify Physical Reflect I	5% chance to nullify Physical Reflect	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Nullify Physical Reflect V	25% chance to nullify Physical Reflect	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Nullify Physical Reflect X	50% chance to nullify Physical Reflect	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Nullify Physical Reflect XV	75% chance to nullify Physical Reflect	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Nullify Physical Reflect XX	100% chance to nullify Physical Reflect	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
 Nullify Beam Reflect I	5% chance to nullify Beam Reflect	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
 Nullify Beam Reflect V	25% chance to nullify Beam Reflect	2 Adsecula Straw	-	-	1 Lionbone Bort																				
 Nullify Beam Reflect X	50% chance to nullify Beam Reflect	3 Adsecula Straw	-	-	1 Enduron Lead																				
@@ -324,11 +324,11 @@ Extend Shock V	Shock duration from arts +5s	2 Vesper Fang	-	-	1 Lionbone Bort
 Extend Shock X	Shock duration from arts +10s	3 Vesper Fang	-	-	1 Enduron Lead																				
 Extend Shock XV	Shock duration from arts +15s	4 Vesper Fang	-	-	1 Boiled-Egg Ore																				
 Extend Shock XX	Shock duration from arts +20s	5 Vesper Fang	-	-	1 Marine Rutile																				
-Extend Phys Res Down 	Phys Res Down duration from arts +1s	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
-Extend Phys Res Down V	Phys Res Down duration from arts +5s	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
-Extend Phys Res Down X	Phys Res Down duration from arts +10s	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
-Extend Phys Res Down XV	Phys Res Down duration from arts +15s	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
-Extend Phys Res Down XX	Phys Res Down duration from arts +20s	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Extend Physical Res Down 	Physical Res Down duration from arts +1s	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Extend Physical Res Down V	Physical Res Down duration from arts +5s	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Extend Physical Res Down X	Physical Res Down duration from arts +10s	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Extend Physical Res Down XV	Physical Res Down duration from arts +15s	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Extend Physical Res Down XX	Physical Res Down duration from arts +20s	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
 Extend Beam Res Down I	Beam Res Down duration from arts +1s	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
 Extend Beam Res Down V	Beam Res Down duration from arts +5s	2 Adsecula Straw	-	-	1 Lionbone Bort																				
 Extend Beam Res Down X	Beam Res Down duration from arts +10s	3 Adsecula Straw	-	-	1 Enduron Lead																				
@@ -500,11 +500,11 @@ Fuel Efficiency Up V	Skell fuel efficiency in battle +25%	2 Black Puff	2 Caro Ta
 Fuel Efficiency Up X	Skell fuel efficiency in battle +50%	3 Black Puff	3 Giant Protein	3 Filiavent Intestine	1 Everfreeze Ore																				
 Fuel Efficiency Up XV	Skell fuel efficiency in battle +75%	4 Black Puff	4 Giant Protein	4 Filiavent Intestine	1 Foucaultium																				
 Fuel Efficiency Up XX	Skell fuel efficiency in battle +100%	5 Black Puff	5 Giant Protein	5 Filiavent Intestine	1 Bonjelium																				
-Phys Res Up I	Phys Res +5	1 Cinicula Shell	1 Falsaxum Shell	1 Suid Fillet	1 White Cometite																				
-Phys Res Up V	Phys Res +9	2 Cinicula Shell	2 Falsaxum Shell	2 Suid Fillet	1 Dawnstone																				
-Phys Res Up X	Phys Res +14	3 Cinicula Shell	3 Ictus Shell	3 Golden Blatta Wing	1 Everfreeze Ore																				
-Phys Res Up XV	Phys Res +20	4 Cinicula Shell	4 Ictus Shell	4 Golden Blatta Wing	1 Foucaultium																				
-Phys Res Up XX	Phys Res +25	5 Cinicula Shell	5 Ictus Shell	5 Golden Blatta Wing	1 Bonjelium																				
+Physical Res Up I	Physical Res +5	1 Cinicula Shell	1 Falsaxum Shell	1 Suid Fillet	1 White Cometite																				
+Physical Res Up V	Physical Res +9	2 Cinicula Shell	2 Falsaxum Shell	2 Suid Fillet	1 Dawnstone																				
+Physical Res Up X	Physical Res +14	3 Cinicula Shell	3 Ictus Shell	3 Golden Blatta Wing	1 Everfreeze Ore																				
+Physical Res Up XV	Physical Res +20	4 Cinicula Shell	4 Ictus Shell	4 Golden Blatta Wing	1 Foucaultium																				
+Physical Res Up XX	Physical Res +25	5 Cinicula Shell	5 Ictus Shell	5 Golden Blatta Wing	1 Bonjelium																				
 Beam Res Up I	Beam Res +5	1 Lead Carapace	1 Ocher Stabilizer	1 Adsecula Gold Nugget	1 White Cometite																				
 Beam Res Up V	Beam Res +9	2 Lead Carapace	2 Ocher Stabilizer	2 Adsecula Gold Nugget	1 Dawnstone																				
 Beam Res Up X	Beam Res +14	3 Lead Carapace	3 Blue Milsaadi Hood	3 Pink Ceto Membrane	1 Everfreeze Ore																				
@@ -595,11 +595,11 @@ Resist Slow Arts V	Slow Arts resistance +25	2 Pristine Insect Leg	-	-	1 Lionbone
 Resist Slow Arts X	Slow Arts resistance +50	3 Pristine Insect Leg	-	-	1 Enduron Lead																				
 Resist Slow Arts XV	Slow Arts resistance +75	4 Pristine Insect Leg	-	-	1 Boiled-Egg Ore																				
 Resist Slow Arts XX	Slow Arts resistance +100	5 Pristine Insect Leg	-	-	1 Marine Rutile																				
-Resist Phys Res Down I	Phys Res Down resistance +5	1 Tough Humpsteak	-	-	1 Arc Sand Ore																				
-Resist Phys Res Down V	Phys Res Down resistance +25	2 Tough Humpsteak	-	-	1 Lionbone Bort																				
-Resist Phys Res Down X	Phys Res Down resistance +50	3 Tough Humpsteak	-	-	1 Enduron Lead																				
-Resist Phys Res Down XV	Phys Res Down resistance +75	4 Tough Humpsteak	-	-	1 Boiled-Egg Ore																				
-Resist Phys Res Down XX	Phys Res Down resistance +100	5 Tough Humpsteak	-	-	1 Marine Rutile																				
+Resist Physical Res Down I	Physical Res Down resistance +5	1 Tough Humpsteak	-	-	1 Arc Sand Ore																				
+Resist Physical Res Down V	Physical Res Down resistance +25	2 Tough Humpsteak	-	-	1 Lionbone Bort																				
+Resist Physical Res Down X	Physical Res Down resistance +50	3 Tough Humpsteak	-	-	1 Enduron Lead																				
+Resist Physical Res Down XV	Physical Res Down resistance +75	4 Tough Humpsteak	-	-	1 Boiled-Egg Ore																				
+Resist Physical Res Down XX	Physical Res Down resistance +100	5 Tough Humpsteak	-	-	1 Marine Rutile																				
 Resist Beam Res Down I	Beam Res Down resistance +5	1 Duoguill Broth	-	-	1 Arc Sand Ore																				
 Resist Beam Res Down V	Beam Res Down resistance +25	2 Duoguill Broth	-	-	1 Lionbone Bort																				
 Resist Beam Res Down X	Beam Res Down resistance +50	3 Duoguill Broth	-	-	1 Enduron Lead																				
@@ -1003,11 +1003,11 @@ M-Auto.FATIGUE V	Skell Melee AA 10% inflict Fatigue I	2 Muscled Suid Bulge	-	-	1
 M-Auto.FATIGUE X	Skell Melee AA 10% inflict Fatigue II	3 Muscled Suid Bulge	-	-	1 Enduron Lead																				
 M-Auto.FATIGUE XV	Skell Melee AA 10% inflict Fatigue III	4 Muscled Suid Bulge	-	-	1 Boiled-Egg Ore																				
 M-Auto.FATIGUE XX	Skell Melee AA 10% inflict Fatigue IV	5 Muscled Suid Bulge	-	-	1 Marine Rutile																				
-M-Auto.PHYS-DOWN I	Skell Melee AA 5% inflict Phys Res Down I	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
-M-Auto.PHYS-DOWN V	Skell Melee AA 10% inflict Phys Res Down I	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
-M-Auto.PHYS-DOWN X	Skell Melee AA 10% inflict Phys Res Down II	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
-M-Auto.PHYS-DOWN XV	Skell Melee AA 10% inflict Phys Res Down III	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
-M-Auto.PHYS-DOWN XX	Skell Melee AA 10% inflict Phys Res Down IV	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+M-Auto.PHYS-DOWN I	Skell Melee AA 5% inflict Physical Res Down I	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+M-Auto.PHYS-DOWN V	Skell Melee AA 10% inflict Physical Res Down I	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+M-Auto.PHYS-DOWN X	Skell Melee AA 10% inflict Physical Res Down II	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+M-Auto.PHYS-DOWN XV	Skell Melee AA 10% inflict Physical Res Down III	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+M-Auto.PHYS-DOWN XX	Skell Melee AA 10% inflict Physical Res Down IV	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
 M-Auto.BEAM-DOWN I	Skell Melee AA 5% inflict Beam Res Down I	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
 M-Auto.BEAM-DOWN V	Skell Melee AA 10% inflict Beam Res Down I	2 Adsecula Straw	-	-	1 Lionbone Bort																				
 M-Auto.BEAM-DOWN X	Skell Melee AA 10% inflict Beam Res Down II	3 Adsecula Straw	-	-	1 Enduron Lead																				
@@ -1048,11 +1048,11 @@ M-Auto.HP-RECOV V	Skell Melee AA 50% restore 125 HP	2 Thallus Crescent Hook	2 Gr
 M-Auto.HP-RECOV X	Skell Melee AA 50% restore 250 HP	3 Thallus Crescent Hook	3 Millesaur Dung	3 Coronid Dung	1 Everfreeze Ore																				
 M-Auto.HP-RECOV XV	Skell Melee AA 50% restore 375 HP	4 Thallus Crescent Hook	4 Millesaur Dung	4 Coronid Dung	1 Foucaultium																				
 M-Auto.HP-RECOV XX	Skell Melee AA 50% restore 500 HP	5 Thallus Crescent Hook	5 Millesaur Dung	5 Coronid Dung	1 Bonjelium																				
-Reflect.NEG-PHYS I	Skells 5% chance to nullify Phys Reflect	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
-Reflect.NEG-PHYS V	Skells 25% chance to nullify Phys Reflect	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
-Reflect.NEG-PHYS X	Skells 50% chance to nullify Phys Reflect	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
-Reflect.NEG-PHYS XV	Skells 75% chance to nullify Phys Reflect	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
-Reflect.NEG-PHYS XX	Skells 100% chance to nullify Phys Reflect	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Reflect.NEG-PHYS I	Skells 5% chance to nullify Physical Reflect	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Reflect.NEG-PHYS V	Skells 25% chance to nullify Physical Reflect	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Reflect.NEG-PHYS X	Skells 50% chance to nullify Physical Reflect	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Reflect.NEG-PHYS XV	Skells 75% chance to nullify Physical Reflect	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-PHYS XX	Skells 100% chance to nullify Physical Reflect	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
 Reflect.NEG-BEAM I	Skells 5% chance to nullify Beam Reflect	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
 Reflect.NEG-BEAM V	Skells 25% chance to nullify Beam Reflect	2 Adsecula Straw	-	-	1 Lionbone Bort																				
 Reflect.NEG-BEAM X	Skells 50% chance to nullify Beam Reflect	3 Adsecula Straw	-	-	1 Enduron Lead																				
@@ -1128,11 +1128,11 @@ TimeEx.SHOCK V	Shock duration from Skell arts +5s	4 Vesper Fang	-	-	1 Lionbone B
 TimeEx.SHOCK X	Shock duration from Skell arts +10s	12 Vesper Fang	1 Electric Tersqual Tear	-	2 Enduron Lead																				
 TimeEx.SHOCK XV	Shock duration from Skell arts +15s	24 Vesper Fang	2 Electric Tersqual Tear	-	4 Boiled-Egg Ore																				
 TimeEx.SHOCK XX	Shock duration from Skell arts +20s	48 Vesper Fang	4 Electric Tersqual Tear	-	8 Marine Rutile																				
-TimeEx.PHYS-DOWN I	Phys Res Down duration from Skell arts +1s	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
-TimeEx.PHYS-DOWN V	Phys Res Down duration from Skell arts +5s	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
-TimeEx.PHYS-DOWN X	Phys Res Down duration from Skell arts +10s	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
-TimeEx.PHYS-DOWN XV	Phys Res Down duration from Skell arts +15s	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
-TimeEx.PHYS-DOWN XX	Phys Res Down duration from Skell arts +20s	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+TimeEx.PHYS-DOWN I	Physical Res Down duration from Skell arts +1s	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+TimeEx.PHYS-DOWN V	Physical Res Down duration from Skell arts +5s	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+TimeEx.PHYS-DOWN X	Physical Res Down duration from Skell arts +10s	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+TimeEx.PHYS-DOWN XV	Physical Res Down duration from Skell arts +15s	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+TimeEx.PHYS-DOWN XX	Physical Res Down duration from Skell arts +20s	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
 TimeEx.BEAM-DOWN I	Beam Res Down duration from Skell arts +1s	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
 TimeEx.BEAM-DOWN V	Beam Res Down duration from Skell arts +5s	2 Adsecula Straw	-	-	1 Lionbone Bort																				
 TimeEx.BEAM-DOWN X	Beam Res Down duration from Skell arts +10s	3 Adsecula Straw	-	-	1 Enduron Lead																				
@@ -1188,11 +1188,11 @@ SpecUp.APP-HP V	Appendage with device +250 Max HP	2 White Meaty Caecus Liver	-	-
 SpecUp.APP-HP X	Appendage with device +500 Max HP	3 White Meaty Caecus Liver	-	-	1 Enduron Lead																				
 SpecUp.APP-HP XV	Appendage with device +750 Max HP	4 White Meaty Caecus Liver	-	-	1 Boiled-Egg Ore																				
 SpecUp.APP-HP XX	Appendage with device +1000 Max HP	5 White Meaty Caecus Liver	-	-	1 Marine Rutile																				
-SpecUp.PHYS-RES I	Skell Phys Res +1	1 Cinicula Shell	1 Falsaxum Shell	1 Suid Fillet	1 White Cometite																				
-SpecUp.PHYS-RES V	Skell Phys Res +5	2 Cinicula Shell	2 Falsaxum Shell	2 Suid Fillet	1 Dawnstone																				
-SpecUp.PHYS-RES X	Skell Phys Res +10	3 Cinicula Shell	3 Ictus Shell	3 Golden Blatta Wing	1 Everfreeze Ore																				
-SpecUp.PHYS-RES XV	Skell Phys Res +15	4 Cinicula Shell	4 Ictus Shell	4 Golden Blatta Wing	1 Foucaultium																				
-SpecUp.PHYS-RES XX	Skell Phys Res +20	5 Cinicula Shell	5 Ictus Shell	5 Golden Blatta Wing	1 Bonjelium																				
+SpecUp.PHYS-RES I	Skell Physical Res +1	1 Cinicula Shell	1 Falsaxum Shell	1 Suid Fillet	1 White Cometite																				
+SpecUp.PHYS-RES V	Skell Physical Res +5	2 Cinicula Shell	2 Falsaxum Shell	2 Suid Fillet	1 Dawnstone																				
+SpecUp.PHYS-RES X	Skell Physical Res +10	3 Cinicula Shell	3 Ictus Shell	3 Golden Blatta Wing	1 Everfreeze Ore																				
+SpecUp.PHYS-RES XV	Skell Physical Res +15	4 Cinicula Shell	4 Ictus Shell	4 Golden Blatta Wing	1 Foucaultium																				
+SpecUp.PHYS-RES XX	Skell Physical Res +20	5 Cinicula Shell	5 Ictus Shell	5 Golden Blatta Wing	1 Bonjelium																				
 SpecUp.BEAM-RES I	Skell Beam Res +1	1 Lead Carapace	1 Ocher Stabilizer	1 Adsecula Gold Nugget	1 White Cometite																				
 SpecUp.BEAM-RES V	Skell Beam Res +5	2 Lead Carapace	2 Ocher Stabilizer	2 Adsecula Gold Nugget	1 Dawnstone																				
 SpecUp.BEAM-RES X	Skell Beam Res +10	3 Lead Carapace	3 Blue Milsaadi Hood	3 Pink Ceto Membrane	1 Everfreeze Ore																				
@@ -1283,11 +1283,11 @@ Resist.SLOW-ARTS V	Skell Slow Arts resistance +25	2 Pristine Insect Leg	-	-	1 Li
 Resist.SLOW-ARTS X	Skell Slow Arts resistance +50	3 Pristine Insect Leg	-	-	1 Enduron Lead																				
 Resist.SLOW-ARTS XV	Skell Slow Arts resistance +75	4 Pristine Insect Leg	-	-	1 Boiled-Egg Ore																				
 Resist.SLOW-ARTS XX	Skell Slow Arts resistance +100	5 Pristine Insect Leg	-	-	1 Marine Rutile																				
-Resist.PHYS-DOWN I	Skell Phys Res Down resistance +5	1 Tough Humpsteak	-	-	1 Arc Sand Ore																				
-Resist.PHYS-DOWN V	Skell Phys Res Down resistance +25	2 Tough Humpsteak	-	-	1 Lionbone Bort																				
-Resist.PHYS-DOWN X	Skell Phys Res Down resistance +50	3 Tough Humpsteak	-	-	1 Enduron Lead																				
-Resist.PHYS-DOWN XV	Skell Phys Res Down resistance +75	4 Tough Humpsteak	-	-	1 Boiled-Egg Ore																				
-Resist.PHYS-DOWN XX	Skell Phys Res Down resistance +100	5 Tough Humpsteak	-	-	1 Marine Rutile																				
+Resist.PHYS-DOWN I	Skell Physical Res Down resistance +5	1 Tough Humpsteak	-	-	1 Arc Sand Ore																				
+Resist.PHYS-DOWN V	Skell Physical Res Down resistance +25	2 Tough Humpsteak	-	-	1 Lionbone Bort																				
+Resist.PHYS-DOWN X	Skell Physical Res Down resistance +50	3 Tough Humpsteak	-	-	1 Enduron Lead																				
+Resist.PHYS-DOWN XV	Skell Physical Res Down resistance +75	4 Tough Humpsteak	-	-	1 Boiled-Egg Ore																				
+Resist.PHYS-DOWN XX	Skell Physical Res Down resistance +100	5 Tough Humpsteak	-	-	1 Marine Rutile																				
 Resist.BEAM-DOWN I	Skell Beam Res Down resistance +5	1 Duoguill Broth	-	-	1 Arc Sand Ore																				
 Resist.BEAM-DOWN V	Skell Beam Res Down resistance +25	2 Duoguill Broth	-	-	1 Lionbone Bort																				
 Resist.BEAM-DOWN X	Skell Beam Res Down resistance +50	3 Duoguill Broth	-	-	1 Enduron Lead																				
@@ -1450,11 +1450,11 @@ CutTime.DEBUFF V	Debuff duration reduced 9% in Skell	2 Sharp Vivohast Jaw	-	-	1 
 CutTime.DEBUFF X	Debuff duration reduced 14% in Skell	3 Sharp Vivohast Jaw	-	-	1 Enduron Lead																				
 CutTime.DEBUFF XV	Debuff duration reduced 20% in Skell	4 Sharp Vivohast Jaw	-	-	1 Boiled-Egg Ore																				
 CutTime.DEBUFF XX	Debuff duration reduced 25% in Skell	5 Sharp Vivohast Jaw	-	-	1 Marine Rutile																				
-AttributeDmg.PHYS I	Phys dmg +10% in Skell	1 Sharp Germivore Jaw	1 Giant Falsaxum Jaw	-	1 Aurorite																				
-AttributeDmg.PHYS V	Phys dmg +18% in Skell	2 Sharp Germivore Jaw	2 Giant Falsaxum Jaw	-	1 Infernium																				
-AttributeDmg.PHYS X	Phys dmg +28% in Skell	4 Experia Glyph	4 Reinforced Frame	-	2 Cimmerian Cinnabar																				
-AttributeDmg.PHYS XV	Phys dmg +38% in Skell	12 Experia Glyph	12 Reinforced Frame	-	4 Ouroboros Crystal																				
-AttributeDmg.PHYS XX	Phys dmg +50% in Skell	24 Experia Glyph	24 Reinforced Frame	-	8 Parhelion Platinum																				
+AttributeDmg.PHYS I	Physical dmg +10% in Skell	1 Sharp Germivore Jaw	1 Giant Falsaxum Jaw	-	1 Aurorite																				
+AttributeDmg.PHYS V	Physical dmg +18% in Skell	2 Sharp Germivore Jaw	2 Giant Falsaxum Jaw	-	1 Infernium																				
+AttributeDmg.PHYS X	Physical dmg +28% in Skell	4 Experia Glyph	4 Reinforced Frame	-	2 Cimmerian Cinnabar																				
+AttributeDmg.PHYS XV	Physical dmg +38% in Skell	12 Experia Glyph	12 Reinforced Frame	-	4 Ouroboros Crystal																				
+AttributeDmg.PHYS XX	Physical dmg +50% in Skell	24 Experia Glyph	24 Reinforced Frame	-	8 Parhelion Platinum																				
 AttributeDmg.BEAM I	Beam dmg +10% in Skell	1 Quirky Liver	1 Gold Monoceros Horn	-	1 Aurorite																				
 AttributeDmg.BEAM V	Beam dmg +18% in Skell	2 Quirky Liver	2 Gold Monoceros Horn	-	1 Infernium																				
 AttributeDmg.BEAM X	Beam dmg +28% in Skell	4 Esse Glyph	4 Advanced Lens	-	2 Cimmerian Cinnabar																				
@@ -1551,9 +1551,9 @@ Reflect: Ether	Reflection art effects also grant Ether reflect	10% drop from Tel
 Reflect: Thermal	Reflection art effects also grant Thermal reflect	10% drop from Dadaan, the Strongest Prone																							
 Reflect: Electric	Reflection art effects also grant Electric reflect	10% drop from Lugalbanda, the Wanderer-King																							
 Reflect: Gravity	Reflection art effects also grant Gravity reflect	10% drop from Pharsis, the Everqueen																							
-Reflect.P-Physical	Skell Reflection effects also include Physical reflect	10% drop from Gradivus, the Headless Emperor																							
-Reflect.P-Beam	Skell Reflection effects also include Beam reflect	10% drop from Leva'el, the Terminus																							
-Reflect.P-Ether	Skell Reflection effects also include Ether reflect	10% drop from Telethia, the Endbringer																							
-Reflect.P-Thermal	Skell Reflection effects also include Thermal reflect	10% drop from Gradivus, the Headless Emperor																							
-Reflect.P-Electric	Skell Reflection effects also include Electric reflect	10% drop from Leva'el, the Terminus																							
-Reflect.P-Gravity	Skell Reflection effects also include Gravity reflect	10% drop from Pharsis, the Everqueen																																														
+Reflect.ADD-PHYS	Skell Reflection effects also include Physical reflect	10% drop from Gradivus, the Headless Emperor																							
+Reflect.ADD-BEAM	Skell Reflection effects also include Beam reflect	10% drop from Leva'el, the Terminus																							
+Reflect.ADD-ETHER	Skell Reflection effects also include Ether reflect	10% drop from Telethia, the Endbringer																							
+Reflect.ADD-THERM	Skell Reflection effects also include Thermal reflect	10% drop from Gradivus, the Headless Emperor																							
+Reflect.ADD-ELEC	Skell Reflection effects also include Electric reflect	10% drop from Leva'el, the Terminus																							
+Reflect.ADD-GRAV	Skell Reflection effects also include Gravity reflect	10% drop from Pharsis, the Everqueen																																														

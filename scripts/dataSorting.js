@@ -291,10 +291,10 @@ async function affinityMissionSorting() {
   // Start at 2 to skip notes
   for (let i = 2; i < missionInfo.length; i++) {
     const rowArray = missionInfo[i].split('\t');
-    const rewards = rowArray[11].split(',');
+    const rewards = rowArray[11].trim() !== "-" ? rowArray[11].split(',') : [];
     for (let i = 0; i < rewards.length; i++) {
       if (rewards[i][0] === "*") {
-        rewards[i] = `Learned Art: ${rewards[i].split('*')}`;
+        rewards[i] = `Learned Art: ${rewards[i].slice(1)}`;
       }
     }
 
@@ -303,9 +303,9 @@ async function affinityMissionSorting() {
       type: AFFINITY_MISSION_TYPE,
       client: rowArray[1],
       location: rowArray[2],
-      requiredMembers: rowArray[6].split(','),
-      prohibitedMembers: rowArray[7].split(','),
-      prereq: rowArray[8].split(','),
+      requiredMembers: rowArray[6].trim() !== "-" ? rowArray[6].split(',') : [],
+      prohibitedMembers: rowArray[7].trim() !== "-" ? rowArray[7].split(',') : [],
+      prereq: rowArray[8].trim() !== "-" ? rowArray[8].split(',') : [],
       rewards: rewards,
       isCompletable: true,
     });
@@ -322,8 +322,6 @@ async function basicMissionSorting() {
   // Start at 2 to skip notes
   for (let i = 2; i < missionInfo.length; i++) {
     const rowArray = missionInfo[i].split('\t');
-    let prereq = rowArray[6].split(',');
-    if (prereq[0] === "-") prereq = [];
 
     missionData.push({
       name: rowArray[0],
@@ -332,8 +330,9 @@ async function basicMissionSorting() {
       client: rowArray[2],
       location: rowArray[3],
       storyReq: rowArray[5],
-      prereq: prereq,
+      prereq: rowArray[6].trim() !== "-" ? rowArray[6].split(',') : [],
       rewards: rowArray[9],
+      isTyrant: rowArray[10].includes(rowArray[0]),
       isCompletable: true,
     });
   }
@@ -356,8 +355,8 @@ async function normalMissionSorting() {
       client: rowArray[1],
       location: rowArray[2],
       storyReq: rowArray[3],
-      prereq: rowArray[4].split(';'),
-      rewards: rowArray[7].split(';'),
+      prereq: rowArray[4].trim() !== "-" ? rowArray[4].split(';') : [],
+      rewards: rowArray[7].trim() !== "-" ? rowArray[7].split(';') : [],
       isCompletable: true,
     });
   }
@@ -374,7 +373,7 @@ async function augmentSorting() {
   for (let i = 2; i < augInfo.length; i++) {
     const rowArray = augInfo[i].split('\t');
     const materials = [trimString(rowArray[2])];
-    if (!rowArray[0].includes("Reflect:") && !rowArray[0].includes("Reflect.P")) {
+    if (!rowArray[0].includes("Reflect:") && !rowArray[0].includes("Reflect.ADD")) {
       if (rowArray[3] !== "-" && rowArray[3].length > 0) materials.push(trimString(rowArray[3]));
       if (rowArray[4] !== "-" && rowArray[4].length > 0) materials.push(trimString(rowArray[4]));
       materials.push(trimString(rowArray[5]));
@@ -410,7 +409,7 @@ async function groundArmorSorting() {
       type: GROUND_ARMOR_TYPE,
       slot: rowArray[1],
       maker: rowArray[2],
-      traits: rowArray[6].split(','),
+      traits: rowArray[6].trim() !== "-" ? rowArray[6].split(',') : [],
       materials: materials,
     });
   }
@@ -466,7 +465,7 @@ async function superweaponSorting() {
       slot: rowArray[2],
       level: rowArray[3],
       attribute: rowArray[8],
-      traits: rowArray[9].split(','),
+      traits: rowArray[9].trim() !== "-" ? rowArray[9].split(',') : [],
       materials: materials,
       isCompletable: true,
     });

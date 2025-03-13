@@ -385,7 +385,6 @@ async function augmentSorting() {
       type: AUGMENT_TYPE,
       effect: rowArray[1],
       materials: materials,
-      isCompletable: true,
     });
   }
 
@@ -413,7 +412,6 @@ async function groundArmorSorting() {
       maker: rowArray[2],
       traits: rowArray[6].split(','),
       materials: materials,
-      isCompletable: true,
     });
   }
 

@@ -1,18 +1,31 @@
 import { readdirSync } from "fs";
 import {
+  AFFINITY_MISSIONS_URL,
+  AUGMENTS_URL,
+  BASIC_MISSIONS_URL,
   BESTIARY_URL,
   COLLECTIBLES_URL,
   FN_URL,
   FN_RESOURCES_URL,
   FORMATTED_ARRAY_DATABASE_URL,
-  FORMATTED_DATABASE_URL,
-  SHEETS_PATH,  
+  GROUND_ARMOR_URL,
+  NORMAL_MISSIONS_URL,
+  RECOMMENDATIONS_URL,
+  SHEETS_PATH,
+  SKELL_FRAME_URL,
   SPECIES_SAVE_URL,
+  SUPERWEAPONS_URL,
+  AFFINITY_MISSION_TYPE,
+  AUGMENT_TYPE,
+  BASIC_MISSION_TYPE,
   ENEMY_TYPE,
   COLLECTIBLE_TYPE,
-  RESOURCE_TYPE,
+  GROUND_ARMOR_TYPE,
   MATERIAL_TYPE,
-  RECOMMENDATIONS_URL,
+  NORMAL_MISSION_TYPE,
+  RESOURCE_TYPE,
+  SKELL_FRAME_TYPE,
+  SUPERWEAPON_TYPE,
 } from "../utils/constants.js";
 import {
   extractCollectibleAreaContainsCollectible,
@@ -270,29 +283,198 @@ async function materialsDataSorting(enemyData) {
   return materialData;
 }
 
-async function buildObjectDatabase() {
-  // const fnData = await fnDataSorting();
-  const sheetsData = await sheetsDataSorting();
-  const bestiaryData = await bestiaryDataSorting();
-  const collectiblesData = await collectiblesDataSorting();
-  const fnResourcesData = await fnResourcesDataSorting();
-  const mergedEnemyData = [];
+async function affinityMissionSorting() {
+  const loadedData = (await loadData(AFFINITY_MISSIONS_URL)).toString();
+  const missionData = [];
 
-  for (let i = 0; i < bestiaryData.length; i++) {
-    const bestiaryDatum = bestiaryData[i];
-    mergedEnemyData.push({
-      ...bestiaryDatum, 
-      ...(sheetsData.find((itmInner) => itmInner.species === bestiaryDatum.species))}
-    );
+  let missionInfo = loadedData.split('\n');
+  // Start at 2 to skip notes
+  for (let i = 2; i < missionInfo.length; i++) {
+    const rowArray = missionInfo[i].split('\t');
+    const rewards = rowArray[11].split(',');
+    for (let i = 0; i < rewards.length; i++) {
+      if (rewards[i][0] === "*") {
+        rewards[i] = `Learned Art: ${rewards[i].split('*')}`;
+      }
+    }
+
+    missionData.push({
+      name: rowArray[0],
+      type: AFFINITY_MISSION_TYPE,
+      client: rowArray[1],
+      location: rowArray[2],
+      requiredMembers: rowArray[6].split(','),
+      prohibitedMembers: rowArray[7].split(','),
+      prereq: rowArray[8].split(','),
+      rewards: rewards,
+      isCompletable: true,
+    });
   }
 
-  const collectedData = {
-    "Enemies": mergedEnemyData,
-    "Collectibles": collectiblesData,
-    "Resources": fnResourcesData,
-  };
+  return missionData;
+}
 
-  saveData(FORMATTED_DATABASE_URL, collectedData);
+async function basicMissionSorting() {
+  const loadedData = (await loadData(BASIC_MISSIONS_URL)).toString();
+  const missionData = [];
+
+  let missionInfo = loadedData.split('\n');
+  // Start at 2 to skip notes
+  for (let i = 2; i < missionInfo.length; i++) {
+    const rowArray = missionInfo[i].split('\t');
+    let prereq = rowArray[6].split(',');
+    if (prereq[0] === "-") prereq = [];
+
+    missionData.push({
+      name: rowArray[0],
+      type: BASIC_MISSION_TYPE,
+      rank: rowArray[1],
+      client: rowArray[2],
+      location: rowArray[3],
+      storyReq: rowArray[5],
+      prereq: prereq,
+      rewards: rowArray[9],
+      isCompletable: true,
+    });
+  }
+
+  return missionData;
+}
+
+async function normalMissionSorting() {
+  const loadedData = (await loadData(NORMAL_MISSIONS_URL)).toString();
+  const missionData = [];
+
+  let missionInfo = loadedData.split('\n');
+  // Start at 2 to skip notes
+  for (let i = 2; i < missionInfo.length; i++) {
+    const rowArray = missionInfo[i].split('\t');
+
+    missionData.push({
+      name: rowArray[0],
+      type: NORMAL_MISSION_TYPE,
+      client: rowArray[1],
+      location: rowArray[2],
+      storyReq: rowArray[3],
+      prereq: rowArray[4].split(';'),
+      rewards: rowArray[7].split(';'),
+      isCompletable: true,
+    });
+  }
+
+  return missionData;
+}
+
+async function augmentSorting() {
+  const loadedData = (await loadData(AUGMENTS_URL)).toString();
+  const augData = [];
+
+  let augInfo = loadedData.split('\n');
+  // Start at 2 to skip notes
+  for (let i = 2; i < augInfo.length; i++) {
+    const rowArray = augInfo[i].split('\t');
+    const materials = [trimString(rowArray[2])];
+    if (!rowArray[0].includes("Reflect:") && !rowArray[0].includes("Reflect.P")) {
+      if (rowArray[3] !== "-" && rowArray[3].length > 0) materials.push(trimString(rowArray[3]));
+      if (rowArray[4] !== "-" && rowArray[4].length > 0) materials.push(trimString(rowArray[4]));
+      materials.push(trimString(rowArray[5]));
+    }
+
+    augData.push({
+      name: rowArray[0],
+      type: AUGMENT_TYPE,
+      effect: rowArray[1],
+      materials: materials,
+      isCompletable: true,
+    });
+  }
+
+  return augData;
+}
+
+async function groundArmorSorting() {
+  const loadedData = (await loadData(GROUND_ARMOR_URL)).toString();
+  const armorData = [];
+
+  let armorInfo = loadedData.split('\n');
+  // Start at 1 to skip notes
+  for (let i = 1; i < armorInfo.length; i++) {
+    const rowArray = armorInfo[i].split('\t');
+    const materials = [];
+    for (let j = 0; j < 7; j++) {
+      const material = rowArray[j + 9];
+      if (material !== "-" && material.length > 0) materials.push(trimString(material));
+    }
+
+    armorData.push({
+      name: rowArray[0],
+      type: GROUND_ARMOR_TYPE,
+      slot: rowArray[1],
+      maker: rowArray[2],
+      traits: rowArray[6].split(','),
+      materials: materials,
+      isCompletable: true,
+    });
+  }
+
+  return armorData;
+}
+
+async function skellFrameSorting() {
+  const loadedData = (await loadData(SKELL_FRAME_URL)).toString();
+  const frameData = [];
+
+  let frameInfo = loadedData.split('\n');
+  // Start at 2 to skip notes
+  for (let i = 2; i < frameInfo.length; i++) {
+    const rowArray = frameInfo[i].split('\t');
+    const materials = [];
+    for (let j = 0; j < 7; j++) {
+      const material = rowArray[j + 17];
+      if (material !== "\t" && material.length > 0) materials.push(trimString(material));
+    }
+
+    frameData.push({
+      name: rowArray[0],
+      type: SKELL_FRAME_TYPE,
+      frameType: rowArray[1],
+      cost: rowArray[2],
+      level: rowArray[4],
+      materials: materials,
+      isCompletable: true,
+    });
+  }
+
+  return frameData;
+}
+
+async function superweaponSorting() {
+  const loadedData = (await loadData(SUPERWEAPONS_URL)).toString();
+  const weaponData = [];
+
+  let weaponInfo = loadedData.split('\n');
+  // Start at 2 to skip notes
+  for (let i = 2; i < weaponInfo.length; i++) {
+    const rowArray = weaponInfo[i].split('\t');
+    const materials = [];
+    for (let j = 0; j < 5; j++) {
+      materials.push(trimString(rowArray[j + 11]));
+    }
+
+    weaponData.push({
+      name: rowArray[0],
+      type: SUPERWEAPON_TYPE,
+      location: rowArray[1],
+      slot: rowArray[2],
+      level: rowArray[3],
+      attribute: rowArray[8],
+      traits: rowArray[9].split(','),
+      materials: materials,
+      isCompletable: true,
+    });
+  }
+
+  return weaponData;
 }
 
 async function buildArrayDatabase() {
@@ -300,6 +482,13 @@ async function buildArrayDatabase() {
   const bestiaryData = await bestiaryDataSorting();
   const collectiblesData = await collectiblesDataSorting();
   const fnResourcesData = await fnResourcesDataSorting();
+  const affinityMissionData = await affinityMissionSorting();
+  const basicMissionData = await basicMissionSorting();
+  const normalMissionData = await normalMissionSorting();
+  const augmentData = await augmentSorting();
+  const groundArmorData = await groundArmorSorting();
+  const skellFrameData = await skellFrameSorting();
+  const superweaponData = await superweaponSorting();
   const mergedEnemyData = [];
 
   for (let i = 0; i < bestiaryData.length; i++) {
@@ -325,7 +514,14 @@ async function buildArrayDatabase() {
   const mergedData = mergedEnemyData
     .concat(collectiblesData)
     .concat(fnResourcesData)
-    .concat(mergedMaterialsData);
+    .concat(mergedMaterialsData)
+    .concat(affinityMissionData)
+    .concat(basicMissionData)
+    .concat(normalMissionData)
+    .concat(augmentData)
+    .concat(groundArmorData)
+    .concat(skellFrameData)
+    .concat(superweaponData);
 
   saveData(FORMATTED_ARRAY_DATABASE_URL, mergedData);
 }
@@ -343,4 +539,4 @@ async function buildSpecies() {
   await saveData(SPECIES_SAVE_URL, mergedEnemyData);
 }
 
-export { buildArrayDatabase, buildObjectDatabase, buildSpecies };
+export { buildArrayDatabase, buildSpecies };

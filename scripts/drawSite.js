@@ -57,7 +57,7 @@ function loadPinData() {
 
 function loadAboutTab() {
   document.getElementById("about-tab-pane").innerHTML = `
-    <a href="${FEEDBACK_FORM_URL}">Leave feedback or bug reports here!</a><br />
+    <a href="${FEEDBACK_FORM_URL}" target="_blank">Leave feedback or bug reports here!</a><br />
     <br /><br />
     How to use:<br />
     - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!<br />

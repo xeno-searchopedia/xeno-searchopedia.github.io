@@ -1,0 +1,1559 @@
+		Miranium costs for I/V/X/XV/XX are 100/100/100/1500/2000, unranked are just 100					Affixes already present on gear can have their ranks raised, so long as there are still enhancement slots available on the piece.																		
+Augment Name	Effect	Material 1	Material 2	Material 3	Rare Resource	-	I -> II	II -> III	III -> IV	IV -> V	V -> VI	VI -> VII	VII -> VIII	VIII -> IX	IX -> X	X -> XI	XI -> XII	XII -> XIII	XIII -> XIV	XIV -> XV	XV -> XVI	XVI -> XVII	XVII -> XVIII	XVIII -> XIX	XIX -> XX																						
+Melee Acc Up I	Melee Acc +10	1 Muscled Suid Bulge	-	-	1 Arc Sand Ore		Melee Acc +12	Melee Acc +14	Melee Acc +16	Melee Acc +18															
+Melee Acc Up V	Melee Acc +18	2 Muscled Suid Bulge	-	-	1 Lionbone Bort		1 Muscled Suid Bulge	1 Muscled Suid Bulge	1 Muscled Suid Bulge																
+Melee Acc Up X	Melee Acc +28	3 Muscled Suid Bulge	-	-	1 Enduron Lead																				
+Melee Acc Up XV	Melee Acc +40	4 Muscled Suid Bulge	-	-	1 Boiled-Egg Ore																				
+Melee Acc Up XX	Melee Acc +50	5 Muscled Suid Bulge	-	-	1 Marine Rutile																				
+Ranged Acc Up I	Ranged Acc +10	1 Appetizing Suid Tail	-	-	1 Arc Sand Ore		Ranged Acc +12	Ranged Acc +14	Ranged Acc +16	Ranged Acc +18															
+Ranged Acc Up V	Ranged Acc +18	2 Appetizing Suid Tail	-	-	1 Lionbone Bort																				
+Ranged Acc Up X	Ranged Acc +28	3 Appetizing Suid Tail	-	-	1 Enduron Lead																				
+Ranged Acc Up XV	Ranged Acc +40	4 Appetizing Suid Tail	-	-	1 Boiled-Egg Ore																				
+Ranged Acc Up XX	Ranged Acc +50	5 Appetizing Suid Tail	-	-	1 Marine Rutile																				
+Melee Attack Up I	Melee Atk +10	1 Muscled Suid Bulge	-	-	1 Arc Sand Ore		Melee Atk +15	Melee Atk +20	Melee Atk +25	Melee Atk +30	Melee Atk +35	Melee Atk +40	Melee Atk +45	Melee Atk +50	Melee Atk +55	Melee Atk +60	Melee Atk +65	Melee Atk +70	Melee Atk +75	Melee Atk +80					Melee Atk +150
+Melee Attack Up V	Melee Atk +30	2 Muscled Suid Bulge	-	-	1 Lionbone Bort		1 Muscled Suid Bulge																		
+Melee Attack Up X	Melee Atk +55	8 Blue Sylooth Brace	8 White Sylooth Brace	8 Muscled Cantor Bulge	2 Everfreeze Ore																				
+Melee Attack Up XV	Melee Atk +80	24 Blue Sylooth Brace	24 White Sylooth Brace	24 Muscled Cantor Bulge	8 Foucaultium																				
+Melee Attack Up XX	Melee Atk +150	48 Blue Sylooth Brace	48 White Sylooth Brace	48 Muscled Cantor Bulge	16 Bonjelium																				
+Ranged Attack Up I	Ranged Atk +10	1 Appetizing Suid Tail	-	-	1 Arc Sand Ore		Ranged Atk +15	Ranged Atk +20	Ranged Atk +25	Ranged Atk +30	Ranged Atk +35	Ranged Atk +40	Ranged Atk +45	Ranged Atk +50	Ranged Atk +55	Ranged Atk +60	Ranged Atk +65	Ranged Atk +70	Ranged Atk +75	Ranged Atk +80					Ranged Atk +150
+Ranged Attack Up V	Ranged Atk +30	2 Appetizing Suid Tail	-	-	1 Lionbone Bort																				
+Ranged Attack Up X	Ranged Atk +55	8 O.X. Unit	8 Eternal Arenatect Moss	8 Green Jacul Wing	2 Everfreeze Ore																				
+Ranged Attack Up XV	Ranged Atk +80	24 O.X. Unit	24 Eternal Arenatect Moss	24 Green Jacul Wing	8 Foucaultium																				
+Ranged Attack Up XX	Ranged Atk +150	48 O.X. Unit	48 Eternal Arenatect Moss	48 Green Jacul Wing	16 Bonjelium																				
+Melee Acc Boost I	Melee Acc +5%	1 Refined Horn	1 Muscled Suid Bulge	-	1 Aurorite																				
+Melee Acc Boost V	Melee Acc +9%	2 Refined Horn	2 Muscled Suid Bulge	-	1 Infernium																				
+Melee Acc Boost X	Melee Acc +14%	3 Refined Horn	3 Black Steel Heavy Armor	-	1 Cimmerian Cinnabar																				
+Melee Acc Boost XV	Melee Acc +20%	4 Refined Horn	4 Black Steel Heavy Armor	-	1 Ouroboros Crystal																				
+Melee Acc Boost XX	Melee Acc +25%	5 Refined Horn	4 Black Steel Heavy Armor	-	1 Parhelion Platinum																				
+Ranged Acc Boost I	Ranged Acc +5%	1 Scratched Jewel	1 Appetizing Suid Tail	-	1 Aurorite																				
+Ranged Acc Boost V	Ranged Acc +9%	2 Scratched Jewel	2 Appetizing Suid Tail	-	1 Infernium																				
+Ranged Acc Boost X	Ranged Acc +14%	3 Scratched Jewel	3 Upgraded Spindle Part	-	1 Cimmerian Cinnabar																				
+Ranged Acc Boost XV	Ranged Acc +20%	4 Scratched Jewel	4 Upgraded Spindle Part	-	1 Ouroboros Crystal																				
+Ranged Acc Boost XX	Ranged Acc +25%	5 Scratched Jewel	5 Upgraded Spindle Part	-	1 Parhelion Platinum																				
+Melee Attack Boost I	Melee Atk +5%	1 Pure White Caro Tusk	1 Thick Falsaxum Horn	1 Muscled Suid Bulge	1 White Cometite		Melee Atk +6%	Melee Atk +7%	Melee Atk +8%	Melee Atk +9%	Melee Atk +10%														
+Melee Attack Boost V	Melee Atk +9%	2 Pure White Caro Tusk	2 Thick Falsaxum Horn	2 Muscled Suid Bulge	1 Dawnstone		1 Pure White Caro Tusk	1 Pure White Caro Tusk	1 Pure White Caro Tusk	2 Pure White Caro Tusk	2 Pure White Caro Tusk														
+Melee Attack Boost X	Melee Atk +14%	8 Pure White Caro Tusk	8 Standard Blade Module	8 Lone Purple Ictus Stinger	2 Everfreeze Ore		1 Thick Falsaxum Horn	1 Thick Falsaxum Horn	1 Thick Falsaxum Horn	2 Thick Falsaxum Horn	2 Thick Falsaxum Horn														
+Melee Attack Boost XV	Melee Atk +20%	24 Pure White Caro Tusk	24 Standard Blade Module	24 Lone Purple Ictus Stinger	8 Foucaultium		1 Muscled Suid Bulge	1 Muscled Suid Bulge	1 Muscled Suid Bulge	2 Muscled Suid Bulge	2 Muscled Suid Bulge														
+Melee Attack Boost XX	Melee Atk +25%	48 Pure White Caro Tusk	48 Standard Blade Module	48 Lone Purple Ictus Stinger	16 Bonjelium																				
+Ranged Attack Boost I	Ranged Atk +5%	1 Beryl Aetrygon Horn	1 Pure White Caro Tusk	1 Appetizing Suid Tail	1 White Cometite																				
+Ranged Attack Boost V	Ranged Atk +9%	2 Beryl Aetrygon Horn	2 Pure White Caro Tusk	2 Appetizing Suid Tail	1 Dawnstone																				
+Ranged Attack Boost X	Ranged Atk +14%	8 Beryl Aetrygon Horn	8 Black Petramand Silk	8 Lone White Ictus Stinger	2 Everfreeze Ore																				
+Ranged Attack Boost XV	Ranged Atk +20%	24 Beryl Aetrygon Horn	24 Black Petramand Silk	24 Lone White Ictus Stinger	8 Foucaultium																				
+Ranged Attack Boost XX	Ranged Atk +25%	48 Beryl Aetrygon Horn	48 Black Petramand Silk	48 Lone White Ictus Stinger	16 Bonjelium																				
+Weapon Attack Power Up I	Weapon Atk +5%	1 Refined Horn	1 Insect Jaw	1 Strong Purgovent Extract	1 White Cometite																				
+Weapon Attack Power Up V	Weapon Atk +25%	2 Refined Horn	2 Insect Jaw	2 Strong Purgovent Extract	1 Dawnstone																				
+Weapon Attack Power Up X	Weapon Atk +50%	8 Quality Giant Cells	8 Visigel Poison Orb	8 Silver Cantor Tooth	2 Everfreeze Ore																				
+Weapon Attack Power Up XV	Weapon Atk +75%	16 Quality Giant Cells	16 Visigel Poison Orb	16 Silver Cantor Tooth	4 Foucaultium																				
+Weapon Attack Power Up XX	Weapon Atk +100%	32 Quality Giant Cells	32 Visigel Poison Orb	32 Silver Cantor Tooth	8 Bonjelium																				
+Stabilizer I	Weapon Stability +10%	1 Poisonous Needle	-	-	1 Arc Sand Ore																				
+Stabilizer V	Weapon Stability +18%	2 Poisonous Needle	-	-	1 Lionbone Bort																				
+Stabilizer X	Weapon Stability +28%	3 Poisonous Needle	-	-	1 Enduron Lead																				
+Stabilizer XV	Weapon Stability +40%	4 Poisonous Needle	-	-	1 Boiled-Egg Ore																				
+Stabilizer XX	Weapon Stability +50%	5 Poisonous Needle	-	-	1 Marine Rutile																				
+Destabilizer I	Weapon Stability -10%	1 Broken Pincer	-	-	1 Arc Sand Ore																				
+Destabilizer V	Weapon Stability -18%	2 Broken Pincer	-	-	1 Lionbone Bort																				
+Destabilizer X	Weapon Stability -28%	3 Broken Pincer	-	-	1 Enduron Lead																				
+Destabilizer XV	Weapon Stability -40%	4 Broken Pincer	-	-	1 Boiled-Egg Ore																				
+Destabilizer XX	Weapon Stability -50%	5 Broken Pincer	-	-	1 Marine Rutile																				
+Magazine Capacity Up I	Ranged Wep Shots +1	1 Genuine Crank	1 Standard Shaft	1 Fine Black Belt	1 White Cometite																				
+Magazine Capacity Up V	Ranged Wep Shots +5	2 Genuine Crank	2 Standard Shaft	2 Fine Black Belt	1 Dawnstone																				
+Magazine Capacity Up X	Ranged Wep Shots +10	4 Genuine Crank	4 White Stabilizer	4 Sturdy Drakebone	2 Everfreeze Ore																				
+Magazine Capacity Up XV	Ranged Wep Shots +15	8 Genuine Crank	8 White Stabilizer	8 Sturdy Drakebone	4 Foucaultium																				
+Magazine Capacity Up XX	Ranged Wep Shots +20	16 Genuine Crank	16 White Stabilizer	16 Sturdy Drakebone	8 Bonjelium																				
+Melee: TP Gain Up	Melee AA restore 50 TP	12 Upgraded Coil	12 Flaming Rock	12 Crimson Sacrifole Feather	12 White Cometite																				
+Ranged: TP Gain Up	Ranged AA restore 20 TP	12 Genuine Frame	1 Black Yggralith Nut	12 Virago Alloy Plate	12 White Cometite																				
+Cooldown Reducer I	AA Recast 2% faster	1 Quality Fuse	1 Golden Simius Mane	1 Upgraded Shaft Part	1 White Cometite																				
+Cooldown Reducer V	AA Recast 10% faster	2 Quality Fuse	2 Golden Simius Mane	2 Upgraded Shaft Part	1 Dawnstone																				
+Cooldown Reducer X	AA Recast 20% faster	3 Quality Fuse	3 Spathi Glyph	3 White Yggralith Nut	2 Everfreeze Ore																				
+Cooldown Reducer XV	AA Recast 30% faster	6 Quality Fuse	4 Spathi Glyph	4 White Yggralith Nut	4 Foucaultium																				
+Cooldown Reducer XX	AA Recast 40% faster	12 Quality Fuse	5 Spathi Glyph	5 White Yggralith Nut	16 Bonjelium																				
+Firing Range Up I	Ranged Wep range +5m	1 Turba Straw	1 Used Cylinder	-	1 Aurorite																				
+Firing Range Up V	Ranged Wep range +9m	2 Turba Straw	2 Used Cylinder	-	1 Infernium																				
+Firing Range Up X	Ranged Wep range +14m	3 Turba Straw	3 Coronid Larynx	-	1 Cimmerian Cinnabar																				
+Firing Range Up XV	Ranged Wep range +20m	4 Turba Straw	4 Coronid Larynx	-	1 Ouroboros Crystal																				
+Firing Range Up XX	Ranged Wep range +25m	5 Turba Straw	5 Coronid Larynx	-	1 Parhelion Platinum																				
+Critical Chance Up I	Crit Rate +1	1 Oc-serv Hand	1 Ziggian Long Antennae	1 Forfex Miso	1 White Cometite																				
+Critical Chance Up V	Crit Rate +5	2 Oc-serv Hand	2 Ziggian Long Antennae	2 Forfex Miso	1 Dawnstone																				
+Critical Chance Up X	Crit Rate +10	3 Oc-serv Hand	3 Lone Red Ictus Stinger	3 Spiked Tail Fin	1 Everfreeze Ore																				
+Critical Chance Up XV	Crit Rate +15	4 Oc-serv Hand	4 Lone Red Ictus Stinger	4 Spiked Tail Fin	1 Foucaultium																				
+Critical Chance Up XX	Crit Rate +20	5 Oc-serv Hand	5 Lone Red Ictus Stinger	5 Spiked Tail Fin	1 Bonjelium																				
+Theroid Criticals Up I	Crit Rate vs Theroids +2	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+Theroid Criticals Up V	Crit Rate vs Theroids +10	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+Theroid Criticals Up X	Crit Rate vs Theroids +20	3 Fleecy Fur	-	-	1 Enduron Lead																				
+Theroid Criticals Up XV	Crit Rate vs Theroids +30	4 Fleecy Fur	-	-	1 Boiled-Egg Ore																				
+Theroid Criticals Up XX	Crit Rate vs Theroids +50	5 Fleecy Fur	-	-	1 Marine Rutile																				
+Insectoid Criticals Up I	Crit Rate vs Insectoids +2	1 Tatty Insect Wing	-	-	1 Arc Sand Ore		crit rate +4	crit rate +6	crit rate +8																
+Insectoid Criticals Up V	Crit Rate vs Insectoids +10	2 Tatty Insect Wing	-	-	1 Lionbone Bort		1 Tatty Insect Wing	1 torn bugwing	1 torn bugwing																
+Insectoid Criticals Up X	Crit Rate vs Insectoids +20	3 Tatty Insect Wing	-	-	1 Enduron Lead																				
+Insectoid Criticals Up XV	Crit Rate vs Insectoids +30	4 Tatty Insect Wing	-	-	1 Boiled-Egg Ore																				
+Insectoid Criticals Up XX	Crit Rate vs Insectoids +50	5 Tatty Insect Wing	-	-	1 Marine Rutile																				
+Piscinoid Criticals Up I	Crit Rate vs Piscinoids +2	1 Small Dorsal Fin	-	-	1 Arc Sand Ore																				
+Piscinoid Criticals Up V	Crit Rate vs Piscinoids +10	2 Small Dorsal Fin	-	-	1 Lionbone Bort																				
+Piscinoid Criticals Up X	Crit Rate vs Piscinoids +20	3 Small Dorsal Fin	-	-	1 Enduron Lead																				
+Piscinoid Criticals Up XV	Crit Rate vs Piscinoids +30	4 Small Dorsal Fin	-	-	1 Boiled-Egg Ore																				
+Piscinoid Criticals Up XX	Crit Rate vs Piscinoids +50	5 Small Dorsal Fin	-	-	1 Marine Rutile																				
+Humanoid Criticals Up I	Crit Rate vs Humanoids +2	1 Broken Buckle	-	-	1 Arc Sand Ore																				
+Humanoid Criticals Up V	Crit Rate vs Humanoids +10	2 Broken Buckle	-	-	1 Lionbone Bort																				
+Humanoid Criticals Up X	Crit Rate vs Humanoids +20	3 Broken Buckle	-	-	1 Enduron Lead																				
+Humanoid Criticals Up XV	Crit Rate vs Humanoids +30	4 Broken Buckle	-	-	1 Boiled-Egg Ore																				
+Humanoid Criticals Up XX	Crit Rate vs Humanoids +50	5 Broken Buckle	-	-	1 Marine Rutile																				
+Mechanoid Criticals Up I	Crit Rate vs Mechanoids +2	1 Standard Crank	-	-	1 Arc Sand Ore																				
+Mechanoid Criticals Up V	Crit Rate vs Mechanoids +10	2 Standard Crank	-	-	1 Lionbone Bort																				
+Mechanoid Criticals Up X	Crit Rate vs Mechanoids +20	3 Standard Crank	-	-	1 Enduron Lead																				
+Mechanoid Criticals Up XV	Crit Rate vs Mechanoids +30	4 Standard Crank	-	-	1 Boiled-Egg Ore																				
+Mechanoid Criticals Up XX	Crit Rate vs Mechanoids +50	5 Standard Crank	-	-	1 Marine Rutile																				
+Chimeroid Criticals Up I	Crit Rate vs Chimeroids +2	1 Sticky Mucus	1 Bloodied Face	1 Fine White Belt	1 White Cometite																				
+Chimeroid Criticals Up V	Crit Rate vs Chimeroids +10	2 Sticky Mucus	2 Bloodied Face	2 Fine White Belt	1 Dawnstone																				
+Chimeroid Criticals Up X	Crit Rate vs Chimeroids +20	3 Sticky Mucus	3 Black Colubrium Tail	3 Brown Colubrium Tail	1 Everfreeze Ore																				
+Chimeroid Criticals Up XV	Crit Rate vs Chimeroids +30	4 Sticky Mucus	4 Black Colubrium Tail	4 Brown Colubrium Tail	1 Foucaultium																				
+Chimeroid Criticals Up XX	Crit Rate vs Chimeroids +50	5 Sticky Mucus	5 Black Colubrium Tail	5 Brown Colubrium Tail	1 Bonjelium																				
+Ultrafauna Criticals Up I	Crit Rate vs Ultrafauna +2	1 Thick Cinicula Horn	1 Black Electrical Tentacle	1 Hot Potamus Juice	1 White Cometite																				
+Ultrafauna Criticals Up V	Crit Rate vs Ultrafauna +10	2 Thick Cinicula Horn	2 Black Electrical Tentacle	2 Hot Potamus Juice	1 Dawnstone																				
+Ultrafauna Criticals Up X	Crit Rate vs Ultrafauna +20	3 Thick Cinicula Horn	3 Reverse Colubrim Fin	3 Colubrim Eel Kebab	1 Everfreeze Ore																				
+Ultrafauna Criticals Up XV	Crit Rate vs Ultrafauna +30	4 Thick Cinicula Horn	4 Reverse Colubrim Fin	4 Colubrim Eel Kebab	1 Foucaultium																				
+Ultrafauna Criticals Up XX	Crit Rate vs Ultrafauna +50	5 Thick Cinicula Horn	5 Reverse Colubrim Fin	5 Colubrim Eel Kebab	1 Bonjelium																				
+Extend Critical Power I	Crit Pow extended by 1s	1 Gremlin Stone	1 Blue Progen Wing	1 Pristine Pincer	1 White Cometite																				
+Extend Critical Power V	Crit Pow extended by 5s	2 Gremlin Stone	2 Blue Progen Wing	2 Pristine Pincer	1 Dawnstone																				
+Extend Critical Power X	Crit Pow extended by 10s	3 Gremlin Stone	3 Ornate Petramand Claw	3 Lophid Jaw Meat	1 Everfreeze Ore																				
+Extend Critical Power XV	Crit Pow extended by 15s	4 Gremlin Stone	4 Ornate Petramand Claw	4 Lophid Jaw Meat	1 Foucaultium																				
+Extend Critical Power XX	Crit Pow extended by 20s	5 Gremlin Stone	5 Ornate Petramand Claw	5 Lophid Jaw Meat	1 Bonjelium																				
+Theroid Slayer I	Dmg vs Theroids +10%	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+Theroid Slayer V	Dmg vs Theroids +18%	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+Theroid Slayer X	Dmg vs Theroids +28%	3 Fleecy Fur	-	-	1 Enduron Lead																				
+Theroid Slayer XV	Dmg vs Theroids +40%	4 Fleecy Fur	-	-	1 Boiled-Egg Ore																				
+Theroid Slayer XX	Dmg vs Theroids +50%	5 Fleecy Fur	-	-	1 Marine Rutile																				
+Insectoid Slayer I	Dmg vs Insectoids +10%	1 Tatty Insect Wing	-	-	1 Arc Sand Ore																				
+Insectoid Slayer V	Dmg vs Insectoids +18%	2 Tatty Insect Wing	-	-	1 Lionbone Bort																				
+Insectoid Slayer X	Dmg vs Insectoids +28%	3 Tatty Insect Wing	-	-	1 Enduron Lead																				
+Insectoid Slayer XV	Dmg vs Insectoids +40%	4 Tatty Insect Wing	-	-	1 Boiled-Egg Ore																				
+Insectoid Slayer XX	Dmg vs Insectoids +50%	5 Tatty Insect Wing	-	-	1 Marine Rutile																				
+Piscinoid Slayer I	Dmg vs Piscinoids +10%	1 Small Dorsal Fin	-	-	1 Arc Sand Ore																				
+Piscinoid Slayer V	Dmg vs Piscinoids +18%	2 Small Dorsal Fin	-	-	1 Lionbone Bort																				
+Piscinoid Slayer X	Dmg vs Piscinoids +28%	3 Small Dorsal Fin	-	-	1 Enduron Lead																				
+Piscinoid Slayer XV	Dmg vs Piscinoids +40%	4 Small Dorsal Fin	-	-	1 Boiled-Egg Ore																				
+Piscinoid Slayer XX	Dmg vs Piscinoids +50%	5 Small Dorsal Fin	-	-	1 Marine Rutile																				
+Humanoid Slayer I	Dmg vs Humanoids +10%	1 Broken Buckle	-	-	1 Arc Sand Ore																				
+Humanoid Slayer V	Dmg vs Humanoids +18%	2 Broken Buckle	-	-	1 Lionbone Bort																				
+Humanoid Slayer X	Dmg vs Humanoids +28%	3 Broken Buckle	-	-	1 Enduron Lead																				
+Humanoid Slayer XV	Dmg vs Humanoids +40%	4 Broken Buckle	-	-	1 Boiled-Egg Ore																				
+Humanoid Slayer XX	Dmg vs Humanoids +50%	5 Broken Buckle	-	-	1 Marine Rutile																				
+Mechanoid Slayer I	Dmg vs Mechanoids +10%	1 Standard Crank	-	-	1 Arc Sand Ore																				
+Mechanoid Slayer V	Dmg vs Mechanoids +18%	2 Standard Crank	-	-	1 Lionbone Bort																				
+Mechanoid Slayer X	Dmg vs Mechanoids +28%	3 Standard Crank	-	-	1 Enduron Lead																				
+Mechanoid Slayer XV	Dmg vs Mechanoids +40%	4 Standard Crank	-	-	1 Boiled-Egg Ore																				
+Mechanoid Slayer XX	Dmg vs Mechanoids +50%	5 Standard Crank	-	-	1 Marine Rutile																				
+Chimeroid Slayer I	Dmg vs Chimeroid +10%	1 Sticky Mucus	1 Bloodied Face	1 Fine White Belt	1 White Cometite																				
+Chimeroid Slayer V	Dmg vs Chimeroid +18%	2 Sticky Mucus	2 Bloodied Face	2 Fine White Belt	1 Dawnstone																				
+Chimeroid Slayer X	Dmg vs Chimeroid +28%	3 Sticky Mucus	3 Yellow Millepod Rock	3 Millepod Ice Rock	1 Everfreeze Ore																				
+Chimeroid Slayer XV	Dmg vs Chimeroid +40%	4 Sticky Mucus	4 Yellow Millepod Rock	4 Millepod Ice Rock	1 Foucaultium																				
+Chimeroid Slayer XX	Dmg vs Chimeroid +50%	5 Sticky Mucus	5 Yellow Millepod Rock	5 Millepod Ice Rock	1 Bonjelium																				
+Ultrafauna Slayer I	Dmg vs Ultrafauna +10%	1 White Forfex Shell	1 Black Electrical Tentacle	1 Hot Potamus Juice	1 White Cometite																				
+Ultrafauna Slayer V	Dmg vs Ultrafauna +18%	2 White Forfex Shell	2 Black Electrical Tentacle	2 Hot Potamus Juice	1 Dawnstone																				
+Ultrafauna Slayer X	Dmg vs Ultrafauna +28%	3 White Forfex Shell	3 Reverse Millepod Fin	3 Deva Caladar's Red Ear	1 Everfreeze Ore																				
+Ultrafauna Slayer XV	Dmg vs Ultrafauna +40%	4 White Forfex Shell	4 Reverse Millepod Fin	4 Deva Caladar's Red Ear	1 Foucaultium																				
+Ultrafauna Slayer XX	Dmg vs Ultrafauna +50%	5 White Forfex Shell	5 Reverse Millepod Fin	5 Deva Caladar's Red Ear	1 Bonjelium																				
+Phys Attack Plus I	Phys dmg +10%	1 Sharp Germivore Jaw	1 Giant Falsaxum Jaw	-	1 Aurorite																				
+Phys Attack Plus V	Phys dmg +18%	2 Sharp Germivore Jaw	2 Giant Falsaxum Jaw	-	1 Infernium																				
+Phys Attack Plus X	Phys dmg +28%	3 Experia Glyph	3 Reinforced Frame	-	1 Cimmerian Cinnabar																				
+Phys Attack Plus XV	Phys dmg +40%	4 Experia Glyph	4 Reinforced Frame	-	1 Ouroboros Crystal																				
+Phys Attack Plus XX	Phys dmg +50%	5 Experia Glyph	5 Reinforced Frame	-	1 Parhelion Platinum																				
+Beam Attack Plus I	Beam dmg +10%	1 Quirky Liver	1 Gold Monoceros Horn	-	1 Aurorite																				
+Beam Attack Plus V	Beam dmg +18%	2 Quirky Liver	2 Gold Monoceros Horn	-	1 Infernium																				
+Beam Attack Plus X	Beam dmg +28%	3 Esse Glyph	3 Advanced Lens	-	1 Cimmerian Cinnabar																				
+Beam Attack Plus XV	Beam dmg +40%	4 Esse Glyph	4 Advanced Lens	-	1 Ouroboros Crystal																				
+Beam Attack Plus XX	Beam dmg +50%	5 Esse Glyph	5 Advanced Lens	-	1 Parhelion Platinum																				
+Ether Attack Plus I	Ether dmg +10%	1 Elemental Fragment	1 Golden Progen Wing	-	1 Aurorite																				
+Ether Attack Plus V	Ether dmg +18%	2 Elemental Fragment	2 Golden Progen Wing	-	1 Infernium																				
+Ether Attack Plus X	Ether dmg +28%	3 Creare Glyph	3 Purple Cervus Antlers	-	1 Cimmerian Cinnabar																				
+Ether Attack Plus XV	Ether dmg +40%	4 Creare Glyph	4 Purple Cervis Antlers	-	1 Ouroboros Crystal																				
+Ether Attack Plus XX	Ether dmg +50%	5 Creare Glyph	5 Purple Cervus Antlers	-	1 Parhelion Platinum																				
+Thermal Attack Plus I	Thermal dmg +10%	1 Reinforced Plunger	1 Herculean Beast Hair	-	1 Aurorite																				
+Thermal Attack Plus V	Thermal dmg +18%	2 Reinforced Plunger	2 Black Meaty Caecus Liver	-	1 Infernium																				
+Thermal Attack Plus X	Thermal dmg +28%	3 Experia Glyph	3 Jacul Horn	-	1 Cimmerian Cinnabar																				
+Thermal Attack Plus XV	Thermal dmg +40%	4 Experia Glyph	4 Jacul Horn	-	1 Ouroboros Crystal																				
+Thermal Attack Plus XX	Thermal dmg +50%	5 Experia Glyph	5 Jacul Horn	-	1 Parhelion Platinum																				
+Electric Attack Plus I	Electric dmg +10%	1 Quo Pod	1 Black Scintimure Tentacle	-	1 Aurorite																				
+Electric Attack Plus V	Electric dmg +18%	2 Vivohast Crescent Hook	2 Black Scintimure Tentacle	-	1 Infernium																				
+Electric Attack Plus X	Electric dmg +28%	3 Scienti Glyph	3 Reinforced Plug	-	1 Cimmerian Cinnabar																				
+Electric Attack Plus XV	Electric dmg +40%	4 Scienti Glyph	4 Reinforced Plug	-	1 Ouroboros Crystal																				
+Electric Attack Plus XX	Electric dmg +50%	5 Scienti Glyph	5 Reinforced Plug	-	1 Parhelion Platinum																				
+Gravity Attack Plus I	Gravity dmg +10%	1 Black Gyrocompass	1 Visigel Waterfall Orb	-	1 Aurorite																				
+Gravity Attack Plus V	Gravity dmg +18%	2 Black Gyrocompass	2 Visigel Waterfall Orb	-	1 Infernium																				
+Gravity Attack Plus X	Gravity dmg +28%	3 Esse Glyph	3 Gold Sylooth Brace	-	1 Cimmerian Cinnabar																				
+Gravity Attack Plus XV	Gravity dmg +40%	4 Esse Glyph	4 Gold Sylooth Brace	-	1 Ouroboros Crystal																				
+Gravity Attack Plus XX	Gravity dmg +50%	5 Esse Glyph	5 Gold Sylooth Brace	-	1 Parhelion Platinum																				
+Front Attack Plus I	Dmg from Front +5%	1 Cracked Bill	1 Auravis Horn	-	1 Aurorite																				
+Front Attack Plus V	Dmg from Front +9%	2 Cracked Bill	2 Auravis Horn	-	1 Infernium																				
+Front Attack Plus X	Dmg from Front +14%	3 Cracked Bill	3 Black Vigent Rock Scalp	-	1 Cimmerian Cinnabar																				
+Front Attack Plus XV	Dmg from Front +20%	4 Cracked Bill	4 Black Vigent Rock Scalp	-	1 Ouroboros Crystal																				
+Front Attack Plus XX	Dmg from Front +25%	5 Cracked Bill	5 Black Vigent Rock Scalp	-	1 Parhelion Platinum																				
+Side Attack Plus I	Dmg from Side +5%	1 Pristine Claw	1 Green Blatta Wing	-	1 Aurorite																				
+Side Attack Plus V	Dmg from Side +9%	2 Pristine Claw	2 Green Blatta Wing	-	1 Infernium																				
+Side Attack Plus X	Dmg from Side +14%	3 Pristine Claw	3 Ingrown Virago Claw	-	1 Cimmerian Cinnabar																				
+Side Attack Plus XV	Dmg from Side +20%	4 Pristine Claw	4 Ingrown Virago Claw	-	1 Ouroboros Crystal																				
+Side Attack Plus XX	Dmg from Side +25%	5 Pristine Claw	5 Ingrown Virago Claw	-	1 Parhelion Platinum																				
+Back Attack Plus I	Dmg from Back +5%	1 Jagged Grex Tail	1 Ebony Evello Egg	-	1 Aurorite																				
+Back Attack Plus V	Dmg from Back +9%	2 Jagged Grex Tail	2 Ebony Evello Egg	-	1 Infernium																				
+Back Attack Plus X	Dmg from Back +14%	3 Jagged Grex Tail	3 Purple Virago Alloy Plate	-	1 Cimmerian Cinnabar																				
+Back Attack Plus XV	Dmg from Back +20%	4 Jagged Grex Tail	4 Purple Virago Alloy Plate	-	1 Ouroboros Crystal																				
+Back Attack Plus XX	Dmg from Back +25%	5 Jagged Grex Tail	5 Purple Virago Alloy Plate	-	1 Parhelion Platinum																				
+Vantage Attack Plus I	Dmg from Above +5%	1 Supple Leather	-	-	1 Arc Sand Ore																				
+Vantage Attack Plus V	Dmg from Above +9%	2 Supple Leather	-	-	1 Lionbone Bort																				
+Vantage Attack Plus X	Dmg from Above +14%	3 Supple Leather	-	-	1 Enduron Lead																				
+Vantage Attack Plus XV	Dmg from Above +20%	4 Supple Leather	-	-	1 Boiled-Egg Ore																				
+Vantage Attack Plus XX	Dmg from Above +25%	5 Supple Leather	-	-	1 Marine Rutile																				
+Melee: Blackout I	Melee AA may inflict Blackout I	1 Ovis Polishing Stone	-	-	1 Arc Sand Ore																				
+Melee: Blackout V	Melee AA may inflict Blackout I	2 Ovis Polishing Stone	-	-	1 Lionbone Bort																				
+Melee: Blackout X	Melee AA may inflict Blackout II	3 Ovis Polishing Stone	-	-	1 Enduron Lead																				
+Melee: Blackout XV	Melee AA may inflict Blackout III	4 Ovis Polishing Stone	-	-	1 Boiled-Egg Ore																				
+Melee: Blackout XX	Melee AA may inflict Blackout IV	5 Ovis Polishing Stone	-	-	1 Marine Rutile																				
+Melee: Fatigue I	Melee AA may inflict Fatigue I	1 Muscled Suid Bulge	-	-	1 Arc Sand Ore																				
+Melee: Fatigue V	Melee AA may inflict Fatigue I	2 Muscled Suid Bulge	-	-	1 Lionbone Bort																				
+Melee: Fatigue X	Melee AA may inflict Fatigue II	3 Muscled Suid Bulge	-	-	1 Enduron Lead																				
+Melee: Fatigue XV	Melee AA may inflict Fatigue III	4 Muscled Suid Bulge	-	-	1 Boiled-Egg Ore																				
+Melee: Fatigue XX	Melee AA may inflict Fatigue IV	5 Muscled Suid Bulge	-	-	1 Marine Rutile																				
+Melee: Phys Res Down I	Melee AA may inflict Phys Res Down I	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Melee: Phys Res Down V	Melee AA may inflict Phys Res Down I	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Melee: Phys Res Down X	Melee AA may inflict Phys Res Down II	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Melee: Phys Res Down XV	Melee AA may inflict Phys Res Down III	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Melee: Phys Res Down XX	Melee AA may inflict Phys Res Down IV	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Melee: Beam Res Down I	Melee AA may inflict Beam Res Down I	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
+Melee: Beam Res Down V	Melee AA may inflict Beam Res Down I	2 Adsecula Straw	-	-	1 Lionbone Bort																				
+Melee: Beam Res Down X	Melee AA may inflict Beam Res Down II	3 Adsecula Straw	-	-	1 Enduron Lead																				
+Melee: Beam Res Down XV	Melee AA may inflict Beam Res Down III	4 Adsecula Straw	-	-	1 Boiled-Egg Ore																				
+Melee: Beam Res Down XX	Melee AA may inflict Beam Res Down IV	5 Adsecula Straw	-	-	1 Marine Rutile																				
+Melee: Ether Res Down I	Melee AA may inflict Ether Res Down I	1 Perforated Oar	-	-	1 Arc Sand Ore																				
+Melee: Ether Res Down V	Melee AA may inflict Ether Res Down I	2 Perforated Oar	-	-	1 Lionbone Bort																				
+Melee: Ether Res Down X	Melee AA may inflict Ether Res Down II	3 Perforated Oar	-	-	1 Enduron Lead																				
+Melee: Ether Res Down XV	Melee AA may inflict Ether Res Down III	4 Perforated Oar	-	-	1 Boiled-Egg Ore																				
+Melee: Ether Res Down XX	Melee AA may inflict Ether Res Down IV	5 Perforated Oar	-	-	1 Marine Rutile																				
+Melee: Thermal Res Down I	Melee AA may inflict Thermal Res Down I	1 Red Forfex Shell	-	-	1 Arc Sand Ore																				
+Melee: Thermal Res Down V	Melee AA may inflict Thermal Res Down I	2 Red Forfex Shell	-	-	1 Lionbone Bort																				
+Melee: Thermal Res Down X	Melee AA may inflict Thermal Res Down II	3 Red Forfex Shell	-	-	1 Enduron Lead																				
+Melee: Thermal Res Down XV	Melee AA may inflict Thermal Res Down III	4 Red Forfex Shell	-	-	1 Boiled-Egg Ore																				
+Melee: Thermal Res Down XX	Melee AA may inflict Thermal Res Down IV	5 Red Forfex Shell	-	-	1 Marine Rutile																				
+Melee: Electric Res Down I	Melee AA may inflict Electric Res Down I	1 Muddy Pelt	-	-	1 Arc Sand Ore																				
+Melee: Electric Res Down V	Melee AA may inflict Electric Res Down I	2 Muddy Pelt	-	-	1 Lionbone Bort																				
+Melee: Electric Res Down X	Melee AA may inflict Electric Res Down II	3 Muddy Pelt	-	-	1 Enduron Lead																				
+Melee: Electric Res Down XV	Melee AA may inflict Electric Res Down III	4 Muddy Pelt	-	-	1 Boiled-Egg Ore																				
+Melee: Electric Res Down XX	Melee AA may inflict Electric Res Down IV	5 Muddy Pelt	-	-	1 Marine Rutile																				
+Melee: Gravity Res Down I	Melee AA may inflict Gravity Res Down I	1 Black Blatta Wing	-	-	1 Arc Sand Ore																				
+Melee: Gravity Res Down V	Melee AA may inflict Gravity Res Down I	2 Black Blatta Wing	-	-	1 Lionbone Bort																				
+Melee: Gravity Res Down X	Melee AA may inflict Gravity Res Down II	3 Black Blatta Wing	-	-	1 Enduron Lead																				
+Melee: Gravity Res Down XV	Melee AA may inflict Gravity Res Down III	4 Black Blatta Wing	-	-	1 Boiled-Egg Ore																				
+Melee: Gravity Res Down XX	Melee AA may inflict Gravity Res Down IV	5 Black Blatta Wing	-	-	1 Marine Rutile																				
+Melee: Blaze I	Melee AA may inflict Blaze I	1 Scirpo Malic Acid Sac	1 Pugilith Lamp	-	1 Aurorite																				
+Melee: Blaze V	Melee AA may inflict Blaze I	2 Scirpo Malic Acid Sac	2 Pugilith Lamp	-	1 Infernium																				
+Melee: Blaze X	Melee AA may inflict Blaze II	3 Scirpo Malic Acid Sac	3 Imperial Sphinx Fang	-	1 Cimmerian Cinnabar																				
+Melee: Blaze XV	Melee AA may inflict Blaze III	4 Scirpo Malic Acid Sac	4 Imperial Sphinx Fang	-	1 Ouroboros Crystal																				
+Melee: Blaze XX	Melee AA may inflict Blaze IV	5 Scirpo Malic Acid Sac	5 Imperial Sphinx Fang	-	1 Parhelion Platinum																				
+Melee: Shock I	Melee AA may inflict Shock I	1 Scirpo Cyanide Sac	1 Electrified Xeno Blood	-	1 Aurorite																				
+Melee: Shock V	Melee AA may inflict Shock I	2 Scirpo Cyanide Sac	2 Electrified Xeno Blood	-	1 Infernium																				
+Melee: Shock X	Melee AA may inflict Shock II	3 Scirpo Cyanide Sac	3 Electric Tersqual Tear	-	1 Cimmerian Cinnabar																				
+Melee: Shock XV	Melee AA may inflict Shock III	4 Scirpo Cyanide Sac	4 Electric Tersqual Tear	-	1 Ouroboros Crystal																				
+Melee: Shock XX	Melee AA may inflict Shock IV	5 Scirpo Cyanide Sac	5 Electric Tersqual Tear	-	1 Parhelion Platinum																				
+Melee: Recover HP I	Melee AA often restore 10 HP	1 Thallus Crescent Hook	1 Green Monoceros Horn	1 Liceor Horn	1 White Cometite																				
+Melee: Recover HP V	Melee AA often restore 50 HP	2 Thallus Crescent Hook	2 Green Monoceros Horn	2 Liceor Horn	1 Dawnstone																				
+Melee: Recover HP X	Melee AA often restore 100 HP	3 Thallus Crescent Hook	3 Millesaur Dung	3 Coronid Dung	1 Everfreeze Ore																				
+Melee: Recover HP XV	Melee AA often restore 150 HP	4 Thallus Crescent Hook	4 Millesaur Dung	4 Coronid Dung	1 Foucaultium																				
+Melee: Recover HP XX	Melee AA often restore 200 HP	5 Thallus Crescent Hook	5 Millesaur Dung	5 Coronid Dung	1 Bonjelium																				
+Soft Touch I	Attacks have 10% chance to not break Sleep	1 Terebra Paw Stamp	-	-	1 Arc Sand Ore																				
+Soft Touch V	Attacks have 18% chance to not break Sleep	2 Terebra Paw Stamp	-	-	1 Lionbone Bort																				
+Soft Touch X	Attacks have 28% chance to not break Sleep	8 Arenatect Shell	8 Blue Jacul Wing	8 Gerrid Navel	2 Everfreeze Ore																				
+Soft Touch XV	Attacks have 38% chance to not break Sleep	16 Arenatect Shell	16 Blue Jacul Wing	16 Gerrid Navel	4 Foucaultium																				
+Soft Touch XX	Attacks have 50% chance to not break Sleep	32 Arenatect Shell	32 Blue Jacul Wing	32 Gerrid Navel	8 Bonjelium																				
+Nullify Phys Reflect I	5% chance to nullify Phys Reflect	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Nullify Phys Reflect V	25% chance to nullify Phys Reflect	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Nullify Phys Reflect X	50% chance to nullify Phys Reflect	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Nullify Phys Reflect XV	75% chance to nullify Phys Reflect	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Nullify Phys Reflect XX	100% chance to nullify Phys Reflect	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Nullify Beam Reflect I	5% chance to nullify Beam Reflect	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
+Nullify Beam Reflect V	25% chance to nullify Beam Reflect	2 Adsecula Straw	-	-	1 Lionbone Bort																				
+Nullify Beam Reflect X	50% chance to nullify Beam Reflect	3 Adsecula Straw	-	-	1 Enduron Lead																				
+Nullify Beam Reflect XV	75% chance to nullify Beam Reflect	4 Adsecula Straw	-	-	1 Boiled-Egg Ore																				
+Nullify Beam Reflect XX	100% chance to nullify Beam Reflect	5 Adsecula Straw	-	-	1 Marine Rutile																				
+Nullify Ether Reflect I	5% chance to nullify Ether Reflect	1 Perforated Oar	-	-	1 Arc Sand Ore																				
+Nullify Ether Reflect V	25% chance to nullify Ether Reflect	2 Perforated Oar	-	-	1 Lionbone Bort																				
+Nullify Ether Reflect X	50% chance to nullify Ether Reflect	3 Perforated Oar	-	-	1 Enduron Lead																				
+Nullify Ether Reflect XV	75% chance to nullify Ether Reflect	4 Perforated Oar	-	-	1 Boiled-Egg Ore																				
+Nullify Ether Reflect XX	100% chance to nullify Ether Reflect	5 Perforated Oar	-	-	1 Marine Rutile																				
+Nullify Thermal Reflect I	5% chance to nullify Thermal Reflect	1 Red Forfex Shell	-	-	1 Arc Sand Ore																				
+Nullify Thermal Reflect V	25% chance to nullify Thermal Reflect	2 Red Forfex Shell	-	-	1 Lionbone Bort																				
+Nullify Thermal Reflect X	50% chance to nullify Thermal Reflect	3 Red Forfex Shell	-	-	1 Enduron Lead																				
+Nullify Thermal Reflect XV	75% chance to nullify Thermal Reflect	4 Red Forfex Shell	-	-	1 Boiled-Egg Ore																				
+Nullify Thermal Reflect XX	100% chance to nullify Thermal Reflect	5 Red Forfex Shell	-	-	1 Marine Rutile																				
+Nullify Electric Reflect I	5% chance to nullify Electric Reflect	1 Muddy Pelt	-	-	1 Arc Sand Ore																				
+Nullify Electric Reflect V	25% chance to nullify Electric Reflect	2 Muddy Pelt	-	-	1 Lionbone Bort																				
+Nullify Electric Reflect X	50% chance to nullify Electric Reflect	3 Muddy Pelt	-	-	1 Enduron Lead																				
+Nullify Electric Reflect XV	75% chance to nullify Electric Reflect	4 Muddy Pelt	-	-	1 Boiled-Egg Ore																				
+Nullify Electric Reflect XX	100% chance to nullify Electric Reflect	5 Muddy Pelt	-	-	1 Marine Rutile																				
+Nullify Gravity Reflect I	5% chance to nullify Gravity Reflect	1 Black Blatta Wing	-	-	1 Arc Sand Ore																				
+Nullify Gravity Reflect V	25% chance to nullify Gravity Reflect	2 Black Blatta Wing	-	-	1 Lionbone Bort																				
+Nullify Gravity Reflect X	50% chance to nullify Gravity Reflect	3 Black Blatta Wing	-	-	1 Enduron Lead																				
+Nullify Gravity Reflect XV	75% chance to nullify Gravity Reflect	4 Black Blatta Wing	-	-	1 Boiled-Egg Ore																				
+Nullify Gravity Reflect XX	100% chance to nullify Gravity Reflect	5 Black Blatta Wing	-	-	1 Marine Rutile																				
+Overdrive Count Up I	Overdrive counter starts with +1	1 Elemental Cluster	1 Moving Thallus Tail	1 Puge Counter	1 White Cometite																				
+Overdrive Count Up V	Overdrive counter starts with +5	2 Elemental Cluster	2 Moving Thallus Tail	2 Puge Counter	1 Dawnstone																				
+Overdrive Count Up X	Overdrive counter starts with +10	4 Elemental Cluster	4 Fertilized Jacul Egg	4 Maple Oil	2 Everfreeze Ore																				
+Overdrive Count Up XV	Overdrive counter starts with +15	6 Elemental Cluster	6 Fertilized Jacul Egg	6 Maple Oil	4 Foucaultium																				
+Overdrive Count Up XX	Overdrive counter starts with +20	12 Elemental Cluster	12 Fertilized Jacul Egg	12 Maple Oil	8 Bonjelium																				
+Overdrive Blue Bonus	Blue Arts raise Overdrive counter by 10	16 Emerald Whiskey	16 Crimson Dilus Eye	16 Moving Dilus Tail	24 White Cometite																				
+Overdrive Green Bonus	Green Arts raise Overdrive counter by 3	24 Galdr Head	24 Amber Dilus Eye	24 Sylooth Tonic Water	12 Bonjelium																				
+Arts: Gain TP I	Using Arts restores 10 TP	1 White Mortifole Feather	1 Ornate Insidia Claw	1 Blue Fungi	1 White Cometite																				
+Arts: Gain TP V	Using Arts restores 50 TP	2 White Mortifole Feather	2 Ornate Insidia Claw	2 Blue Fungi	1 Dawnstone																				
+Arts: Gain TP X	Using Arts restores 100 TP	8 White Mortifole Feather	8 Aeviter Star Wing	8 Red Vigent Rock Scalp	2 Everfreeze Ore																				
+Arts: Gain TP XV	Using Arts restores 150 TP	16 White Mortifole Feather	16 Aeviter Star Wing	16 Red Vigent Rock Scalp	4 Foucaultium																				
+Arts: Gain TP XX	Using Arts restores 200 TP	32 White Mortifole Feather	32 Aeviter Star Wing	32 Red Vigent Rock Scalp	8 Bonjelium																				
+Arts: Recover HP I	Using Arts restores 10 HP	1 Melon Oil	1 Silver Blatta Wing	1 Pristine Insect Jaw	1 White Cometite																				
+Arts: Recover HP V	Using Arts restores 50 HP	2 Melon Oil	2 Silver Blatta Wing	2 Pristine Insect Jaw	1 Dawnstone																				
+Arts: Recover HP X	Using Arts restores 100 HP	8 Melon Oil	8 Large Lophid Liver	8 Virago Blood Sweat	2 Everfreeze Ore																				
+Arts: Recover HP XV	Using Arts restores 150 HP	16 Melon Oil	16 Large Lophid Liver	16 Virago Blood Sweat	4 Foucaultium																				
+Arts: Recover HP XX	Using Arts restores 200 HP	32 Melon Oil	32 Large Lophid Liver	32 Virago Blood Sweat	8 Bonjelium																				
+Secondary CD Reducer I	Doublecast 1% faster	1 Advanced Jet	1 Brilliant Murra Liquid	1 Quality Shaft	1 White Cometite																				
+Secondary CD Reducer V	Doublecast 5% faster	2 Advanced Jet	2 Brilliant Visigel Liquid	2 Quality Shaft	1 Dawnstone																				
+Secondary CD Reducer X	Doublecast 10% faster	3 Liceor Sun Bead	3 Coconut Oil	3 Yggralith Recovery Horn	2 Everfreeze Ore																				
+Secondary CD Reducer XV	Doublecast 15% faster	6 Liceor Sun Bead	6 Coconut Oil	6 Yggralith Recovery Horn	4 Foucaultium																				
+Secondary CD Reducer XX	Doublecast 20% faster	12 Liceor Sun Bead	12 Coconut Oil	12 Yggralith Recovery Horn	16 Bonjelium																				
+Extend Blaze I	Blaze duration from arts +1s	1 Poisonous Needle	-	-	1 Arc Sand Ore																				
+Extend Blaze V	Blaze duration from arts +5s	2 Poisonous Needle	-	-	1 Lionbone Bort																				
+Extend Blaze X	Blaze duration from arts +10s	3 Poisonous Needle	-	-	1 Enduron Lead																				
+Extend Blaze XV	Blaze duration from arts +15s	4 Poisonous Needle	-	-	1 Boiled-Egg Ore																				
+Extend Blaze XX	Blaze duration from arts +20s	5 Poisonous Needle	-	-	1 Marine Rutile																				
+Extend Shock I	Shock duration from arts +1s	1 Vesper Fang	-	-	1 Arc Sand Ore																				
+Extend Shock V	Shock duration from arts +5s	2 Vesper Fang	-	-	1 Lionbone Bort																				
+Extend Shock X	Shock duration from arts +10s	3 Vesper Fang	-	-	1 Enduron Lead																				
+Extend Shock XV	Shock duration from arts +15s	4 Vesper Fang	-	-	1 Boiled-Egg Ore																				
+Extend Shock XX	Shock duration from arts +20s	5 Vesper Fang	-	-	1 Marine Rutile																				
+Extend Phys Res Down 	Phys Res Down duration from arts +1s	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Extend Phys Res Down V	Phys Res Down duration from arts +5s	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Extend Phys Res Down X	Phys Res Down duration from arts +10s	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Extend Phys Res Down XV	Phys Res Down duration from arts +15s	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Extend Phys Res Down XX	Phys Res Down duration from arts +20s	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Extend Beam Res Down I	Beam Res Down duration from arts +1s	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
+Extend Beam Res Down V	Beam Res Down duration from arts +5s	2 Adsecula Straw	-	-	1 Lionbone Bort																				
+Extend Beam Res Down X	Beam Res Down duration from arts +10s	3 Adsecula Straw	-	-	1 Enduron Lead																				
+Extend Beam Res Down XV	Beam Res Down duration from arts +15s	4 Adsecula Straw	-	-	1 Boiled-Egg Ore																				
+Extend Beam Res Down XX	Beam Res Down duration from arts +20s	5 Adsecula Straw	-	-	1 Marine Rutile																				
+Extend Ether Res Down I	Ether Res Down duration from arts +1s	1 Perforated Oar	-	-	1 Arc Sand Ore		duration +2s																		
+Extend Ether Res Down V	Ether Res Down duration from arts +5s	2 Perforated Oar	-	-	1 Lionbone Bort																				
+Extend Ether Res Down X	Ether Res Down duration from arts +10s	3 Perforated Oar	-	-	1 Enduron Lead																				
+Extend Ether Res Down XV	Ether Res Down duration from arts +15s	4 Perforated Oar	-	-	1 Boiled-Egg Ore																				
+Extend Ether Res Down XX	Ether Res Down duration from arts +20s	5 Perforated Oar	-	-	1 Marine Rutile																				
+Extend Thermal Res Down I	Thermal Res Down duration from arts +1s	1 Red Forfex Shell	-	-	1 Arc Sand Ore																				
+Extend Thermal Res Down V	Thermal Res Down duration from arts +5s	2 Red Forfex Shell	-	-	1 Lionbone Bort																				
+Extend Thermal Res Down X	Thermal Res Down duration from arts +10s	3 Red Forfex Shell	-	-	1 Enduron Lead																				
+Extend Thermal Res Down XV	Thermal Res Down duration from arts +15s	4 Red Forfex Shell	-	-	1 Boiled-Egg Ore																				
+Extend Thermal Res Down XX	Thermal Res Down duration from arts +20s	5 Red Forfex Shell	-	-	1 Marine Rutile																				
+Extend Electric Res Down I	Electric Res Down duration from arts +1s	1 Muddy Pelt	-	-	1 Arc Sand Ore																				
+Extend Electric Res Down V	Electric Res Down duration from arts +5s	2 Muddy Pelt	-	-	1 Lionbone Bort																				
+Extend Electric Res Down X	Electric Res Down duration from arts +10s	3 Muddy Pelt	-	-	1 Enduron Lead																				
+Extend Electric Res Down XV	Electric Res Down duration from arts +15s	4 Muddy Pelt	-	-	1 Boiled-Egg Ore																				
+Extend Electric Res Down XX	Electric Res Down duration from arts +20s	5 Muddy Pelt	-	-	1 Marine Rutile																				
+Extend Gravity Res Down I	Gravity Res Down duration from arts +1s	1 Black Blatta Wing	-	-	1 Arc Sand Ore																				
+Extend Gravity Res Down V	Gravity Res Down duration from arts +5s	2 Black Blatta Wing	-	-	1 Lionbone Bort																				
+Extend Gravity Res Down X	Gravity Res Down duration from arts +10s	3 Black Blatta Wing	-	-	1 Enduron Lead																				
+Extend Gravity Res Down XV	Gravity Res Down duration from arts +15s	4 Black Blatta Wing	-	-	1 Boiled-Egg Ore																				
+Extend Gravity Res Down XX	Gravity Res Down duration from arts +20s	5 Black Blatta Wing	-	-	1 Marine Rutile																				
+Opening Art: Damage Up I	Battle-starting Arts dmg +5%	1 Red Thallus Antenna	1 Monoceros Wing	1 Reinforced Thruster	1 White Cometite																				
+Opening Art: Damage Up V	Battle-starting Arts dmg +25%	2 Red Thallus Antenna	2 Monoceros Wing	2 Reinforced Thruster	1 Dawnstone																				
+Opening Art: Damage Up X	Battle-starting Arts dmg +50%	3 Red Thallus Antenna	3 Parasitic Capsule	3 Large Saw Tooth	1 Everfreeze Ore																				
+Opening Art: Damage Up XV	Battle-starting Arts dmg +75%	4 Red Thallus Antenna	4 Parasitic Capsule	4 Large Saw Tooth	1 Foucaultium																				
+Opening Art: Damage Up XX	Battle-starting Arts dmg +100%	5 Red Thallus Antenna	5 Parasitic Capsule	5 Large Saw Tooth	1 Bonjelium																				
+Melee Draw Surge I	"Melee Draw" activation rate +10%	1 Red Simius Mane	1 Green Simius Mane	-	1 Aurorite																				
+Melee Draw Surge V	"Melee Draw" activation rate +18%	2 Red Simius Mane	2 Green Simius Mane	-	1 Infernium																				
+Melee Draw Surge X	"Melee Draw" activation rate +28%	3 Red Simius Mane	3 Black Stabilizer	-	1 Cimmerian Cinnabar																				
+Melee Draw Surge XV	"Melee Draw" activation rate +40%	4 Red Simius Mane	4 Black Stabilizer	-	1 Ouroboros Crystal																				
+Melee Draw Surge XX	"Melee Draw" activation rate +50%	5 Red Simius Mane	5 Black Stabilizer	-	1 Parhelion Platinum																				
+Ranged Draw Surge I	"Ranged Draw" activation rate +10%	1 Tectinsula Shell	1 Mephite Ear Hair	-	1 Aurorite																				
+Ranged Draw Surge V	"Ranged Draw" activation rate +18%	2 Tectinsula Shell	2 Mephite Ear Hair	-	1 Infernium																				
+Ranged Draw Surge X	"Ranged Draw" activation rate +28%	3 Tectinsula Shell	3 Genuine Chamber	-	1 Cimmerian Cinnabar																				
+Ranged Draw Surge XV	"Ranged Draw" activation rate +40%	4 Tectinsula Shell	4 Genuine Chamber	-	1 Ouroboros Crystal																				
+Ranged Draw Surge XX	"Ranged Draw" activation rate +50%	5 Tectinsula Shell	5 Genuine Chamber	-	1 Parhelion Platinum																				
+Arts Draw Surge I	"Arts Draw" activation rate +5%	1 Chipped Talon	1 Broken Antenna	-	1 Aurorite																				
+Arts Draw Surge V	"Arts Draw" activation rate +9%	2 Chipped Talon	2 Broken Antenna	-	1 Infernium																				
+Arts Draw Surge X	"Arts Draw" activation rate +14%	3 Chipped Talon	3 Broken Antenna	-	1 Cimmerian Cinnabar																				
+Arts Draw Surge XV	"Arts Draw" activation rate +19%	5 Chipped Talon	1 Turquoise Metal	-	1 Ouroboros Crystal																				
+Arts Draw Surge XX	"Arts Draw" activation rate +25%	8 Chipped Talon	2 Turquoise Metal	-	1 Parhelion Platinum																				
+Critical Surge I	"Heavy Hitter" activation rate +10%	1 Unafulge Numbing Toxin	1 Tectinsula Back Moss	-	1 Aurorite																				
+Critical Surge V	"Heavy Hitter" activation rate +18%	2 Unafulge Numbing Toxin	2 Tectinsula Back Moss	-	1 Infernium																				
+Critical Surge X	"Heavy Hitter" activation rate +28%	3 Unafulge Numbing Toxin	3 White Yggralith Scale	-	1 Cimmerian Cinnabar																				
+Critical Surge XV	"Heavy Hitter" activation rate +40%	4 Unafulge Numbing Toxin	4 White Yggralith Scale	-	1 Ouroboros Crystal																				
+Critical Surge XX	"Heavy Hitter" activation rate +50%	5 Unafulge Numbing Toxin	5 White Yggralith Scale	-	1 Parhelion Platinum																				
+Crush Surge I	"Appendage Destruction" activation rate +5%	1 Robust Evello Horn	1 Insidia Mohawk	-	1 Aurorite																				
+Crush Surge V	"Appendage Destruction" activation rate +9%	2 Robust Evello Horn	2 Insidia Mohawk	-	1 Infernium																				
+Crush Surge X	"Appendage Destruction" activation rate +14%	3 Robust Evello Horn	3 Developed Balaena Fat	-	1 Cimmerian Cinnabar																				
+Crush Surge XV	"Appendage Destruction" activation rate +19%	4 Robust Evello Horn	4 Developed Balaena Fat	-	1 Ouroboros Crystal																				
+Crush Surge XX	"Appendage Destruction" activation rate +25%	5 Robust Evello Horn	5 Developed Balaena Fat	-	1 Parhelion Platinum																				
+Underdog Surge I	"Underdog" activation rate +10%	1 Sticky Scirpo Silk	1 Stripped Plating	-	1 Aurorite																				
+Underdog Surge V	"Underdog" activation rate +18%	2 Sticky Scirpo Silk	2 Stripped Plating	-	1 Infernium																				
+Underdog Surge X	"Underdog" activation rate +28%	3 Sticky Scirpo Silk	3 Black Yggralith Scale	-	1 Cimmerian Cinnabar																				
+Underdog Surge XV	"Underdog" activation rate +40%	4 Sticky Scirpo Silk	4 Black Yggralith Scale	-	1 Ouroboros Crystal																				
+Underdog Surge XX	"Underdog" activation rate +50%	5 Sticky Scirpo Silk	5 Black Yggralith Scale	-	1 Parhelion Platinum																				
+Artful Execution Surge I	"Artful Execution" activation rate +10%	1 Bone-In Thigh Meat	1 Evergreen Aprica Antlers	-	1 Aurorite																				
+Artful Execution Surge V	"Artful Execution" activation rate +18%	2 Bone-In Thigh Meat	2 Evergreen Aprica Antlers	-	1 Infernium																				
+Artful Execution Surge X	"Artful Execution" activation rate +28%	3 Bone-In Thigh Meat	3 Sparkling Blue Gem	-	1 Cimmerian Cinnabar																				
+Artful Execution Surge XV	"Artful Execution" activation rate +40%	4 Bone-In Thigh Meat	4 Sparkling Blue Gem	-	1 Ouroboros Crystal																				
+Artful Execution Surge XX	"Artful Execution" activation rate +50%	5 Bone-In Thigh Meat	5 Sparkling Blue Gem	-	1 Parhelion Platinum																				
+Appendage Crusher	Lowers enemy Appendage Toughness by 1 rank	1 Emerald Horn	1 Shed Germivore Scales	1 Mortifole Pollen	1 White Cometite																				
+Crush: Gain TP I	Gain 300 TP on Appendage destruction	1 Pristine Insect Jaw	1 Oc-serv Western Crest	1 Vesper Fry	1 White Cometite																				
+Crush: Gain TP V	Gain 500 TP on Appendage destruction	2 Pristine Insect Jaw	2 Oc-serv Western Crest	2 Vesper Fry	1 Dawnstone																				
+Crush: Gain TP X	Gain 750 TP on Appendage destruction	3 Pristine Insect Jaw	3 Golden Petramand Silk	3 Red Scintimure Tentacle	1 Everfreeze Ore																				
+Crush: Gain TP XV	Gain 1000 TP on Appendage destruction	4 Pristine Insect Jaw	4 Golden Petramand Silk	4 Red Scintimure Tentacle	1 Foucaultium																				
+Crush: Gain TP XX	Gain 1500 TP on Appendage destruction	5 Pristine Insect Jaw	5 Golden Petramand Silk	5 Red Scintimure Tentacle	1 Bonjelium																				
+Ranged Appendage Damage I	Ranged weapon dmg vs Appendages +20%	1 Sapphire Horn	1 Monoceros Hoof Hook	1 Cracked Claw	1 White Cometite																				
+Ranged Appendage Damage V	Ranged weapon dmg vs Appendages +36%	2 Sapphire Horn	2 Monoceros Hoof Hook	2 Cracked Claw	1 Dawnstone																				
+Ranged Appendage Damage X	Ranged weapon dmg vs Appendages +56%	3 Sapphire Horn	3 Malevolent Petramand Silk	3 Brown Monoceros Horn	1 Everfreeze Ore																				
+Ranged Appendage Damage XV	Ranged weapon dmg vs Appendages +80%	4 Sapphire Horn	4 Malevolent Petramand Silk	4 Brown Monoceros Horn	1 Foucaultium																				
+Ranged Appendage Damage XX	Ranged weapon dmg vs Appendages +100%	5 Sapphire Horn	5 Malevolent Petramand Silk	5 Brown Monoceros Horn	1 Bonjelium																				
+Night Vision I	Melee/Ranged Accuracy at Night +10%	1 Ovis Polishing Stone	-	-	1 Arc Sand Ore																				
+Night Vision V	Melee/Ranged Accuracy at Night +18%	2 Ovis Polishing Stone	-	-	1 Lionbone Bort																				
+Night Vision X	Melee/Ranged Accuracy at Night +28%	3 Ovis Polishing Stone	-	-	1 Enduron Lead																				
+Night Vision XV	Melee/Ranged Accuracy at Night +40%	4 Ovis Polishing Stone	-	-	1 Boiled-Egg Ore																				
+Night Vision XX	Melee/Ranged Accuracy at Night +50%	5 Ovis Polishing Stone	-	-	1 Marine Rutile																				
+Max HP Up I	Max HP +100	1 Succulent Meat	-	-	1 Arc Sand Ore																				
+Max HP Up V	Max HP +300	2 Succulent Meat	-	-	1 Lionbone Bort																				
+Max HP Up X	Max HP +550	3 Succulent Meat	-	-	1 Enduron Lead																				
+Max HP Up XV	Max HP +800	4 Succulent Meat	-	-	1 Boiled-Egg Ore																				
+Max HP Up XX	Max HP +1500	5 Succulent Meat	-	-	1 Marine Rutile																				
+Max TP Up I	Max TP +500	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+Max TP Up V	Max TP +900	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+Max TP Up X	Max TP +1400	3 Fleecy Fur	-	-	1 Enduron Lead																				
+Max TP Up XV	Max TP +1900	4 Fleecy Fur	-	-	1 Boiled-Egg Ore																				
+Max TP Up XX	Max TP +3000	5 Fleecy Fur	-	-	1 Marine Rutile																				
+Evasion Up I	Evasion +5	1 Black Fog Deposits	-	-	1 Arc Sand Ore																				
+Evasion Up V	Evasion +9	2 Black Fog Deposits	-	-	1 Lionbone Bort																				
+Evasion Up X	Evasion +14	8 Cloudy Eyeball	8 Gerrid Shell	8 Jacul Waterfall Orb	2 Everfreeze Ore																				
+Evasion Up XV	Evasion +20	16 Cloudy Eyeball	16 Gerrid Shell	16 Jacul Waterfall Orb	4 Foucaultium																				
+Evasion Up XX	Evasion +25	32 Cloudy Eyeball	32 Gerrid Shell	32 Jacul Waterfall Orb	8 Bonjelium																				
+Potential Up I	Potential +4	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+Potential Up V	Potential +12	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+Potential Up X	Potential +22	8 Distilled Sap	8 Blazing Gas Sac	8 Lepyx Moonstone	2 Everfreeze Ore																				
+Potential Up XV	Potential +32	16 Distilled Sap	16 Blazing Gas Sac	16 Lepyx Moonstone	4 Foucaultium																				
+Potential Up XX	Potential +50	32 Distilled Sap	32 Blazing Gas Sac	32 Lepyx Moonstone	8 Bonjelium																				
+Max HP Boost I	HP Max +5%	1 Redwood Aprica Antlers	1 Raw Meaty Caecus Liver	1 Succulent Meat	1 White Cometite																				
+Max HP Boost V	HP Max +9%	2 Redwood Aprica Antlers	2 Raw Meaty Caecus Liver	2 Succulent Meat	1 Dawnstone																				
+Max HP Boost X	HP Max +14%	6 Redwood Aprica Antlers	6 Golden Cantor Tooth	6 Big Balaena Water Bag	2 Everfreeze Ore																				
+Max HP Boost XV	HP Max +20%	12 Redwood Aprica Antlers	12 Golden Cantor Tooth	12 Big Balaena Water Bag	4 Foucaultium																				
+Max HP Boost XX	HP Max +25%	24 Redwood Aprica Antlers	24 Golden Cantor Tooth	24 Big Balaena Water Bag	8 Bonjelium																				
+Max TP Boost I	TP Max +5%	1 Hard Pom Pom	1 Black Thallus Antenna	1 Fleecy Fur	1 White Cometite																				
+Max TP Boost V	TP Max +9%	2 Hard Pom Pom	2 Black Thallus Antenna	2 Fleecy Fur	1 Dawnstone																				
+Max TP Boost X	TP Max +14%	4 Hard Pom Pom	4 Fatty Fish Belly	4 Scintimure Fat	2 Everfreeze Ore																				
+Max TP Boost XV	TP Max +20%	8 Hard Pom Pom	8 Fatty Fish Belly	8 Scintimure Fat	3 Foucaultium																				
+Max TP Boost XX	TP Max +25%	16 Hard Pom Pom	16 Fatty Fish Belly	16 Scintimure Fat	4 Bonjelium																				
+Evasion Boost I	Evasion +5%	1 Slimy Epithelium	1 Fal-swo Solar Crest	1 Black Fog Deposits	1 White Cometite																				
+Evasion Boost V	Evasion +9%	2 Slimy Epithelium	2 Fal-swo Solar Crest	2 Black Fog Deposits	1 Dawnstone																				
+Evasion Boost X	Evasion +14%	8 Slimy Epithelium	8 Brilliant Tersqual Liquid	8 Blinding Lophid Extract	2 Everfreeze Ore																				
+Evasion Boost XV	Evasion +20%	24 Slimy Epithelium	24 Brilliant Tersqual Liquid	24 Blinding Lophid Extract	8 Foucaultium																				
+Evasion Boost XX	Evasion +25%	48 Slimy Epithelium	48 Brilliant Tersqual Liquid	48 Blinding Lophid Extract	16 Bonjelium																				
+Potential Boost I	Potential +5%	1 Nutritious Microbes	1 White Fungal Egg	1 Fleecy Fur	1 White Cometite																				
+Potential Boost V	Potential +9%	2 Nutritious Microbes	2 White Fungal Egg	2 Fleecy Fur	1 Dawnstone																				
+Potential Boost X	Potential +14%	8 Nutritious Microbes	8 Clear Gerrid Soup	8 Gularthian Everflame	2 Everfreeze Ore																				
+Potential Boost XV	Potential +20%	24 Nutritious Microbes	24 Clear Gerrid Soup	24 Gularthian Everflame	8 Foucaultium																				
+Potential Boost XX	Potential +25%	48 Nutritious Microbes	48 Clear Gerrid Soup	48 Gularthian Everflame	16 Bonjelium																				
+Max HP Drive I	Skell Max HP +1%	1 Succulent Meat	1 Fresh Fish Meat	-	1 Aurorite																				
+Max HP Drive V	Skell Max HP +5%	2 Succulent Meat	2 Fresh Fish Meat	-	1 Infernium																				
+Max HP Drive X	Skell Max HP +10%	8 Succulent Meat	8 E.M. Unit	-	2 Cimmerian Cinnabar																				
+Max HP Drive XV	Skell Max HP +15%	16 Succulent Meat	16 E.M. Unit	-	4 Ouroboros Crystal																				
+Max HP Drive XX	Skell Max HP +20%	32 Succulent Meat	32 E.M. Unit	-	8 Parhelion Platinum																				
+Max GP Drive I	Skell Max GP +1%	1 Fleecy Fur	1 Gooey Gunge	-	1 Aurorite																				
+Max GP Drive V	Skell Max GP +5%	2 Fleecy Fur	2 Gooey Gunge	-	1 Infernium																				
+Max GP Drive X	Skell Max GP +10%	8 Fleecy Fur	8 S.P. Unit	-	2 Cimmerian Cinnabar																				
+Max GP Drive XV	Skell Max GP +15%	16 Fleecy Fur	16 S.P. Unit	-	4 Ouroboros Crystal																				
+Max GP Drive XX	Skell Max GP +20%	32 Fleecy Fur	32 S.P. Unit	-	8 Parhelion Platinum																				
+Melee Acc Drive I	Skell Melee Acc +1%	1 Muscled Suid Bulge	1 Combat Boost Meds	-	1 Aurorite																				
+Melee Acc Drive V	Skell Melee Acc +5%	2 Muscled Suid Bulge	2 Combat Boost Meds	-	1 Infernium																				
+Melee Acc Drive X	Skell Melee Acc +10%	3 Muscled Suid Bulge	3 T.P. Unit	-	1 Cimmerian Cinnabar																				
+Melee Acc Drive XV	Skell Melee Acc +15%	4 Muscled Suid Bulge	4 T.P. Unit	-	1 Ouroboros Crystal																				
+Melee Acc Drive XX	Skell Melee Acc +20%	5 Muscled Suid Bulge	5 T.P. Unit	-	1 Parhelion Platinum																				
+Ranged Acc Drive I	Skell Ranged Acc +1%	1 Appetizing Suid Tail	1 Small Scale	-	1 Aurorite																				
+Ranged Acc Drive V	Skell Ranged Acc +5%	2 Appetizing Suid Tail	2 Small Scale	-	1 Infernium																				
+Ranged Acc Drive X	Skell Ranged Acc +10%	3 Appetizing Suid Tail	3 R.B. Unit	-	1 Cimmerian Cinnabar																				
+Ranged Acc Drive XV	Skell Ranged Acc +15%	4 Appetizing Suid Tail	4 R.B. Unit	-	1 Ouroboros Crystal																				
+Ranged Acc Drive XX	Skell Ranged Acc +20%	5 Appetizing Suid Tail	5 R.B. Unit	-	1 Parhelion Platinum																				
+Evasion Drive I	Skell Evasion +1%	1 Black Fog Deposits	1 Rotten Meat	-	1 Aurorite																				
+Evasion Drive V	Skell Evasion +5%	2 Black Fog Deposits	2 Rotten Meat	-	1 Infernium																				
+Evasion Drive X	Skell Evasion +10%	8 Black Fog Deposits	8 Mollusk Mucus	-	2 Cimmerian Cinnabar																				
+Evasion Drive XV	Skell Evasion +15%	24 Black Fog Deposits	24 Mollusk Mucus	-	8 Ouroboros Crystal																				
+Evasion Drive XX	Skell Evasion +20%	48 Black Fog Deposits	48 Mollusk Mucus	-	16 Parhelion Platinum																				
+Melee Attack Drive I	Skell Melee Pow +1%	1 Muscled Suid Bulge	1 Muscled Simius Bulge	-	1 Aurorite																				
+Melee Attack Drive V	Skell Melee Pow +5%	2 Muscled Suid Bulge	2 Muscled Simius Bulge	-	1 Infernium																				
+Melee Attack Drive X	Skell Melee Pow +10%	8 Muscled Suid Bulge	3 Pristine Bristle	-	2 Cimmerian Cinnabar																				
+Melee Attack Drive XV	Skell Melee Pow +15%	16 Muscled Suid Bulge	6 Pristine Bristle	-	4 Ouroboros Crystal																				
+Melee Attack Drive XX	Skell Melee Pow +20%	32 Muscled Suid Bulge	12 Pristine Bristle	-	8 Parhelion Platinum																				
+Ranged Attack Drive I	Skell Ranged Pow +1%	1 Appetizing Suid Tail	1 Dual Boards	-	1 Aurorite																				
+Ranged Attack Drive V	Skell Ranged Pow +5%	2 Appetizing Suid Tail	2 Dual Boards	-	1 Infernium																				
+Ranged Attack Drive X	Skell Ranged Pow +10%	8 Appetizing Suid Tail	3 Rainbow Carving Shard	-	2 Cimmerian Cinnabar																				
+Ranged Attack Drive XV	Skell Ranged Pow +15%	16 Appetizing Suid Tail	6 Rainbow Carving Shard	-	4 Ouroboros Crystal																				
+Ranged Attack Drive XX	Skell Ranged Pow +20%	32 Appetizing Suid Tail	12 Rainbow Carving Shard	-	8 Parhelion Platinum																				
+Potential Drive I	Skell Potential +1%	1 Fleecy Fur	1 Orange Tequila	-	1 Aurorite																				
+Potential Drive V	Skell Potential +5%	2 Fleecy Fur	2 Orange Tequila	-	1 Infernium																				
+Potential Drive X	Skell Potential +10%	6 Fleecy Fur	3 Pristine Whiskers	-	2 Cimmerian Cinnabar																				
+Potential Drive XV	Skell Potential +15%	12 Fleecy Fur	4 Pristine Whiskers	-	4 Ouroboros Crystal																				
+Potential Drive XX	Skell Potential +20%	24 Fleecy Fur	5 Pristine Whiskers	-	8 Parhelion Platinum																				
+Bind: Refuel I	Restore 5 fuel/s while restraining enemy	1 Supple Tail	1 Fine Transparent Belt	-	1 Aurorite																				
+Bind: Refuel V	Restore 9 fuel/s while restraining enemy	2 Supple Tail	2 Fine Transparent Belt	-	1 Infernium																				
+Bind: Refuel X	Restore 14 fuel/s while restraining enemy	3 Supple Tail	3 Quality Skin	-	1 Cimmerian Cinnabar																				
+Bind: Refuel XV	Restore 20 fuel/s while restraining enemy	4 Supple Tail	4 Quality Skin	-	1 Ouroboros Crystal																				
+Bind: Refuel XX	Restore 25 fuel/s while restraining enemy	5 Supple Tail	5 Quality Skin	-	1 Parhelion Platinum																				
+Fuel Efficiency Up I	Skell fuel efficiency in battle +5%	1 Black Puff	1 Caro Tail Light	1 Standard Coil	1 White Cometite																				
+Fuel Efficiency Up V	Skell fuel efficiency in battle +25%	2 Black Puff	2 Caro Tail Light	2 Standard Coil	1 Dawnstone																				
+Fuel Efficiency Up X	Skell fuel efficiency in battle +50%	3 Black Puff	3 Giant Protein	3 Filiavent Intestine	1 Everfreeze Ore																				
+Fuel Efficiency Up XV	Skell fuel efficiency in battle +75%	4 Black Puff	4 Giant Protein	4 Filiavent Intestine	1 Foucaultium																				
+Fuel Efficiency Up XX	Skell fuel efficiency in battle +100%	5 Black Puff	5 Giant Protein	5 Filiavent Intestine	1 Bonjelium																				
+Phys Res Up I	Phys Res +5	1 Cinicula Shell	1 Falsaxum Shell	1 Suid Fillet	1 White Cometite																				
+Phys Res Up V	Phys Res +9	2 Cinicula Shell	2 Falsaxum Shell	2 Suid Fillet	1 Dawnstone																				
+Phys Res Up X	Phys Res +14	3 Cinicula Shell	3 Ictus Shell	3 Golden Blatta Wing	1 Everfreeze Ore																				
+Phys Res Up XV	Phys Res +20	4 Cinicula Shell	4 Ictus Shell	4 Golden Blatta Wing	1 Foucaultium																				
+Phys Res Up XX	Phys Res +25	5 Cinicula Shell	5 Ictus Shell	5 Golden Blatta Wing	1 Bonjelium																				
+Beam Res Up I	Beam Res +5	1 Lead Carapace	1 Ocher Stabilizer	1 Adsecula Gold Nugget	1 White Cometite																				
+Beam Res Up V	Beam Res +9	2 Lead Carapace	2 Ocher Stabilizer	2 Adsecula Gold Nugget	1 Dawnstone																				
+Beam Res Up X	Beam Res +14	3 Lead Carapace	3 Blue Milsaadi Hood	3 Pink Ceto Membrane	1 Everfreeze Ore																				
+Beam Res Up XV	Beam Res +20	4 Lead Carapace	4 Blue Milsaadi Hood	4 Pink Ceto Membrane	1 Foucaultium																				
+Beam Res Up XX	Beam Res +25	5 Lead Carapace	5 Blue Milsaadi Hood	5 Pink Ceto Membrane	1 Bonjelium																				
+Electric Res Up I	Electric Res +5	1 Squishy Cartilage	1 Stout Purgovent Extract	1 Lepyx Elastic Cell	1 White Cometite																				
+Electric Res Up V	Electric Res +9	2 Squishy Cartilage	2 Stout Purgovent Extract	2 Lepyx Elastic Cell	1 Dawnstone																				
+Electric Res Up X	Electric Res +14	3 Squishy Cartilage	3 Purple Scintimure Tentacle	3 Aeviter Membrane	1 Everfreeze Ore																				
+Electric Res Up XV	Electric Res +20	4 Squishy Cartilage	4 Purple Scintimure Tentacle	4 Aeviter Membrane	1 Foucaultium																				
+Electric Res Up XX	Electric Res +25	5 Squishy Cartilage	5 Purple Scintimure Tentacle	5 Aeviter Membrane	1 Bonjelium																				
+Thermal Res Up I	Thermal Res +5	1 Shiny Copper Caro Plate	1 Quo Pod	1 Potamus Life Lung	1 White Cometite																				
+Thermal Res Up V	Thermal Res +9	2 Shiny Copper Caro Plate	2 Quo Pod	2 Potamus Life Lung	1 Dawnstone																				
+Thermal Res Up X	Thermal Res +14	3 Shiny Copper Caro Plate	3 Scorching Giant Cells	3 Tersqual Fire Pouch	1 Everfreeze Ore																				
+Thermal Res Up XV	Thermal Res +20	4 Shiny Copper Caro Plate	4 Scorching Giant Cells	4 Tersqual Fire Pouch	1 Foucaultium																				
+Thermal Res Up XX	Thermal Res +25	5 Shiny Copper Caro Plate	5 Scorching Giant Cells	5 Tersqual Fire Pouch	1 Bonjelium																				
+Ether Res Up I	Ether Res +5	1 Opaque Mirror	1 Upgraded Sensor Part	1 Medicinal Blatta Oil	1 White Cometite																				
+Ether Res Up V	Ether Res +9	2 Opaque Mirror	2 Upgraded Sensor Part	2 Medicinal Blatta Oil	1 Dawnstone																				
+Ether Res Up X	Ether Res +14	3 Opaque Mirror	3 Red Milsaadi Hood	3 Gold Ceto Membrane	1 Everfreeze Ore																				
+Ether Res Up XV	Ether Res +20	4 Opaque Mirror	4 Red Milsaadi Hood	4 Gold Ceto Membrane	1 Foucaultium																				
+Ether Res Up XX	Ether Res +25	5 Opaque Mirror	5 Red Milsaadi Hood	5 Gold Ceto Membrane	1 Bonjelium																				
+Gravity Res Up I	Gravity Res +5	1 Large Hoof	1 Genuine Plate	1 Tricolored Ovis Meat	1 White Cometite																				
+Gravity Res Up V	Gravity Res +9	2 Large Hoof	2 Genuine Plate	2 Tricolored Ovis Meat	1 Dawnstone																				
+Gravity Res Up X	Gravity Res +14	3 Large Hoof	3 Oc-serv Southern Crest	3 Oc-serv Eastern Crest	1 Everfreeze Ore																				
+Gravity Res Up XV	Gravity Res +20	4 Large Hoof	4 Oc-serv Southern Crest	4 Oc-serv Eastern Crest	1 Foucaultium																				
+Gravity Res Up XX	Gravity Res +25	5 Large Hoof	5 Oc-serv Southern Crest	5 Oc-serv Eastern Crest	1 Bonjelium																				
+Resist Stagger I	Break resistance +5	1 Scirpo Silk	-	-	1 Arc Sand Ore																				
+Resist Stagger V	Break resistance +25	2 Scirpo Silk	-	-	1 Lionbone Bort																				
+Resist Stagger X	Break resistance +50	3 Scirpo Silk	-	-	1 Enduron Lead																				
+Resist Stagger XV	Break resistance +75	4 Scirpo Silk	-	-	1 Boiled-Egg Ore																				
+Resist Stagger XX	Break resistance +100	5 Scirpo Silk	-	-	1 Marine Rutile																				
+Resist Flinch I	Flinch resistance +5	1 Taut Leather	-	-	1 Arc Sand Ore																				
+Resist Flinch V	Flinch resistance +25	2 Taut Leather	-	-	1 Lionbone Bort																				
+Resist Flinch X	Flinch resistance +50	3 Taut Leather	-	-	1 Enduron Lead																				
+Resist Flinch XV	Flinch resistance +75	4 Taut Leather	-	-	1 Boiled-Egg Ore																				
+Resist Flinch XX	Flinch resistance +100	5 Taut Leather	-	-	1 Marine Rutile																				
+Resist Topple I	Topple resistance +5	1 Auravis Croaking Bag	1 Smooth Tail Fin	-	1 Aurorite																				
+Resist Topple V	Topple resistance +25	2 Auravis Croaking Bag	2 Smooth Tail Fin	-	1 Infernium																				
+Resist Topple X	Topple resistance +50	3 Auravis Croaking Bag	3 Thick Coronid Hide	-	1 Cimmerian Cinnabar																				
+Resist Topple XV	Topple resistance +75	4 Auravis Croaking Bag	4 Thick Coronid Hide	-	1 Ouroboros Crystal																				
+Resist Topple XX	Topple resistance +100	5 Auravis Croaking Bag	5 Thick Coronid Hide	-	1 Parhelion Platinum																				
+Resist Knockback I	Knockback resistance +5	1 Lovely Pom Pom	-	-	1 Arc Sand Ore																				
+Resist Knockback V	Knockback resistance +25	2 Lovely Pom Pom	-	-	1 Lionbone Bort																				
+Resist Knockback X	Knockback resistance +50	3 Lovely Pom Pom	-	-	1 Enduron Lead																				
+Resist Knockback XV	Knockback resistance +75	4 Lovely Pom Pom	-	-	1 Boiled-Egg Ore																				
+Resist Knockback XX	Knockback resistance +100	5 Lovely Pom Pom	-	-	1 Marine Rutile																				
+Resist Launch I	Launch resistance +5	1 Auravis Laughing Bag	1 Caecus Crest	-	1 Aurorite																				
+Resist Launch V	Launch resistance +25	2 Auravis Laughing Bag	2 Caecus Crest	-	1 Infernium																				
+Resist Launch X	Launch resistance +50	3 Auravis Laughing Bag	3 Red Filiavent Tentacle	-	1 Cimmerian Cinnabar																				
+Resist Launch XV	Launch resistance +75	4 Auravis Laughing Bag	4 Red Filiavent Tentacle	-	1 Ouroboros Crystal																				
+Resist Launch XX	Launch resistance +100	5 Auravis Laughing Bag	5 Red Filiavent Tentacle	-	1 Parhelion Platinum																				
+Resist Stun I	Stun resistance +5	1 Upgraded Jammer	1 Smelly Fish Meat	-	1 Aurorite																				
+Resist Stun V	Stun resistance +25	2 Upgraded Jammer	2 Smelly Fish Meat	-	1 Infernium																				
+Resist Stun X	Stun resistance +50	3 Upgraded Jammer	3 Black Filiavent Tentacle	-	1 Cimmerian Cinnabar																				
+Resist Stun XV	Stun resistance +75	4 Upgraded Jammer	4 Black Filiavent Tentacle	-	1 Ouroboros Crystal																				
+Resist Stun XX	Stun resistance +100	5 Upgraded Jammer	5 Black Filiavent Tentacle	-	1 Parhelion Platinum																				
+Resist Sleep I	Sleep resistance +5	1 Musky Nectar	-	-	1 Arc Sand Ore																				
+Resist Sleep V	Sleep resistance +25	2 Musky Nectar	-	-	1 Lionbone Bort																				
+Resist Sleep X	Sleep resistance +50	3 Musky Nectar	-	-	1 Enduron Lead																				
+Resist Sleep XV	Sleep resistance +75	4 Musky Nectar	-	-	1 Boiled-Egg Ore																				
+Resist Sleep XX	Sleep resistance +100	5 Musky Nectar	-	-	1 Marine Rutile																				
+Resist Taunt I	Taunt resistance +5	1 Puge Self-Destruct Mechanism	-	-	1 Arc Sand Ore																				
+Resist Taunt V	Taunt resistance +25	2 Puge Self-Destruct Mechanism	-	-	1 Lionbone Bort																				
+Resist Taunt X	Taunt resistance +50	3 Puge Self-Destruct Mechanism	-	-	1 Enduron Lead																				
+Resist Taunt XV	Taunt resistance +75	4 Puge Self-Destruct Mechanism	-	-	1 Boiled-Egg Ore																				
+Resist Taunt XX	Taunt resistance +100	5 Puge Self-Destruct Mechanism	-	-	1 Marine Rutile																				
+Resist Control I	Control resistance +5	1 Cracked Claw	-	-	1 Arc Sand Ore																				
+Resist Control V	Control resistance +25	2 Cracked Claw	-	-	1 Lionbone Bort																				
+Resist Control X	Control resistance +50	3 Cracked Claw	-	-	1 Enduron Lead																				
+Resist Control XV	Control resistance +75	4 Cracked Claw	-	-	1 Boiled-Egg Ore																				
+Resist Control XX	Control resistance +100	5 Cracked Claw	-	-	1 Marine Rutile																				
+Resist Virus I	Virus resistance +5	1 Lepyx Sunstone	-	-	1 Arc Sand Ore																				
+Resist Virus V	Virus resistance +25	2 Lepyx Sunstone	-	-	1 Lionbone Bort																				
+Resist Virus X	Virus resistance +50	3 Lepyx Sunstone	-	-	1 Enduron Lead																				
+Resist Virus XV	Virus resistance +75	4 Lepyx Sunstone	-	-	1 Boiled-Egg Ore																				
+Resist Virus XX	Virus resistance +100	5 Lepyx Sunstone	-	-	1 Marine Rutile																				
+Resist Blackout I	Blackout resistance +5	1 Dull Stone	-	-	1 Arc Sand Ore																				
+Resist Blackout V	Blackout resistance +25	2 Dull Stone	-	-	1 Lionbone Bort																				
+Resist Blackout X	Blackout resistance +50	3 Dull Stone	-	-	1 Enduron Lead																				
+Resist Blackout XV	Blackout resistance +75	4 Dull Stone	-	-	1 Boiled-Egg Ore																				
+Resist Blackout XX	Blackout resistance +100	5 Dull Stone	-	-	1 Marine Rutile																				
+Resist Fatigue I	Fatigue resistance +5	1 Red Blatta Wing	-	-	1 Arc Sand Ore																				
+Resist Fatigue V	Fatigue resistance +25	2 Red Blatta Wing	-	-	1 Lionbone Bort																				
+Resist Fatigue X	Fatigue resistance +50	3 Red Blatta Wing	-	-	1 Enduron Lead																				
+Resist Fatigue XV	Fatigue resistance +75	4 Red Blatta Wing	-	-	1 Boiled-Egg Ore																				
+Resist Fatigue XX	Fatigue resistance +100	5 Red Blatta Wing	-	-	1 Marine Rutile																				
+Resist Slow Arts I	Slow Arts resistance +5	1 Pristine Insect Leg	-	-	1 Arc Sand Ore																				
+Resist Slow Arts V	Slow Arts resistance +25	2 Pristine Insect Leg	-	-	1 Lionbone Bort																				
+Resist Slow Arts X	Slow Arts resistance +50	3 Pristine Insect Leg	-	-	1 Enduron Lead																				
+Resist Slow Arts XV	Slow Arts resistance +75	4 Pristine Insect Leg	-	-	1 Boiled-Egg Ore																				
+Resist Slow Arts XX	Slow Arts resistance +100	5 Pristine Insect Leg	-	-	1 Marine Rutile																				
+Resist Phys Res Down I	Phys Res Down resistance +5	1 Tough Humpsteak	-	-	1 Arc Sand Ore																				
+Resist Phys Res Down V	Phys Res Down resistance +25	2 Tough Humpsteak	-	-	1 Lionbone Bort																				
+Resist Phys Res Down X	Phys Res Down resistance +50	3 Tough Humpsteak	-	-	1 Enduron Lead																				
+Resist Phys Res Down XV	Phys Res Down resistance +75	4 Tough Humpsteak	-	-	1 Boiled-Egg Ore																				
+Resist Phys Res Down XX	Phys Res Down resistance +100	5 Tough Humpsteak	-	-	1 Marine Rutile																				
+Resist Beam Res Down I	Beam Res Down resistance +5	1 Duoguill Broth	-	-	1 Arc Sand Ore																				
+Resist Beam Res Down V	Beam Res Down resistance +25	2 Duoguill Broth	-	-	1 Lionbone Bort																				
+Resist Beam Res Down X	Beam Res Down resistance +50	3 Duoguill Broth	-	-	1 Enduron Lead																				
+Resist Beam Res Down XV	Beam Res Down resistance +75	4 Duoguill Broth	-	-	1 Boiled-Egg Ore																				
+Resist Beam Res Down XX	Beam Res Down resistance +100	5 Duoguill Broth	-	-	1 Marine Rutile																				
+Resist Thermal Res Down I	Thermal Res Down resistance +5	1 Slimy Tongue	-	-	1 Arc Sand Ore																				
+Resist Thermal Res Down V	Thermal Res Down resistance +25	2 Slimy Tongue	-	-	1 Lionbone Bort																				
+Resist Thermal Res Down X	Thermal Res Down resistance +50	3 Slimy Tongue	-	-	1 Enduron Lead																				
+Resist Thermal Res Down XV	Thermal Res Down resistance +75	4 Slimy Tongue	-	-	1 Boiled-Egg Ore																				
+Resist Thermal Res Down XX	Thermal Res Down resistance +100	5 Slimy Tongue	-	-	1 Marine Rutile																				
+Resist Electric Res Down I	Electric Res Down resistance +5	1 Blue Electrical Tentacle	-	-	1 Arc Sand Ore																				
+Resist Electric Res Down V	Electric Res Down resistance +25	2 Blue Electrical Tentacle	-	-	1 Lionbone Bort																				
+Resist Electric Res Down X	Electric Res Down resistance +50	3 Blue Electrical Tentacle	-	-	1 Enduron Lead																				
+Resist Electric Res Down XV	Electric Res Down resistance +75	4 Blue Electrical Tentacle	-	-	1 Boiled-Egg Ore																				
+Resist Electric Res Down XX	Electric Res Down resistance +100	5 Blue Electrical Tentacle	-	-	1 Marine Rutile																				
+Resist Ether Res Down I	Ether Res Down resistance +5	1 Papil Straw	-	-	1 Arc Sand Ore																				
+Resist Ether Res Down V	Ether Res Down resistance +25	2 Papil Straw	-	-	1 Lionbone Bort																				
+Resist Ether Res Down X	Ether Res Down resistance +50	3 Papil Straw	-	-	1 Enduron Lead																				
+Resist Ether Res Down XV	Ether Res Down resistance +75	4 Papil Straw	-	-	1 Boiled-Egg Ore																				
+Resist Ether Res Down XX	Ether Res Down resistance +100	5 Papil Straw	-	-	1 Marine Rutile																				
+Resist Gravity Res Down I	Gravity Res Down resistance +5	1 Lepyx Jaw Meat	-	-	1 Arc Sand Ore																				
+Resist Gravity Res Down V	Gravity Res Down resistance +25	2 Lepyx Jaw Meat	-	-	1 Lionbone Bort																				
+Resist Gravity Res Down X	Gravity Res Down resistance +50	3 Lepyx Jaw Meat	-	-	1 Enduron Lead																				
+Resist Gravity Res Down XV	Gravity Res Down resistance +75	4 Lepyx Jaw Meat	-	-	1 Boiled-Egg Ore																				
+Resist Gravity Res Down XX	Gravity Res Down resistance +100	5 Lepyx Jaw Meat	-	-	1 Marine Rutile																				
+Resist Time Bomb I	Time Bomb resistance +5	1 Puge Counter	-	-	1 Arc Sand Ore																				
+Resist Time Bomb V	Time Bomb resistance +25	2 Puge Counter	-	-	1 Lionbone Bort																				
+Resist Time Bomb X	Time Bomb resistance +50	3 Puge Counter	-	-	1 Enduron Lead																				
+Resist Time Bomb XV	Time Bomb resistance +75	4 Puge Counter	-	-	1 Boiled-Egg Ore																				
+Resist Time Bomb XX	Time Bomb resistance +100	5 Puge Counter	-	-	1 Marine Rutile																				
+Resist Debuff Res Down I	Debuff Res Down resistance +5	1 Forfex Miso	-	-	1 Arc Sand Ore																				
+Resist Debuff Res Down V	Debuff Res Down resistance +25	2 Forfex Miso	-	-	1 Lionbone Bort																				
+Resist Debuff Res Down X	Debuff Res Down resistance +50	3 Forfex Miso	-	-	1 Enduron Lead																				
+Resist Debuff Res Down XV	Debuff Res Down resistance +75	4 Forfex Miso	-	-	1 Boiled-Egg Ore																				
+Resist Debuff Res Down XX	Debuff Res Down resistance +100	5 Forfex Miso	-	-	1 Marine Rutile																				
+Resist HP Recovery Down I	HP Recovery Down resistance +5	1 Succulent Meat	-	-	1 Arc Sand Ore																				
+Resist HP Recovery Down V	HP Recovery Down resistance +25	2 Succulent Meat	-	-	1 Lionbone Bort																				
+Resist HP Recovery Down X	HP Recovery Down resistance +50	3 Succulent Meat	-	-	1 Enduron Lead																				
+Resist HP Recovery Down XV	HP Recovery Down resistance +75	4 Succulent Meat	-	-	1 Boiled-Egg Ore																				
+Resist HP Recovery Down XX	HP Recovery Down resistance +100	5 Succulent Meat	-	-	1 Marine Rutile																				
+Resist Blaze I	Blaze resistance +5	1 Vesper Fry	-	-	1 Arc Sand Ore																				
+Resist Blaze V	Blaze resistance +25	2 Vesper Fry	-	-	1 Lionbone Bort																				
+Resist Blaze X	Blaze resistance +50	3 Vesper Fry	-	-	1 Enduron Lead																				
+Resist Blaze XV	Blaze resistance +75	4 Vesper Fry	-	-	1 Boiled-Egg Ore																				
+Resist Blaze XX	Blaze resistance +100	5 Vesper Fry	-	-	1 Marine Rutile																				
+Resist Shock I	Shock resistance +5	1 Fine Black Belt	-	-	1 Arc Sand Ore																				
+Resist Shock V	Shock resistance +25	2 Fine Black Belt	-	-	1 Lionbone Bort																				
+Resist Shock X	Shock resistance +50	3 Fine Black Belt	-	-	1 Enduron Lead																				
+Resist Shock XV	Shock resistance +75	4 Fine Black Belt	-	-	1 Boiled-Egg Ore																				
+Resist Shock XX	Shock resistance +100	5 Fine Black Belt	-	-	1 Marine Rutile																				
+Debuff Suppressor I	Debuff duration reduced 5%	1 Standard Jammer	1 Purgovent Jaw Meat	1 Red Blatta Wing	1 White Cometite																				
+Debuff Suppressor V	Debuff duration reduced 9%	2 Standard Jammer	2 Purgovent Jaw Meat	2 Red Blatta Wing	1 Dawnstone																				
+Debuff Suppressor X	Debuff duration reduced 14%	3 Standard Jammer	3 Rugged Skin	3 Quality Core	1 Everfreeze Ore																				
+Debuff Suppressor XV	Debuff duration reduced 20%	4 Standard Jammer	4 Rugged Skin	4 Quality Core	1 Foucaultium																				
+Debuff Suppressor XX	Debuff duration reduced 25%	5 Standard Jammer	5 Rugged Skin	5 Quality Core	1 Bonjelium																				
+HP Rebound I	Rarely gain 25 HP when hit	1 Honey Oil	1 Large Purgovent Liver	1 Hulking Incisor	1 White Cometite																				
+HP Rebound V	Rarely gain 125 HP when hit	2 Honey Oil	2 Large Purgovent Liver	2 Hulking Incisor	1 Dawnstone																				
+HP Rebound X	Rarely gain 250 HP when hit	8 Honey Oil	8 Unafulge Death Toxin	8 Rich Scintimure Meat	2 Everfreeze Ore																				
+HP Rebound XV	Rarely gain 375 HP when hit	16 Honey Oil	16 Unafulge Death Toxin	16 Rich Scintimure Meat	4 Foucaultium																				
+HP Rebound XX	Rarely gain 500 HP when hit	32 Honey Oil	32 Unafulge Death Toxin	32 Rich Scintimure Meat	8 Bonjelium																				
+TP Rebound I	Rarely gain 100 TP when hit	1 Topaz Wine	1 Glowing Retina	1 Terebra Water Grease	1 White Cometite																				
+TP Rebound V	Rarely gain 200 TP when hit	2 Topaz Wine	2 Glowing Retina	2 Terebra Water Grease	1 Dawnstone																				
+TP Rebound X	Rarely gain 325 TP when hit	8 Topaz Wine	8 Silver Petramand Silk	8 Big Balaena Sand Bag	2 Everfreeze Ore																				
+TP Rebound XV	Rarely gain 450 TP when hit	16 Topaz Wine	16 Silver Petramand Silk	16 Big Balaena Sand Bag	4 Foucaultium																				
+TP Rebound XX	Rarely gain 750 TP when hit	32 Topaz Wine	32 Silver Petramand Silk	32 Big Balaena Sand Bag	8 Bonjelium																				
+Taunt: Barrier I	Very rarely granted Barrier I when Taunted	1 Small Shell	-	-	1 Arc Sand Ore																				
+Taunt: Barrier V	Very likely granted Barrier I when Taunted	2 Small Shell	-	-	1 Lionbone Bort																				
+Taunt: Barrier X	Very likely granted Barrier II when Taunted	3 Small Shell	-	-	1 Enduron Lead																				
+Taunt: Barrier XV	Very likely granted Barrier III when Taunted	4 Small Shell	-	-	1 Boiled-Egg Ore																				
+Taunt: Barrier XX	Very likely granted Barrier IV when Taunted	5 Small Shell	-	-	1 Marine Rutile																				
+Taunt: Decoy I	Very rarely granted Decoy I when Taunted	1 Black Fog Deposits	-	-	1 Arc Sand Ore																				
+Taunt: Decoy V	Very likely granted Decoy I when Taunted	2 Black Fog Deposits	-	-	1 Lionbone Bort																				
+Taunt: Decoy X	Very likely granted Decoy II when Taunted	3 Black Fog Deposits	-	-	1 Enduron Lead																				
+Taunt: Decoy XV	Very likely granted Decoy III when Taunted	4 Black Fog Deposits	-	-	1 Boiled-Egg Ore																				
+Taunt: Decoy XX	Very likely granted Decoy IV when Taunted	5 Black Fog Deposits	-	-	1 Marine Rutile																				
+Taunt: Supercharge I	20% granted Supercharge I when Taunted	1 Tatty Insect Wing	-	-	1 Arc Sand Ore																				
+Taunt: Supercharge V	100% granted Supercharge I when Taunted	2 Tatty Insect Wing	-	-	1 Lionbone Bort																				
+Taunt: Supercharge X	100% granted Supercharge II when Taunted	3 Tatty Insect Wing	-	-	1 Enduron Lead																				
+Taunt: Supercharge XV	100% granted Supercharge III when Taunted	4 Tatty Insect Wing	-	-	1 Boiled-Egg Ore																				
+Taunt: Supercharge XX	100% granted Supercharge IV when Taunted	5 Tatty Insect Wing	-	-	1 Marine Rutile																				
+Topple: Barrier I	20% granted Barrier I when Toppled	1 Small Shell	-	-	1 Arc Sand Ore																				
+Topple: Barrier V	100% granted Barrier I when Toppled	2 Small Shell	-	-	1 Lionbone Bort																				
+Topple: Barrier X	100% granted Barrier II when Toppled	3 Small Shell	-	-	1 Enduron Lead																				
+Topple: Barrier XV	100% granted Barrier III when Toppled	4 Small Shell	-	-	1 Boiled-Egg Ore																				
+Topple: Barrier XX	100% granted Barrier IV when Toppled	5 Small Shell	-	-	1 Marine Rutile																				
+Topple: Decoy I	20% granted Decoy I when Toppled	1 Black Fog Deposits	-	-	1 Arc Sand Ore																				
+Topple: Decoy V	100% granted Decoy I when Toppled	2 Black Fog Deposits	-	-	1 Lionbone Bort																				
+Topple: Decoy X	100% granted Decoy II when Toppled	3 Black Fog Deposits	-	-	1 Enduron Lead																				
+Topple: Decoy XV	100% granted Decoy III when Toppled	4 Black Fog Deposits	-	-	1 Boiled-Egg Ore																				
+Topple: Decoy XX	100% granted Decoy IV when Toppled	5 Black Fog Deposits	-	-	1 Marine Rutile																				
+Stun: Barrier I	20% granted Barrier I when Stunned	1 Small Shell	-	-	1 Arc Sand Ore																				
+Stun: Barrier V	100% granted Barrier I when Stunned	2 Small Shell	-	-	1 Lionbone Bort																				
+Stun: Barrier X	100% granted Barrier II when Stunned	3 Small Shell	-	-	1 Enduron Lead																				
+Stun: Barrier XV	100% granted Barrier III when Stunned	4 Small Shell	-	-	1 Boiled-Egg Ore																				
+Stun: Barrier XX	100% granted Barrier IV when Stunned	5 Small Shell	-	-	1 Marine Rutile																				
+Stun: Decoy I	20% granted Decoy I when Stunned	1 Black Fog Deposits	-	-	1 Arc Sand Ore																				
+Stun: Decoy V	100% granted Decoy I when Stunned	2 Black Fog Deposits	-	-	1 Lionbone Bort																				
+Stun: Decoy X	100% granted Decoy II when Stunned	3 Black Fog Deposits	-	-	1 Enduron Lead																				
+Stun: Decoy XV	100% granted Decoy III when Stunned	4 Black Fog Deposits	-	-	1 Boiled-Egg Ore																				
+Stun: Decoy XX	100% granted Decoy IV when Stunned	5 Black Fog Deposits	-	-	1 Marine Rutile																				
+Reflect Damage Up I	Reflected damage +5%	1 Green Crystal	1 Diamond Seed	1 Cimmerian Pom Pom	1 White Cometite																				
+Reflect Damage Up V	Reflected damage +25%	2 Odorous Tentacle	2 Iron Lump	2 Pristine Dorsal Fin	1 Dawnstone																				
+Reflect Damage Up X	Reflected damage +50%	1 Yggralith Horn	3 Cloudy Gerrid Soup	3 Sabula Backbone	1 Everfreeze Ore																				
+Reflect Damage Up XV	Reflected damage +75%	1 Yggralith Horn	4 Cloudy Gerrid Soup	4 Sabula Backbone	1 Foucaultium																				
+Reflect Damage Up XX	Reflected damage +100%	1 Yggralith Horn	5 Cloudy Gerrid Soup	5 Sabula Backbone	1 Bonjelium																				
+Overdrive: Recover HP I	Recover 10% HP when Overdrive activated	1 Black Turba Nectar	1 Shimmering Silk	1 Scirpo Silk	1 White Cometite																				
+Overdrive: Recover HP V	Recover 14% HP when Overdrive activated	2 Black Turba Nectar	2 Shimmering Silk	2 Scirpo Silk	1 Dawnstone																				
+Overdrive: Recover HP X	Recover 19% HP when Overdrive activated	3 Black Turba Nectar	3 Tasty Fish Belly	3 Black Sylooth Brace	2 Everfreeze Ore																				
+Overdrive: Recover HP XV	Recover 24% HP when Overdrive activated	5 Black Turba Nectar	5 Tasty Fish Belly	5 Black Sylooth Brace	4 Foucaultium																				
+Overdrive: Recover HP XX	Recover 30% HP when Overdrive activated	8 Black Turba Nectar	8 Tasty Fish Belly	8 Black Sylooth Brace	8 Bonjelium																				
+Overdrive: Gain TP I	Gain 25 TP when Overdrive activated	1 Flowering Germivore Scales	1 Red Mortifole Feather	1 Sharp Ear	1 White Cometite																				
+Overdrive: Gain TP V	Gain 125 TP when Overdrive activated	2 Flowering Germivore Scales	2 Red Mortifole Feather	2 Sharp Ear	1 Dawnstone																				
+Overdrive: Gain TP X	Gain 250 TP when Overdrive activated	4 Flowering Germivore Scales	4 Tersqual Eel Kebab	4 Alluring Lophid Extract	2 Everfreeze Ore																				
+Overdrive: Gain TP XV	Gain 375 TP when Overdrive activated	6 Flowering Germivore Scales	6 Tersqual Eel Kebab	6 Alluring Lophid Extract	4 Foucaultium																				
+Overdrive: Gain TP XX	Gain 500 TP when Overdrive activated	12 Flowering Germivore Scales	12 Tersqual Eel Kebab	12 Alluring Lophid Extract	8 Bonjelium																				
+Extend Overdrive I	Overdrive time extended +3s	1 Unfertilized Auravis Egg	1 Silver Progen Wing	1 Terebra Paw Stamp	1 White Cometite																				
+Extend Overdrive V	Overdrive time extended +7s	2 Unfertilized Auravis Egg	2 Silver Progen Wing	2 Terebra Paw Stamp	1 Dawnstone																				
+Extend Overdrive X	Overdrive time extended +12s	4 Unfertilized Auravis Egg	4 Red Brandy	4 Fine Red Belt	4 Everfreeze Ore																				
+Extend Overdrive XV	Overdrive time extended +17s	6 Unfertilized Auravis Egg	6 Red Brandy	6 Fine Red Belt	6 Foucaultium																				
+Extend Overdrive XX	Overdrive time extended +25s	12 Unfertilized Auravis Egg	12 Red Brandy	12 Fine Red Belt	12 Bonjelium																				
+Extend Aura I	Aura duration +1s	1 Turba Nectar	1 Meaty Evello Egg	-	1 Aurorite																				
+Extend Aura V	Aura duration +5s	4 Turba Nectar	4 Meaty Evello Egg	-	2 Infernium																				
+Extend Aura X	Aura duration +10s	12 Turba Nectar	12 Vigent Blood	-	4 Cimmerian Cinnabar																				
+Extend Aura XV	Aura duration +15s	24 Turba Nectar	24 Vigent Blood	-	8 Ouroboros Crystal																				
+Extend Aura XX	Aura duration +20s	48 Turba Nectar	48 Vigent Blood	-	16 Parhelion Platnium																				
+Aura Rapid Cooldown I	Arts recast 1% faster during aura 	1 Reinforced Jet	1 Terebra Oil Grease	1 Cloudy Gerrid Soup	1 White Cometite																				
+Aura Rapid Cooldown V	Arts recast 5% faster during aura 	2 Reinforced Jet	2 Terebra Oil Grease	2 Cloudy Gerrid Soup	1 Dawnstone																				
+Aura Rapid Cooldown X	Arts recast 10% faster during aura 	8 Reinforced Jet	8 Quality Vigent Claw	8 Millesaur Larynx	2 Everfreeze Ore																				
+Aura Rapid Cooldown XV	Arts recast 15% faster during aura 	16 Reinforced Jet	16 Quality Vigent Claw	16 Millesaur Larynx	4 Foucaultium																				
+Aura Rapid Cooldown XX	Arts recast 20% faster during aura 	32 Reinforced Jet	32 Quality Vigent Claw	32 Millesaur Larynx	8 Bonjelium																				
+Aura: Refuel I	Gain 10 Skell fuel when aura used	1 Energy Tube	-	-	1 Arc Sand Ore																				
+Aura: Refuel V	Gain 18 Skell fuel when aura used	2 Energy Tube	-	-	1 Lionbone Bort																				
+Aura: Refuel X	Gain 28 Skell fuel when aura used	3 Energy Tube	-	-	1 Enduron Lead																				
+Aura: Refuel XV	Gain 38 Skell fuel when aura used	4 Energy Tube	-	-	1 Boiled-Egg Ore																				
+Aura: Refuel XX	Gain 50 Skell fuel when aura used	5 Energy Tube	-	-	1 Marine Rutile																				
+Extend Taunt I	Taunt duration from arts +5s	1 Small Insect Leg	-	-	1 Arc Sand Ore																				
+Extend Taunt V	Taunt duration from arts +9s	2 Small Insect Leg	-	-	1 Lionbone Bort																				
+Extend Taunt X	Taunt duration from arts +14s	3 Small Insect Leg	-	-	1 Enduron Lead																				
+Extend Taunt XV	Taunt duration from arts +19s	4 Small Insect Leg	-	-	1 Boiled-Egg Ore																				
+Extend Taunt XX	Taunt duration from arts +25s	5 Small Insect Leg	-	-	1 Marine Rutile																				
+Extend Control I	Control duration from arts +1s	1 Taut Leather	-	-	1 Arc Sand Ore																				
+Extend Control V	Control duration from arts +5s	2 Taut Leather	-	-	1 Lionbone Bort																				
+Extend Control X	Control duration from arts +10s	3 Taut Leather	-	-	1 Enduron Lead																				
+Extend Control XV	Control duration from arts +15s	4 Taut Leather	-	-	1 Boiled-Egg Ore																				
+Extend Control XX	Control duration from arts +20s	5 Taut Leather	-	-	1 Marine Rutile																				
+Extend Virus I	Virus duration from arts +1s	1 Small Insect Leg	-	-	1 Arc Sand Ore																				
+Extend Virus V	Virus duration from arts +5s	2 Small Insect Leg	-	-	1 Lionbone Bort																				
+Extend Virus X	Virus duration from arts +10s	3 Small Insect Leg	-	-	1 Enduron Lead																				
+Extend Virus XV	Virus duration from arts +15s	4 Small Insect Leg	-	-	1 Boiled-Egg Ore																				
+Extend Virus XX	Virus duration from arts +20s	5 Small Insect Leg	-	-	1 Marine Rutile																				
+Extend Blackout I	Blackout duration from arts +1s	1 Ovis Polishing Stone	-	-	1 Arc Sand Ore																				
+Extend Blackout V	Blackout duration from arts +5s	2 Ovis Polishing Stone	-	-	1 Lionbone Bort																				
+Extend Blackout X	Blackout duration from arts +10s	3 Ovis Polishing Stone	-	-	1 Enduron Lead																				
+Extend Blackout XV	Blackout duration from arts +15s	4 Ovis Polishing Stone	-	-	1 Boiled-Egg Ore																				
+Extend Blackout XX	Blackout duration from arts +20s	5 Ovis Polishing Stone	-	-	1 Marine Rutile																				
+Extend Fatigue I	Fatigue duration from arts +1s	1 Broken Pincer	-	-	1 Arc Sand Ore																				
+Extend Fatigue V	Fatigue duration from arts +5s	2 Broken Pincer	-	-	1 Lionbone Bort																				
+Extend Fatigue X	Fatigue duration from arts +10s	3 Broken Pincer	-	-	1 Enduron Lead																				
+Extend Fatigue XV	Fatigue duration from arts +15s	4 Broken Pincer	-	-	1 Boiled-Egg Ore																				
+Extend Fatigue XX	Fatigue duration from arts +20s	5 Broken Pincer	-	-	1 Marine Rutile																				
+Extend Slow Arts I	Slow Arts duration from arts +1s	1 Supple Leather	-	-	1 Arc Sand Ore																				
+Extend Slow Arts V	Slow Arts duration from arts +5s	2 Supple Leather	-	-	1 Lionbone Bort																				
+Extend Slow Arts X	Slow Arts duration from arts +10s	3 Supple Leather	-	-	1 Enduron Lead																				
+Extend Slow Arts XV	Slow Arts duration from arts +15s	4 Supple Leather	-	-	1 Boiled-Egg Ore																				
+Extend Slow Arts XX	Slow Arts duration from arts +20s	5 Supple Leather	-	-	1 Marine Rutile																				
+Extend Debuff Res Down I	Debuff Res Down duration from arts +1s	1 Lovely Pom Pom	-	-	1 Arc Sand Ore																				
+Extend Debuff Res Down V	Debuff Res Down duration from arts +5s	2 Lovely Pom Pom	-	-	1 Lionbone Bort																				
+Extend Debuff Res Down X	Debuff Res Down duration from arts +10s	3 Lovely Pom Pom	-	-	1 Enduron Lead																				
+Extend Debuff Res Down XV	Debuff Res Down duration from arts +15s	4 Lovely Pom Pom	-	-	1 Boiled-Egg Ore																				
+Extend Debuff Res Down XX	Debuff Res Down duration from arts +20s	5 Lovely Pom Pom	-	-	1 Marine Rutile																				
+Danger Surge I	"Risk HP" activation rate +5%	1 Opaque Membrane	1 Filthy Wing	-	1 Aurorite																				
+Danger Surge V	"Risk HP" activation rate +9%	2 Opaque Membrane	2 Filthy Wing	-	1 Infernium																				
+Danger Surge X	"Risk HP" activation rate +14%	3 Opaque Membrane	3 Ceto Roe	-	1 Cimmerian Cinnabar																				
+Danger Surge XV	"Risk HP" activation rate +19%	4 Opaque Membrane	4 Ceto Roe	-	1 Ouroboros Crystal																				
+Danger Surge XX	"Risk HP" activation rate +25%	5 Opaque Membrane	5 Ceto Roe	-	1 Parhelion Platinum																				
+High Danger Surge I	"High Risk HP" activation rate +5%	1 Saltat Horn	1 Mephite Stinkbag	-	1 Aurorite																				
+High Danger Surge V	"High Risk HP" activation rate +9%	2 Saltat Horn	2 Mephite Stinkbag	-	1 Infernium																				
+High Danger Surge X	"High Risk HP" activation rate +14%	3 Saltat Horn	3 Sparkling Purple Gem	-	1 Cimmerian Cinnabar																				
+High Danger Surge XV	"High Risk HP" activation rate +19%	4 Saltat Horn	4 Sparkling Purple Gem	-	1 Ouroboros Crystal																				
+High Danger Surge XX	"High Risk HP" activation rate +25%	5 Saltat Horn	5 Sparkling Purple Gem	-	1 Parhelion Platinum																				
+Incapacitation Surge I	"Incapacitation" activation rate +5%	1 Steel Unafulge Cell	1 Aprica Back Moss	-	1 Aurorite																				
+Incapacitation Surge V	"Incapacitation" activation rate +9%	2 Steel Unafulge Cell	2 Aprica Back Moss	-	1 Infernium																				
+Incapacitation Surge X	"Incapacitation" activation rate +14%	3 Steel Unafulge Cell	3 Sparkling Red Gem	-	1 Cimmerian Cinnabar																				
+Incapacitation Surge XV	"Incapacitation" activation rate +19%	4 Steel Unafulge Cell	4 Sparkling Red Gem	-	1 Ouroboros Crystal																				
+Incapacitation Surge XX	"Incapacitation" activation rate +25%	5 Steel Unafulge Cell	5 Sparkling Red Gem	-	1 Parhelion Platinum																				
+Aura Surge I	"Aura" activation rate +10%	1 Mortifole Pollen	1 Simius Snack Stash	-	1 Aurorite																				
+Aura Surge V	"Aura" activation rate +18%	2 Mortifole Pollen	2 Simius Snack Stash	-	1 Infernium																				
+Aura Surge X	"Aura" activation rate +28%	3 Mortifole Pollen	3 Simius Snack Stash	-	1 Cimmerian Cinnabar																				
+Aura Surge XV	"Aura" activation rate +40%	5 Mortifole Pollen	1 Amethyst Metal	-	1 Ouroboros Crystal																				
+Aura Surge XX	"Aura" activation rate +50%	8 Mortifole Pollen	2 Amethyst Metal	-	1 Parhelion Platinum																				
+Overdrive Surge I	"Overdrive" activation rate +10%	1 Luminescent Antenna	1 Fine Aprica Wood	-	1 Aurorite																				
+Overdrive Surge V	"Overdrive" activation rate +18%	2 Luminescent Antenna	2 Fine Aprica Wood	-	1 Infernium																				
+Overdrive Surge X	"Overdrive" activation rate +28%	3 Luminescent Antenna	3 Fine Aprica Wood	-	1 Cimmerian Cinnabar																				
+Overdrive Surge XV	"Overdrive" activation rate +40%	5 Luminescent Antenna	1 Orichalcum Metal	-	1 Ouroboros Crystal																				
+Overdrive Surge XX	"Overdrive" activation rate +50%	8 Luminescent Antenna	2 Orichalcum Metal	-	1 Parhelion Platinum																				
+Reinvigorate I	HP recovery when revived +10%	1 Reinforced Thruster	-	-	1 Arc Sand Ore																				
+Reinvigorate V	HP recovery when revived +18%	2 Reinforced Thruster	-	-	1 Lionbone Bort																				
+Reinvigorate X	HP recovery when revived +28%	3 Reinforced Thruster	-	-	1 Enduron Lead																				
+Reinvigorate XV	HP recovery when revived +40%	4 Reinforced Thruster	-	-	1 Boiled-Egg Ore																				
+Reinvigorate XX	HP recovery when revived +50%	5 Reinforced Thruster	-	-	1 Marine Rutile																				
+EXP Boost I	Inner Exp +10%	1 Golden Jewel	1 Shiny Mortifole Seed	-	1 Aurorite																				
+EXP Boost V	Inner Exp +18%	2 Golden Jewel	2 Shiny Mortifole Seed	-	1 Infernium																				
+EXP Boost X	Inner Exp +28%	3 Golden Jewel	3 Giant Jade Pearl	-	1 Cimmerian Cinnabar																				
+EXP Boost XV	Inner Exp +40%	4 Golden Jewel	4 Giant Jade Pearl	-	1 Ouroboros Crystal																				
+EXP Boost XX	Inner Exp +50%	5 Golden Jewel	5 Giant Jade Pearl	-	1 Parhelion Platinum																				
+Visual Cloaking I	Enemy visual detection range reduced 2%	1 White Mirrorglass	1 Glossy Saltat Fan	-	1 Aurorite																				
+Visual Cloaking V	Enemy visual detection range reduced 10%	2 White Mirrorglass	2 Glossy Saltat Fan	-	1 Infernium																				
+Visual Cloaking X	Enemy visual detection range reduced 20%	3 White Mirrorglass	3 Luminescent Tail	-	1 Cimmerian Cinnabar																				
+Visual Cloaking XV	Enemy visual detection range reduced 30%	4 White Mirrorglass	4 Luminescent Tail	-	1 Ouroboros Crystal																				
+Visual Cloaking XX	Enemy visual detection range reduced 40%	5 White Mirrorglass	5 Luminescent Tail	-	1 Parhelion Platinum																				
+Aural Cloaking I	Enemy proximity detection range reduced 2%	1 Lightweight Pelt	1 Evolved Insidia Claw	-	1 Aurorite																				
+Aural Cloaking V	Enemy proximity detection range reduced 10%	2 Lightweight Pelt	2 Evolved Insidia Claw	-	1 Infernium																				
+Aural Cloaking X	Enemy proximity detection range reduced 20%	3 Lightweight Pelt	3 Gray Shell	-	1 Cimmerian Cinnabar																				
+Aural Cloaking XV	Enemy proximity detection range reduced 30%	4 Lightweight Pelt	4 Gray Shell	-	1 Ouroboros Crystal																				
+Aural Cloaking XX	Enemy proximity detection range reduced 40%	5 Lightweight Pelt	5 Gray Shell	-	1 Parhelion Platinum																				
+Terrain Dmg Reducer I	Terrain dmg reduced 5%	1 Fluffy Tuft	-	-	1 Arc Sand Ore																				
+Terrain Dmg Reducer V	Terrain dmg reduced 25%	2 Fluffy Tuft	-	-	1 Lionbone Bort																				
+Terrain Dmg Reducer X	Terrain dmg reduced 50%	3 Fluffy Tuft	-	-	1 Enduron Lead																				
+Terrain Dmg Reducer XV	Terrain dmg reduced 75%	4 Fluffy Tuft	-	-	1 Boiled-Egg Ore																				
+Terrain Dmg Reducer XX	Terrain dmg reduced 100%	5 Fluffy Tuft	-	-	1 Marine Rutile																				
+Antispike I	10% chance to avoid Spike dmg	1 Adsecula Oil Drop	1 Ebony Evello Egg	1 Vesper Hair Clip	1 White Cometite																				
+Antispike V	18% chance to avoid Spike dmg	2 Adsecula Oil Drop	2 Ebony Evello Egg	2 Vesper Hair Clip	1 Dawnstone																				
+Antispike X	28% chance to avoid Spike dmg	3 Adsecula Oil Drop	3 Lava Crystal	3 Gularthian Flint	1 Everfreeze Ore																				
+Antispike XV	38% chance to avoid Spike dmg	4 Adsecula Oil Drop	4 Lava Crystal	4 Gularthian Flint	1 Foucaultium																				
+Antispike XX	50% chance to avoid Spike dmg	5 Adsecula Oil Drop	5 Lava Crystal	5 Gularthian Flint	1 Bonjelium																				
+Resistance Reducer I	Attacks reduce enemy debuff res by 10%	1 Grex Wisdom Tooth	1 Green Puff	-	1 Aurorite																				
+Resistance Reducer V	Attacks reduce enemy debuff res by 18%	2 Grex Wisdom Tooth	2 Green Puff	-	1 Infernium																				
+Resistance Reducer X	Attacks reduce enemy debuff res by 28%	8 Grex Wisdom Tooth	8 Thick Millesaur Hide	-	2 Cimmerian Cinnabar																				
+Resistance Reducer XV	Attacks reduce enemy debuff res by 38%	16 Grex Wisdom Tooth	16 Thick Millesaur Hide	-	4 Ouroboros Crystal																				
+Resistance Reducer XX	Attacks reduce enemy debuff res by 50%	32 Grex Wisdom Tooth	32 Thick Millesaur Hide	-	8 Parhelion Platinum																				
+Treasure Sensor I	Item drop rate +1%	1 Demonic Jewel	1 Sky Jewel	1 Dull Stone	1 White Cometite																				
+Treasure Sensor V	Item drop rate +5%	2 Demonic Jewel	2 Sky Jewel	2 Dull Stone	1 Dawnstone																				
+Treasure Sensor X	Item drop rate +10%	8 Demonic Jewel	8 Shrad Eye	8 Decrepit Wing	2 Everfreeze Ore																				
+Treasure Sensor XV	Item drop rate +15%	16 Demonic Jewel	16 Shrad Eye	16 Decrepit Wing	4 Foucaultium																				
+Treasure Sensor XX	Item drop rate +20%	32 Demonic Jewel	32 Shrad Eye	32 Decrepit Wing	8 Bonjelium																				
+Untouchable Dash I	Evasion +5% while sprinting	1 Terebra Water Grease	-	-	1 Arc Sand Ore																				
+Untouchable Dash V	Evasion +9% while sprinting	2 Terebra Water Grease	-	-	1 Lionbone Bort																				
+Untouchable Dash X	Evasion +14% while sprinting	3 Terebra Water Grease	-	-	1 Enduron Lead																				
+Untouchable Dash XV	Evasion +20% while sprinting	4 Terebra Water Grease	-	-	1 Boiled-Egg Ore																				
+Untouchable Dash XX	Evasion +25% while sprinting	5 Terebra Water Grease	-	-	1 Marine Rutile																				
+Focused Evasion I	Evasion +5% while in enemy melee range	1 Green Mortifole Feather	1 Oc-serv Northern Crest	1 Pristine Insect Leg	1 White Cometite																				
+Focused Evasion V	Evasion +9% while in enemy melee range	2 Green Mortifole Feather	2 Oc-serv Northern Crest	2 Pristine Insect Leg	1 Dawnstone																				
+Focused Evasion X	Evasion +14% while in enemy melee range	4 Green Mortifole Feather	4 Dirty Cloth	4 Giant Cavity	2 Everfreeze Ore																				
+Focused Evasion XV	Evasion +20% while in enemy melee range	18 Green Mortifole Feather	18 Dirty Cloth	18 Giant Cavity	6 Foucaultium																				
+Focused Evasion XX	Evasion +25% while in enemy melee range	36 Green Mortifole Feather	36 Dirty Cloth	36 Giant Cavity	12 Bonjelium																				
+Fog Screen	Ignores effects of Fog	1 Vibrant Plume	-	-	1 Arc Sand Ore																				
+Rain Screen	Ignores effects of Rain	1 Fine Duoguill Fishmeal	-	-	1 Arc Sand Ore																				
+Heavy Rain Screen	Ignores effects of Heavy Rain	1 Medicinal Blatta Oil	-	-	1 Arc Sand Ore																				
+Heat Wave Screen	Ignores effects of Heat Wave	1 Worn Muscle Fiber	-	-	1 Arc Sand Ore																				
+Sandstorm Screen	Ignores effects of Sandstorm	1 Alluring Papil Scales	-	-	1 Arc Sand Ore																				
+Thunderstorm Screen	Ignores effects of Thunderstorm	1 Transparent Membrane	-	-	1 Arc Sand Ore																				
+EM Storm Screen	Ignores effects of EM Storm	1 Slender Horn	-	-	1 Arc Sand Ore																				
+Energy Mist Screen	Ignores effects of Energy Mist	1 Dried Seaweed Lichen	-	-	1 Arc Sand Ore																				
+Rising Energy Mist Screen	Ignores effects of Rising Energy Mist	1 Rough Skin	-	-	1 Arc Sand Ore																				
+Brimstone Rain Screen	Ignores effects of Brimstone Rain	1 Hard Backbone	-	-	1 Arc Sand Ore																				
+Spore Screen	Ignores effects of Spore	1 Viscous Humor	-	-	1 Arc Sand Ore																				
+Weather Master I	Dmg from weather reduced 5%	1 Blue Forfex Shell	1 Auravis Courtship Feather	-	1 Aurorite																				
+Weather Master V	Dmg from weather reduced 25%	2 Blue Forfex Shell	2 Auravis Courtship Feather	-	1 Infernium																				
+Weather Master X	Dmg from weather reduced 50%	3 Blue Forfex Shell	3 Blue Vigent Rock Scalp	-	1 Cimmerian Cinnabar																				
+Weather Master XV	Dmg from weather reduced 75%	4 Blue Forfex Shell	4 Blue Vigent Rock Scalp	-	1 Ouroboros Crystal																				
+Weather Master XX	Dmg from weather reduced 100%	5 Blue Forfex Shell	5 Blue Vigent Rock Scalp	-	1 Parhelion Platinum																				
+SpecUp.M-ACC I	Skell Melee Acc +5	1 Muscled Suid Bulge	-	-	1 Arc Sand Ore																				
+SpecUp.M-ACC V	Skell Melee Acc +25	2 Muscled Suid Bulge	-	-	1 Lionbone Bort																				
+SpecUp.M-ACC X	Skell Melee Acc +50	3 Muscled Suid Bulge	-	-	1 Enduron Lead																				
+SpecUp.M-ACC XV	Skell Melee Acc +75	4 Muscled Suid Bulge	-	-	1 Boiled-Egg Ore																				
+SpecUp.M-ACC XX	Skell Melee Acc +100	5 Muscled Suid Bulge	-	-	1 Marine Rutile																				
+SpecUp.R-ACC I	Skell Ranged Acc +5	1 Appetizing Suid Tail	-	-	1 Arc Sand Ore																				
+SpecUp.R-ACC V	Skell Ranged Acc +25	2 Appetizing Suid Tail	-	-	1 Lionbone Bort																				
+SpecUp.R-ACC X	Skell Ranged Acc +50	3 Appetizing Suid Tail	-	-	1 Enduron Lead																				
+SpecUp.R-ACC XV	Skell Ranged Acc +75	4 Appetizing Suid Tail	-	-	1 Boiled-Egg Ore																				
+SpecUp.R-ACC XX	Skell Ranged Acc +100	5 Appetizing Suid Tail	-	-	1 Marine Rutile																				
+SpecUp.M-ATK I	Skell Melee Pow +5	1 Muscled Suid Bulge	-	-	1 Arc Sand Ore																				
+SpecUp.M-ATK V	Skell Melee Pow +25	2 Muscled Suid Bulge	-	-	1 Lionbone Bort																				
+SpecUp.M-ATK X	Skell Melee Pow +50	8 Blue Sylooth Braces	8 Blue Sylooth Braces	8 Muscled Cantor Bulges	2 Everfreeze Ore																							
+SpecUp.M-ATK XV	Skell Melee Pow +75	16 Blue Sylooth Braces	16 Blue Sylooth Braces	16 Muscled Cantor Bulges	4 Foucaultium																						
+SpecUp.M-ATK XX	Skell Melee Pow +100	32 Blue Sylooth Braces	32 Blue Sylooth Braces	32 Muscled Cantor Bulges	8 Bonjelium																						
+SpecUp.R-ATK I	Skell Ranged Pow +5	1 Appetizing Suid Tail	-	-	1 Arc Sand Ore																				
+SpecUp.R-ATK V	Skell Ranged Pow +25	2 Appetizing Suid Tail	-	-	1 Lionbone Bort																				
+SpecUp.R-ATK X	Skell Ranged Pow +50	8 O.X. Unit	8 Eternal Arenatect Moss	8 Green Jacul Wing	2 Everfreeze Ore																				
+SpecUp.R-ATK XV	Skell Ranged Pow +75	16 O.X. Unit	16 Eternal Arenatect Moss	16 Green Jacul Wing	4 Foucaultium																				
+SpecUp.R-ATK XX	Skell Ranged Pow +100	32 O.X. Unit	32 Eternal Arenatect Moss	32 Green Jacul Wing	8 Bonjelium																				
+SpecUp.PTL I	Skell Potential +5	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+SpecUp.PTL V	Skell Potential +25	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+SpecUp.PTL X	Skell Potential +50	8 Distilled Sap	8 Blazing Gas Sac	8 Lepyx Moonstone	2 Everfreeze Ore																				
+SpecUp.PTL XV	Skell Potential +75	16 Distilled Sap	16 Blazing Gas Sac	16 Lepyx Moonstone	4 Foucaultium																				
+SpecUp.PTL XX	Skell Potential +100	32 Distilled Sap	32 Blazing Gas Sac	32 Lepyx Moonstone	8 Bonjelium																				
+Custom.WP-ATK I	Skell Weapon Atk +2%	1 Refined Horn	1 Insect Jaw	1 Strong Purgovent Extract	1 White Cometite																				
+Custom.WP-ATK V	Skell Weapon Atk +10%	2 Refined Horn	2 Insect Jaw	2 Strong Purgovent Extract	1 Dawnstone																				
+Custom.WP-ATK X	Skell Weapon Atk +20%	4 Quality Giant Cells	4 Visigel Poison Orb	4 Silver Cantor Tooth	2 Everfreeze Ore																				
+Custom.WP-ATK XV	Skell Weapon Atk +30%	8 Quality Giant Cells	8 Visigel Poison Orb	8 Silver Cantor Tooth	4 Foucaultium																				
+Custom.WP-ATK XX	Skell Weapon Atk +40%	16 Quality Giant Cells	16 Visigel Poison Orb	16 Silver Cantor Tooth	8 Bonjelium																				
+Custom.WP-STABLE I	Skell Weapon Stability +10%	1 Poisonous Needle	-	-	1 Arc Sand Ore																				
+Custom.WP-STABLE V	Skell Weapon Stability +18%	2 Poisonous Needle	-	-	1 Lionbone Bort																				
+Custom.WP-STABLE X	Skell Weapon Stability +28%	3 Poisonous Needle	-	-	1 Enduron Lead																				
+Custom.WP-STABLE XV	Skell Weapon Stability +40%	4 Poisonous Needle	-	-	1 Boiled-Egg Ore																				
+Custom.WP-STABLE XX	Skell Weapon Stability +50%	5 Poisonous Needle	-	-	1 Marine Rutile																				
+Custom.WP-DESTABLE I	Skell Weapon Stability -10%	1 Broken Pincer	-	-	1 Arc Sand Ore																				
+Custom.WP-DESTABLE V	Skell Weapon Stability -18%	2 Broken Pincer	-	-	1 Lionbone Bort																				
+Custom.WP-DESTABLE X	Skell Weapon Stability -28%	3 Broken Pincer	-	-	1 Enduron Lead																				
+Custom.WP-DESTABLE XV	Skell Weapon Stability -40%	4 Broken Pincer	-	-	1 Boiled-Egg Ore																				
+Custom.WP-DESTABLE XX	Skell Weapon Stability -50%	5 Broken Pincer	-	-	1 Marine Rutile																				
+Custom.WP-M-GP	Skell Melee Wep GP recovery +50	1 Upgraded Coil	1 Flaming Rock	1 Crimson Sacrifole Feather	1 Whie Cometite																				
+Custom.WP-R-GP	Skell Ranged Wep GP recovery +5	1 Genuine Frame	1 Black Yggralith Nut	1 Virago Alloy Plate	1 White Cometite																				
+Custom.WP-SPEED I	Skell Weapon recasts 5% faster	1 Quality Fuse	1 Golden Simius Mane	1 Upgraded Shaft Part	1 White Cometite																				
+Custom.WP-SPEED V	Skell Weapon recasts 9% faster	2 Quality Fuse	2 Golden Simius Mane	2 Upgraded Shaft Part	1 Dawnstone																				
+Custom.WP-SPEED X	Skell Weapon recasts 14% faster	3 Quality Fuse	3 Spathi Glyph	3 White Yggralith Nut	2 Everfreeze Ore																				
+Custom.WP-SPEED XV	Skell Weapon recasts 20% faster	6 Quality Fuse	6 Spathi Glyph	6 White Yggralith Nut	4 Foucaultium																				
+Custom.WP-SPEED XX	Skell Weapon recasts 25% faster	12 Quality Fuse	12 Spathi Glyph	12 White Yggralith Nut	16 Bonjelium																				
+Custom.WP-R-RANGE I	Skell Ranged Wep range +2m	1 Turba Straw	1 Used Cylinder	-	1 Aurorite																				
+Custom.WP-R-RANGE V	Skell Ranged Wep range +10m	2 Turba Straw	2 Used Cylinder	-	1 Infernium																				
+Custom.WP-R-RANGE X	Skell Ranged Wep range +20m	3 Turba Straw	3 Coronid Larynx	-	1 Cimmerian Cinnabar																				
+Custom.WP-R-RANGE XV	Skell Ranged Wep range +30m	4 Turba Straw	4 Coronid Larynx	-	1 Ouroboros Crystal																				
+Custom.WP-R-RANGE XX	Skell Ranged Wep range +40m	5 Turba Straw	5 Coronid Larynx	-	1 Parhelion Platinum																				
+Custom.WP-FUEL I	Fuel consumption for Skell Arts reduced 1%	1 Hi-Spec Sensor Module	-	-	1 Arc Sand Ore																				
+Custom.WP-FUEL V	Fuel consumption for Skell Arts reduced 5%	2 Hi-Spec Sensor Module	-	-	1 Lionbone Bort																				
+Custom.WP-FUEL X	Fuel consumption for Skell Arts reduced 10%	8 Hi-Spec Sensor Module	-	-	2 Enduron Lead																				
+Custom.WP-FUEL XV	Fuel consumption for Skell Arts reduced 15%	16 Hi-Spec Sensor Module	-	-	4 Boiled-Egg Ore																				
+Custom.WP-FUEL XX	Fuel consumption for Skell Arts reduced 20%	32 Hi-Spec Sensor Module	-	-	8 Marine Rutile																				
+CriticalUp I	Skell Crit Rate +1	1 Oc-serv Hand	1 Ziggian Long Antennae	1 Forfex Miso	1 White Cometite																				
+CriticalUp V	Skell Crit Rate +5	2 Oc-serv Hand	2 Ziggian Long Antennae	2 Forfex Miso	1 Dawnstone																				
+CriticalUp X	Skell Crit Rate +10	3 Oc-serv Hand	3 Lone Red Ictus Stinger	3 Spiked Tail Fin	1 Everfreeze Ore																				
+CriticalUp XV	Skell Crit Rate +15	4 Oc-serv Hand	4 Lone Red Ictus Stinger	4 Spiked Tail Fin	1 Foucaultium																				
+CriticalUp XX	Skell Crit Rate +20	5 Oc-serv Hand	5 Lone Red Ictus Stinger	5 Spiked Tail Fin	1 Bonjelium																				
+CritUp.THEROID I	Skell Crit Rate vs Beasts +2	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+CritUp.THEROID V	Skell Crit Rate vs Beasts +10	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+CritUp.THEROID X	Skell Crit Rate vs Beasts +20	3 Fleecy Fur	-	-	1 Enduron Lead																				
+CritUp.THEROID XV	Skell Crit Rate vs Beasts +30	4 Fleecy Fur	-	-	1 Boiled-Egg Ore																				
+CritUp.THEROID XX	Skell Crit Rate vs Beasts +50	5 Fleecy Fur	-	-	1 Marine Rutile																				
+CritUp.INSECTOID I	Skell Crit Rate vs Insectoids +2	1 Tatty Insect Wing	-	-	1 Arc Sand Ore																				
+CritUp.INSECTOID V	Skell Crit Rate vs Insectoids +10	2 Tatty Insect Wing	-	-	1 Lionbone Bort																				
+CritUp.INSECTOID X	Skell Crit Rate vs Insectoids +20	3 Tatty Insect Wing	-	-	1 Enduron Lead																				
+CritUp.INSECTOID XV	Skell Crit Rate vs Insectoids +30	4 Tatty Insect Wing	-	-	1 Boiled-Egg Ore																				
+CritUp.INSECTOID XX	Skell Crit Rate vs Insectoids +50	5 Tatty Insect Wing	-	-	1 Marine Rutile																				
+CritUp.PISCINOID I	Skell Crit Rate vs Piscoids +2	1 Small Dorsal Fin	-	-	1 Arc Sand Ore																				
+CritUp.PISCINOID V	Skell Crit Rate vs Piscoids +10	2 Small Dorsal Fin	-	-	1 Lionbone Bort																				
+CritUp.PISCINOID X	Skell Crit Rate vs Piscoids +20	3 Small Dorsal Fin	-	-	1 Enduron Lead																				
+CritUp.PISCINOID XV	Skell Crit Rate vs Piscoids +30	4 Small Dorsal Fin	-	-	1 Boiled-Egg Ore																				
+CritUp.PISCINOID XX	Skell Crit Rate vs Piscoids +50	5 Small Dorsal Fin	-	-	1 Marine Rutile																				
+CritUp.HUMANOID I	Skell Crit Rate vs Humanoids +2	1 Broken Buckle	-	-	1 Arc Sand Ore																				
+CritUp.HUMANOID V	Skell Crit Rate vs Humanoids +10	2 Broken Buckle	-	-	1 Lionbone Bort																				
+CritUp.HUMANOID X	Skell Crit Rate vs Humanoids +20	3 Broken Buckle	-	-	1 Enduron Lead																				
+CritUp.HUMANOID XV	Skell Crit Rate vs Humanoids +30	4 Broken Buckle	-	-	1 Boiled-Egg Ore																				
+CritUp.HUMANOID XX	Skell Crit Rate vs Humanoids +50	5 Broken Buckle	-	-	1 Marine Rutile																				
+CritUp.MECHANOID I	Skell Crit Rate vs Mechanoids +2	1 Standard Crank	-	-	1 Arc Sand Ore																				
+CritUp.MECHANOID V	Skell Crit Rate vs Mechanoids +10	2 Standard Crank	-	-	1 Lionbone Bort																				
+CritUp.MECHANOID X	Skell Crit Rate vs Mechanoids +20	3 Standard Crank	-	-	1 Enduron Lead																				
+CritUp.MECHANOID XV	Skell Crit Rate vs Mechanoids +30	4 Standard Crank	-	-	1 Boiled-Egg Ore																				
+CritUp.MECHANOID XX	Skell Crit Rate vs Mechanoids +50	5 Standard Crank	-	-	1 Marine Rutile																				
+CritUp.CHIMEROID I	Skell Crit Rate vs Chimeras +2	1 Sticky Mucus	1 Bloodied Face	1 Fine White Belt	1 White Cometite																				
+CritUp.CHIMEROID V	Skell Crit Rate vs Chimeras +10	2 Sticky Mucus	2 Bloodied Face	2 Fine White Belt	1 Dawnstone																				
+CritUp.CHIMEROID X	Skell Crit Rate vs Chimeras +20	3 Sticky Mucus	3 Black Colubrium Tail	3 Brown Colubrium Tail	1 Everfreeze Ore																				
+CritUp.CHIMEROID XV	Skell Crit Rate vs Chimeras +30	4 Sticky Mucus	4 Black Colubrium Tail	4 Brown Colubrium Tail	1 Foucaultium																				
+CritUp.CHIMEROID XX	Skell Crit Rate vs Chimeras +50	5 Sticky Mucus	5 Black Colubrium Tail	5 Brown Colubrium Tail	1 Bonjelium																				
+CritUp.ULTRAFAUNA I	Skell Crit Rate vs Ultrafauna +2	1 Thick Cinicula Horn	1 Black Electrical Tentacle	1 Hot Potamus Juice	1 White Cometite																				
+CritUp.ULTRAFAUNA V	Skell Crit Rate vs Ultrafauna +10	2 Thick Cinicula Horn	2 Black Electrical Tentacle	2 Hot Potamus Juice	1 Dawnstone																				
+CritUp.ULTRAFAUNA X	Skell Crit Rate vs Ultrafauna +20	3 Thick Cinicula Horn	3 Reverse Colubrim Fin	3 Colubrim Eel Kebab	1 Everfreeze Ore																				
+CritUp.ULTRAFAUNA XV	Skell Crit Rate vs Ultrafauna +30	4 Thick Cinicula Horn	4 Reverse Colubrim Fin	4 Colubrim Eel Kebab	1 Foucaultium																				
+CritUp.ULTRAFAUNA XX	Skell Crit Rate vs Ultrafauna +50	5 Thick Cinicula Horn	5 Reverse Colubrim Fin	5 Colubrim Eel Kebab	1 Bonjelium																				
+Slayer.THEROID I	Skell Dmg vs Beasts +2%	1 Fleecy Fur	-	-	1 Arc Sand Ore																				
+Slayer.THEROID V	Skell Dmg vs Beasts +10%	2 Fleecy Fur	-	-	1 Lionbone Bort																				
+Slayer.THEROID X	Skell Dmg vs Beasts +20%	3 Fleecy Fur	-	-	1 Enduron Lead																				
+Slayer.THEROID XV	Skell Dmg vs Beasts +30%	4 Fleecy Fur	-	-	1 Boiled-Egg Ore																				
+Slayer.THEROID XX	Skell Dmg vs Beasts +40%	5 Fleecy Fur	-	-	1 Marine Rutile																				
+Slayer.INSECTOID I	Skell Dmg vs Insectoids +2%	1 Tatty Insect Wing	-	-	1 Arc Sand Ore																				
+Slayer.INSECTOID V	Skell Dmg vs Insectoids +10%	2 Tatty Insect Wing	-	-	1 Lionbone Bort																				
+Slayer.INSECTOID X	Skell Dmg vs Insectoids +20%	3 Tatty Insect Wing	-	-	1 Enduron Lead																				
+Slayer.INSECTOID XV	Skell Dmg vs Insectoids +30%	4 Tatty Insect Wing	-	-	1 Boiled-Egg Ore																				
+Slayer.INSECTOID XX	Skell Dmg vs Insectoids +40%	5 Tatty Insect Wing	-	-	1 Marine Rutile																				
+Slayer.PISCINOID I	Skell Dmg vs Piscoids +2%	1 Small Dorsal Fin	-	-	1 Arc Sand Ore																				
+Slayer.PISCINOID V	Skell Dmg vs Piscoids +10%	2 Small Dorsal Fin	-	-	1 Lionbone Bort																				
+Slayer.PISCINOID X	Skell Dmg vs Piscoids +20%	3 Small Dorsal Fin	-	-	1 Enduron Lead																				
+Slayer.PISCINOID XV	Skell Dmg vs Piscoids +30%	4 Small Dorsal Fin	-	-	1 Boiled-Egg Ore																				
+Slayer.PISCINOID XX	Skell Dmg vs Piscoids +40%	5 Small Dorsal Fin	-	-	1 Marine Rutile																				
+Slayer.HUMANOID I	Skell Dmg vs Humanoids +2%	1 Broken Buckle	-	-	1 Arc Sand Ore																				
+Slayer.HUMANOID V	Skell Dmg vs Humanoids +10%	2 Broken Buckle	-	-	1 Lionbone Bort																				
+Slayer.HUMANOID X	Skell Dmg vs Humanoids +20%	3 Broken Buckle	-	-	1 Enduron Lead																				
+Slayer.HUMANOID XV	Skell Dmg vs Humanoids +30%	4 Broken Buckle	-	-	1 Boiled-Egg Ore																				
+Slayer.HUMANOID XX	Skell Dmg vs Humanoids +40%	5 Broken Buckle	-	-	1 Marine Rutile																				
+Slayer.MECHANOID I	Skell Dmg vs Mechanoids +2%	1 Standard Crank	-	-	1 Arc Sand Ore																				
+Slayer.MECHANOID V	Skell Dmg vs Mechanoids +10%	2 Standard Crank	-	-	1 Lionbone Bort																				
+Slayer.MECHANOID X	Skell Dmg vs Mechanoids +20%	3 Standard Crank	-	-	1 Enduron Lead																				
+Slayer.MECHANOID XV	Skell Dmg vs Mechanoids +30%	4 Standard Crank	-	-	1 Boiled-Egg Ore																				
+Slayer.MECHANOID XX	Skell Dmg vs Mechanoids +40%	5 Standard Crank	-	-	1 Marine Rutile																				
+Slayer.CHIMEROID I	Skell Dmg vs Chimera +2%	1 Sticky Mucus	1 Bloodied Face	1 Fine White Belt	1 White Cometite																				
+Slayer.CHIMEROID V	Skell Dmg vs Chimera +10%	2 Sticky Mucus	2 Bloodied Face	2 Fine White Belt	1 Dawnstone																				
+Slayer.CHIMEROID X	Skell Dmg vs Chimera +20%	3 Sticky Mucus	3 Yellow Millepod Rock	3 Millepod Ice Rock	1 Everfreeze Ore																				
+Slayer.CHIMEROID XV	Skell Dmg vs Chimera +30%	4 Sticky Mucus	4 Yellow Millepod Rock	4 Millepod Ice Rock	1 Foucaultium																				
+Slayer.CHIMEROID XX	Skell Dmg vs Chimera +40%	5 Sticky Mucus	5 Yellow Millepod Rock	5 Millepod Ice Rock	1 Bonjelium																				
+Slayer.ULTRAFAUNA I	Skell Dmg vs Ultrafauna +2%	1 White Forfex Shell	1 Black Electrical Tentacle	1 Hot Potamus Juice	1 White Cometite																				
+Slayer.ULTRAFAUNA V	Skell Dmg vs Ultrafauna +10%	2 White Forfex Shell	2 Black Electrical Tentacle	2 Hot Potamus Juice	1 Dawnstone																				
+Slayer.ULTRAFAUNA X	Skell Dmg vs Ultrafauna +20%	3 White Forfex Shell	3 Reverse Millepod Fin	3 Deva Caladar's Red Ear	1 Everfreeze Ore																				
+Slayer.ULTRAFAUNA XV	Skell Dmg vs Ultrafauna +30%	4 White Forfex Shell	4 Reverse Millepod Fin	4 Deva Caladar's Red Ear	1 Foucaultium																				
+Slayer.ULTRAFAUNA XX	Skell Dmg vs Ultrafauna +40%	5 White Forfex Shell	5 Reverse Millepod Fin	5 Deva Caladar's Red Ear	1 Bonjelium																				
+M-Auto.BLACKOUT I	Skell Melee AA 5% inflict Blackout I	1 Ovis Polishing Stone	-	-	1 Arc Sand Ore																				
+M-Auto.BLACKOUT V	Skell Melee AA 10% inflict Blackout I	2 Ovis Polishing Stone	-	-	1 Lionbone Bort																				
+M-Auto.BLACKOUT X	Skell Melee AA 10% inflict Blackout II	3 Ovis Polishing Stone	-	-	1 Enduron Lead																				
+M-Auto.BLACKOUT XV	Skell Melee AA 10% inflict Blackout III	4 Ovis Polishing Stone	-	-	1 Boiled-Egg Ore																				
+M-Auto.BLACKOUT XX	Skell Melee AA 10% inflict Blackout IV	5 Ovis Polishing Stone	-	-	1 Marine Rutile																				
+M-Auto.FATIGUE I	Skell Melee AA 5% inflict Fatigue I	1 Muscled Suid Bulge	-	-	1 Arc Sand Ore																				
+M-Auto.FATIGUE V	Skell Melee AA 10% inflict Fatigue I	2 Muscled Suid Bulge	-	-	1 Lionbone Bort																				
+M-Auto.FATIGUE X	Skell Melee AA 10% inflict Fatigue II	3 Muscled Suid Bulge	-	-	1 Enduron Lead																				
+M-Auto.FATIGUE XV	Skell Melee AA 10% inflict Fatigue III	4 Muscled Suid Bulge	-	-	1 Boiled-Egg Ore																				
+M-Auto.FATIGUE XX	Skell Melee AA 10% inflict Fatigue IV	5 Muscled Suid Bulge	-	-	1 Marine Rutile																				
+M-Auto.PHYS-DOWN I	Skell Melee AA 5% inflict Phys Res Down I	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+M-Auto.PHYS-DOWN V	Skell Melee AA 10% inflict Phys Res Down I	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+M-Auto.PHYS-DOWN X	Skell Melee AA 10% inflict Phys Res Down II	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+M-Auto.PHYS-DOWN XV	Skell Melee AA 10% inflict Phys Res Down III	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+M-Auto.PHYS-DOWN XX	Skell Melee AA 10% inflict Phys Res Down IV	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+M-Auto.BEAM-DOWN I	Skell Melee AA 5% inflict Beam Res Down I	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
+M-Auto.BEAM-DOWN V	Skell Melee AA 10% inflict Beam Res Down I	2 Adsecula Straw	-	-	1 Lionbone Bort																				
+M-Auto.BEAM-DOWN X	Skell Melee AA 10% inflict Beam Res Down II	3 Adsecula Straw	-	-	1 Enduron Lead																				
+M-Auto.BEAM-DOWN XV	Skell Melee AA 10% inflict Beam Res Down III	4 Adsecula Straw	-	-	1 Boiled-Egg Ore																				
+M-Auto.BEAM-DOWN XX	Skell Melee AA 10% inflict Beam Res Down IV	5 Adsecula Straw	-	-	1 Marine Rutile																				
+M-Auto.ETHER-DOWN I	Skell Melee AA 5% inflict Ether Res Down I	1 Perforated Oar	-	-	1 Arc Sand Ore																				
+M-Auto.ETHER-DOWN V	Skell Melee AA 10% inflict Ether Res Down I	2 Perforated Oar	-	-	1 Lionbone Bort																				
+M-Auto.ETHER-DOWN X	Skell Melee AA 10% inflict Ether Res Down II	3 Perforated Oar	-	-	1 Enduron Lead																				
+M-Auto.ETHER-DOWN XV	Skell Melee AA 10% inflict Ether Res Down III	4 Perforated Oar	-	-	1 Boiled-Egg Ore																				
+M-Auto.ETHER-DOWN XX	Skell Melee AA 10% inflict Ether Res Down IV	5 Perforated Oar	-	-	1 Marine Rutile																				
+M-Auto.THERM-DOWN I	Skell Melee AA 5% inflict Thermal Res Down I	1 Red Forfex Shell	-	-	1 Arc Sand Ore																				
+M-Auto.THERM-DOWN V	Skell Melee AA 10% inflict Thermal Res Down I	2 Red Forfex Shell	-	-	1 Lionbone Bort																				
+M-Auto.THERM-DOWN X	Skell Melee AA 10% inflict Thermal Res Down II	3 Red Forfex Shell	-	-	1 Enduron Lead																				
+M-Auto.THERM-DOWN XV	Skell Melee AA 10% inflict Thermal Res Down III	4 Red Forfex Shell	-	-	1 Boiled-Egg Ore																				
+M-Auto.THERM-DOWN XX	Skell Melee AA 10% inflict Thermal Res Down IV	5 Red Forfex Shell	-	-	1 Marine Rutile																				
+M-Auto.ELEC-DOWN I	Skell Melee AA 5% inflict Electric Res Down I	1 Muddy Pelt	-	-	1 Arc Sand Ore																				
+M-Auto.ELEC-DOWN V	Skell Melee AA 10% inflict Electric Res Down I	2 Muddy Pelt	-	-	1 Lionbone Bort																				
+M-Auto.ELEC-DOWN X	Skell Melee AA 10% inflict Electric Res Down II	3 Muddy Pelt	-	-	1 Enduron Lead																				
+M-Auto.ELEC-DOWN XV	Skell Melee AA 10% inflict Electric Res Down III	4 Muddy Pelt	-	-	1 Boiled-Egg Ore																				
+M-Auto.ELEC-DOWN XX	Skell Melee AA 10% inflict Electric Res Down IV	5 Muddy Pelt	-	-	1 Marine Rutile																				
+M-Auto.GRAV-DOWN I	Skell Melee AA 5% inflict Gravity Res Down I	1 Black Blatta Wing	-	-	1 Arc Sand Ore																				
+M-Auto.GRAV-DOWN V	Skell Melee AA 10% inflict Gravity Res Down I	2 Black Blatta Wing	-	-	1 Lionbone Bort																				
+M-Auto.GRAV-DOWN X	Skell Melee AA 10% inflict Gravity Res Down II	3 Black Blatta Wing	-	-	1 Enduron Lead																				
+M-Auto.GRAV-DOWN XV	Skell Melee AA 10% inflict Gravity Res Down III	4 Black Blatta Wing	-	-	1 Boiled-Egg Ore																				
+M-Auto.GRAV-DOWN XX	Skell Melee AA 10% inflict Gravity Res Down IV	5 Black Blatta Wing	-	-	1 Marine Rutile																				
+M-Auto.BLAZE I	Skell Melee AA 5% inflict Blaze I	1 Scirpo Malic Acid Sac	1 Pugilith Lamp	-	1 Aurorite																				
+M-Auto.BLAZE V	Skell Melee AA 10% inflict Blaze I	2 Scirpo Malic Acid Sac	2 Pugilith Lamp	-	1 Infernium																				
+M-Auto.BLAZE X	Skell Melee AA 10% inflict Blaze II	3 Scirpo Malic Acid Sac	3 Imperial Sphinx Fang	-	1 Cimmerian Cinnabar																				
+M-Auto.BLAZE XV	Skell Melee AA 10% inflict Blaze III	4 Scirpo Malic Acid Sac	4 Imperial Sphinx Fang	-	1 Ouroboros Crystal																				
+M-Auto.BLAZE XX	Skell Melee AA 10% inflict Blaze IV	5 Scirpo Malic Acid Sac	5 Imperial Sphinx Fang	-	1 Parhelion Platinum																				
+M-Auto.SHOCK I	Skell Melee AA 5% inflict Shock I	1 Scirpo Cyanide Sac	1 Electrified Xeno Blood	-	1 Aurorite																				
+M-Auto.SHOCK V	Skell Melee AA 10% inflict Shock I	2 Scirpo Cyanide Sac	2 Electrified Xeno Blood	-	1 Infernium																				
+M-Auto.SHOCK X	Skell Melee AA 10% inflict Shock II	3 Scirpo Cyanide Sac	3 Electric Tersqual Tear	-	1 Cimmerian Cinnabar																				
+M-Auto.SHOCK XV	Skell Melee AA 10% inflict Shock III	4 Scirpo Cyanide Sac	4 Electric Tersqual Tear	-	1 Ouroboros Crystal																				
+M-Auto.SHOCK XX	Skell Melee AA 10% inflict Shock IV	5 Scirpo Cyanide Sac	5 Electric Tersqual Tear	-	1 Parhelion Platinum																				
+M-Auto.HP-RECOV I	Skell Melee AA 50% restore 25 HP	1 Thallus Crescent Hook	1 Green Monoceros Horn	1 Liceor Horn	1 White Cometite																				
+M-Auto.HP-RECOV V	Skell Melee AA 50% restore 125 HP	2 Thallus Crescent Hook	2 Green Monoceros Horn	2 Liceor Horn	1 Dawnstone																				
+M-Auto.HP-RECOV X	Skell Melee AA 50% restore 250 HP	3 Thallus Crescent Hook	3 Millesaur Dung	3 Coronid Dung	1 Everfreeze Ore																				
+M-Auto.HP-RECOV XV	Skell Melee AA 50% restore 375 HP	4 Thallus Crescent Hook	4 Millesaur Dung	4 Coronid Dung	1 Foucaultium																				
+M-Auto.HP-RECOV XX	Skell Melee AA 50% restore 500 HP	5 Thallus Crescent Hook	5 Millesaur Dung	5 Coronid Dung	1 Bonjelium																				
+Reflect.NEG-PHYS I	Skells 5% chance to nullify Phys Reflect	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+Reflect.NEG-PHYS V	Skells 25% chance to nullify Phys Reflect	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+Reflect.NEG-PHYS X	Skells 50% chance to nullify Phys Reflect	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+Reflect.NEG-PHYS XV	Skells 75% chance to nullify Phys Reflect	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-PHYS XX	Skells 100% chance to nullify Phys Reflect	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+Reflect.NEG-BEAM I	Skells 5% chance to nullify Beam Reflect	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
+Reflect.NEG-BEAM V	Skells 25% chance to nullify Beam Reflect	2 Adsecula Straw	-	-	1 Lionbone Bort																				
+Reflect.NEG-BEAM X	Skells 50% chance to nullify Beam Reflect	3 Adsecula Straw	-	-	1 Enduron Lead																				
+Reflect.NEG-BEAM XV	Skells 75% chance to nullify Beam Reflect	4 Adsecula Straw	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-BEAM XX	Skells 100% chance to nullify Beam Reflect	5 Adsecula Straw	-	-	1 Marine Rutile																				
+Reflect.NEG-ETHER I	Skells 5% chance to nullify Ether Reflect	1 Taut Leather	-	-	1 Arc Sand Ore																				
+Reflect.NEG-ETHER V	Skells 25% chance to nullify Ether Reflect	2 Taut Leather	-	-	1 Lionbone Bort																				
+Reflect.NEG-ETHER X	Skells 50% chance to nullify Ether Reflect	3 Taut Leather	-	-	1 Enduron Lead																				
+Reflect.NEG-ETHER XV	Skells 75% chance to nullify Ether Reflect	4 Taut Leather	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-ETHER XX	Skells 100% chance to nullify Ether Reflect	5 Taut Leather	-	-	1 Marine Rutile																				
+Reflect.NEG-THERMAL I	Skells 5% chance to nullify Thermal Reflect	1 Red Forfex Shell	-	-	1 Arc Sand Ore																				
+Reflect.NEG-THERMAL V	Skells 25% chance to nullify Thermal Reflect	2 Red Forfex Shell	-	-	1 Lionbone Bort																				
+Reflect.NEG-THERMAL X	Skells 50% chance to nullify Thermal Reflect	3 Red Forfex Shell	-	-	1 Enduron Lead																				
+Reflect.NEG-THERMAL XV	Skells 75% chance to nullify Thermal Reflect	4 Red Forfex Shell	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-THERMAL XX	Skells 100% chance to nullify Thermal Reflect	5 Red Forfex Shell	-	-	1 Marine Rutile																				
+Reflect.NEG-ELECTRIC I	Skells 5% chance to nullify Electric Reflect	1 Muddy Pelt	-	-	1 Arc Sand Ore																				
+Reflect.NEG-ELECTRIC V	Skells 25% chance to nullify Electric Reflect	2 Muddy Pelt	-	-	1 Lionbone Bort																				
+Reflect.NEG-ELECTRIC X	Skells 50% chance to nullify Electric Reflect	3 Muddy Pelt	-	-	1 Enduron Lead																				
+Reflect.NEG-ELECTRIC XV	Skells 75% chance to nullify Electric Reflect	4 Muddy Pelt	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-ELECTRIC XX	Skells 100% chance to nullify Electric Reflect	5 Muddy Pelt	-	-	1 Marine Rutile																				
+Reflect.NEG-GRAVITY I	Skells 5% chance to nullify Gravity Reflect	1 Black Blatta Wing	-	-	1 Arc Sand Ore																				
+Reflect.NEG-GRAVITY V	Skells 25% chance to nullify Gravity Reflect	2 Black Blatta Wing	-	-	1 Lionbone Bort																				
+Reflect.NEG-GRAVITY X	Skells 50% chance to nullify Gravity Reflect	3 Black Blatta Wing	-	-	1 Enduron Lead																				
+Reflect.NEG-GRAVITY XV	Skells 75% chance to nullify Gravity Reflect	4 Black Blatta Wing	-	-	1 Boiled-Egg Ore																				
+Reflect.NEG-GRAVITY XX	Skells 100% chance to nullify Gravity Reflect	5 Black Blatta Wing	-	-	1 Marine Rutile																				
+Arts.GP I	Skell arts restore 10 GP	1 White Mortifole Feather	1 Ornate Insidia Claw	1 Blue Fungi	1 White Cometite																				
+Arts.GP V	Skell arts restore 50 GP	2 White Mortifole Feather	2 Ornate Insidia Claw	2 Blue Fungi	1 Dawnstone																				
+Arts.GP X	Skell arts restore 100 GP	8 White Mortifole Feather	8 Aeviter Star Wing	8 Red Vigent Rock Scalp	2 Everfreeze Ore																				
+Arts.GP XV	Skell arts restore 150 GP	16 White Mortifole Feather	16 Aeviter Star Wing	16 Red Vigent Rock Scalp	4 Foucaultium																				
+Arts.GP XX	Skell arts restore 200 GP	32 White Mortifole Feather	32 Aeviter Star Wing	32 Red Vigent Rock Scalp	8 Bonjelium																				
+TimeEx.TAUNT I	Taunt duration from Skell arts +1s	1 Small Insect Leg	-	-	1 Arc Sand Ore																				
+TimeEx.TAUNT V	Taunt duration from Skell arts +5s	2 Small Insect Leg	-	-	1 Lionbone Bort																				
+TimeEx.TAUNT X	Taunt duration from Skell arts +10s	3 Small Insect Leg	-	-	1 Enduron Lead																				
+TimeEx.TAUNT XV	Taunt duration from Skell arts +15s	4 Small Insect Leg	-	-	1 Boiled-Egg Ore																				
+TimeEx.TAUNT XX	Taunt duration from Skell arts +20s	5 Small Insect Leg	-	-	1 Marine Rutile																				
+TimeEx.SLEEP I	Sleep duration from Skell arts +1s	1 Moving Vivohast Tail	-	-	1 Arc Sand Ore																				
+TimeEx.SLEEP V	Sleep duration from Skell arts +5s	2 Moving Vivohast Tail	-	-	1 Lionbone Bort																				
+TimeEx.SLEEP X	Sleep duration from Skell arts +10s	3 Moving Vivohast Tail	-	-	1 Enduron Lead																				
+TimeEx.SLEEP XV	Sleep duration from Skell arts +15s	4 Moving Vivohast Tail	-	-	1 Boiled-Egg Ore																				
+TimeEx.SLEEP XX	Sleep duration from Skell arts +20s	5 Moving Vivohast Tail	-	-	1 Marine Rutile																				
+TimeEx.VIRUS I	Virus duration from Skell arts +1s	1 Small Insect Leg	-	-	1 Arc Sand Ore																				
+TimeEx.VIRUS V	Virus duration from Skell arts +5s	2 Small Insect Leg	-	-	1 Lionbone Bort																				
+TimeEx.VIRUS X	Virus duration from Skell arts +10s	3 Small Insect Leg	-	-	1 Enduron Lead																				
+TimeEx.VIRUS XV	Virus duration from Skell arts +15s	4 Small Insect Leg	-	-	1 Boiled-Egg Ore																				
+TimeEx.VIRUS XX	Virus duration from Skell arts +20s	5 Small Insect Leg	-	-	1 Marine Rutile																				
+TimeEx.BLACKOUT I	Blackout duration from Skell arts +1s	1 Ovis Polishing Stone	-	-	1 Arc Sand Ore																				
+TimeEx.BLACKOUT V	Blackout duration from Skell arts +5s	2 Ovis Polishing Stone	-	-	1 Lionbone Bort																				
+TimeEx.BLACKOUT X	Blackout duration from Skell arts +10s	3 Ovis Polishing Stone	-	-	1 Enduron Lead																				
+TimeEx.BLACKOUT XV	Blackout duration from Skell arts +15s	4 Ovis Polishing Stone	-	-	1 Boiled-Egg Ore																				
+TimeEx.BLACKOUT XX	Blackout duration from Skell arts +20s	5 Ovis Polishing Stone	-	-	1 Marine Rutile																				
+TimeEx.FATIGUE I	Fatigue duration from Skell arts +1s	1 Broken Pincer	-	-	1 Arc Sand Ore																				
+TimeEx.FATIGUE V	Fatigue duration from Skell arts +5s	2 Broken Pincer	-	-	1 Lionbone Bort																				
+TimeEx.FATIGUE X	Fatigue duration from Skell arts +10s	3 Broken Pincer	-	-	1 Enduron Lead																				
+TimeEx.FATIGUE XV	Fatigue duration from Skell arts +15s	4 Broken Pincer	-	-	1 Boiled-Egg Ore																				
+TimeEx.FATIGUE XX	Fatigue duration from Skell arts +20s	5 Broken Pincer	-	-	1 Marine Rutile																				
+TimeEx.SLOW-ARTS I	Slow Skell arts duration from Skell arts +1s	1 Supple Leather	-	-	1 Arc Sand Ore																				
+TimeEx.SLOW-ARTS V	Slow Skell arts duration from Skell arts +5s	2 Supple Leather	-	-	1 Lionbone Bort																				
+TimeEx.SLOW-ARTS X	Slow Skell arts duration from Skell arts +10s	3 Supple Leather	-	-	1 Enduron Lead																				
+TimeEx.SLOW-ARTS XV	Slow Skell arts duration from Skell arts +15s	4 Supple Leather	-	-	1 Boiled-Egg Ore																				
+TimeEx.SLOW-ARTS XX	Slow Skell arts duration from Skell arts +20s	5 Supple Leather	-	-	1 Marine Rutile																				
+TimeEx.DEBUFF-DOWN I	Debuff Res Down duration from Skell arts +1s	1 Lovely Pom Pom	-	-	1 Arc Sand Ore																				
+TimeEx.DEBUFF-DOWN V	Debuff Res Down duration from Skell arts +5s	2 Lovely Pom Pom	-	-	1 Lionbone Bort																				
+TimeEx.DEBUFF-DOWN X	Debuff Res Down duration from Skell arts +10s	3 Lovely Pom Pom	-	-	1 Enduron Lead																				
+TimeEx.DEBUFF-DOWN XV	Debuff Res Down duration from Skell arts +15s	4 Lovely Pom Pom	-	-	1 Boiled-Egg Ore																				
+TimeEx.DEBUFF-DOWN XX	Debuff Res Down duration from Skell arts +20s	5 Lovely Pom Pom	-	-	1 Marine Rutile																				
+TimeEx.BLAZE I	Blaze duration from Skell arts +1s	1 Poisonous Needle	-	-	1 Arc Sand Ore																				
+TimeEx.BLAZE V	Blaze duration from Skell arts +5s	4 Poisonous Needle	-	-	1 Lionbone Bort																				
+TimeEx.BLAZE X	Blaze duration from Skell arts +10s	12 Poisonous Needle	1 Levitath Sun Bead	-	1 Enduron Lead																				
+TimeEx.BLAZE XV	Blaze duration from Skell arts +15s	24 Poisonous Needle	2 Levitath Sun Bead	-	4 Boiled-Egg Ore																				
+TimeEx.BLAZE XX	Blaze duration from Skell arts +20s	36 Poisonous Needle	4 Levitath Sun Bead	-	8 Marine Rutile																				
+TimeEx.SHOCK I	Shock duration from Skell arts +1s	1 Vesper Fang	-	-	1 Arc Sand Ore																				
+TimeEx.SHOCK V	Shock duration from Skell arts +5s	4 Vesper Fang	-	-	1 Lionbone Bort																				
+TimeEx.SHOCK X	Shock duration from Skell arts +10s	12 Vesper Fang	1 Electric Tersqual Tear	-	2 Enduron Lead																				
+TimeEx.SHOCK XV	Shock duration from Skell arts +15s	24 Vesper Fang	2 Electric Tersqual Tear	-	4 Boiled-Egg Ore																				
+TimeEx.SHOCK XX	Shock duration from Skell arts +20s	48 Vesper Fang	4 Electric Tersqual Tear	-	8 Marine Rutile																				
+TimeEx.PHYS-DOWN I	Phys Res Down duration from Skell arts +1s	1 Juicy Wild Meat	-	-	1 Arc Sand Ore																				
+TimeEx.PHYS-DOWN V	Phys Res Down duration from Skell arts +5s	2 Juicy Wild Meat	-	-	1 Lionbone Bort																				
+TimeEx.PHYS-DOWN X	Phys Res Down duration from Skell arts +10s	3 Juicy Wild Meat	-	-	1 Enduron Lead																				
+TimeEx.PHYS-DOWN XV	Phys Res Down duration from Skell arts +15s	4 Juicy Wild Meat	-	-	1 Boiled-Egg Ore																				
+TimeEx.PHYS-DOWN XX	Phys Res Down duration from Skell arts +20s	5 Juicy Wild Meat	-	-	1 Marine Rutile																				
+TimeEx.BEAM-DOWN I	Beam Res Down duration from Skell arts +1s	1 Adsecula Straw	-	-	1 Arc Sand Ore																				
+TimeEx.BEAM-DOWN V	Beam Res Down duration from Skell arts +5s	2 Adsecula Straw	-	-	1 Lionbone Bort																				
+TimeEx.BEAM-DOWN X	Beam Res Down duration from Skell arts +10s	3 Adsecula Straw	-	-	1 Enduron Lead																				
+TimeEx.BEAM-DOWN XV	Beam Res Down duration from Skell arts +15s	4 Adsecula Straw	-	-	1 Boiled-Egg Ore																				
+TimeEx.BEAM-DOWN XX	Beam Res Down duration from Skell arts +20s	5 Adsecula Straw	-	-	1 Marine Rutile																				
+TimeEx.ETHER-DOWN I	Ether Res Down duration from Skell arts +1s	1 Perforated Oar	-	-	1 Arc Sand Ore																				
+TimeEx.ETHER-DOWN V	Ether Res Down duration from Skell arts +5s	2 Perforated Oar	-	-	1 Lionbone Bort																				
+TimeEx.ETHER-DOWN X	Ether Res Down duration from Skell arts +10s	3 Perforated Oar	-	-	1 Enduron Lead																				
+TimeEx.ETHER-DOWN XV	Ether Res Down duration from Skell arts +15s	4 Perforated Oar	-	-	1 Boiled-Egg Ore																				
+TimeEx.ETHER-DOWN XX	Ether Res Down duration from Skell arts +20s	5 Perforated Oar	-	-	1 Marine Rutile																				
+TimeEx.THERM-DOWN I	Thermal Res Down duration from Skell arts +1s	1 Red Forfex Shell	-	-	1 Arc Sand Ore																				
+TimeEx.THERM-DOWN V	Thermal Res Down duration from Skell arts +5s	2 Red Forfex Shell	-	-	1 Lionbone Bort																				
+TimeEx.THERM-DOWN X	Thermal Res Down duration from Skell arts +10s	3 Red Forfex Shell	-	-	1 Enduron Lead																				
+TimeEx.THERM-DOWN XV	Thermal Res Down duration from Skell arts +15s	4 Red Forfex Shell	-	-	1 Boiled-Egg Ore																				
+TimeEx.THERM-DOWN XX	Thermal Res Down duration from Skell arts +20s	5 Red Forfex Shell	-	-	1 Marine Rutile																				
+TimeEx.ELEC-DOWN I	Electric Res Down duration from Skell arts +1s	1 Muddy Pelt	-	-	1 Arc Sand Ore																				
+TimeEx.ELEC-DOWN V	Electric Res Down duration from Skell arts +5s	2 Muddy Pelt	-	-	1 Lionbone Bort																				
+TimeEx.ELEC-DOWN X	Electric Res Down duration from Skell arts +10s	3 Muddy Pelt	-	-	1 Enduron Lead																				
+TimeEx.ELEC-DOWN XV	Electric Res Down duration from Skell arts +15s	4 Muddy Pelt	-	-	1 Boiled-Egg Ore																				
+TimeEx.ELEC-DOWN XX	Electric Res Down duration from Skell arts +20s	5 Muddy Pelt	-	-	1 Marine Rutile																				
+TimeEx.GRAV-DOWN I	Gravity Res Down duration from Skell arts +1s	1 Black Blatta Wing	-	-	1 Arc Sand Ore																				
+TimeEx.GRAV-DOWN V	Gravity Res Down duration from Skell arts +5s	2 Black Blatta Wing	-	-	1 Lionbone Bort																				
+TimeEx.GRAV-DOWN X	Gravity Res Down duration from Skell arts +10s	3 Black Blatta Wing	-	-	1 Enduron Lead																				
+TimeEx.GRAV-DOWN XV	Gravity Res Down duration from Skell arts +15s	4 Black Blatta Wing	-	-	1 Boiled-Egg Ore																				
+TimeEx.GRAV-DOWN XX	Gravity Res Down duration from Skell arts +20s	5 Black Blatta Wing	-	-	1 Marine Rutile																				
+Draw.OPENING-DMG I	Battle-starting Skell arts dmg +5%	1 Red Thallus Antenna	1 Monoceros Wing	1 Reinforced Thruster	1 White Cometite																				
+Draw.OPENING-DMG V	Battle-starting Skell arts dmg +25%	2 Red Thallus Antenna	2 Monoceros Wing	2 Reinforced Thruster	1 Dawnstone																				
+Draw.OPENING-DMG X	Battle-starting Skell arts dmg +50%	8 Red Thallus Antenna	8 Parasitic Capsule	8 Large Saw Tooth	2 Everfreeze Ore																				
+Draw.OPENING-DMG XV	Battle-starting Skell arts dmg +75%	16 Red Thallus Antenna	16 Parasitic Capsule	16 Large Saw Tooth	4 Foucaultium																				
+Draw.OPENING-DMG XX	Battle-starting Skell arts dmg +100%	32 Red Thallus Antenna	32 Parasitic Capsule	32 Large Saw Tooth	8 Bonjelium																				
+Crush.APPEND I	Skell Ranged dmg vs. Appendages +5%	1 Sapphire Horn	1 Monoceros Hoof Hook	1 Cracked Claw	1 White Cometite																				
+Crush.APPEND V	Skell Ranged dmg vs. Appendages +25%	2 Sapphire Horn	2 Monoceros Hoof Hook	2 Cracked Claw	1 Dawnstone																				
+Crush.APPEND X	Skell Ranged dmg vs. Appendages +50%	3 Sapphire Horn	3 Malevolent Petramand Silk	3 Brown Monoceros Horn	1 Everfreeze Ore																				
+Crush.APPEND XV	Skell Ranged dmg vs. Appendages +75%	4 Sapphire Horn	4 Malevolent Petramand Silk	4 Brown Monoceros Horn	1 Foucaultium																				
+Crush.APPEND XX	Skell Ranged dmg vs. Appendages +100%	5 Sapphire Horn	5 Malevolent Petramand Silk	5 Brown Monoceros Horn	1 Bonjelium																				
+Night.MR-ACC I	Skell Melee/Ranged Accuracy at Night +1%	1 White Scintimure Tentacle	-	-	1 Arc Sand Ore																				
+Night.MR-ACC V	Skell Melee/Ranged Accuracy at Night +5%	2 White Scintimure Tentacle	-	-	1 Lionbone Bort																				
+Night.MR-ACC X	Skell Melee/Ranged Accuracy at Night +10%	3 White Scintimure Tentacle	-	-	1 Enduron Lead																				
+Night.MR-ACC XV	Skell Melee/Ranged Accuracy at Night +15%	4 White Scintimure Tentacle	-	-	1 Boiled Egg Ore																				
+Night.MR-ACC XX	Skell Melee/Ranged Accuracy at Night +20%	5 White Scintimure Tentacle	-	-	1 Marine Rutile																				
+SpecUp.HPMAX I	Skell Max HP +50	1 Succulent Meat	-	-	1 Arc Sand Ore																				
+SpecUp.HPMAX V	Skell Max HP +250	2 Succulent Meat	-	-	1 Lionbone Bort																				
+SpecUp.HPMAX X	Skell Max HP +500	3 Succulent Meat	-	-	1 Enduron Lead																				
+SpecUp.HPMAX XV	Skell Max HP +750	4 Succulent Meat	-	-	1 Boiled-Egg Ore																				
+SpecUp.HPMAX XX	Skell Max HP +1000	5 Succulent Meat	-	-	1 Marine Rutile																				
+SpecUp.EVA I	Skell Evasion +5	1 Black Fog Deposits	-	-	1 Arc Sand Ore																				
+SpecUp.EVA V	Skell Evasion +9	2 Black Fog Deposits	-	-	1 Lionbone Bort																				
+SpecUp.EVA X	Skell Evasion +14	8 Cloudy Eyeball	8 Gerrid Shell	8 Jacul Waterfall Orb	2 Everfreeze Ore																				
+SpecUp.EVA XV	Skell Evasion +20	16 Cloudy Eyeball	16 Gerrid Shell	16 Jacul Waterfall Orb	4 Foucaultium																				
+SpecUp.EVA XX	Skell Evasion +25	32 Cloudy Eyeball	32 Gerrid Shell	32 Jacul Waterfall Orb	8 Bonjelium																				
+SpecUp.APP-HP I	Appendage with device +50 Max HP	1 White Meaty Caecus Liver	-	-	1 Arc Sand Ore																				
+SpecUp.APP-HP V	Appendage with device +250 Max HP	2 White Meaty Caecus Liver	-	-	1 Lionbone Bort																				
+SpecUp.APP-HP X	Appendage with device +500 Max HP	3 White Meaty Caecus Liver	-	-	1 Enduron Lead																				
+SpecUp.APP-HP XV	Appendage with device +750 Max HP	4 White Meaty Caecus Liver	-	-	1 Boiled-Egg Ore																				
+SpecUp.APP-HP XX	Appendage with device +1000 Max HP	5 White Meaty Caecus Liver	-	-	1 Marine Rutile																				
+SpecUp.PHYS-RES I	Skell Phys Res +1	1 Cinicula Shell	1 Falsaxum Shell	1 Suid Fillet	1 White Cometite																				
+SpecUp.PHYS-RES V	Skell Phys Res +5	2 Cinicula Shell	2 Falsaxum Shell	2 Suid Fillet	1 Dawnstone																				
+SpecUp.PHYS-RES X	Skell Phys Res +10	3 Cinicula Shell	3 Ictus Shell	3 Golden Blatta Wing	1 Everfreeze Ore																				
+SpecUp.PHYS-RES XV	Skell Phys Res +15	4 Cinicula Shell	4 Ictus Shell	4 Golden Blatta Wing	1 Foucaultium																				
+SpecUp.PHYS-RES XX	Skell Phys Res +20	5 Cinicula Shell	5 Ictus Shell	5 Golden Blatta Wing	1 Bonjelium																				
+SpecUp.BEAM-RES I	Skell Beam Res +1	1 Lead Carapace	1 Ocher Stabilizer	1 Adsecula Gold Nugget	1 White Cometite																				
+SpecUp.BEAM-RES V	Skell Beam Res +5	2 Lead Carapace	2 Ocher Stabilizer	2 Adsecula Gold Nugget	1 Dawnstone																				
+SpecUp.BEAM-RES X	Skell Beam Res +10	3 Lead Carapace	3 Blue Milsaadi Hood	3 Pink Ceto Membrane	1 Everfreeze Ore																				
+SpecUp.BEAM-RES XV	Skell Beam Res +15	4 Lead Carapace	4 Blue Milsaadi Hood	4 Pink Ceto Membrane	1 Foucaultium																				
+SpecUp.BEAM-RES XX	Skell Beam Res +20	5 Lead Carapace	5 Blue Milsaadi Hood	5 Pink Ceto Membrane	1 Bonjelium																				
+SpecUp.ELEC-RES I	Skell Electric Res +1	1 Squishy Cartilage	1 Stout Purgovent Extract	1 Lepyx Elastic Cell	1 White Cometite																				
+SpecUp.ELEC-RES V	Skell Electric Res +5	2 Squishy Cartilage	2 Stout Purgovent Extract	2 Lepyx Elastic Cell	1 Dawnstone																				
+SpecUp.ELEC-RES X	Skell Electric Res +10	3 Squishy Cartilage	3 Purple Scintimure Tentacle	3 Aeviter Membrane	1 Everfreeze Ore																				
+SpecUp.ELEC-RES XV	Skell Electric Res +15	4 Squishy Cartilage	4 Purple Scintimure Tentacle	4 Aeviter Membrane	1 Foucaultium																				
+SpecUp.ELEC-RES XX	Skell Electric Res +20	5 Squishy Cartilage	5 Purple Scintimure Tentacle	5 Aeviter Membrane	1 Bonjelium																				
+SpecUp.THERM-RES I	Skell Thermal Res +1	1 Shiny Copper Caro Plate	1 Quo Pod	1 Potamus Life Lung	1 White Cometite																				
+SpecUp.THERM-RES V	Skell Thermal Res +5	2 Shiny Copper Caro Plate	2 Quo Pod	2 Potamus Life Lung	1 Dawnstone																				
+SpecUp.THERM-RES X	Skell Thermal Res +10	3 Shiny Copper Caro Plate	3 Scorching Giant Cells	3 Tersqual Fire Pouch	1 Everfreeze Ore																				
+SpecUp.THERM-RES XV	Skell Thermal Res +15	4 Shiny Copper Caro Plate	4 Scorching Giant Cells	4 Tersqual Fire Pouch	1 Foucaultium																				
+SpecUp.THERM-RES XX	Skell Thermal Res +20	5 Shiny Copper Caro Plate	5 Scorching Giant Cells	5 Tersqual Fire Pouch	1 Bonjelium																				
+SpecUp.ETHER-RES I	Skell Ether Res +1	1 Opaque Mirror	1 Upgraded Sensor Part	1 Medicinal Blatta Oil	1 White Cometite																				
+SpecUp.ETHER-RES V	Skell Ether Res +5	2 Opaque Mirror	2 Upgraded Sensor Part	2 Medicinal Blatta Oil	1 Dawnstone																				
+SpecUp.ETHER-RES X	Skell Ether Res +10	3 Opaque Mirror	3 Red Milsaadi Hood	3 Gold Ceto Membrane	1 Everfreeze Ore																				
+SpecUp.ETHER-RES XV	Skell Ether Res +15	4 Opaque Mirror	4 Red Milsaadi Hood	4 Gold Ceto Membrane	1 Foucaultium																				
+SpecUp.ETHER-RES XX	Skell Ether Res +20	5 Opaque Mirror	5 Red Milsaadi Hood	5 Gold Ceto Membrane	1 Bonjelium																				
+SpecUp.GRAV-RES I	Skell Gravity Res +1	1 Large Hoof	1 Genuine Plate	1 Tricolored Ovis Meat	1 White Cometite																				
+SpecUp.GRAV-RES V	Skell Gravity Res +5	2 Large Hoof	2 Genuine Plate	2 Tricolored Ovis Meat	1 Dawnstone																				
+SpecUp.GRAV-RES X	Skell Gravity Res +10	3 Large Hoof	3 Oc-serv Southern Crest	3 Oc-serv Eastern Crest	1 Everfreeze Ore																				
+SpecUp.GRAV-RES XV	Skell Gravity Res +15	4 Large Hoof	4 Oc-serv Southern Crest	4 Oc-serv Eastern Crest	1 Foucaultium																				
+SpecUp.GRAV-RES XX	Skell Gravity Res +20	5 Large Hoof	5 Oc-serv Southern Crest	5 Oc-serv Eastern Crest	1 Bonjelium																				
+Resist.STAGGER I	Skell Break resistance +5	1 Scirpo Silk	-	-	1 Arc Sand Ore																				
+Resist.STAGGER V	Skell Break resistance +25	2 Scirpo Silk	-	-	1 Lionbone Bort																				
+Resist.STAGGER X	Skell Break resistance +50	3 Scirpo Silk	-	-	1 Enduron Lead																				
+Resist.STAGGER XV	Skell Break resistance +75	4 Scirpo Silk	-	-	1 Boiled-Egg Ore																				
+Resist.STAGGER XX	Skell Break resistance +100	5 Scirpo Silk	-	-	1 Marine Rutile																				
+Resist.FLINCH I	Skell Flinch resistance +5	1 Taut Leather	-	-	1 Arc Sand Ore																				
+Resist.FLINCH V	Skell Flinch resistance +25	2 Taut Leather	-	-	1 Lionbone Bort																				
+Resist.FLINCH X	Skell Flinch resistance +50	3 Taut Leather	-	-	1 Enduron Lead																				
+Resist.FLINCH XV	Skell Flinch resistance +75	4 Taut Leather	-	-	1 Boiled-Egg Ore																				
+Resist.FLINCH XX	Skell Flinch resistance +100	5 Taut Leather	-	-	1 Marine Rutile																				
+Resist.TOPPLE I	Skell Topple resistance +5	1 Auravis Croaking Bag	1 Smooth Tail Fin	-	1 Aurorite																				
+Resist.TOPPLE V	Skell Topple resistance +25	2 Auravis Croaking Bag	2 Smooth Tail Fin	-	1 Infernium																				
+Resist.TOPPLE X	Skell Topple resistance +50	3 Auravis Croaking Bag	3 Thick Coronid Hide	-	1 Cimmerian Cinnabar																				
+Resist.TOPPLE XV	Skell Topple resistance +75	4 Auravis Croaking Bag	4 Thick Coronid Hide	-	1 Ouroboros Crystal																				
+Resist.TOPPLE XX	Skell Topple resistance +100	5 Auravis Croaking Bag	5 Thick Coronid Hide	-	1 Parhelion Platinum																				
+Resist.KNOCKBACK I	Skell Knockback resistance +5	1 Lovely Pom Pom	-	-	1 Arc Sand Ore																				
+Resist.KNOCKBACK V	Skell Knockback resistance +25	2 Lovely Pom Pom	-	-	1 Lionbone Bort																				
+Resist.KNOCKBACK X	Skell Knockback resistance +50	3 Lovely Pom Pom	-	-	1 Enduron Lead																				
+Resist.KNOCKBACK XV	Skell Knockback resistance +75	4 Lovely Pom Pom	-	-	1 Boiled-Egg Ore																				
+Resist.KNOCKBACK XX	Skell Knockback resistance +100	5 Lovely Pom Pom	-	-	1 Marine Rutile																				
+Resist.LAUNCH I	Skell Launch resistance +5	1 Auravis Laughing Bag	1 Caecus Crest	-	1 Aurorite																				
+Resist.LAUNCH V	Skell Launch resistance +25	2 Auravis Laughing Bag	2 Caecus Crest	-	1 Infernium																				
+Resist.LAUNCH X	Skell Launch resistance +50	3 Auravis Laughing Bag	3 Red Filiavent Tentacle	-	1 Cimmerian Cinnabar																				
+Resist.LAUNCH XV	Skell Launch resistance +75	4 Auravis Laughing Bag	4 Red Filiavent Tentacle	-	1 Ouroboros Crystal																				
+Resist.LAUNCH XX	Skell Launch resistance +100	5 Auravis Laughing Bag	5 Red Filiavent Tentacle	-	1 Parhelion Platinum																				
+Resist.STUN I	Skell Stun resistance +5	1 Upgraded Jammer	1 Smelly Fish Meat	-	1 Aurorite																				
+Resist.STUN V	Skell Stun resistance +25	2 Upgraded Jammer	2 Smelly Fish Meat	-	1 Infernium																				
+Resist.STUN X	Skell Stun resistance +50	3 Upgraded Jammer	3 Black Filiavent Tentacle	-	1 Cimmerian Cinnabar																				
+Resist.STUN XV	Skell Stun resistance +75	4 Upgraded Jammer	4 Black Filiavent Tentacle	-	1 Ouroboros Crystal																				
+Resist.STUN XX	Skell Stun resistance +100	5 Upgraded Jammer	5 Black Filiavent Tentacle	-	1 Parhelion Platinum																				
+Resist.SLEEP I	Skell Sleep resistance +5	1 Musky Nectar	-	-	1 Arc Sand Ore																				
+Resist.SLEEP V	Skell Sleep resistance +25	2 Musky Nectar	-	-	1 Lionbone Bort																				
+Resist.SLEEP X	Skell Sleep resistance +50	3 Musky Nectar	-	-	1 Enduron Lead																				
+Resist.SLEEP XV	Skell Sleep resistance +75	4 Musky Nectar	-	-	1 Boiled-Egg Ore																				
+Resist.SLEEP XX	Skell Sleep resistance +100	5 Musky Nectar	-	-	1 Marine Rutile																				
+Resist.TAUNT I	Skell Taunt resistance +5	1 Puge Self-Destruct Mechanism	-	-	1 Arc Sand Ore																				
+Resist.TAUNT V	Skell Taunt resistance +25	2 Puge Self-Destruct Mechanism	-	-	1 Lionbone Bort																				
+Resist.TAUNT X	Skell Taunt resistance +50	3 Puge Self-Destruct Mechanism	-	-	1 Enduron Lead																				
+Resist.TAUNT XV	Skell Taunt resistance +75	4 Puge Self-Destruct Mechanism	-	-	1 Boiled-Egg Ore																				
+Resist.TAUNT XX	Skell Taunt resistance +100	5 Puge Self-Destruct Mechanism	-	-	1 Marine Rutile																				
+Resist.CONTROL I	Skell Control resistance +5	1 Cracked Claw	-	-	1 Arc Sand Ore																				
+Resist.CONTROL V	Skell Control resistance +25	2 Cracked Claw	-	-	1 Lionbone Bort																				
+Resist.CONTROL X	Skell Control resistance +50	3 Cracked Claw	-	-	1 Enduron Lead																				
+Resist.CONTROL XV	Skell Control resistance +75	4 Cracked Claw	-	-	1 Boiled-Egg Ore																				
+Resist.CONTROL XX	Skell Control resistance +100	5 Cracked Claw	-	-	1 Marine Rutile																				
+Resist.VIRUS I	Skell Virus resistance +5	1 Lepyx Sunstone	-	-	1 Arc Sand Ore																				
+Resist.VIRUS V	Skell Virus resistance +25	2 Lepyx Sunstone	-	-	1 Lionbone Bort																				
+Resist.VIRUS X	Skell Virus resistance +50	3 Lepyx Sunstone	-	-	1 Enduron Lead																				
+Resist.VIRUS XV	Skell Virus resistance +75	4 Lepyx Sunstone	-	-	1 Boiled-Egg Ore																				
+Resist.VIRUS XX	Skell Virus resistance +100	5 Lepyx Sunstone	-	-	1 Marine Rutile																				
+Resist.BLACKOUT I	Skell Blackout resistance +5	1 Dull Stone	-	-	1 Arc Sand Ore																				
+Resist.BLACKOUT V	Skell Blackout resistance +25	2 Dull Stone	-	-	1 Lionbone Bort																				
+Resist.BLACKOUT X	Skell Blackout resistance +50	3 Dull Stone	-	-	1 Enduron Lead																				
+Resist.BLACKOUT XV	Skell Blackout resistance +75	4 Dull Stone	-	-	1 Boiled-Egg Ore																				
+Resist.BLACKOUT XX	Skell Blackout resistance +100	5 Dull Stone	-	-	1 Marine Rutile																				
+Resist.FATIGUE I	Skell Fatigue resistance +5	1 Red Blatta Wing	-	-	1 Arc Sand Ore																				
+Resist.FATIGUE V	Skell Fatigue resistance +25	2 Red Blatta Wing	-	-	1 Lionbone Bort																				
+Resist.FATIGUE X	Skell Fatigue resistance +50	3 Red Blatta Wing	-	-	1 Enduron Lead																				
+Resist.FATIGUE XV	Skell Fatigue resistance +75	4 Red Blatta Wing	-	-	1 Boiled-Egg Ore																				
+Resist.FATIGUE XX	Skell Fatigue resistance +100	5 Red Blatta Wing	-	-	1 Marine Rutile																				
+Resist.SLOW-ARTS I	Skell Slow Arts resistance +5	1 Pristine Insect Leg	-	-	1 Arc Sand Ore																				
+Resist.SLOW-ARTS V	Skell Slow Arts resistance +25	2 Pristine Insect Leg	-	-	1 Lionbone Bort																				
+Resist.SLOW-ARTS X	Skell Slow Arts resistance +50	3 Pristine Insect Leg	-	-	1 Enduron Lead																				
+Resist.SLOW-ARTS XV	Skell Slow Arts resistance +75	4 Pristine Insect Leg	-	-	1 Boiled-Egg Ore																				
+Resist.SLOW-ARTS XX	Skell Slow Arts resistance +100	5 Pristine Insect Leg	-	-	1 Marine Rutile																				
+Resist.PHYS-DOWN I	Skell Phys Res Down resistance +5	1 Tough Humpsteak	-	-	1 Arc Sand Ore																				
+Resist.PHYS-DOWN V	Skell Phys Res Down resistance +25	2 Tough Humpsteak	-	-	1 Lionbone Bort																				
+Resist.PHYS-DOWN X	Skell Phys Res Down resistance +50	3 Tough Humpsteak	-	-	1 Enduron Lead																				
+Resist.PHYS-DOWN XV	Skell Phys Res Down resistance +75	4 Tough Humpsteak	-	-	1 Boiled-Egg Ore																				
+Resist.PHYS-DOWN XX	Skell Phys Res Down resistance +100	5 Tough Humpsteak	-	-	1 Marine Rutile																				
+Resist.BEAM-DOWN I	Skell Beam Res Down resistance +5	1 Duoguill Broth	-	-	1 Arc Sand Ore																				
+Resist.BEAM-DOWN V	Skell Beam Res Down resistance +25	2 Duoguill Broth	-	-	1 Lionbone Bort																				
+Resist.BEAM-DOWN X	Skell Beam Res Down resistance +50	3 Duoguill Broth	-	-	1 Enduron Lead																				
+Resist.BEAM-DOWN XV	Skell Beam Res Down resistance +75	4 Duoguill Broth	-	-	1 Boiled-Egg Ore																				
+Resist.BEAM-DOWN XX	Skell Beam Res Down resistance +100	5 Duoguill Broth	-	-	1 Marine Rutile																				
+Resist.THERM-DOWN I	Skell Thermal Res Down resistance +5	1 Slimy Tongue	-	-	1 Arc Sand Ore																				
+Resist.THERM-DOWN V	Skell Thermal Res Down resistance +25	2 Slimy Tongue	-	-	1 Lionbone Bort																				
+Resist.THERM-DOWN X	Skell Thermal Res Down resistance +50	3 Slimy Tongue	-	-	1 Enduron Lead																				
+Resist.THERM-DOWN XV	Skell Thermal Res Down resistance +75	4 Slimy Tongue	-	-	1 Boiled-Egg Ore																				
+Resist.THERM-DOWN XX	Skell Thermal Res Down resistance +100	5 Slimy Tongue	-	-	1 Marine Rutile																				
+Resist.ELEC-DOWN I	Skell Electric Res Down resistance +5	1 Blue Electrical Tentacle	-	-	1 Arc Sand Ore																				
+Resist.ELEC-DOWN V	Skell Electric Res Down resistance +25	2 Blue Electrical Tentacle	-	-	1 Lionbone Bort																				
+Resist.ELEC-DOWN X	Skell Electric Res Down resistance +50	3 Blue Electrical Tentacle	-	-	1 Enduron Lead																				
+Resist.ELEC-DOWN XV	Skell Electric Res Down resistance +75	4 Blue Electrical Tentacle	-	-	1 Boiled-Egg Ore																				
+Resist.ELEC-DOWN XX	Skell Electric Res Down resistance +100	5 Blue Electrical Tentacle	-	-	1 Marine Rutile																				
+Resist.ETHER-DOWN I	Skell Ether Res Down resistance +5	1 Papil Straw	-	-	1 Arc Sand Ore																				
+Resist.ETHER-DOWN V	Skell Ether Res Down resistance +25	2 Papil Straw	-	-	1 Lionbone Bort																				
+Resist.ETHER-DOWN X	Skell Ether Res Down resistance +50	3 Papil Straw	-	-	1 Enduron Lead																				
+Resist.ETHER-DOWN XV	Skell Ether Res Down resistance +75	4 Papil Straw	-	-	1 Boiled-Egg Ore																				
+Resist.ETHER-DOWN XX	Skell Ether Res Down resistance +100	5 Papil Straw	-	-	1 Marine Rutile																				
+Resist.GRAV-DOWN I	Skell Gravity Res Down resistance +5	1 Lepyx Jaw Meat	-	-	1 Arc Sand Ore																				
+Resist.GRAV-DOWN V	Skell Gravity Res Down resistance +25	2 Lepyx Jaw Meat	-	-	1 Lionbone Bort																				
+Resist.GRAV-DOWN X	Skell Gravity Res Down resistance +50	3 Lepyx Jaw Meat	-	-	1 Enduron Lead																				
+Resist.GRAV-DOWN XV	Skell Gravity Res Down resistance +75	4 Lepyx Jaw Meat	-	-	1 Boiled-Egg Ore																				
+Resist.GRAV-DOWN XX	Skell Gravity Res Down resistance +100	5 Lepyx Jaw Meat	-	-	1 Marine Rutile																				
+Resist.TIME-BOMB I	Skell Countbomb resistance +5	1 Puge Counter	-	-	1 Arc Sand Ore																				
+Resist.TIME-BOMB V	Skell Countbomb resistance +25	2 Puge Counter	-	-	1 Lionbone Bort																				
+Resist.TIME-BOMB X	Skell Countbomb resistance +50	3 Puge Counter	-	-	1 Enduron Lead																				
+Resist.TIME-BOMB XV	Skell Countbomb resistance +75	4 Puge Counter	-	-	1 Boiled-Egg Ore																				
+Resist.TIME-BOMB XX	Skell Countbomb resistance +100	5 Puge Counter	-	-	1 Marine Rutile																				
+Resist.DEBUFF-DOWN I	Skell Debuff Res Down resistance +5	1 Forfex Miso	-	-	1 Arc Sand Ore																				
+Resist.DEBUFF-DOWN V	Skell Debuff Res Down resistance +25	2 Forfex Miso	-	-	1 Lionbone Bort																				
+Resist.DEBUFF-DOWN X	Skell Debuff Res Down resistance +50	3 Forfex Miso	-	-	1 Enduron Lead																				
+Resist.DEBUFF-DOWN XV	Skell Debuff Res Down resistance +75	4 Forfex Miso	-	-	1 Boiled-Egg Ore																				
+Resist.DEBUFF-DOWN XX	Skell Debuff Res Down resistance +100	5 Forfex Miso	-	-	1 Marine Rutile																				
+Resist.BLAZE I	Skell Blaze resistance +5	1 Vesper Fry	-	-	1 Arc Sand Ore																				
+Resist.BLAZE V	Skell Blaze resistance +25	2 Vesper Fry	-	-	1 Lionbone Bort																				
+Resist.BLAZE X	Skell Blaze resistance +50	3 Vesper Fry	-	-	1 Enduron Lead																				
+Resist.BLAZE XV	Skell Blaze resistance +75	4 Vesper Fry	-	-	1 Boiled-Egg Ore																				
+Resist.BLAZE XX	Skell Blaze resistance +100	5 Vesper Fry	-	-	1 Marine Rutile																				
+Resist.SHOCK I	Skell Shock resistance +5	1 Fine Black Belt	-	-	1 Arc Sand Ore																				
+Resist.SHOCK V	Skell Shock resistance +25	2 Fine Black Belt	-	-	1 Lionbone Bort																				
+Resist.SHOCK X	Skell Shock resistance +50	3 Fine Black Belt	-	-	1 Enduron Lead																				
+Resist.SHOCK XV	Skell Shock resistance +75	4 Fine Black Belt	-	-	1 Boiled-Egg Ore																				
+Resist.SHOCK XX	Skell Shock resistance +100	5 Fine Black Belt	-	-	1 Marine Rutile																				
+Damage.GP-GAIN I	15% gain 20 GP when Skell hit	1 Topaz Wine	1 Glowing Retina	1 Terebra Water Grease	1 White Cometite																				
+Damage.GP-GAIN V	15% gain 100 GP when Skell hit	2 Topaz Wine	2 Glowing Retina	2 Terebra Water Grease	1 Dawnstone																				
+Damage.GP-GAIN X	15% gain 200 GP when Skell hit	4 Topaz Wine	4 Silver Petramand Silk	4 Big Balaena Sand Bag	2 Everfreeze Ore																				
+Damage.GP-GAIN XV	15% gain 300 GP when Skell hit	8 Topaz Wine	8 Silver Petramand Silk	8 Big Balaena Sand Bag	4 Foucaultium																				
+Damage.GP-GAIN XX	15% gain 400 GP when Skell hit	16 Topaz Wine	16 Silver Petramand Silk	16 Big Balaena Sand Bag	8 Bonjelium																				
+Damage.APPEND I	15% reduce Skell Appendage dmg by 10% when hit	1 Shiny Silver Caro Plate	-	-	1 Arc Sand Ore																				
+Damage.APPEND V	15% reduce Skell Appendage dmg by 18% when hit	2 Shiny Silver Caro Plate	-	-	1 Lionbone Bort																				
+Damage.APPEND X	15% reduce Skell Appendage dmg by 28% when hit	3 Shiny Silver Caro Plate	-	-	1 Enduron Lead																				
+Damage.APPEND XV	15% reduce Skell Appendage dmg by 38% when hit	4 Shiny Silver Caro Plate	-	-	1 Boiled-Egg Ore																				
+Damage.APPEND XX	15% reduce Skell Appendage dmg by 50% when hit	5 Shiny Silver Caro Plate	-	-	1 Marine Rutile																				
+Jamming I	Skell homing attack evasion +10%	1 Silver Sacrifole Feather	-	-	1 Arc Sand Ore																				
+Jamming V	Skell homing attack evasion +18%	2 Silver Sacrifole Feather	-	-	1 Lionbone Bort																				
+Jamming X	Skell homing attack evasion +28%	3 Silver Sacrifole Feather	-	-	1 Enduron Lead																				
+Jamming XV	Skell homing attack evasion +38%	4 Silver Sacrifole Feather	-	-	1 Boiled-Egg Ore																				
+Jamming XX	Skell homing attack evasion +50%	5 Silver Sacrifole Feather	-	-	1 Marine Rutile																				
+Reflect.DAMAGE-UP I	Skell reflect dmg +5%	1 Green Crystal	1 Diamond Seed	1 Cimmerian Pom Pom	1 White Cometite																				
+Reflect.DAMAGE-UP V	Skell reflect dmg +25%	2 Odorous Tentacle	2 Iron Lump	2 Pristine Dorsal Fin	1 Dawnstone																				
+Reflect.DAMAGE-UP X	Skell reflect dmg +50%	1 Yggralith Horn	3 Cloudy Gerrid Soup	3 Sabula Backbone	1 Everfreeze Ore																				
+Reflect.DAMAGE-UP XV	Skell reflect dmg +75%	1 Yggralith Horn	4 Cloudy Gerrid Soup	4 Sabula Backbone	1 Foucaultium																				
+Reflect.DAMAGE-UP XX	Skell reflect dmg +100%	1 Yggralith Horn	5 Cloudy Gerrid Soup	5 Sabula Backbone	1 Bonjelium																				
+Cloak.SIGHT I	Enemy visual detection range reduced 2% in Skell	1 White Mirrorglass	1 Glossy Saltat Fan	-	1 Aurorite																				
+Cloak.SIGHT V	Enemy visual detection range reduced 10% in Skell	2 White Mirrorglass	2 Glossy Saltat Fan	-	1 Infernium																				
+Cloak.SIGHT X	Enemy visual detection range reduced 20% in Skell	3 White Mirrorglass	3 Luminescent Tail	-	1 Cimmerian Cinnabar																				
+Cloak.SIGHT XV	Enemy visual detection range reduced 30% in Skell	4 White Mirrorglass	4 Luminescent Tail	-	1 Ouroboros Crystal																				
+Cloak.SIGHT XX	Enemy visual detection range reduced 40% in Skell	5 White Mirrorglass	5 Luminescent Tail	-	1 Parhelion Platinum																				
+Cloak.SOUND I	Enemy proxy detection range reduced 2% in Skell	1 Lightweight Pelt	1 Evolved Insidia Claw	-	1 Aurorite																				
+Cloak.SOUND V	Enemy proxy detection range reduced 10% in Skell	2 Lightweight Pelt	2 Evolved Insidia Claw	-	1 Infernium																				
+Cloak.SOUND X	Enemy proxy detection range reduced 20% in Skell	3 Lightweight Pelt	3 Gray Shell	-	1 Cimmerian Cinnabar																				
+Cloak.SOUND XV	Enemy proxy detection range reduced 30% in Skell	4 Lightweight Pelt	4 Gray Shell	-	1 Ouroboros Crystal																				
+Cloak.SOUND XX	Enemy proxy detection range reduced 40% in Skell	5 Lightweight Pelt	5 Gray Shell	-	1 Parhelion Platinum																				
+Crush.GP I	Gain 50 GP when Skell destroys Appendage	1 Pristine Insect Jaw	1 Oc-serv Western Crest	1 Vesper Fry	1 White Cometite																				
+Crush.GP V	Gain 90 GP when Skell destroys Appendage	2 Pristine Insect Jaw	2 Oc-serv Western Crest	2 Vesper Fry	1 Dawnstone																				
+Crush.GP X	Gain 140 GP when Skell destroys Appendage	3 Pristine Insect Jaw	3 Golden Petramand Silk	3 Red Scintimure Tentacle	1 Everfreeze Ore																				
+Crush.GP XV	Gain 190 GP when Skell destroys Appendage	4 Pristine Insect Jaw	4 Golden Petramand Silk	4 Red Scintimure Tentacle	1 Foucaultium																				
+Crush.GP XX	Gain 250 GP when Skell destroys Appendage	5 Pristine Insect Jaw	5 Golden Petramand Silk	5 Red Scintimure Tentacle	1 Bonjelium																				
+Spike.EVA I	1% chance to avoid Spike dmg in Skell	1 Adsecula Oil Drop	1 Ebony Evello Egg	1 Vesper Hair Clip	1 White Cometite																				
+Spike.EVA V	5% chance to avoid Spike dmg in Skell	2 Adsecula Oil Drop	2 Ebony Evello Egg	2 Vesper Hair Clip	1 Dawnstone																				
+Spike.EVA X	10% chance to avoid Spike dmg in Skell	3 Adsecula Oil Drop	3 Lava Crystal	3 Gularthian Flint	1 Everfreeze Ore																				
+Spike.EVA XV	15% chance to avoid Spike dmg in Skell	4 Adsecula Oil Drop	4 Lava Crystal	4 Gularthian Flint	1 Foucaultium																				
+Spike.EVA XX	20% chance to avoid Spike dmg in Skell	5 Adsecula Oil Drop	5 Lava Crystal	5 Gularthian Flint	1 Bonjelium																				
+Weather.FOG-RES	Skell ignores effects of Fog	1 Vibrant Plume	-	-	1 Arc Sand Ore																				
+Weather.HEAVY-RAIN-RES	Skell ignores effects of Downpour	1 Medicinal Blatta Oil	-	-	1 Arc Sand Ore																				
+Weather.S-STORM-RES	Skell ignores effects of Sandstorm	1 Alluring Papil Scales	-	-	1 Arc Sand Ore																				
+Weather.EM-STORM-RES	Skell ignores effects of EM Storm	1 Slender Horn	-	-	1 Arc Sand Ore																				
+Weather.E-MIST-RES	Skell ignores effects of F-Particles	1 Dried Seaweed Lichen	-	-	1 Arc Sand Ore																				
+Weather.RISING-E-MIST-RES	Skell ignores effects of R-Particles	1 Rough Skin	-	-	1 Arc Sand Ore																				
+Weather.SPORE-RES	Skell ignores effects of Spores	1 Viscous Humor	-	-	1 Arc Sand Ore																				
+Weather.DAMAGE-RES I	Reduce weather dmg 5% in Skell	1 Blue Forfex Shell	1 Auravis Courtship Feather	-	1 Aurorite																				
+Weather.DAMAGE-RES V	Reduce weather dmg 25% in Skell	2 Blue Forfex Shell	2 Auravis Courtship Feather	-	1 Infernium																				
+Weather.DAMAGE-RES X	Reduce weather dmg 50% in Skell	3 Blue Forfex Shell	3 Blue Vigent Rock Scalp	-	1 Cimmerian Cinnabar																				
+Weather.DAMAGE-RES XV	Reduce weather dmg 75% in Skell	4 Blue Forfex Shell	4 Blue Vigent Rock Scalp	-	1 Ouroboros Crystal																				
+Weather.DAMAGE-RES XX	Reduce weather dmg 100% in Skell	5 Blue Forfex Shell	5 Blue Vigent Rock Scalp	-	1 Parhelion Platinum																				
+Boost.HP-MAX I	Skell Max HP +5%	1 Redwood Aprica Antlers	1 Raw Meaty Caecus Liver	1 Succulent Meat	1 White Cometite																				
+Boost.HP-MAX V	Skell Max HP +9%	2 Redwood Aprica Antlers	2 Raw Meaty Caecus Liver	2 Succulent Meat	1 Dawnstone																				
+Boost.HP-MAX X	Skell Max HP +14%	8 Redwood Aprica Antlers	8 Golden Cantor Tooth	8 Big Balaena Water Bag	2 Everfreeze Ore																				
+Boost.HP-MAX XV	Skell Max HP +20%	16 Redwood Aprica Antlers	16 Golden Cantor Tooth	16 Big Balaena Water Bag	4 Foucaultium																				
+Boost.HP-MAX XX	Skell Max HP +25%	32 Redwood Aprica Antlers	32 Golden Cantor Tooth	32 Big Balaena Water Bag	8 Bonjelium																				
+Boost.M-ACC I	Skell Melee Acc +5%	1 Refined Horn	1 Muscled Suid Bulge	-	1 Aurorite																				
+Boost.M-ACC V	Skell Melee Acc +9%	2 Refined Horn	2 Muscled Suid Bulge	-	1 Infernium																				
+Boost.M-ACC X	Skell Melee Acc +14%	8 Refined Horn	8 Black Steel Heavy Armor	-	2 Cimmerian Cinnabar																				
+Boost.M-ACC XV	Skell Melee Acc +20%	16 Refined Horn	16 Black Steel Heavy Armor	-	4 Ouroboros Crystal																				
+Boost.M-ACC XX	Skell Melee Acc +25%	32 Refined Horn	32 Black Steel Heavy Armor	-	8 Parhelion Platinum																				
+Boost.R-ACC I	Skell Ranged Acc +5%	1 Scratched Jewel	1 Appetizing Suid Tail	-	1 Aurorite																				
+Boost.R-ACC V	Skell Ranged Acc +9%	2 Scratched Jewel	2 Appetizing Suid Tail	-	1 Infernium																				
+Boost.R-ACC X	Skell Ranged Acc +14%	8 Scratched Jewel	8 Upgraded Spindle Part	-	2 Cimmerian Cinnabar																				
+Boost.R-ACC XV	Skell Ranged Acc +20%	16 Scratched Jewel	16 Upgraded Spindle Part	-	4 Ouroboros Crystal																				
+Boost.R-ACC XX	Skell Ranged Acc +25%	32 Scratched Jewel	32 Upgraded Spindle Part	-	8 Parhelion Platinum																				
+Boost.EVA I	Skell Evasion +5%	1 Slimy Epithelium	1 Fal-swo Solar Crest	1 Black Fog Deposits	1 White Cometite																				
+Boost.EVA V	Skell Evasion +9%	2 Slimy Epithelium	2 Fal-swo Solar Crest	2 Black Fog Deposits	1 Dawnstone																				
+Boost.EVA X	Skell Evasion +14%	8 Slimy Epithelium	8 Brilliant Tersqual Liquid	8 Blinding Lophid Extract	2 Everfreeze Ore																				
+Boost.EVA XV	Skell Evasion +20%	24 Slimy Epithelium	24 Brilliant Tersqual Liquid	24 Blinding Lophid Extract	8 Foucaultium																				
+Boost.EVA XX	Skell Evasion +25%	48 Slimy Epithelium	48 Brilliant Tersqual Liquid	48 Blinding Lophid Extract	16 Bonjelium																				
+Boost.M-ATK I	Skell Melee Pow +5%	1 Pure White Caro Tusk	1 Thick Falsaxum Horn	1 Muscled Suid Bulge	1 White Cometite																				
+Boost.M-ATK V	Skell Melee Pow +9%	2 Pure White Caro Tusk	2 Thick Falsaxum Horn	2 Muscled Suid Bulge	1 Dawnstone																				
+Boost.M-ATK X	Skell Melee Pow +14%	8 Pure White Caro Tusk	8 Standard Blade Module	8 Lone Purple Ictus Stinger	2 Everfreeze Ore																				
+Boost.M-ATK XV	Skell Melee Pow +20%	24 Pure White Caro Tusk	24 Standard Blade Module	24 Lone Purple Ictus Stinger	8 Foucaultium																				
+Boost.M-ATK XX	Skell Melee Pow +25%	48 Pure White Caro Tusk	48 Standard Blade Module	48 Lone Purple Ictus Stinger	16 Bonjelium																				
+Boost.R-ATK I	Skell Ranged Pow +5%	1 Beryl Aetrygon Horn	1 Pure White Caro Tusk	1 Appetizing Suid Tail	1 White Cometite																				
+Boost.R-ATK V	Skell Ranged Pow +9%	2 Beryl Aetrygon Horn	2 Pure White Caro Tusk	2 Appetizing Suid Tail	1 Dawnstone																				
+Boost.R-ATK X	Skell Ranged Pow +14%	8 Beryl Aetrygon Horn	8 Black Petramand Silk	8 Lone White Ictus Stinger	2 Everfreeze Ore																				
+Boost.R-ATK XV	Skell Ranged Pow +20%	24 Beryl Aetrygon Horn	24 Black Petramand Silk	24 Lone White Ictus Stinger	8 Foucaultium																				
+Boost.R-ATK XX	Skell Ranged Pow +25%	48 Beryl Aetrygon Horn	48 Black Petramand Silk	48 Lone White Ictus Stinger	16 Bonjelium																				
+Boost.PTL I	Skell Potential +5%	1 Nutritious Microbes	1 White Fungal Egg	1 Fleecy Fur	1 White Cometite																				
+Boost.PTL V	Skell Potential +9%	2 Nutritious Microbes	2 White Fungal Egg	2 Fleecy Fur	1 Dawnstone																				
+Boost.PTL X	Skell Potential +14%	4 Nutritious Microbes	4 Clear Gerrid Soup	4 Gularthian Everflame	2 Everfreeze Ore																				
+Boost.PTL XV	Skell Potential +20%	18 Nutritious Microbes	18 Clear Gerrid Soup	18 Gularthian Everflame	8 Foucaultium																				
+Boost.PTL XX	Skell Potential +25%	36 Nutritious Microbes	36 Clear Gerrid Soup	36 Gularthian Everflame	16 Bonjelium																				
+SpecUp.FUEL-MAX I	Skell Max Fuel +500	1 Shiny Black Caro Plate	-	-	1 Arc Sand Ore																				
+SpecUp.FUEL-MAX V	Skell Max Fuel +700	2 Shiny Black Caro Plate	-	-	1 Lionbone Bort																				
+SpecUp.FUEL-MAX X	Skell Max Fuel +950	3 Shiny Black Caro Plate	-	-	1 Enduron Lead																				
+SpecUp.FUEL-MAX XV	Skell Max Fuel +1200	4 Shiny Black Caro Plate	-	-	1 Boiled-Egg Ore																				
+SpecUp.FUEL-MAX XX	Skell Max Fuel +1500	5 Shiny Black Caro Plate	-	-	1 Marine Rutile																				
+SpecUp.FUEL-COST I	Skell fuel efficiency in battle +5%	1 Amber Cervus Antlers	-	-	1 Arc Sand Ore																				
+SpecUp.FUEL-COST V	Skell fuel efficiency in battle +25%	2 Amber Cervus Antlers	-	-	1 Lionbone Bort																				
+SpecUp.FUEL-COST X	Skell fuel efficiency in battle +50%	3 Amber Cervus Antlers	-	-	1 Enduron Lead																				
+SpecUp.FUEL-COST XV	Skell fuel efficiency in battle +75%	4 Amber Cervus Antlers	-	-	1 Boiled-Egg Ore																				
+SpecUp.FUEL-COST XX	Skell fuel efficiency in battle +100%	5 Amber Cervus Antlers	-	-	1 Marine Rutile																				
+SpecUp.FUEL-PARK I	Recover 1 fuel every 10s while out of Skell	1 Amber Aetrygon Horn	-	-	1 Arc Sand Ore																				
+SpecUp.FUEL-PARK V	Recover 5 fuel every 10s while out of Skell	2 Amber Aetrygon Horn	-	-	1 Lionbone Bort																				
+SpecUp.FUEL-PARK X	Recover 10 fuel every 10s while out of Skell	3 Amber Aetrygon Horn	-	-	1 Enduron Lead																				
+SpecUp.FUEL-PARK XV	Recover 15 fuel every 10s while out of Skell	4 Amber Aetrygon Horn	-	-	1 Boiled-Egg Ore																				
+SpecUp.FUEL-PARK XX	Recover 20 fuel every 10s while out of Skell	5 Amber Aetrygon Horn	-	-	1 Marine Rutile																				
+SpecUp.FUEL-BIND I	Restore 1 fuel/s while restraining enemy	1 Golden Gyrocompass	-	-	1 Arc Sand Ore																				
+SpecUp.FUEL-BIND V	Restore 5 fuel/s while restraining enemy	2 Golden Gyrocompass	-	-	1 Lionbone Bort																				
+SpecUp.FUEL-BIND X	Restore 10 fuel/s while restraining enemy	3 Golden Gyrocompass	-	-	1 Enduron Lead																				
+SpecUp.FUEL-BIND XV	Restore 15 fuel/s while restraining enemy	4 Golden Gyrocompass	-	-	1 Boiled-Egg Ore																				
+SpecUp.FUEL-BIND XX	Restore 20 fuel/s while restraining enemy	5 Golden Gyrocompass	-	-	1 Marine Rutile																				
+SpecUp.FUEL-OD I	Recover 50 Fuel when starting OCGear	1 Scirpo Sulfuric Acid Sac	-	-	1 Arc Sand Ore																				
+SpecUp.FUEL-OD V	Recover 90 Fuel when starting OCGear	2 Scirpo Sulfuric Acid Sac	-	-	1 Lionbone Bort																				
+SpecUp.FUEL-OD X	Recover 140 Fuel when starting OCGear	3 Scirpo Sulfuric Acid Sac	-	-	1 Enduron Lead																				
+SpecUp.FUEL-OD XV	Recover 190 Fuel when starting OCGear	4 Scirpo Sulfuric Acid Sac	-	-	1 Boiled-Egg Ore																				
+SpecUp.FUEL-OD XX	Recover 250 Fuel when starting OCGear	5 Scirpo Sulfuric Acid Sac	-	-	1 Marine Rutile																				
+CutTime.DEBUFF I	Debuff duration reduced 5% in Skell	1 Sharp Vivohast Jaw	-	-	1 Arc Sand Ore																				
+CutTime.DEBUFF V	Debuff duration reduced 9% in Skell	2 Sharp Vivohast Jaw	-	-	1 Lionbone Bort																				
+CutTime.DEBUFF X	Debuff duration reduced 14% in Skell	3 Sharp Vivohast Jaw	-	-	1 Enduron Lead																				
+CutTime.DEBUFF XV	Debuff duration reduced 20% in Skell	4 Sharp Vivohast Jaw	-	-	1 Boiled-Egg Ore																				
+CutTime.DEBUFF XX	Debuff duration reduced 25% in Skell	5 Sharp Vivohast Jaw	-	-	1 Marine Rutile																				
+AttributeDmg.PHYS I	Phys dmg +10% in Skell	1 Sharp Germivore Jaw	1 Giant Falsaxum Jaw	-	1 Aurorite																				
+AttributeDmg.PHYS V	Phys dmg +18% in Skell	2 Sharp Germivore Jaw	2 Giant Falsaxum Jaw	-	1 Infernium																				
+AttributeDmg.PHYS X	Phys dmg +28% in Skell	4 Experia Glyph	4 Reinforced Frame	-	2 Cimmerian Cinnabar																				
+AttributeDmg.PHYS XV	Phys dmg +38% in Skell	12 Experia Glyph	12 Reinforced Frame	-	4 Ouroboros Crystal																				
+AttributeDmg.PHYS XX	Phys dmg +50% in Skell	24 Experia Glyph	24 Reinforced Frame	-	8 Parhelion Platinum																				
+AttributeDmg.BEAM I	Beam dmg +10% in Skell	1 Quirky Liver	1 Gold Monoceros Horn	-	1 Aurorite																				
+AttributeDmg.BEAM V	Beam dmg +18% in Skell	2 Quirky Liver	2 Gold Monoceros Horn	-	1 Infernium																				
+AttributeDmg.BEAM X	Beam dmg +28% in Skell	4 Esse Glyph	4 Advanced Lens	-	2 Cimmerian Cinnabar																				
+AttributeDmg.BEAM XV	Beam dmg +38% in Skell	12 Esse Glyph	12 Advanced Lens	-	4 Ouroboros Crystal																				
+AttributeDmg.BEAM XX	Beam dmg +50% in Skell	24 Esse Glyph	24 Advanced Lens	-	8 Parhelion Platinum																				
+AttributeDmg.ETHER I	Ether dmg +10% in Skell	1 Elemental Fragment	1 Golden Progen Wing	-	1 Aurorite																				
+AttributeDmg.ETHER V	Ether dmg +18% in Skell	2 Elemental Fragment	2 Golden Progen Wing	-	1 Infernium																				
+AttributeDmg.ETHER X	Ether dmg +28% in Skell	4 Creare Glyph	4 Purple Cervus Antlers	-	2 Cimmerian Cinnabar																				
+AttributeDmg.ETHER XV	Ether dmg +38% in Skell	12 Creare Glyph	12 Purple Cervus Antlers	-	4 Ouroboros Crystal																				
+AttributeDmg.ETHER XX	Ether dmg +50% in Skell	24 Creare Glyph	24 Purple Cervus Antlers	-	8 Parhelion Platinum																				
+AttributeDmg.THERM I	Thermal dmg +10% in Skell	1 Reinforced Plunger	1 Herculean Beast Hair	-	1 Aurorite																				
+AttributeDmg.THERM V	Thermal dmg +18% in Skell	2 Reinforced Plunger	1 Black Meaty Caecus Liver	-	1 Infernium																				
+AttributeDmg.THERM X	Thermal dmg +28% in Skell	4 Experia Glyph	4 Jacul Horn	-	2 Cimmerian Cinnabar																				
+AttributeDmg.THERM XV	Thermal dmg +38% in Skell	12 Experia Glyph	12 Jacul Horn	-	4 Ouroboros Crystal																				
+AttributeDmg.THERM XX	Thermal dmg +50% in Skell	24 Experia Glyph	24 Jacul Horn	-	8 Parhelion Platinum																				
+AttributeDmg.ELEC I	Electric dmg +10% in Skell	1 Quo Pod	1 Black Scintimure Tentacle	-	1 Aurorite																				
+AttributeDmg.ELEC V	Electric dmg +18% in Skell	2 Vivohast Crescent Hook	2 Black Scintimure Tentacle	-	1 Infernium																				
+AttributeDmg.ELEC X	Electric dmg +28% in Skell	4 Scienti Glyph	4 Reinforced Plug	-	2 Cimmerian Cinnabar																				
+AttributeDmg.ELEC XV	Electric dmg +38% in Skell	12 Scienti Glyph	12 Reinforced Plug	-	4 Ouroboros Crystal																				
+AttributeDmg.ELEC XX	Electric dmg +50% in Skell	24 Scienti Glyph	24 Reinforced Plug	-	8 Parhelion Platinum																				
+AttributeDmg.GRAV I	Gravity dmg +10% in Skell	1 Black Gyrocompass	1 Visigel Waterfall Orb	-	1 Aurorite																				
+AttributeDmg.GRAV V	Gravity dmg +18% in Skell	2 Black Gyrocompass	2 Visigel Waterfall Orb	-	1 Infernium																				
+AttributeDmg.GRAV X	Gravity dmg +28% in Skell	4 Esse Glyph	4 Gold Sylooth Brace	-	2 Cimmerian Cinnabar																				
+AttributeDmg.GRAV XV	Gravity dmg +38% in Skell	12 Esse Glyph	12 Gold Sylooth Brace	-	4 Ouroboros Crystal																				
+AttributeDmg.GRAV XX	Gravity dmg +50% in Skell	24 Esse Glyph	24 Gold Sylooth Brace	-	8 Parhelion Platinum																				
+PositionDmg.FRONT I	Dmg from Front +10% in Skell	1 Cracked Bill	1 Auravis Horn	-	1 Aurorite																				
+PositionDmg.FRONT V	Dmg from Front +18% in Skell	2 Cracked Bill	2 Auravis Horn	-	1 Infernium																				
+PositionDmg.FRONT X	Dmg from Front +28% in Skell	4 Cracked Bill	4 Black Vigent Rock Scalp	-	2 Cimmerian Cinnabar																				
+PositionDmg.FRONT XV	Dmg from Front +38% in Skell	12 Cracked Bill	12 Black Vigent Rock Scalp	-	4 Ouroboros Crystal																				
+PositionDmg.FRONT XX	Dmg from Front +50% in Skell	24 Cracked Bill	24 Black Vigent Rock Scalp	-	8 Parhelion Platinum																				
+PositionDmg.SIDE I	Dmg from Side +10% in Skell	1 Pristine Claw	1 Green Blatta Wing	-	1 Aurorite																				
+PositionDmg.SIDE V	Dmg from Side +18% in Skell	2 Pristine Claw	2 Green Blatta Wing	-	1 Infernium																				
+PositionDmg.SIDE X	Dmg from Side +28% in Skell	4 Pristine Claw	4 Ingrown Virago Claw	-	2 Cimmerian Cinnabar																				
+PositionDmg.SIDE XV	Dmg from Side +38% in Skell	12 Pristine Claw	12 Ingrown Virago Claw	-	4 Ouroboros Crystal																				
+PositionDmg.SIDE XX	Dmg from Side +50% in Skell	24 Pristine Claw	24 Ingrown Virago Claw	-	8 Parhelion Platinum																				
+PositionDmg.BACK I	Dmg from Back +10% in Skell	1 Jagged Grex Tail	1 Ebony Evello Egg	-	1 Aurorite																				
+PositionDmg.BACK V	Dmg from Back +18% in Skell	2 Jagged Grex Tail	2 Ebony Evello Egg	-	1 Infernium																				
+PositionDmg.BACK X	Dmg from Back +28% in Skell	4 Jagged Grex Tail	4 Purple Virago Alloy Plate	-	2 Cimmerian Cinnabar																				
+PositionDmg.BACK XV	Dmg from Back +38% in Skell	12 Jagged Grex Tail	12 Purple Virago Alloy Plate	-	4 Ouroboros Crystal																				
+PositionDmg.BACK XX	Dmg from Back +50% in Skell	24 Jagged Grex Tail	24 Purple Virago Alloy Plate	-	8 Parhelion Platinum																				
+PositionDmg.ABOVE I	Dmg from Above +10% in Skell	1 Supple Leather	-	-	1 Arc Sand Ore																				
+PositionDmg.ABOVE V	Dmg from Above +18% in Skell	2 Supple Leather	-	-	1 Lionbone Bort																				
+PositionDmg.ABOVE X	Dmg from Above +28% in Skell	4 Supple Leather	-	-	2 Enduron Lead																				
+PositionDmg.ABOVE XV	Dmg from Above +38% in Skell	12 Supple Leather	-	-	4 Boiled-Egg Ore																				
+PositionDmg.ABOVE XX	Dmg from Above +50% in Skell	24 Supple Leather	-	-	8 Marine Rutile																				
+AppendLost.ATK-UP I	Skell dmg +10% for every Appendage lost	1 Golden Puff	-	-	1 Arc Sand Ore																				
+AppendLost.ATK-UP V	Skell dmg +18% for every Appendage lost	2 Golden Puff	-	-	1 Lionbone Bort																				
+AppendLost.ATK-UP X	Skell dmg +28% for every Appendage lost	3 Golden Puff	-	-	1 Enduron Lead																				
+AppendLost.ATK-UP XV	Skell dmg +38% for every Appendage lost	4 Golden Puff	-	-	1 Boiled-Egg Ore																				
+AppendLost.ATK-UP XX	Skell dmg +50% for every Appendage lost	5 Golden Puff	-	-	1 Marine Rutile																				
+AppendLost.EVA-UP I	Skell Evasion +2% for every Appendage lost	1 Longevity Bough	-	-	1 Arc Sand Ore																				
+AppendLost.EVA-UP V	Skell Evasion +10% for every Appendage lost	2 Longevity Bough	-	-	1 Lionbone Bort																				
+AppendLost.EVA-UP X	Skell Evasion +20% for every Appendage lost	3 Longevity Bough	-	-	1 Enduron Lead																				
+AppendLost.EVA-UP XV	Skell Evasion +30% for every Appendage lost	4 Longevity Bough	-	-	1 Boiled-Egg Ore																				
+AppendLost.EVA-UP XX	Skell Evasion +40% for every Appendage lost	5 Longevity Bough	-	-	1 Marine Rutile																				
+AppendLost.GP I	No GP loss when Appendage lost, gain 50 GP	1 Lucky Cervus Sapling	-	-	1 Arc Sand Ore																				
+AppendLost.GP V	No GP loss when Appendage lost, gain 90 GP	2 Lucky Cervus Sapling	-	-	1 Lionbone Bort																				
+AppendLost.GP X	No GP loss when Appendage lost, gain 140 GP	3 Lucky Cervus Sapling	-	-	1 Enduron Lead																				
+AppendLost.GP XV	No GP loss when Appendage lost, gain 190 GP	4 Lucky Cervus Sapling	-	-	1 Boiled-Egg Ore																				
+AppendLost.GP XX	No GP loss when Appendage lost, gain 250 GP	5 Lucky Cervus Sapling	-	-	1 Marine Rutile																				
+Overdrive.FRAME-HP I	Restore 1% of Skell HP when OCGear starts	1 Black Turba Nectar	1 Shimmering Silk	1 Scirpo Silk	1 White Cometite																				
+Overdrive.FRAME-HP V	Restore 5% of Skell HP when OCGear starts	2 Black Turba Nectar	2 Shimmering Silk	2 Scirpo Silk	1 Dawnstone																				
+Overdrive.FRAME-HP X	Restore 10% of Skell HP when OCGear starts	8 Black Turba Nectar	8 Tasty Fish Belly	8 Black Sylooth Brace	2 Everfreeze Ore																				
+Overdrive.FRAME-HP XV	Restore 15% of Skell HP when OCGear starts	16 Black Turba Nectar	16 Tasty Fish Belly	16 Black Sylooth Brace	4 Foucaultium																				
+Overdrive.FRAME-HP XX	Restore 20% of Skell HP when OCGear starts	32 Black Turba Nectar	32 Tasty Fish Belly	32 Black Sylooth Brace	8 Bonjelium																				
+Overdrive.APPEND-HP I	Restore 1% HP to all Appendages when OCGear starts	1 Azure Sacrifole Feather	-	-	1 Arc Sand Ore																				
+Overdrive.APPEND-HP V	Restore 5% HP to all Appendages when OCGear starts	2 Azure Sacrifole Feather	-	-	1 Lionbone Bort																				
+Overdrive.APPEND-HP X	Restore 10% HP to all Appendages when OCGear starts	8 Azure Sacrifole Feather	-	-	2 Enduron Lead																				
+Overdrive.APPEND-HP XV	Restore 15% HP to all Appendages when OCGear starts	16 Azure Sacrifole Feather	-	-	4 Boiled-Egg Ore																				
+Overdrive.APPEND-HP XX	Restore 20% HP to all Appendages when OCGear starts	32 Azure Sacrifole Feather	-	-	8 Marine Rutile																				
+Overdrive.EXTEND I	OCGear Continue chance +1%	1 Elemental Cluster	1 Moving Thallus Tail	1 Puge Counter	1 White Cometite																				
+Overdrive.EXTEND V	OCGear Continue chance +5%	2 Elemental Cluster	2 Moving Thallus Tail	2 Puge Counter	1 Dawnstone																				
+Overdrive.EXTEND X	OCGear Continue chance +10%	8 Elemental Cluster	8 Fertilized Jacul Egg	4 Maple Oil	2 Everfreeze Ore																				
+Overdrive.EXTEND XV	OCGear Continue chance +15%	16 Elemental Cluster	16 Fertilized Jacul Egg	12 Maple Oil	4 Foucaultium																				
+Overdrive.EXTEND XX	OCGear Continue chance +20%	32 Elemental Cluster	32 Fertilized Jacul Egg	24 Maple Oil	8 Bonjelium																				
+Vehicle.APPEND-DEF I	Dmg to Appendages while in vehicle form reduced 10%	1 Multicolor Murra Wing	-	-	1 Arc Sand Ore																				
+Vehicle.APPEND-DEF V	Dmg to Appendages while in vehicle form reduced 18%	2 Multicolor Murra Wing	-	-	1 Lionbone Bort																				
+Vehicle.APPEND-DEF X	Dmg to Appendages while in vehicle form reduced 28%	3 Multicolor Murra Wing	-	-	1 Enduron Lead																				
+Vehicle.APPEND-DEF XV	Dmg to Appendages while in vehicle form reduced 38%	4 Multicolor Murra Wing	-	-	1 Boiled-Egg Ore																				
+Vehicle.APPEND-DEF XX	Dmg to Appendages while in vehicle form reduced 50%	5 Multicolor Murra Wing	-	-	1 Marine Rutile																				
+Vehicle.FRAME-DEF I	Dmg to Skell frame while in vehicle form reduced 5%	1 Giant Blue Pearl	-	-	1 Arc Sand Ore																				
+Vehicle.FRAME-DEF V	Dmg to Skell frame while in vehicle form reduced 9%	2 Giant Blue Pearl	-	-	1 Lionbone Bort																				
+Vehicle.FRAME-DEF X	Dmg to Skell frame while in vehicle form reduced 14%	3 Giant Blue Pearl	-	-	1 Enduron Lead																				
+Vehicle.FRAME-DEF XV	Dmg to Skell frame while in vehicle form reduced 19%	4 Giant Blue Pearl	-	-	1 Boiled-Egg Ore																				
+Vehicle.FRAME-DEF XX	Dmg to Skell frame while in vehicle form reduced 25%	5 Giant Blue Pearl	-	-	1 Marine Rutile																				
+Vehicle.DEBUFF-RES I	Skell debuff resistance while in vehicle form +5%	1 Flowering Papil Scales	-	-	1 Arc Sand Ore																				
+Vehicle.DEBUFF-RES V	Skell debuff resistance while in vehicle form +9%	2 Flowering Papil Scales	-	-	1 Lionbone Bort																				
+Vehicle.DEBUFF-RES X	Skell debuff resistance while in vehicle form +14%	3 Flowering Papil Scales	-	-	1 Enduron Lead																				
+Vehicle.DEBUFF-RES XV	Skell debuff resistance while in vehicle form +19%	4 Flowering Papil Scales	-	-	1 Boiled-Egg Ore																				
+Vehicle.DEBUFF-RES XX	Skell debuff resistance while in vehicle form +25%	5 Flowering Papil Scales	-	-	1 Marine Rutile																				
+Reflect: Physical	Reflection art effects also grant Physical reflect	10% drop from Dadaan, the Strongest Prone																							
+Reflect: Beam	Reflection art effects also grant Beam reflect	10% drop from Lugalbanda, the Wanderer-King																							
+Reflect: Ether	Reflection art effects also grant Ether reflect	10% drop from Telethia, the Endbringer In a treasure spot in Cauldros, accessed via the teleporter behind Trueno, the Catalysm																							
+Reflect: Thermal	Reflection art effects also grant Thermal reflect	10% drop from Dadaan, the Strongest Prone																							
+Reflect: Electric	Reflection art effects also grant Electric reflect	10% drop from Lugalbanda, the Wanderer-King																							
+Reflect: Gravity	Reflection art effects also grant Gravity reflect	10% drop from Pharsis, the Everqueen																							
+Reflect.P-Physical	Skell Reflection effects also include Physical reflect	10% drop from Gradivus, the Headless Emperor																							
+Reflect.P-Beam	Skell Reflection effects also include Beam reflect	10% drop from Leva'el, the Terminus																							
+Reflect.P-Ether	Skell Reflection effects also include Ether reflect	10% drop from Telethia, the Endbringer																							
+Reflect.P-Thermal	Skell Reflection effects also include Thermal reflect	10% drop from Gradivus, the Headless Emperor																							
+Reflect.P-Electric	Skell Reflection effects also include Electric reflect	10% drop from Leva'el, the Terminus																							
+Reflect.P-Gravity	Skell Reflection effects also include Gravity reflect	10% drop from Pharsis, the Everqueen																																														

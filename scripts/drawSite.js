@@ -73,9 +73,6 @@ function loadAboutTab() {
     - Sorting<br />
     - Filters<br />
     - More elements to search by<br />
-    - Skell data<br />
-    - Crafting data<br />
-    - Quest and heart-to-heart data<br />
     - FN Site data<br />
     - Add Xenoblade Chronicles X: Definitive Edition data<br />
     <br /><br />

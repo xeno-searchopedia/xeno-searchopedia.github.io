@@ -144,7 +144,7 @@ function renderCells(data, listId) {
       }
       contentStr += `<li class="list-group-item"><div class="d-flex justify-content-between">`
         + `<div><a href="${WIKI_URL}${urlFragment}" target="_blank">${datum.name}</a>`
-        + `<a class="btn btn-white text-primary" href="#${filteredName}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
+        + `<a class="btn btn-white text-primary" href="#${id}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
         + `<div><a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">`
         + `<img src="/assets/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
       if (datum.isCompletable) {

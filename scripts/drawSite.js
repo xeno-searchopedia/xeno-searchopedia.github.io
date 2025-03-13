@@ -290,7 +290,7 @@ function printList(label, list) {
   returnString += ": "
   for (let i = 0; i < list.length; i++) {
     const numCheck = list[i].split(" ");
-    if (isNaN(numCheck[0])) {
+    if (isNaN(numCheck[0]) && isNaN(list[i][0])) {
       if (label === "Species") {
         returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
       } else {

@@ -57,26 +57,30 @@ function loadPinData() {
 
 function loadAboutTab() {
   document.getElementById("about-tab-pane").innerHTML = `
-    <a href="${FEEDBACK_FORM_URL}" target="_blank">Leave feedback or bug reports here!</a><br />
+    <h3 style="text-align: center"><a href="${FEEDBACK_FORM_URL}" target="_blank">Leave feedback or bug reports here!</a></h3>
     <br /><br />
-    How to use:<br />
-    - Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!<br />
-    - Clicking on the ▼ will extend the cell and show more information for any entity available.<br />
-    - Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!<br />
-    - Clicking on searchable elements within a cell will automatically search for that element. This will allow for quicker access to information. For example, you need specific drop information from Simius. You search "Simius", you open "Iron Simius". You click into "Green Simius Mane" and pin it. You click "Demetrio, the Tempestuous". You click "Simius" and repeat!<br />
-    - Links on the cell title will open a new tab to the Xeno Series Wiki entry for that entity.<br />
-    - Links on FN sites will open a new tab to the same site on the interactive map on FrontierNav, the Interactive Video Game Wiki.<br />
-    - Listed in dropped materials data are recommendations. These are opinion based and hand picked suggestions for which enemy is the best to fight to grind for each specific drop. These may not be the truly optimal enemies to fight as there are over 500 dropped materials (and counting) in the game. If you know of a recommendation that is better than what is displayed on the site, please reach out with information! These were all hand picked over the course of two days and therefore there is potential for mistakes. However, do keep in mind that the recommendations are based on a layman's experience with the game and anything that would be more optimal with specific builds goes against that experience.
-    <br /><br />
-    TODO:<br />
-    - Dark Mode<br />
-    - Sorting<br />
-    - Filters<br />
-    - More elements to search by<br />
-    - FN Site data<br />
-    - Add Xenoblade Chronicles X: Definitive Edition data<br />
-    <br /><br />
-    ---<br />
+    <h3>How to use:</h3>
+    <ul>
+      <li>Simply search for whatever enemy, collectible, drop, FrontierNav resource, or species needed!</li>
+      <li>Clicking on the ▼ will extend the cell and show more information for any entity available.</li>
+      <li>Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!</li>
+      <li>Clicking on searchable elements within a cell will automatically search for that element.</li>
+      <li>Links on the cell title will open a new tab to the Xeno Series Wiki entry for that entity.</li>
+      <li>Links on FN sites will open a new tab to the same site on the interactive map on FrontierNav, the Interactive Video Game Wiki.</li>
+      <li>Listed in dropped materials data are recommendations. These are opinion based and hand picked suggestions for which enemy is the best to fight to grind for each specific drop. If you know of a recommendation that is better than what is displayed on the site, please let me know via the feedback form! Do keep in mind that the recommendations are not based on a optimal builds and should assume the best recommendation for the casual player.</li>
+    </ul>
+    <br />
+    <h5>TODO:</h5>
+    <ul>
+      <li>Dark Mode</li>
+      <li>Sorting</li>
+      <li>Filters</li>
+      <li>More elements to search by</li>
+      <li>FN Site data</li>
+      <li>Add Xenoblade Chronicles X: Definitive Edition data</li>
+    </ul>
+    <br />
+    <hr>
     <br /><br />
     The Xenoblade Chronicles X Searchopedia site was conceptualized after I completed a grueling 100% run of Xenoblade Chronicles X on the Wii U in 2022. While I loved the experience and the game, keeping track of all the things I needed to grind in order to beat the hardest fights in the game was quite a pain. This frustration mostly came from having to go back and forth through a handful of sources to research enemies and materials. The goal of this website is to be a (mostly) one-stop shop to get the main information needed for those grinds, while also supplying FrontierNav and wiki links for further, deeper information. At the very least, even if these links are necessary, at least users should be able to just come to this site, quickly search for what they need, and move on to a source that is more helpful for them. Additionally, I hope to keep open communication with the community so that requests and ideas can be integrated into the site without having to worry about navigating and modifying these other heavily-structured resources. The website is built with simple HTML, CSS, and Javascript and utilizes the flexibilty of JSON objects and arrays to easily modify and structure data.<br />
     <br />
@@ -84,7 +88,7 @@ function loadAboutTab() {
     <br />
     Cookies are implemented to allow pinned elements to persist when the site is left or refreshed. They contain no session data or user data. Cookies are deleted when a pinned element is un-pinned.<br />
     <br />
-    Credits:<br />
+    <h5>Credits:</h5>
     <a href="https://fourthstrongest.github.io/" target="_blank">FourthStrongest</a> (they/them): Concept, Web Development, Data Manipulation, Data Collection<br />
     Addam Kosmos: UI, Rubber Ducking, and Moral Support<br />
     <a href="https://www.xenoserieswiki.org/wiki/Main_Page" target="_blank">Xeno Series Wiki</a> and related Discord Server: Consultation understanding the raw data and Wiki Templates, Additional Data<br />
@@ -187,33 +191,33 @@ function renderRow(datum) {
     case ENEMY_TYPE: {
       // TODO: ADD WEAPON BRAND AND WEIGHT LOGIC
       rowString += `<div class="card card-body" data-species=${datum.species} data-is-tyrant=${datum.isTyrant}>`
-        + `Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)">${datum.species}</span> <br />`
-        + `Continent: ${datum.continent} <br />`
-        + `${printList("Location", datum.location)} <br />`;
+        + `<div>Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)">${datum.species}</span></div><br />`
+        + `<div>Continent: ${datum.continent}</div><br />`
+        + `<div>${printList("Location", datum.location)}</div><br />`;
       if (datum.minLevel === datum.maxLevel) {
-        rowString += `Level: ${datum.minLevel}`;
+        rowString += `<div>Level: ${datum.minLevel}</div>`;
       } else {
-        rowString += `Level Range: ${datum.minLevel}-${datum.maxLevel}`;
+        rowString += `<div>Level Range: ${datum.minLevel}-${datum.maxLevel}</div>`;
       }
-      rowString += `<br />${printMaterialSourcePairs(datum.materials, datum.droppedSource)}`;
+      rowString += `<br /><div>${printMaterialSourcePairs(datum.materials, datum.droppedSource)}</div>`;
       break;
     }
     case COLLECTIBLE_TYPE: {
       rowString += `<div class="card card-body">`
-        + `Continent: ${datum.continent} <br />`
-        + `${printList("Location", datum.location)}`;
+        + `<div>Continent: ${datum.continent}</div><br />`
+        + `<div>${printList("Location", datum.location)}</div>`;
       break;
     }
     case RESOURCE_TYPE: {
       rowString += `<div class="card card-body">`
-        + `${printList("Site", datum.sites)}`;
+        + `<div>${printList("Site", datum.sites)}</div>`;
       break;
     }
     case MATERIAL_TYPE: {
       rowString += `<div class="card card-body">`
-        + `${printList("Species", datum.species)} <br />`
-        + `Appendage: ${datum.appendage === "All" ? "Main Body" : datum.appendage} <br />`
-        + `<p>Recommended Source: <span data-name="${datum.enemy}" onclick="search(this.dataset.name)">${datum.enemy}</span></p>`;
+        + `<div>${printList("Species", datum.species)}</div><br />`
+        + `<div>Appendage: ${datum.appendage === "All" ? "Main Body" : datum.appendage}</div><br />`
+        + `<div>Recommended Source: <span data-name="${datum.enemy}" onclick="search(this.dataset.name)">${datum.enemy}</span></div>`;
       break;
     }
   }

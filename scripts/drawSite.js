@@ -11,6 +11,10 @@ const NORMAL_MISSION_TYPE = "Normal";
 const RESOURCE_TYPE = "Resource";
 const SKELL_FRAME_TYPE = "Frame";
 const SUPERWEAPON_TYPE = "Superweapon";
+
+const EMPTY_PIN_PATH = "/assets/icons/pin-angle.svg";
+const FILLED_PIN_PATH = "/assets/icons/pin-angle-fill.svg";
+
 const FN_MAP_URL = "https://frontiernav.net/wiki/xenoblade-chronicles-x/visualisations/maps/entities/site";
 const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
 const WIKI_URL = "https://www.xenoserieswiki.org/wiki/";
@@ -142,6 +146,7 @@ function renderCells(data, listId) {
       } else {
         urlFragment = datum.name;
       }
+      urlFragment = urlFragment.replace("?", "%3F");
       contentStr += `<li class="list-group-item"><div class="d-flex justify-content-between">`
         + `<div><a href="${WIKI_URL}${urlFragment}" target="_blank">${datum.name}</a>`
         + `<a class="btn btn-white text-primary" href="#${id}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
@@ -167,8 +172,9 @@ function renderRow(datum) {
   switch (datum.type) {
     case ENEMY_TYPE: {
       // TODO: ADD WEAPON BRAND AND WEIGHT LOGIC
-      rowString += `<div class="card card-body" data-species=${datum.species} data-is-tyrant=${datum.isTyrant}>`
+      rowString += `<div class="card card-body" data-species=${datum.species} data-category=${datum.category} data-is-tyrant=${datum.isTyrant}>`
         + `<div>Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)">${datum.species}</span></div><br />`
+        + `<div>Category: <span data-name="${datum.category}" onclick="search(this.dataset.name)">${datum.category}</span></div><br />`
         + `<div>Continent: ${datum.continent}</div><br />`
         + `<div>${printList("Location", datum.location)}</div><br />`;
       if (datum.minLevel === datum.maxLevel) {
@@ -198,7 +204,7 @@ function renderRow(datum) {
       break;
     }
     case AFFINITY_MISSION_TYPE: {
-      rowString += `<div class="card card-body">`
+      rowString += `<div class="card card-body" data-mission=${datum.type}>`
         + `<div>Mission Type: ${datum.type}</div><br />`
         + `<div>Location: ${datum.location}</div><br />`
         + `<div>${printList("Required", datum.requiredMembers)}</div>`;
@@ -212,7 +218,7 @@ function renderRow(datum) {
       break;
     }
     case BASIC_MISSION_TYPE: {
-      rowString += `<div class="card card-body">`
+      rowString += `<div class="card card-body" data-mission=${datum.type}>`
         + `<div>Mission Type: ${datum.type}</div><br />`
         + `<div>Rank: ${datum.rank}</div><br />`
         + `<div>Continent: ${datum.location}</div>`;
@@ -228,7 +234,7 @@ function renderRow(datum) {
       break;
     }
     case NORMAL_MISSION_TYPE: {
-      rowString += `<div class="card card-body">`
+      rowString += `<div class="card card-body" data-mission=${datum.type}>`
         + `<div>Mission Type: ${datum.type}</div><br />`
         + `<div>Client: ${datum.client}</div>`;
       if (datum.location !== "-") {
@@ -291,10 +297,16 @@ function printList(label, list) {
   for (let i = 0; i < list.length; i++) {
     const numCheck = list[i].split(" ");
     if (isNaN(numCheck[0]) && isNaN(list[i][0])) {
-      if (label === "Species") {
-        returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
-      } else {
-        returnString += list[i];
+      switch (label) {
+        case "Species":
+          returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
+          break;
+        case "Prerequisite":
+          returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
+          break;
+        default:
+          returnString += list[i];
+          break;
       }
     } else if (parseInt(numCheck[0]) < 100) {
       let rebuildMaterial = "";
@@ -349,7 +361,7 @@ function addPin(pin) {
   if (!pinnedData.includes(pin)) {
     const newPin = siteData.find((itmInner) => itmInner.name === pin.dataset.name);
     const icon = pin.getElementsByTagName("img")[0];
-    icon.src = "/assets/icons/pin-angle-fill.svg";
+    icon.src = FILLED_PIN_PATH;
     pinnedData.push(newPin);
   }
 }
@@ -359,9 +371,9 @@ function removePin(pin) {
   localStorage.removeItem(pin.id);
   pinnedData = pinnedData.filter((element) => element.name !== pin.dataset.name);
   const icon = pin.getElementsByTagName("img")[0];
-  icon.src = "/assets/icons/pin-angle.svg";
+  icon.src = EMPTY_PIN_PATH;
   const iconPair = pinnedPair.getElementsByTagName("img")[0];
-  iconPair.src = "/assets/icons/pin-angle.svg";
+  iconPair.src = EMPTY_PIN_PATH;
   pinnedPair.setAttribute("data-pinned", pin.dataset.pinned);
 }
 
@@ -423,10 +435,16 @@ function search(input) {
 
     for (let i = 0; i < li.length; i++) {
       let a = li[i].getElementsByTagName("a")[0];
-      let species = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.species;
-      let isTyrant = li[i].getElementsByTagName("div")[0].getElementsByTagName("div")[0].dataset.isTyrant === "true";
+      let species = li[i].getElementsByTagName("div")[4].dataset.species;
+      let category = li[i].getElementsByTagName("div")[4].dataset.category;
+      let mission = li[i].getElementsByTagName("div")[4].dataset.mission;
+      let isTyrant = li[i].getElementsByTagName("div")[4].dataset.isTyrant === "true";
       txtValue = a.textContent || a.innerText;
-      if (txtValue.toUpperCase().indexOf(input) > -1 || (species !== undefined && species.toUpperCase().indexOf(input) > -1) || (input.includes("TYRANT") && isTyrant)) {
+      if (txtValue.toUpperCase().indexOf(input) > -1
+        || (species !== undefined && species.toUpperCase().indexOf(input) > -1)
+        || (category !== undefined && category.toUpperCase().indexOf(input) > -1)
+        || (mission !== undefined && mission.toUpperCase().indexOf(input) > -1)
+        || (input.includes("TYRANT") && isTyrant)) {
         li[i].style.display = "";
       } else {
         li[i].style.display = "none";

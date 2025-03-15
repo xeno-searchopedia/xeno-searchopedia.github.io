@@ -162,6 +162,7 @@ async function bestiaryDataSorting() {
         name: rowArray[0],
         type: ENEMY_TYPE,
         species: rowArray[1],
+        category: rowArray[2],
         continent: rowArray[3],
         location: locations,
         minLevel: levels[0],

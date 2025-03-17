@@ -1,5 +1,17 @@
 import { readdirSync } from "fs";
 import {
+  AFFINITY_MISSION_TYPE,
+  AUGMENT_TYPE,
+  BASIC_MISSION_TYPE,
+  ENEMY_TYPE,
+  COLLECTIBLE_TYPE,
+  GROUND_ARMOR_TYPE,
+  HEART_TO_HEART_TYPE,
+  MATERIAL_TYPE,
+  NORMAL_MISSION_TYPE,
+  RESOURCE_TYPE,
+  SKELL_FRAME_TYPE,
+  SUPERWEAPON_TYPE,
   AFFINITY_MISSIONS_URL,
   AUGMENTS_URL,
   BASIC_MISSIONS_URL,
@@ -9,23 +21,13 @@ import {
   FN_RESOURCES_URL,
   FORMATTED_ARRAY_DATABASE_URL,
   GROUND_ARMOR_URL,
+  HEART_TO_HEART_URL,
   NORMAL_MISSIONS_URL,
   RECOMMENDATIONS_URL,
   SHEETS_PATH,
   SKELL_FRAME_URL,
   SPECIES_SAVE_URL,
   SUPERWEAPONS_URL,
-  AFFINITY_MISSION_TYPE,
-  AUGMENT_TYPE,
-  BASIC_MISSION_TYPE,
-  ENEMY_TYPE,
-  COLLECTIBLE_TYPE,
-  GROUND_ARMOR_TYPE,
-  MATERIAL_TYPE,
-  NORMAL_MISSION_TYPE,
-  RESOURCE_TYPE,
-  SKELL_FRAME_TYPE,
-  SUPERWEAPON_TYPE,
 } from "../utils/constants.js";
 import {
   extractCollectibleAreaContainsCollectible,
@@ -141,6 +143,23 @@ async function bestiaryDataSorting() {
       const locations = rowArray[4]
         .split(',')
         .map(function(item) {
+          if (item[0] === "[") {
+            const split = item.split(" ");
+            switch (split[0]) {
+              case "[0:00~5:00]:": {
+                item = `${split[1]} (Late Night)`;
+                break;
+              }
+              case "[5:00~19:00]:": {
+                item = `${split[1]} (Daytime)`;
+                break;
+              }
+              case "[19:00~5:00]:": {
+                item = `${split[1]} (Nighttime)`;
+                break;
+              }
+            }
+          }
           return item.trim();
         });
 
@@ -475,6 +494,35 @@ async function superweaponSorting() {
   return weaponData;
 }
 
+async function h2hSorting() {
+  const loadedData = (await loadData(HEART_TO_HEART_URL)).toString();
+  const h2hData = [];
+
+  let h2hInfo = loadedData.split('\n');
+  // Start at 4 to skip notes
+  for (let i = 4; i < h2hInfo.length; i++) {
+    const character = trimString(h2hInfo[i]);
+    for (let j = 0; j < 5; j++) {
+      const rowArray = h2hInfo[i + j + 1].split('\t');
+      h2hData.push({
+        name: rowArray[1],
+        type: HEART_TO_HEART_TYPE,
+        character: character,
+        number: rowArray[0],
+        zone: rowArray[2],
+        area: rowArray[3],
+        time: rowArray[4],
+        prereq: rowArray[5].length !== 0 ? rowArray[5].split(';') : [],
+        choices: rowArray[6].length !== 0 ? rowArray[6].split(';') : [],
+        isCompletable: true,
+      });
+    }
+    i += 5;
+  }
+
+  return h2hData;
+}
+
 async function buildArrayDatabase() {
   const sheetsData = await sheetsDataSorting();
   const bestiaryData = await bestiaryDataSorting();
@@ -487,6 +535,7 @@ async function buildArrayDatabase() {
   const groundArmorData = await groundArmorSorting();
   const skellFrameData = await skellFrameSorting();
   const superweaponData = await superweaponSorting();
+  const h2hData = await h2hSorting();
   const mergedEnemyData = [];
 
   for (let i = 0; i < bestiaryData.length; i++) {
@@ -519,7 +568,8 @@ async function buildArrayDatabase() {
     .concat(augmentData)
     .concat(groundArmorData)
     .concat(skellFrameData)
-    .concat(superweaponData);
+    .concat(superweaponData)
+    .concat(h2hData);
 
   saveData(FORMATTED_ARRAY_DATABASE_URL, mergedData);
 }

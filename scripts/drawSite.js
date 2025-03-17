@@ -6,6 +6,7 @@ const BASIC_MISSION_TYPE = "Basic";
 const ENEMY_TYPE = "Enemy";
 const COLLECTIBLE_TYPE = "Collectible";
 const GROUND_ARMOR_TYPE = "Ground";
+const HEART_TO_HEART_TYPE = "Heart";
 const MATERIAL_TYPE = "Material";
 const NORMAL_MISSION_TYPE = "Normal";
 const RESOURCE_TYPE = "Resource";
@@ -65,10 +66,10 @@ function loadAboutTab() {
     <br /><br />
     <h3>How to use:</h3>
     <ul>
-      <li>Simply search for whatever enemy, collectible, drop, FrontierNav resource, species, mission, augment, craftable ground armor, Skell frame, and superweapon needed!</li>
+      <li>Simply search for whatever enemy, collectible, drop, FrontierNav resource, species, mission, heart to heart, augment, craftable ground armor, Skell frame, and superweapon needed!</li>
       <li>Clicking on the ▼ will extend the cell and show more information for any entity available.</li>
       <li>Clicking on the Pin text will add that entity to the Pinned tab for easy and fast reference. This can be especially helpful when having to grind for a large amount of materials that can potentially take 10s of hours to acquire. Think of it as a shopping list!</li>
-      <li>Clicking on searchable elements within a cell will automatically search for that element.</li>
+      <li>Clicking on underscored elements within a cell will automatically search for that element.</li>
       <li>Links on the cell title will open a new tab to the Xeno Series Wiki entry for that entity.</li>
       <li>Links on FN sites will open a new tab to the same site on the interactive map on FrontierNav, the Interactive Video Game Wiki.</li>
       <li>Listed in dropped materials data are recommendations. These are opinion based and hand picked suggestions for which enemy is the best to fight to grind for each specific drop. If you know of a recommendation that is better than what is displayed on the site, please let me know via the feedback form! Do keep in mind that the recommendations are not based on a optimal builds and should assume the best recommendation for the casual player.</li>
@@ -127,8 +128,10 @@ function renderCells(data, listId) {
       const filteredName = `${datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "")}${datum.type === BASIC_MISSION_TYPE && datum.isTyrant ? "Mission" : ""}`;
       const id = `${filteredName}${listId === "pinList" ? "-clone" : ""}`;
       let urlFragment = "";
+      let displayName = "";
       if (datum.type === BASIC_MISSION_TYPE && datum.isTyrant) {
         urlFragment = `${datum.name}_(mission)`;
+        displayName = `${datum.name} (Mission)`;
       } else if (datum.type === AUGMENT_TYPE) {
         const splitName = datum.name.split(" ");
         if (splitName[splitName.length - 1] === "I"
@@ -142,13 +145,18 @@ function renderCells(data, listId) {
           urlFragment = urlFragment.trim();
         } else {
           urlFragment = datum.name;
-        }   
+        }
+        displayName = datum.name;
+      } else if (datum.type === HEART_TO_HEART_TYPE) {
+        urlFragment = datum.name;
+        displayName = `${datum.name} (${datum.character} H2H ${datum.number})`;
       } else {
         urlFragment = datum.name;
+        displayName = datum.name;
       }
       urlFragment = urlFragment.replace("?", "%3F");
       contentStr += `<li class="list-group-item"><div class="d-flex justify-content-between">`
-        + `<div><a href="${WIKI_URL}${urlFragment}" target="_blank">${datum.name}</a>`
+        + `<div><a href="${WIKI_URL}${urlFragment}" target="_blank">${displayName}</a>`
         + `<a class="btn btn-white text-primary" href="#${id}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
         + `<div><a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">`
         + `<img src="/assets/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
@@ -173,8 +181,8 @@ function renderRow(datum) {
     case ENEMY_TYPE: {
       // TODO: ADD WEAPON BRAND AND WEIGHT LOGIC
       rowString += `<div class="card card-body" data-species=${datum.species} data-category=${datum.category} data-is-tyrant=${datum.isTyrant}>`
-        + `<div>Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)">${datum.species}</span></div><br />`
-        + `<div>Category: <span data-name="${datum.category}" onclick="search(this.dataset.name)">${datum.category}</span></div><br />`
+        + `<div>Species: <span data-name="${datum.species}" onclick="search(this.dataset.name)"><u>${datum.species}</u></span></div><br />`
+        + `<div>Category: <span data-name="${datum.category}" onclick="search(this.dataset.name)"><u>${datum.category}</u></span></div><br />`
         + `<div>Continent: ${datum.continent}</div><br />`
         + `<div>${printList("Location", datum.location)}</div><br />`;
       if (datum.minLevel === datum.maxLevel) {
@@ -200,7 +208,7 @@ function renderRow(datum) {
       rowString += `<div class="card card-body">`
         + `<div>${printList("Species", datum.species)}</div><br />`
         + `<div>Appendage: ${datum.appendage === "All" ? "Main Body" : datum.appendage}</div><br />`
-        + `<div>Recommended Source: <span data-name="${datum.enemy}" onclick="search(this.dataset.name)">${datum.enemy}</span></div>`;
+        + `<div>Recommended Source: <span data-name="${datum.enemy}" onclick="search(this.dataset.name)"><u>${datum.enemy}</u></span></div>`;
       break;
     }
     case AFFINITY_MISSION_TYPE: {
@@ -283,6 +291,17 @@ function renderRow(datum) {
         + `<div>${printList("Material", datum.materials)}</div>`;
       break;
     }
+    case HEART_TO_HEART_TYPE: {
+      rowString += `<div class="card card-body">`
+        + `<div>District: ${datum.zone}</div><br />`
+        + `<div>Location: ${datum.area}</div><br />`
+        + `<div>Time: ${datum.time}</div>`;
+      if (datum.prereq.length > 0) {
+        rowString += `<br /><div>${printList("Prerequisite", datum.prereq)}</div>`;
+      }
+      rowString += `<div>${printList("Choice", datum.choices)}</div>`;
+      break;
+    }
   }
   rowString += "</div>";
   return rowString;
@@ -299,10 +318,10 @@ function printList(label, list) {
     if (isNaN(numCheck[0]) && isNaN(list[i][0])) {
       switch (label) {
         case "Species":
-          returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
+          returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)"><u>${list[i]}</u></span>`;
           break;
         case "Prerequisite":
-          returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)">${list[i]}</span>`;
+          returnString += `<span data-name="${list[i]}" onclick="search(this.dataset.name)"><u>${list[i]}</u></span>`;
           break;
         default:
           returnString += list[i];
@@ -313,7 +332,7 @@ function printList(label, list) {
       for (let j = 1; j < numCheck.length; j++) {
         rebuildMaterial += `${numCheck[j]} `;
       }
-      returnString += `<span data-name="${rebuildMaterial.trim()}" onclick="search(this.dataset.name)">${list[i]}</span>`; 
+      returnString += `<span data-name="${rebuildMaterial.trim()}" onclick="search(this.dataset.name)"><u>${list[i]}</u></span>`; 
     } else {
       const site = list[i].slice(0, 3);
       returnString += `<a href="${FN_MAP_URL}${site}" target="_blank">${list[i]}</a>`;
@@ -328,7 +347,7 @@ function printList(label, list) {
 function printMaterialSourcePairs(materials, sources) {
   let returnString = "<p>Drops:<br />";
   for (let i = 0; i < materials.length; i++) {
-    returnString += `- <span data-name="${materials[i]}" onclick="search(this.dataset.name)">${materials[i]}</span> from `;
+    returnString += `- <span data-name="${materials[i]}" onclick="search(this.dataset.name)"><u>${materials[i]}</u></span> from `;
     if (sources[i] === "All") {
       returnString += "Main Body";
     } else {

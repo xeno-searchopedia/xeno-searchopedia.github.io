@@ -22,6 +22,10 @@ const WIKI_URL = "https://www.xenoserieswiki.org/wiki/";
 
 const FEEDBACK_FORM_URL = "https://form.jotform.com/250710695236154";
 
+const CLEAR_BUTTON_1 = "Clear Local Storage";
+const CLEAR_BUTTON_2 = "Are you sure?";
+const CLEAR_BUTTON_3 = "Cleared!";
+
 let siteData = [];
 let pinnedData = [];
 
@@ -56,13 +60,15 @@ function loadPinData() {
   const storedPins = JSON.parse(localStorage.getItem("pins"));
   if (storedPins !== null && storedPins !== undefined) {
     pinnedData = storedPins;
-    renderPinnedList();
+  } else {
+    pinnedData = [];
   }
+  renderPinnedList();
 }
 
 function loadAboutTab() {
   document.getElementById("about-tab-pane").innerHTML = `
-    <h3 style="text-align: center"><a href="${FEEDBACK_FORM_URL}" target="_blank">Leave feedback or bug reports here!</a></h3>
+    <h3 class="center"><a href="${FEEDBACK_FORM_URL}" target="_blank">Leave feedback or bug reports here!</a></h3>
     <br /><br />
     <h3>How to use:</h3>
     <ul>
@@ -85,6 +91,7 @@ function loadAboutTab() {
       <li>Add Xenoblade Chronicles X: Definitive Edition data</li>
     </ul>
     <br />
+    <button id="clear" type="button" class="btn btn-danger" onclick="clearLocalStorage(this)">${CLEAR_BUTTON_1}</button>
     <hr>
     <br /><br />
     The Xenoblade Chronicles X Searchopedia site was conceptualized after I completed a grueling 100% run of Xenoblade Chronicles X on the Wii U in 2022. While I loved the experience and the game, keeping track of all the things I needed to grind in order to beat the hardest fights in the game was quite a pain. This frustration mostly came from having to go back and forth through a handful of sources to research enemies and materials. The goal of this website is to be a (mostly) one-stop shop to get the main information needed for those grinds, while also supplying FrontierNav and wiki links for further, deeper information. At the very least, even if these links are necessary, at least users should be able to just come to this site, quickly search for what they need, and move on to a source that is more helpful for them. Additionally, I hope to keep open communication with the community so that requests and ideas can be integrated into the site without having to worry about navigating and modifying these other heavily-structured resources. The website is built with simple HTML, CSS, and Javascript and utilizes the flexibilty of JSON objects and arrays to easily modify and structure data.<br />
@@ -191,6 +198,14 @@ function renderRow(datum) {
         rowString += `<div>Level Range: ${datum.minLevel}-${datum.maxLevel}</div>`;
       }
       rowString += `<br /><div>${printMaterialSourcePairs(datum.materials, datum.droppedSource, datum.appendages, datum.hardness)}</div>`;
+      if (datum.res === undefined) {
+        console.log(datum.name);
+      }
+
+      const res = datum.res.split("/");
+      rowString += `Resistances:`
+      rowString += `<br /><div class="res"><span>Phys: ${res[0]}%</span><span>Beam: ${res[1]}%</span><span>Eth: ${res[2]}%</span></div>`;
+      rowString += `<br /><div class="res"><span>Therm: ${res[3]}%</span><span>Elec: ${res[4]}%</span><span>Grav: ${res[5]}%</span></div>`;
       break;
     }
     case COLLECTIBLE_TYPE: {
@@ -522,3 +537,14 @@ function search(input) {
 // function filter() {
 
 // }
+
+function clearLocalStorage(btn) {
+  if (btn.innerText === CLEAR_BUTTON_1) {
+    btn.innerText = CLEAR_BUTTON_2;
+  } else if (btn.innerText === CLEAR_BUTTON_2) {
+    localStorage.clear();
+    loadPage();
+    alert(CLEAR_BUTTON_3);
+    btn.innerText = CLEAR_BUTTON_1;
+  }
+}

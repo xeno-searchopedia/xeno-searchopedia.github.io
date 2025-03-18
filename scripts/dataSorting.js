@@ -195,6 +195,7 @@ async function bestiaryDataSorting() {
         location: locations,
         minLevel: levels[0],
         maxLevel: levels[1],
+        res: rowArray[14],
         weaponBrand: trimString(weaponDrops[0]),
         weaponWeight: trimString(weaponDrops[1]),
         isTyrant: trimString(rowArray[rowArray.length - 1]) === "Y",

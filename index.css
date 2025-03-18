@@ -10,3 +10,12 @@
   -ms-user-select: none;
   user-select: none;
 }
+
+.res {
+  display: flex;
+  justify-content: space-between;
+}
+
+.center {
+  text-align: center;
+}

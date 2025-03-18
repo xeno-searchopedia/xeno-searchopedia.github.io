@@ -96,6 +96,8 @@ async function sheetsDataSorting() {
       species: '',
       materials: [],
       droppedSource: [],
+      appendages: [],
+      hardness: [],
     };
     const loadedData = (await loadData(`${enemyDataPath}${file}`)).toString();
 
@@ -105,6 +107,15 @@ async function sheetsDataSorting() {
     for (let i = 0; i < enemyInfoRows.length; i++) {
       let enemyInfoRow = enemyInfoRows[i];
       let enemyInfoElements = enemyInfoRow.split('\t');
+
+      if (enemyInfoElements[0] === "Appendages") {
+        for (let j = 2; j < enemyInfoElements.length; j++) {
+          let hardnessElements = enemyInfoRows[i + 1].split('\t');
+          if (enemyInfoElements[j] === '\t' || enemyInfoElements[j] === '\r' || enemyInfoElements[j].length === 0) break;
+          enemyData.appendages.push(trimString(enemyInfoElements[j]));
+          enemyData.hardness.push(trimString(hardnessElements[j]));
+        }
+      }
 
       if (enemyInfoElements[0] === "Materials") {
         for (let j = 1; j < enemyInfoElements.length; j++) {
@@ -119,8 +130,6 @@ async function sheetsDataSorting() {
           enemyData.droppedSource.push(trimString(enemyInfoElements[j]));
         }
       }
-
-      // TODO: Add Appendages and Skell Targetable?
     }
 
     sheetsData.push(enemyData);

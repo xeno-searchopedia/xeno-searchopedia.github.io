@@ -33,14 +33,14 @@ Debuff	Physical Res Down 	Flinch II & Fatigue 			Launch III & Destroys Self
 Disabled by Destroying -		Head Feathers						Vegetal, the Heatcrux
 Homing								
 								
-Appendages	Main Body	Head (First Pair of Feathers)	Head (Second Pair of Feathers)					
+Appendages	Main Body	Head (First)	Head (Second)					
 Hardness	N/A	0	0					
 Skell Targetable	Yes	Yes	Yes					
 Exposed by -			Breaking First Pair of Feathers					
 								
 Species Drops								
 Materials	Scratched Jewel	Shimmering Silk	Azure Sacrifole Feather	Silver Sacrifole Feather	Crimson Sacrifole Feather	Spicy Sacrifole Pollen	Diamond Seed	
-Dropped From -	All	All	Head (Both)	Head (Both)	Head (Both)	Head (Second Pair of Feathers)	All	
+Dropped From -	All	All	Head (First)	Head (First)	Head (First)	Head (Second)	All	
 								
 Use in Augments	Ranged Accuracy Boost	Overdrive: Recover HP (Low Level)	Overdrive.APPEND-HP*	Jamming	Melee: TP Gain Up	N/A	Reflect Damage Up (I)	
 	Boost.R-ACC	Overdrive.FRAME-HP (Low Level)			Custom.WP-M-GP		Reflect.DAMAGE-UP (I)	

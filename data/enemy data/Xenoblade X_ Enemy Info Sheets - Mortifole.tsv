@@ -37,14 +37,14 @@ Debuff	Physical Res Down 	Flinch II & Fatigue 			Launch III & Destroys Self
 Disabled by Destroying -	Head Feathers									
 Homing										
 										
-Appendages	Main Body	Head (First Pair of Feathers)	Head (Second Pair of Feathers)							
+Appendages	Main Body	Head (First)	Head (Second)						
 Hardness	N/A	0	0							
 Skell Targetable	Yes	Yes	Yes							
 Exposed by -			Breaking First Pair of Feathers							
 										
 Species Drops										
 Materials	Broken Antenna	Fluffy Tuft	Golden Mortifole Feather	Green Mortifole Feather	Red Mortifole Feather	White Mortifole Feather	Mortifole Pollen	Shiny Mortifole Seed		
-Dropped From -	All	All	Head (Both)	Head (Both)	Head (Both)	Head (Both)	Head (Second Pair of Feathers)	All		
+Dropped From -	All	All	Head (First)	Head (First)	Head (First)	Head (First)	Head (Second)	All		
 										
 Use in Augments	Art Draw Surge (I-X)	Terrain Damage Reducer*	N/A	Focused Evasion	Overdrive: Gain TP (Low Level)	Arts: Gain TP	Aura Surge	EXP Boost (Low Level)		
 						Arts.GP	Appendage Crusher			

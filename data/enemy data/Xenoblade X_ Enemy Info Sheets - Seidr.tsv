@@ -48,14 +48,14 @@ Debuff			Beam Res Down	Launch II				Stagger II & Fatigue		Knockback V	Blaze, Vs.
 Disabled by Destroying -				Either Leg	Back			Head		Either Shoulder Weapon	Either Shoulder Weapon	Either Shoulder Weapon				
 Homing		Yes	Yes		Yes					Yes	Yes	Yes				
 																
-Appendages	Main Body	Head	Waist	Back	Left Leg	Right Leg	Left Shoulder Weapon	Right Shoulder Weapon								
+Appendages	Main Body	Head	Torso	Back	Left Leg	Right Leg	Left Shoulder Weapon	Right Shoulder Weapon								
 Hardness	N/A	0	0	0	0	0	1	1								
 Skell Targetable	Yes	Yes	Yes	No	No	No	Yes	Yes								
 Exposed by -																
 																
 Species Drops																
-Materials	Upgraded Lens	Advanced Lens	Damask Metal	Orichalcum Metal	Amethyst Metal	Turquoise Metal	Advanced Crank	Genuine Chamber	Advanced Chamber	Seidr Control Device	Special Weapons					
-Dropped From -	All	All	Torso, Back	Torso, Back - Sharnaak's Seidr Only	Torso, Back - Badul's Seidr Only	Torso, Back - Ahama's Seidr Only	Legs	Shoulders	Shoulders	Head	Shoulder Weapons					
+Materials	Upgraded Lens	Advanced Lens	Damask Metal	Orichalcum Metal	Amethyst Metal	Turquoise Metal	Advanced Crank	Genuine Chamber	Advanced Chamber	Seidr Control Device			
+Dropped From -	All	All	Torso & Back	Torso & Back - Sharnaak's Seidr Only	Torso & Back - Badul's Seidr Only	Torso & Back - Ahama's Seidr Only	Legs	Shoulder Weapons	Legs	Head					
 																
 Use in Augments	N/A	Beam Attack Plus (High Level)	N/A	Overdrive Surge (High Level)	Aura Surge (High Level)	Art Draw Surge (High Level)	N/A	Ranged Draw Surge (High Level)	N/A	N/A	Type A - Back - R-Cannon					
 		AttributeDmg.BEAM (High Level)									Type B - Shoulder - M-Missile (GO)					

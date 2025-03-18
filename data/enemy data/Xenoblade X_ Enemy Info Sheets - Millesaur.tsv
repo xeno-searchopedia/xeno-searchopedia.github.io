@@ -39,14 +39,14 @@ Debuff	Stagger / Stagger III, Vs. Staggered Targets: Topple V	Launch on foot, St
 Disabled by Destroying -	Corresponding Foot	Tail	Either Forefoot	Head (Greedy Millesaur Only)			Head (Greedy Millesaur Only)					Back	Back		Back	Back
 Homing				Yes	Yes		Yes				Yes	Yes	Yes	Yes	Yes	Yes
 																
-Appendages	Main Body	Left Forefeet	Right Forefeet	Left Hindfoot	Right Hindfoot	Tail	Back	Neck	True Head							
+Appendages	Main Body	Left Forefoot	Right Forefoot	Left Hindfoot	Right Hindfoot	Tail	Back	Neck	True Head							
 Hardness	N/A	1	1	0	0	0	2	0	1							
 Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes							
 Exposed by -									Destroying Neck							
 																
 Species Drops																
 Materials	Rugged Skin	Obsidian Fragment	Tough Tendon	Obsidian Cluster	Thick Millesaur Hide	Millesaur Dung	Millesaur Larynx		Gradivus Only							
-Dropped From -	All	All	Legs	Back	Neck	Tail	True Head									
+Dropped From -	All	All	Forefoot & Hindfoot	Back	Neck	Tail	True Head									
 									Reflect.ADD-PHYS							
 Use in Augments	Debuff Suppressor (High Level)	N/A	N/A	N/A	Resistance Reducer (High Level)	Melee: Recover HP (High Level)	Aura Rapid Cooldown (High Level)		Reflect.ADD-THERM							
 						M-Auto.HP-RECOV (HIgh Level)										

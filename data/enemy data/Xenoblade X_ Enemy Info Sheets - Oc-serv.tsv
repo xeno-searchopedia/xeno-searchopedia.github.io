@@ -36,14 +36,14 @@ Debuff
 Disabled by Destroying -	Arms			Crest									
 Homing		Yes											
 													
-Appendages	Main Body	Left Arm	Right Arm	Left Armour	Right Armour	Tail	Crest						
+Appendages	Main Body	Left Arm	Right Arm	Left Armor	Right Armor	Tail	Crest						
 Hardness	N/A	1	1	0	0	1	1						
 Skell Targetable	Yes	No	No	Yes	Yes	No	No						
 Exposed by -							Destroying Both Pieces of Armor						
 													
 Species Drops													
 Materials	Standard Coil	Upgraded Coil	Elemental Fragment	Oc-serv Hand	Elemental Cluster	Oc-serv Northern Crest	Oc-serv Southern Crest	Oc-serv Western Crest	Oc-serv Eastern Crest				
-Dropped From -	All	All	Armour	Hand	Tail	Crest	Crest	Crest	Crest				
+Dropped From -	All	All	Armor	Arm	Tail	Crest	Crest	Crest	Crest				
 													
 Use in Augments	Fuel Efficiency Up (Low Level)	Melee: TP Gain Up	Ether Attack Plus (Low Level)	Critical Chance Up	Overdrive Count Up	Focused Evasion (Low Level)	Gravity Resistance Up (High Level)	Crush: Gain TP (Low Level)	Gravity Resistance Up (High Level)				
 		Custom.WP-M-GP	AttributeDMG.ETHER (Low Level)	CriticalUp	Overdrive.EXTEND		SpecUp.GRAV.RES (High Level)	Crush.GP (Low Level)	SpecUp.GRAV.RES (High Level)				

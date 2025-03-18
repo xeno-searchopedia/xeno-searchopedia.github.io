@@ -161,7 +161,7 @@ function renderCells(data, listId) {
         + `<div><a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">`
         + `<img src="/assets/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
       if (datum.isCompletable) {
-        contentStr += `Complete: <input type="checkbox" id="${id}-checked" data-name="${datum.name}" data-parent-id="${id}" onchange="checkboxToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
+        contentStr += `Done: <input type="checkbox" id="${id}-checked" data-name="${datum.name}" data-parent-id="${id}" onchange="checkboxToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
       }
       contentStr += `</div></div><div class="collapse text-dark" id="${id}">`;
       contentStr += renderRow(datum) + `</div></li>`;
@@ -190,7 +190,7 @@ function renderRow(datum) {
       } else {
         rowString += `<div>Level Range: ${datum.minLevel}-${datum.maxLevel}</div>`;
       }
-      rowString += `<br /><div>${printMaterialSourcePairs(datum.materials, datum.droppedSource)}</div>`;
+      rowString += `<br /><div>${printMaterialSourcePairs(datum.materials, datum.droppedSource, datum.appendages, datum.hardness)}</div>`;
       break;
     }
     case COLLECTIBLE_TYPE: {
@@ -344,18 +344,64 @@ function printList(label, list) {
   return returnString + "</span>";
 }
 
-function printMaterialSourcePairs(materials, sources) {
+function printMaterialSourcePairs(materials, sources, appendages, hardness) {
   let returnString = "<p>Drops:<br />";
   for (let i = 0; i < materials.length; i++) {
     returnString += `- <span data-name="${materials[i]}" onclick="search(this.dataset.name)"><u>${materials[i]}</u></span> from `;
     if (sources[i] === "All") {
       returnString += "Main Body";
-    } else {
-       returnString += `${sources[i]} Appendage`;
+    } else if (sources[i].includes("&")) {
+      let splitSource = sources[i].split("&");
+      for (let k = 0; k < splitSource.length; k++) {
+        const source = splitSource[k].trim();
+        let hardnessLevel;
+        let sourceCompare = source;
+        if (sourceCompare.includes("-")) {
+          sourceCompare = sourceCompare.split("-")[0].trim();
+        }
+        if (sourceCompare[sourceCompare.length - 1] === "s") {
+          sourceCompare = sourceCompare.slice(0, -1);
+        }
+        for (let j = 0; j < appendages.length; j++) {
+          if (appendages[j].includes(sourceCompare)) {
+            hardnessLevel = hardness[j];
+          }
+        }
+        returnString += `${source}`;
+        if (hardnessLevel !== undefined) {
+          returnString += ` (Hardness ${hardnessLevel})`;
+        }
+        if (k === splitSource.length - 1) {
+          if (!sources[i].includes("Awarded") && !sources[i].includes("Beaten")) {
+            returnString += ` Appendage`;
+          }
+        } else {
+          returnString += " & ";
+        }
+      }
+    } else {  
+      let hardnessLevel;
+      let sourceCompare = sources[i];
+      if (sourceCompare.includes("-")) {
+        sourceCompare = sourceCompare.split("-")[0].trim();
+      }
+      if (sourceCompare[sourceCompare.length - 1] === "s") {
+        sourceCompare = sourceCompare.slice(0, -1);
+      }
+      for (let j = 0; j < appendages.length; j++) {
+        if (appendages[j].includes(sourceCompare)) {
+          hardnessLevel = hardness[j];
+        }
+      }
+      returnString += `${sources[i]}`;
+      if (hardnessLevel !== undefined) {
+        returnString += ` (Hardness ${hardnessLevel})`;
+      }
+      if (!sources[i].includes("Awarded") && !sources[i].includes("Beaten")) {
+        returnString += ` Appendage`;
+      }
     }
-    if (sources[i].includes("&")) {
-      returnString += `s`;
-    }
+
     if (i !== materials.length - 1) {
       returnString += "<br />";
     }

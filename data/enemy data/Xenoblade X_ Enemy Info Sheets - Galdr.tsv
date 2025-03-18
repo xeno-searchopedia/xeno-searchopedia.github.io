@@ -53,14 +53,14 @@ Debuff		Thermal Res Down		Blaze	Slow Arts			Stagger II	Launch IV / II & Taunt	La
 Disabled by Destroying -	Either Arm	Either Shoulder Weapon	Either Shoulder Weapon			Either Shoulder Weapon	Either Arm	Either Arm Weapon	Either Arm Weapon	Either Arm Weapon	Either Arm Weapon							
 Homing	Yes	Yes	Yes	Yes	Yes	Yes		Yes		Yes	Yes							
 																		
-Appendages	Main Body	Head	Left Arm	Right Arm	Left Shoulder Weapon	Right Shoulder Weapon	Right Arm Weapon	Left Arm Weapon										
+Appendages	Main Body	Head	Left Arm	Right Arm	Left Shoulder	Right Shoulder	Right Arm Weapon	Left Arm Weapon										
 Hardness	N/A	0	0	0	1	1	1	1										
 Skell Targetable	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes										
 Exposed by -																		
 																		
 Species Drops																		
 Materials	All-Purpose Plug	Multi-Wire	Reinforced Plug	Galdr Head	O.X. Unit	R.B. Unit	T.P. Unit	S.P. Unit	E.M. Unit								
-Dropped From -	All	All	Arms	Head	Shoulders & Weapons	Shoulders & Weapons - Tyrant Only	Shoulders & Weapons - Tyrant Only	Shoulders & Weapons - Tyrant Only	Shoulders & Weapons							
+Dropped From -	All	All	Arms	Head	Shoulders & Weapons	Shoulders & Weapons	Shoulders & Weapons	Shoulders & Weapons	Shoulders & Weapons							
 																		
 Use in Augments	N/A	N/A	Electric Attack Plus (High Level)	Overdrive Green Bonus	Boosts Ranged Attack (High Level)	Ranged Accuarcy Drive (High Level)	Melee Accuracy Drive (High Level)	Max GP Drive (High Level)	Mas HP Drive (High Level)	Type A - Back - V-Beam								
 			AttributeDmg.ELEC (High Level)		SpecUp.R-ATK (High Level)					Type B - Back - T-Claw								

@@ -514,11 +514,11 @@ function search(input) {
     const li = ul.getElementsByTagName("li");
 
     for (let i = 0; i < li.length; i++) {
-      let a = li[i].getElementsByTagName("a")[0];
-      let species = li[i].getElementsByTagName("div")[4].dataset.species;
-      let category = li[i].getElementsByTagName("div")[4].dataset.category;
-      let mission = li[i].getElementsByTagName("div")[4].dataset.mission;
-      let isTyrant = li[i].getElementsByTagName("div")[4].dataset.isTyrant === "true";
+      const a = li[i].getElementsByTagName("a")[0];
+      const species = li[i].getElementsByTagName("div")[4].dataset.species;
+      const category = li[i].getElementsByTagName("div")[4].dataset.category;
+      const mission = li[i].getElementsByTagName("div")[4].dataset.mission;
+      const isTyrant = li[i].getElementsByTagName("div")[4].dataset.isTyrant === "true";
       txtValue = a.textContent || a.innerText;
       if (txtValue.toUpperCase().indexOf(input) > -1
         || (species !== undefined && species.toUpperCase().indexOf(input) > -1)
@@ -537,6 +537,8 @@ function search(input) {
 // function filter() {
 
 // }
+
+// Changed search text and add tagg search info to about
 
 function clearLocalStorage(btn) {
   if (btn.innerText === CLEAR_BUTTON_1) {

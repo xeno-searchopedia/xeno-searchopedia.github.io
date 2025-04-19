@@ -2,111 +2,127 @@ Heart-to-Hearts
 Heart-to-Hearts are unlocked after completing Chapter 3. Each heart-to-heart corresponds to an affinity level and must be triggered in order.								
 Affinity	Title	Location			Pre-requisites	Choices	Notes
 		Zone	Area	Time of day			
-Alexa								
+Alexa
 1	Hyper Railgun	Industrial District	Integrated Production Plant	Early Morning		Disdain +♥ or Inquire;Agree +♥ or Reassure	
 2	Dragon's Maw	Administrative District	Blade Tower	Morning		Interupt +♥ or Admire	
 3	Strike Launcher	Residential District	Deliverance Park	Anytime	Pet Dog	Interupt or Propose;Express Shock or Express Admiration +♥	Unavailable until Ch. 5
 4	Meteor Launcher	Commercial District	North Founders Street	Anytime		Inquire +♥ or Reassure;Support +♥ or Undermine	
 5	Pheonix Wings!	Administrative District	Hanger	Anytime	Rapid Misfire	Declare+♥, Conjecture, or Dismiss;Speculate +♥ or Divert	Unavailable until Ch. 11
-Bozé								
+Bozé
 1	Preacher Man	Commercial District	West Melville Street	Morning		Aggression or Discretion +♥;Refuse +♥ or Agree	
 2	Garbled Guardians	Residential District	Ishmael Hills	Evening	Pet Dog	Agree or Disagree +♥;Propose or Correct +♥	
 3	Mastering Self	Industrial District	Behind the Outfitters Test Hanger	Anytime		Approve or Disapprove +♥;Harrier, Curator +♥, or Mediator +♥	
 4	Renouncing Self	Residential District	Cathedral Bell Tower	Morning		Inquire or Chide +♥	
 5	Worldly Desire	Residential District	Ishmael Hills	Anytime	Boze's Ignorance	Pizza, Predjudice, or Festivals	Unavailable until Ch. 9
-Celica								
+Celica
 1	This Fair City	Industrial District	Outfitters Test Hanger	Afternoon		Deflect, Laud +♥, or Boast	
 2	Park Patrol	Residential District	Sports Complex	Morning		Speak of Images, Speak of History +♥, Speak of Facts	
 3	Spending Time	Commercial District	West Melville Street	Morning		Boutiques +♥, L's, Toys	Boutiques and Toys have additional Choices but neither impact affinity
 4	Cat in the Cradle	Industrial District	Integrated Production Plant	Anytime	Pet Cat	Wonder About Rock or Wonder about Cat +♥;Inquire +♥ or Brag	
 5	Far from Home	Industrial District	Outfitters Test Hanger	Nighttime		Inquire +♥ or Lament Affirm +♥ or Deny	
-Doug								
+Doug
 1	Facts and Feelings	Residential District	Ishmael Hills	Afternoon	Pet Dog	Inquire or Worry +♥;Comment +♥ or Inquire	Unavailable Until Ch. 5
 2	Caution and Conviction	Industrial District	Central Industrial District	Morning		Envy, Aid, or Admire	Additional Dialogue present if aid is chosen before "A Girl's Wings" Affinity Mission
 3	Discipline and Discovery	Residential District	Sports Complex	Daytime		Propose +♥ or Preach Tolerance +♥;Come to Watch, Come to Exercise, or Come to Cheer	
 4	Pastimes and Pride	Commercial District	Central Melville Stret	Anytime		Nod, Inquire, or Joke +♥;Sports Car, SUV +♥, or Bus	
 5	Love and Loss	Administrative District	West of Division Drive	Anytime	Chapter 12	Dispose, Keep, or Plunder	You regain the gear taken from you in chapter 9 following this Heart-to-Heart
-Elma								
+Elma
 1	The Techie	Industrial District	West Gate	Afternoon		Praise or Worry;Agree +♥ or Disagree +♥	
 2	Petting Zoo	Residential District	Water Purification Plant	Night	Pet Cat	Nod or Shake your Head;Cats, Dogs +♥, or Elma	Unavailable Until Ch. 5
 3	Driving Force	Commercial District	East of East Melville Street	Morning		Nod +♥ or Shake your Head;Show Off +♥ or Offer a Ride	
 4	Friendship Treatise	Ma-non Ship	Starboard	Evening		The Pizza, The Light, or The Friendship	
 5	Going Home	BLADE Barracks	Barracks Interior	Night		Agree +♥ or Disagree;Speculate +♥ or Inquire +♥	Dialogue Differs Post Chapter 12 if Inquire is chosen
-Frye								
+Frye
 1	Midnight Inspiration	Industrial District	Repenta Diner	Late Night		Beer +♥, Cocktail +♥, Wine, Vodka +♥, Sake +♥, Shrug	
 2	The Ostrich's Obsession	Administrative District	Hangar	Night		Approve +♥ or Tease;Rough or Flawless	
 3	Man's Best Friend	Residential District	Water Purification Plant	Anytime	Pet Cat;A Great Divide	Worry or Support	Unavailable until Ch. 7
 4	Drinking Buddies	Commercial District	East Melville Street	Anytime	A Challanger Approaches	Older +♥, Younger, Neither	Unavailable until Ch. 10
 5	Dulling the Pain	Industrial District	Integrated Production Plant	Anytime	Blitzkreig	Inquire or Confess;Suggest or Shrug	Unsure if this affinity mission is required, but as Frye mentions drinking with Phog I assume it is.
-Gwin								
+Gwin
 1	Conquering Fear	Administrative District	Hanger	Afternoon		Speculate or Encourage;Suggest +♥, Assist, or Lecture	
 2	Promises Made	Residential District	Sports Complex	Late Night		Nod or Shrug;Scold or Encourage +♥	
 3	Dreamweavers	Residential District	Water Purification Plant	Late Night		Inquire, Appreciate +♥, or Warn;Deflect +♥ or Decline	
 4	Canine Conversation	Residential District	Sports Complex	Anytime	Pet Dog	His Food or His Owner +♥	Unavailable until Ch. 5
-5	the Matchmaker	Commercial District	West Melville Street	Evening		Support or Propose;Meredith & Co +♥, Candid and Credible, or Ring	
-H.B.								
+5	The Matchmaker	Commercial District	West Melville Street	Evening		Support or Propose;Meredith & Co +♥, Candid and Credible, or Ring	
+H.B.
 1	A Prideful Man	Industrial District	Water Purification Plant	Morning		Inquire +♥ or Observe +♥;Concur, Object +♥, or Rebut	
 2	A Thoughtful Man	Industrial District	Integrated Production Plant	Early Morning		Inquire +♥ or Praise;Assure or Cooperate +♥	
 3	A Troubled Man	Residential District	Ishmael Hills	Anytime		Agree or Deny;Affirm +♥ or Deny (Agree Choice);Reconsider or Inform (Deny Choice)	Agree is the only option that impacts Affinity
 4	A Diligent Man	Industrial District	Outside Outfitters Hanger	Early Morning		Luck, Ability +♥, or Spirit;Be Evasive, Be Humble, Be Honest +♥	
 5	A Kindly Man	Residential District	Ishmael Hills	Anytime	Pet Dog	Grin +♥ or Taunt;Nod or Taunt	Unavailable until Ch. 5
-Hope								
+Hope
 1	The Flower Child	Residential District	Cathedral	Afternoon		Affirm +♥ or Deny;Praise Sincerely or Cunningly (Affirm Choice);Inquire or Request (Deny Choice)	
 2	Girl's Night Out	Commercial District	East Melville Street	Evening		Inquire or Apologize;Encourage +♥, Discourage, or Inquire	
 3	Giving it Away	Industrial District	Central Industrial District	Morning		Support +♥ or Inquire;Praise +♥, Convince, or Lecture	
 4	Culture Shocks	Residential District	Sports Complex	Anytime	Pet Dog	Praise or Tease;Movie Theatres +♥, Zoo +♥, or Night Life	Unavailable until Ch. 5
 5	Day by Day	Commercial District	East Melville Street	Anytime	A False Hope;Prone Sweet Prone;BFFs;Escape from the Esconced Citadel	Inquire +♥, Advise, or Invite	Unavailable until Ch. 6
-Irina								
+Irina
 1	Maneater	Industrial District	Central Industrial District	Night		Listen +♥ or Escape (Male);Admire +♥ or Insult +♥ (Male);Agree +♥ or Observe +♥ (Female);Agree +♥ or Disagree +♥ (Female);Agree or Object (Female)	The Final two choices for the Female varient of this Heart to Heart only appear if Agree is selected during the second prompt
 2	Dogged Obsession	Residentisal District	Water Purification Plant	Evening	Pet Dog	Appologize or Scold;Aggresiveness, Calmness, or Bribery +♥	Unavailable until Ch. 5
 3	This Is My Rifle	Administrative District	Hangar	Morning		Shrug or Boast;Affirm or Deny	
 4	Charging In	Industrial District	Outfitters Test Hanger	Anytime		Criticize or Encourage;Agree +♥, Disagree, or Warn	
 5	Boggled by the Goggles	Commercial District	North Founders Street	Anytime		Inquire, Propose +♥, or Implore	
-L								
+L
 1	Business Acumen	Commercial District	East Melville Street	Afternoon		Suggest or Admire +♥	
 2	Wordplay	Ma-non Ship	Deck	Night		Play or Decline Game;BLADE +♥, or Whale;Theorize +♥ or Observe +♥	Unavailable until Ch. 5
 3	Kitty Chow	Residential District	Cathedral	Anytime	Pet Cat	Intervine or Explain;Evade or Admit +♥	
 4	Salsa Salva	Commercial District	North Founders Street	Anytime		Envy, Worry, or Advise +♥	
 5	Workout Warrior	Residential District	Deliverance Park	Early Morning		Inquire or Implore +♥;Endorse or Refuse	
-Lao								
+Lao
 1	Every Dog Has Its Day	Residential District	Deliverance Park	Early Morning	Pet Dog	Inquire +♥ or Apologize;Agree or Disagree	Unavailable until Ch. 5
 2	Training Troubles	Industrial District	Outfitters Test Hanger	Night	A Friend in Need	Strictly or Supportively	
 3	The Fan Club	Ma-non Ship	Starboard	Anytime		Flee, Play Along, or Appeal;Positive, Neutral, or Negative +♥	
 4	Teamwork	Residential District	Water Purification Plant	Morning		Propose or Inquire;Refute or Reaffirm +♥	
 5	The Winds of Change	Administrative District	BLADE Tower	Anytime	Chapter 6	Agree or Disagree +♥;Decline +♥ or Comply	
-Lin								
+Lin
 1	Flight Time	Industrial District	Outfitters Test Hanger	Night		Sympathize +♥ or Worry;Praise +♥ or Correct;Accept +♥ or Decline	
 2	Old Dogs and New Tricks	Commercial District	West Melville Street	Afternoon	Pet Dog	Nod +♥ or Gripe;Shake +♥, Flips +♥, Lin +♥	Unavailable until Ch. 5
 3	The Popular Girl	Administrative District	Division Drive	Afternoon		Suggest +♥, Participate +♥, or Intervine;Suggest or Disagree +♥	
 4	Dinner Discussion	Commercial District	Barista Court	Evening		Offer, Invite, or Propose;Sashimi, Barbacue, Creme Brulee +♥ Cupcakes +♥, Omelets (Offer Choice)	Second group of choices only available if "Offer" is selected as the first option.
 5	Passions	Residential District	Deliverance Park	Morning	A Girl's Wings	Encorage +♥ or Accompany +♥;Suggest +♥ or Defend +♥	Unavailable until Ch. 10
-Mia								
+Mia
 1	The Client	Residential District	Ishmael Hills	Late Night		Inquire or Invite +♥;Worry, Lie, or Assist +♥	
 2	Suspicious Minds	Comercial District	West Melville Street	Late Night		Chastise or Deny;Inquire Calmly or Act Boldly	
 3	A Complicated Plan	Industrial District	Outfitters Test Hanger	Late Night		Interrogate or Worry;Praise +♥, Tease, or Bluff	
 4	Animal Shelter	Comercial District	West Melville Street	Anytime	Pet Cat	Cat +♥, Dog, or Nopon	
 5	Parenting	Residential District	Sports Complex	Anytime	Mia Grows Up	Encourage or Inquire	Unavailable until Ch. 12
-Murderess								
+Murderess
 1	Tea for Two	Residential District	Deliverance Park	Afternoon		Request or Inquire +♥;Inquire +♥, Doubt, or Appeal	
 2	Fight Scrubs	Comercial District	Central Melville Street	Night		Reproach +♥ or Propose;Believe, Demand, Suspect +♥;Accept or Disagree	Second set of Options available during Reproach Path, and Third set available during Propose Path
 3	Greed is Great	Industrial District	Integrated Production Plant	Night	The Little Rich Girl	Deny or Assume +♥;Inquire +♥ or Advise	Unavailable until Ch. 10
 4	The Manservant	Residential District	Deliverance Park	Anytime	Pet Cat	Affirm +♥ or Disagree;Inquire +♥ or Offer	
 5	Estate Sale	Residential District	Ishmael Hills	Anytime		Inquire or Snicker;Assist or Propose	
-Nagi								
+Nagi
 1	The Choice	Administrative District	Mim Maintenance Center	Afternoon		Deliver Immediately +♥, abort the Mission, or Propose Plan C	
 2	Shop Talk	Industrial District	Outfitters Test Hanger	Morning		Ranged Weapons or Melee Weapons +♥;More Variety +♥, Better Prices, Custom Gear	
 3	Urban Planning	Commercial District	North Founders Street	Morning		Praise, Observe +♥, or Question	
 4	Old Soldiers	BLADE Barracks	Barracks Interior	Anytime		Wildlife Assaults +♥, Trailblazing Missions, Recovery Missions, R&D Missions, Investigate Missions, or Peacekeeping Missions	
 5	The Get-Together	Residential District	Ishmael Hills	Afternoon		Guess Fundraiser +♥, Guess Reunion, or Guess Birthday;Shake Head or Nod	
-Phog								
+Phog
 1	The Ol' Fishing Hole	Residential District	Deliverance Park	Afternoon		Inquire +♥ or Spectate;Encourage or Discourage +♥	
 2	Animal Lover	Residential District	Ishmael Park	Anytime	Pet Cat	Inquire Generally or Inquire Specifically;Speculate or Encourage	Unavailable until Ch. 5
 3	Ant Misbehavin'	Residential District	Sports Complex	Anytime		Inquire or Speculate +♥;Boast +♥ or Agree	
 4	Mustarding Courage	Commercial District	Barista Court	Anytime	A Great Divide	Treat or Suggest;Probe +♥ or Agree +♥	Unavailable until Ch. 7
 5	Amends for a Brother	Residential District	Water Purification Plant	Anytime	Blitzkrieg	Guess or Boast;Special Booze or Raging Party	Unavailable until Ch. 8
-Yelv								
+Yelv
 1	Off Duty	Commercial District	Barista Court	Late Night		Working +♥, Slacking, or Dating;Invite +♥ or Advise	
 2	Peacekeeping	Commercial District	East Melville Street	Late Night		Sympathize or Soothe;Defuse or Join In +♥	
 3	The Ladies Man	Commercial District	East Melville Street	Anytime		Inquire or Intervene;Intervene +♥ or Punch	Second set of choices only available during Inquire Path
 4	Introspection	Administrative District	Division Drive	Evening	Yelv's Partner	Empathize or Tease;Inquire or Probe +♥	Unavailable until Ch. 11
 5	Halcyon Days	Residential District	Deliverance Park	Anytime		Affirm, Deny, or Shrug	
+Neilnail
+1	Earthology	Administrative District	Division Drive	Anytime		Sci-fi +♥, Thriller +♥♥, or YA Novels +♥
+3	Getting Qlued In	Commercial District	Barista Court	Anytime		Inquire or Discuss +♥;Offer +♥ or Fuss +♥	
+5	Special Lecture	Administrative District	BLADE Concourse	Anytime	The Custodian's Duty	Play it Safe, Throw a Curveball, Advise Properly;Anthropology or Trivia
+Liesel
+1	Liesel's Suit	Industrial District	Central Industrial District	Anytime		Ingratiate +♥, Soothe, or Opine
+3	Liesel's Heart	Administrative District	BLADE Tower	Anytime		Confirm +♥, Correct +♥, Demur;Inquire +♥ or Pry +♥	
+5	Liesel's Words	Residential District	Deliverance Park	Anytime	Thinking Makes It So	Confirm or Deny;Suggest a Present, Suggest Prostration +♥, Suggest a Bear Hug
+Ga Jiarg
+1	Heart of the Warrior	Commercial District	North Founders Street	Anytime		Elma +♥, Nagi, or Tatsu;Challenge, Stay Cool, Flinch
+3	A Kitty's Tale	Commercial District	Water Purification Plant	Anytime		Disclose, Celebrate, or Confabulate
+5	Apex Predator	Oblivia	Wrothian Stronghold	Anytime		Speak for the Young, Support the Old, or Advise Restraint;Approve, Pledge Allegiance, or Advise
+Al
+1	A Hero's Melancholy	Residential District	Sports Complex	Anytime		Admonish or Worry;Suggest Cards, Invite to a Diner, Extol Joys of Labor
+3	A Hero's Pursuits	Industrial District	Repenta Diner	Anytime		Show Interest, Answer Truthfully, or Brag;Suggest an Alternative or Console	
+5	A Hero's Philosophy	Administrative District	Mimeosome Maintenance Center	Anytime	One Big Happy Family	Vote Mim or Vote Organic;Discuss or Inquire

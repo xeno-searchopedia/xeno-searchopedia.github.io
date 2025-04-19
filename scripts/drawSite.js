@@ -538,7 +538,7 @@ function search(input) {
 
 // }
 
-// Changed search text and add tagg search info to about
+// Changed search text and add tag search info to about
 
 function clearLocalStorage(btn) {
   if (btn.innerText === CLEAR_BUTTON_1) {

@@ -512,22 +512,33 @@ async function h2hSorting() {
   // Start at 4 to skip notes
   for (let i = 4; i < h2hInfo.length; i++) {
     const character = trimString(h2hInfo[i]);
-    for (let j = 0; j < 5; j++) {
-      const rowArray = h2hInfo[i + j + 1].split('\t');
-      h2hData.push({
-        name: rowArray[1],
-        type: HEART_TO_HEART_TYPE,
-        character: character,
-        number: rowArray[0],
-        zone: rowArray[2],
-        area: rowArray[3],
-        time: rowArray[4],
-        prereq: rowArray[5].length !== 0 ? rowArray[5].split(';') : [],
-        choices: rowArray[6].length !== 0 ? rowArray[6].split(';') : [],
-        isCompletable: true,
-      });
+    let j = 0;
+    while (true) {
+      j++;
+
+      if (h2hInfo[i + j] === undefined) {
+        break;
+      }
+
+      const rowArray = h2hInfo[i + j].split('\t');
+      if (rowArray.length === 1) {
+        break;
+      } else {
+        h2hData.push({
+          name: rowArray[1],
+          type: HEART_TO_HEART_TYPE,
+          character: character,
+          number: rowArray[0],
+          zone: rowArray[2],
+          area: rowArray[3],
+          time: rowArray[4],
+          prereq: rowArray[5].length !== 0 ? rowArray[5].split(';') : [],
+          choices: rowArray[6].length !== 0 ? rowArray[6].split(';') : [],
+          isCompletable: true,
+        });
+      }
     }
-    i += 5;
+    i += j - 1;
   }
 
   return h2hData;

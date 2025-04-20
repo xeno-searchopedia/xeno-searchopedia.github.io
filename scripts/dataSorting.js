@@ -561,10 +561,18 @@ async function buildArrayDatabase() {
 
   for (let i = 0; i < bestiaryData.length; i++) {
     const bestiaryDatum = bestiaryData[i];
-    mergedEnemyData.push({
-      ...bestiaryDatum, 
-      ...(sheetsData.find((itmInner) => itmInner.species === bestiaryDatum.species))}
-    );
+    if (bestiaryDatum.species === "Ghost") {
+      console.log(bestiaryDatum);
+      mergedEnemyData.push({
+        ...bestiaryDatum,
+        materials: []
+      })
+    } else {
+      mergedEnemyData.push({
+        ...bestiaryDatum,
+        ...(sheetsData.find((itmInner) => itmInner.species === bestiaryDatum.species))}
+      );
+    }
   }
 
   const materialsData = await materialsDataSorting(mergedEnemyData);

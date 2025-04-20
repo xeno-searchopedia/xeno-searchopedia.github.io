@@ -35487,7 +35487,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": false,
-    "isCompletable": false
+    "isCompletable": false,
+    "materials": []
   },
   {
     "name": "Ghost Palerider",
@@ -35502,7 +35503,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": false,
-    "isCompletable": false
+    "isCompletable": false,
+    "materials": []
   },
   {
     "name": "Ghost Megatherion",
@@ -35517,7 +35519,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": false,
-    "isCompletable": false
+    "isCompletable": false,
+    "materials": []
   },
   {
     "name": "Ghost Acolyte",
@@ -35532,7 +35535,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": false,
-    "isCompletable": false
+    "isCompletable": false,
+    "materials": []
   },
   {
     "name": "Ghost Crusader",
@@ -35547,7 +35551,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": false,
-    "isCompletable": false
+    "isCompletable": false,
+    "materials": []
   },
   {
     "name": "Ghost Cathedral",
@@ -35562,7 +35567,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": false,
-    "isCompletable": false
+    "isCompletable": false,
+    "materials": []
   },
   {
     "name": "Glossolalia, the Allochthon",
@@ -35577,7 +35583,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": true,
-    "isCompletable": true
+    "isCompletable": true,
+    "materials": []
   },
   {
     "name": "Apocalypsis, the Sacrificant",
@@ -35592,7 +35599,8 @@
     "weaponBrand": "",
     "weaponWeight": "",
     "isTyrant": true,
-    "isCompletable": true
+    "isCompletable": true,
+    "materials": []
   },
   {
     "name": "Yowaghuz, the Centenarian",

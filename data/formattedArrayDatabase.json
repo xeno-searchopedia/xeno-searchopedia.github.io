@@ -5835,7 +5835,7 @@
   {
     "name": "Elvira, the Talondrake",
     "type": "Enemy",
-    "species": "Colubrium",
+    "species": "Colubrim",
     "category": "Piscinoid",
     "continent": "Primordia",
     "location": ["Flies (Nighttime)"],
@@ -5845,7 +5845,27 @@
     "weaponBrand": "OR",
     "weaponWeight": "H",
     "isTyrant": true,
-    "isCompletable": true
+    "isCompletable": true,
+    "materials": [
+      "Pristine Whiskers",
+      "Quality Scale",
+      "Colubrim Eel Kebab",
+      "Black Colubrim Tail",
+      "Brown Colubrim Tail",
+      "Reverse Colubrim Fin"
+    ],
+    "droppedSource": ["All", "All", "Head, Tentacles", "Tail", "Tail", "Horn"],
+    "appendages": [
+      "Head",
+      "Tail",
+      "Left Foretentacle",
+      "Right Foretentacle",
+      "Left Reartentacle",
+      "Right RearTentacle",
+      "Inverse Fin",
+      "Weak Point"
+    ],
+    "hardness": ["1", "2", "0", "0", "0", "0", "3", "-3"]
   },
   {
     "name": "Bravo Unafulge",
@@ -20234,7 +20254,7 @@
     "hardness": ["1", "1", "0", "0", "2", "1", "-1", "2"]
   },
   {
-    "name": "Frenzy Coronid",
+    "name": "Frenzied Coronid",
     "type": "Enemy",
     "species": "Coronid",
     "category": "Theroid",
@@ -31122,7 +31142,7 @@
   {
     "name": "Vortice, the Deific Blast",
     "type": "Enemy",
-    "species": "Colubrium",
+    "species": "Colubrim",
     "category": "Piscinoid",
     "continent": "Cauldros",
     "location": ["M'gandopeak (Brimstone Rain", "air)"],
@@ -31132,7 +31152,27 @@
     "weaponBrand": "OR",
     "weaponWeight": "H",
     "isTyrant": true,
-    "isCompletable": true
+    "isCompletable": true,
+    "materials": [
+      "Pristine Whiskers",
+      "Quality Scale",
+      "Colubrim Eel Kebab",
+      "Black Colubrim Tail",
+      "Brown Colubrim Tail",
+      "Reverse Colubrim Fin"
+    ],
+    "droppedSource": ["All", "All", "Head, Tentacles", "Tail", "Tail", "Horn"],
+    "appendages": [
+      "Head",
+      "Tail",
+      "Left Foretentacle",
+      "Right Foretentacle",
+      "Left Reartentacle",
+      "Right RearTentacle",
+      "Inverse Fin",
+      "Weak Point"
+    ],
+    "hardness": ["1", "2", "0", "0", "0", "0", "3", "-3"]
   },
   {
     "name": "Coast Visigel",
@@ -39643,6 +39683,42 @@
     "species": ["Balaena"],
     "appendage": "Tail",
     "enemy": "Rajidi, the Cumuliform"
+  },
+  {
+    "name": "Pristine Whiskers",
+    "type": "Material",
+    "species": ["Colubrim"],
+    "appendage": "All"
+  },
+  {
+    "name": "Quality Scale",
+    "type": "Material",
+    "species": ["Colubrim"],
+    "appendage": "All"
+  },
+  {
+    "name": "Colubrim Eel Kebab",
+    "type": "Material",
+    "species": ["Colubrim"],
+    "appendage": "Head, Tentacles"
+  },
+  {
+    "name": "Black Colubrim Tail",
+    "type": "Material",
+    "species": ["Colubrim"],
+    "appendage": "Tail"
+  },
+  {
+    "name": "Brown Colubrim Tail",
+    "type": "Material",
+    "species": ["Colubrim"],
+    "appendage": "Tail"
+  },
+  {
+    "name": "Reverse Colubrim Fin",
+    "type": "Material",
+    "species": ["Colubrim"],
+    "appendage": "Horn"
   },
   {
     "name": "Opaque Membrane",

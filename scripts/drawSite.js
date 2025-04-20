@@ -131,7 +131,7 @@ function loadEventHandlers() {
 function renderCells(data, listId) {
   let contentStr = `<ul id="${listId}" class="list-group">`;
   data.forEach((datum) => {
-    if (!(datum.type === ENEMY_TYPE && (datum.materials === undefined || datum.materials.length === 0))) {
+    if (!(datum.type === ENEMY_TYPE && (datum.materials === undefined))) {
       const filteredName = `${datum.name.replace(/\s/g, "").replace(/'/g, "").replace(/,/g, "").replace(/-/g, "")}${datum.type === BASIC_MISSION_TYPE && datum.isTyrant ? "Mission" : ""}`;
       const id = `${filteredName}${listId === "pinList" ? "-clone" : ""}`;
       let urlFragment = "";

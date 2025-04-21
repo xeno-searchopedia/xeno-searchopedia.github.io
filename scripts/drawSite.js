@@ -230,7 +230,7 @@ function renderRow(datum) {
       rowString += `<div class="card card-body" data-mission=${datum.type}>`
         + `<div>Mission Type: ${datum.type}</div><br />`
         + `<div>Location: ${datum.location}</div><br />`
-        + `<div>${printList("Required", datum.requiredMembers)}</div>`;
+        + `<div>${printList("Required", datum.requiredMembers)} (Wii U Version Only)</div>`;
       if (datum.prohibitedMembers.length > 0) {
         rowString += `<br /><div>${printList("Prohibited", datum.prohibitedMembers)}</div>`;
       }

@@ -561,7 +561,7 @@ async function buildArrayDatabase() {
 
   for (let i = 0; i < bestiaryData.length; i++) {
     const bestiaryDatum = bestiaryData[i];
-    if (bestiaryDatum.species === "Ghost") {
+    if (bestiaryDatum.species === "Ghost" || bestiaryDatum.species === "Chimera") {
       console.log(bestiaryDatum);
       mergedEnemyData.push({
         ...bestiaryDatum,

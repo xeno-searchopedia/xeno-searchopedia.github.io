@@ -231,9 +231,9 @@ function renderRow(datum) {
       rowString += `<div class="card card-body" data-mission=${datum.type}>`
         + `<div>Mission Type: ${datum.type}</div><br />`
         + `<div>Location: ${datum.location}</div><br />`
-        + `<div>${printList("Required", datum.requiredMembers)} (Wii U Version Only)</div>`;
+        + `<div>${printList("Required Member", datum.requiredMembers)} (Wii U Version Only)</div>`;
       if (datum.prohibitedMembers.length > 0) {
-        rowString += `<br /><div>${printList("Prohibited", datum.prohibitedMembers)}</div>`;
+        rowString += `<br /><div>${printList("Prohibited Member", datum.prohibitedMembers)}</div>`;
       }
       if (datum.prereq.length > 0) {
         rowString += `<br /><div>${printList("Prerequisite", datum.prereq)}</div>`;

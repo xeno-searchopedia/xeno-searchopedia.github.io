@@ -13,8 +13,8 @@ const RESOURCE_TYPE = "Resource";
 const SKELL_FRAME_TYPE = "Frame";
 const SUPERWEAPON_TYPE = "Superweapon";
 
-const EMPTY_PIN_PATH = "/assets/icons/pin-angle.svg";
-const FILLED_PIN_PATH = "/assets/icons/pin-angle-fill.svg";
+const EMPTY_PIN_PATH = "/icons/pin-angle.svg";
+const FILLED_PIN_PATH = "/icons/pin-angle-fill.svg";
 
 const FN_MAP_URL = "https://frontiernav.net/wiki/xenoblade-chronicles-x/visualisations/maps/entities/site";
 const FORMATTED_ARRAY_DATABASE_URL = "./data/formattedArrayDatabase.json";
@@ -166,7 +166,7 @@ function renderCells(data, listId) {
         + `<div><a href="${WIKI_URL}${urlFragment}" target="_blank">${displayName}</a>`
         + `<a class="btn btn-white text-primary" href="#${id}" text-primary" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="${filteredName}">▼</a></div>`
         + `<div><a id="${filteredName}-pin" class="btn btn-white text-primary" text-primary" role="button" onclick="pinToggle(this)" data-pinned="${!!(localStorage.getItem(filteredName + "-pin"))}" data-name="${datum.name}">`
-        + `<img src="/assets/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
+        + `<img src="/icons/pin-angle${localStorage.getItem(filteredName + "-pin") ? "-fill" : ""}.svg" alt="Bootstrap"></a>`;
       if (datum.isCompletable) {
         contentStr += `Done: <input type="checkbox" id="${id}-checked" data-name="${datum.name}" data-parent-id="${id}" onchange="checkboxToggle(this)" ${localStorage.getItem(filteredName + "-checked") ? 'checked' : ''}>`
       }
@@ -197,6 +197,7 @@ function renderRow(datum) {
       } else {
         rowString += `<div>Level Range: ${datum.minLevel}-${datum.maxLevel}</div>`;
       }
+      console.log(datum)
       rowString += `<br /><div>${printMaterialSourcePairs(datum.materials, datum.droppedSource, datum.appendages, datum.hardness)}</div>`;
       if (datum.res === undefined) {
         console.log(datum.name);
